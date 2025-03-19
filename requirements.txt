@@ -1,5 +1,9 @@
-requests==2.31.0
-pdf2image==1.16.3
-anthropic
-tqdm==4.66.1
-pillow==10.2.0
+anthropic>=0.18.0
+pdf2image>=1.16.3
+tqdm>=4.66.1
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+regex>=2023.0.0
+Pillow>=10.0.0
+poppler-utils>=0.1.0

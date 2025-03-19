@@ -1,7 +1,11 @@
 {
   "nodes": [
     {
-      "id": "Cuba",
+      "id": "CIA",
+      "group": 1
+    },
+    {
+      "id": "Soviet",
       "group": 1
     },
     {
@@ -9,7 +13,7 @@
       "group": 1
     },
     {
-      "id": "CIA",
+      "id": "Cuba",
       "group": 1
     }
   ],
@@ -49,6 +53,42 @@
       "document": "104-10176-10006",
       "category": "CIA_FBI_ACTIVITIES",
       "description": "Secret document discussing revolutionary movement strategy, potentially related to Cuban operations"
+    },
+    {
+      "source": "CIA",
+      "target": "Soviet",
+      "type": "connected to",
+      "confidence": 7,
+      "document": "104-10332-10009",
+      "category": "CIA_INTERNAL_REVIEW",
+      "description": "CIA Review Board examining working files related to Yuriy Ivanovich Nosenko, a Soviet defector potentially connected to Kennedy assassination investigation"
+    },
+    {
+      "source": "Soviet",
+      "target": "CIA",
+      "type": "connected to",
+      "confidence": 7,
+      "document": "104-10332-10009",
+      "category": "CIA_INTERNAL_REVIEW",
+      "description": "CIA Review Board examining working files related to Yuriy Ivanovich Nosenko, a Soviet defector potentially connected to Kennedy assassination investigation"
+    },
+    {
+      "source": "CIA",
+      "target": "Soviet",
+      "type": "met with",
+      "confidence": 7,
+      "document": "104-10332-10009",
+      "category": "CIA_FBI_ACTIVITIES",
+      "description": "Document discusses CIA deliberations about releasing sensitive material related to Yuriy Nosenko, a Soviet defector"
+    },
+    {
+      "source": "Soviet",
+      "target": "CIA",
+      "type": "met with",
+      "confidence": 7,
+      "document": "104-10332-10009",
+      "category": "CIA_FBI_ACTIVITIES",
+      "description": "Document discusses CIA deliberations about releasing sensitive material related to Yuriy Nosenko, a Soviet defector"
     }
   ]
 }

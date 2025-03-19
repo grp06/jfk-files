@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "104-10092-10340",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Soviet intelligence connection mentioned with 'SOV FIRST SEC SERGEY SERGEYEVICH KONSTANTINOV'",
+        "direct_quote": "[SOV FIRST SEC SERGEY SERGEYEVICH KONSTANTINOV]",
+        "significance": "Suggests potential Soviet diplomatic/intelligence involvement or surveillance related to the case"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 5,
+        "description": "References to Mexican social circles and potential political associations",
+        "direct_quote": "[POESY] IS PROMINENT MEXICAN JOURNALIST OF EXTREME LEFT-IST ORIENTATION",
+        "significance": "Indicates potential connections between political activists and other networks"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "154-17",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document suggests cautious handling of subject (likely Oswald) with focus on political stance and future potential",
+        "direct_quote": "NEUTRALIZE HIS PRIVILEGE TRAVEL ITS., NOR JEOPARDIZE POSITION HIS",
+        "significance": "Indicates subject was being monitored and managed by intelligence agency, potentially suggesting prior operational relationship"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Suggests careful bureaucratic approach to subject's potential future activities",
+        "direct_quote": "ASKED WHETHER SHOULD CONTINUE (SEE SOUS WHO TENTATIVELY INVITED WITH PARTY NEAR FUTURE)",
+        "significance": "Implies ongoing discussion and surveillance of subject's movements and potential connections"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]
