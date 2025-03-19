@@ -1,0 +1,24 @@
+JFK ANALYSIS SUMMARY: 104-10185-10244
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+- Page 1: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Secret memorandum about establishing a covert site in Silver Spring, Maryland
+  QUOTE: "COVERT SITE G 32 24, Semi-Hills Apartments, 8500 16th Street, Silver Spring, Maryland"
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Classified inter-agency communication about procurement of safehouse
+  QUOTE: "Reference is made to your memorandum dated 19 May 1964 to the Chief, Safehouse Procurement Branch, Office of Logistics"
+

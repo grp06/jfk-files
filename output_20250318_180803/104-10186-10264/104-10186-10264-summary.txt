@@ -1,0 +1,43 @@
+JFK ANALYSIS SUMMARY: 104-10186-10264
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 2: Relevance 6/10
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Document about Osvaldo Relova, a Cuban Intelligence officer with potential indirect connection to Oswald
+  QUOTE: "A former Cuban IS officer who served with the Cuban Intelligence Service until April 1964"
+
+Page 2 (Confidence: 7/10)
+  Detailed information about Osvaldo RELOVA, a Cuban Embassy official connected to Oswald's activities
+  QUOTE: "Osvaldo RELOVA, First Secretary of the Cuban Embassy in Canada, left Kingston for Toronto on 21 October 1963, on TCA flight number 885."
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Cuban intelligence officer background information
+  QUOTE: "RELOVA, pseudonym 'Wilberto', is an officer of the Direccion General de Inteligencia (General Directorate of Intelligence - DGI) in Cuba"
+
+Page 2 (Confidence: 5/10)
+  Information about Cuban diplomatic personnel in Canada
+  QUOTE: "An official Canadian source reported that Osvaldo RELOVA, born on 13 August 1930, was not the First Secretary of the Cuban Embassy in Canada as previously reports stated."
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 8/10)
+  Detailed travel records for Osvaldo Relova
+  QUOTE: "An airline passenger manifest revealed that one Osvaldo RELOVA Pelicent, probably identical with the above Subject, left Mexico for Habana on 8 July 1963 and was the holder of Cuban passport number D/63/415"
+
+Page 2 (Confidence: 6/10)
+  Details of Osvaldo RELOVA's travel and diplomatic movements
+  QUOTE: "RELOVA was an administrator of a section of the Consolidated Hardware Stores and annexes. In late 1961 he went to see source to get help with an investigation on a Mr. BARRAL."
+

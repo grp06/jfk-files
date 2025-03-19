@@ -1,0 +1,731 @@
+[
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZATIONAL_CONTEXT",
+        "confidence": 3,
+        "description": "Document relates to a Vice President of Sales at Military Armament Corporation in Powder Springs, Georgia",
+        "direct_quote": "Subject is the Vice President of Sales at the following Corporation: A168762 - Military Armament Corporation, Powder Springs, Georgia",
+        "significance": "Minimal direct connection to JFK assassination, appears to be an administrative document with limited investigative value"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 9,
+        "description": "Initial review document for potential document release",
+        "direct_quote": "INITIAL REVIEW 1976",
+        "significance": "Shows ongoing review of assassination-related documents well after the event"
+      },
+      {
+        "category": "AGENCY_INVOLVEMENT",
+        "confidence": 7,
+        "description": "Document appears to be from Department of Defense (DOD) review process",
+        "direct_quote": "OCD (Signature/Reviewing Officer)",
+        "significance": "Indicates multiple agencies involved in document review and potential information control"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown (partially obscured)",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3,
+    "analysis_notes": "This appears to be a standard United States Government memorandum, but the text is largely unreadable or too blurry to definitively extract specific details. While it seems to be an official document, the image quality prevents a comprehensive analysis of the JFK assassination-related content requested. The document is marked as 'CONFIDENTIAL' and seems to be a multi-paragraph official communication, but specifics cannot be determined from this image."
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Appears to be a detailed government document with multiple paragraphs of dense text, potentially related to intelligence operations",
+        "direct_quote": "",
+        "significance": "Document suggests complex bureaucratic communication about potentially sensitive information"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 6,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "F-77-260",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CG-60-1 236,678",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document appears to reference travel or location details",
+        "direct_quote": "4766 Alton Road, Miami, Florida",
+        "significance": "Provides a potential address or location associated with the investigation"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_QUALITY",
+        "confidence": 8,
+        "description": "Photocopied historical document with visible marginalia and some degradation/shadowing on left side",
+        "direct_quote": "",
+        "significance": "Appears to be an original archival document from JFK assassination investigation era"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 11,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "F77-260",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 9,
+        "description": "Initial review form for classified document processing",
+        "direct_quote": "INITIAL REVIEW FORM",
+        "significance": "Provides insight into document classification and review process"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 8,
+        "description": "Unclassified document with potential privacy exemptions",
+        "direct_quote": "EXEMPTIONS ARE BEING CLAIMED TO PROTECT THE FOLLOWING:",
+        "significance": "Indicates sensitive information that agencies sought to protect"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CHARACTERISTICS",
+        "confidence": 8,
+        "description": "Appears to be an official government document with multiple sections and detailed text",
+        "direct_quote": "",
+        "significance": "Part of declassified JFK assassination documentation"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10176-10010",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "F-17-260",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Memorandum from CIA Field Office discussing operational details",
+        "direct_quote": "Memorandum to: Chief, Central Division; From: Chief, Field Field Office",
+        "significance": "Indicates internal communication about potentially sensitive operational matters"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "E37-260",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "IG-28-46",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "Document does not appear to relate to Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "This appears to be a confidential document about a person named Mazerferr at Military Armament Corporation, unrelated to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "A-168246",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about an individual named Rolando Magferrer Jr., not directly related to Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "Not directly relevant to Oswald investigation"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown from this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Subject scheduled for two-week business trip to Venezuela and Colombia in early August 1972",
+        "direct_quote": "Subject is scheduled to leave on a two-week business trip to Venezuela and Colombia beginning in early August 1972.",
+        "significance": "Indicates potential intelligence-related travel with planned meetings with Venezuelan national security officials"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document suggests subject's involvement with intelligence agency operations",
+        "direct_quote": "Subject would need sober briefings on the responsibility of any agency association as well as subsequent careful handling",
+        "significance": "Implies subject has sensitive operational connections requiring careful management"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "16 June 1972 document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not found on this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ALTERNATIVE_SUBJECT_PROFILE",
+        "confidence": 7,
+        "description": "Document about Rolando Masferrer Jr., a Cuban-American military/sales executive with potential exile connections",
+        "direct_quote": "Subject is not to be confused with his father the infamous Rolando Arcadio MASFERRER y Rojas (201-42669)",
+        "significance": "Provides background on a Cuban exile figure with potential indirect connections to assassination-era networks"
+      },
+      {
+        "category": "CUBAN_EXILE_OPERATIONS",
+        "confidence": 6,
+        "description": "Subject's father was involved in anti-Castro Cuban exile activities",
+        "direct_quote": "Was a former Cuban Senator and leader of a graded private army of Batista enforcers called 'Los Tigres(The Tigers)'",
+        "significance": "Demonstrates familial connections to anti-Castro militant networks active during the early 1960s"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Not identifiable from this page",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Secret document discussing potential contact and exploration of a 'reserve unit'",
+        "direct_quote": "If you are interested in exploring this possibility further, please feel free to contact me at any time. I could suggest cautions and method of contact or introduction.",
+        "significance": "Suggests covert communication strategy and potential operational planning"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "B-67-5-2",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "16-88-46",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Secret process sheet for domestic contact service collections related to intelligence gathering",
+        "direct_quote": "Process Sheet for Domestic Contact Service Collections",
+        "significance": "Suggests ongoing intelligence gathering operation involving Agency Ampicos in Colombia/Venezuela"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct references to Lee Harvey Oswald found",
+        "direct_quote": null,
+        "significance": "Document appears unrelated to Oswald specifically"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "00-A(5):322 2066-73",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-A(S)-32/2065-73",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to Colombian guerrillas and potential intelligence leak",
+        "direct_quote": "Montaferro became, according to him, any time the US Embassy people in Bogota were somewhat informed. Vern told Montaferro that he believed a leak had developed in the US Embassy and that the 'Embassy boys' could no longer be trusted.",
+        "significance": "Suggests potential intelligence vulnerability and communication concerns within US diplomatic circles"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "16-88-46",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Process sheet for possible false recruitment effort involving Rolando Maferrer",
+        "direct_quote": "Possible False Recruitment Effort",
+        "significance": "Suggests potential intelligence operation or recruitment attempt, but lacks direct connection to Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-A(5)-372/13864-73",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "UNRELATED_DOCUMENT",
+        "confidence": 9,
+        "description": "This is a CIA Domestic Contact Service document about a possible false recruitment effort related to Cuba/Haiti, dated 26 May 1973",
+        "direct_quote": "OPERATIONAL INFORMATION REPORT",
+        "significance": "This document is not related to the JFK assassination and does not contain relevant information for the requested analysis"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "16-88-96",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Confidential document discussing a military intelligence officer named Werbell",
+        "direct_quote": "Werbell is a former office of strategic services (OSS) officer known to this writer during his China during III.",
+        "significance": "Suggests potential intelligence community connections and background of individuals involved in Cold War era operations"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Mentions involvement with covert activities and international arms deals",
+        "direct_quote": "He is of dubious character and reputation who had and has been involved in grandiose schemes and international arms deals.",
+        "significance": "Hints at potential covert operational networks, though no direct Oswald connection is evident in this document"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "877-260",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 9,
+        "description": "Initial review document for document processing",
+        "direct_quote": "INITIAL REVIEW FORM",
+        "significance": "Shows official government document handling process for sensitive materials"
+      },
+      {
+        "category": "AGENCY_INVOLVEMENT",
+        "confidence": 7,
+        "description": "Document located by DCD (likely CIA/intelligence division)",
+        "direct_quote": "Document Located By: DCD",
+        "significance": "Indicates intelligence agency involvement in document review"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "116-XR-46",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "CIA internal memo discussing a potential source/lead related to Roland Manteuffel Jr.",
+        "direct_quote": "Rolando Manteuffel, Jr. - Possible Source Lead",
+        "significance": "Suggests ongoing intelligence investigation and information gathering"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Memo indicates potential intelligence interest in subject but no direct JFK assassination connection",
+        "direct_quote": "It appears that the Clandestine Service is not repeal not interested in subject's operational potential at this time.",
+        "significance": "Reveals internal agency communication and assessment of a potential intelligence target"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "F-17-260",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Initial Review Form for classified document processing",
+        "direct_quote": "",
+        "significance": "Standard administrative document for reviewing sensitive government materials"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "B-67-52",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "This document appears to be about Rolando Maferrer Jr., not Oswald"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Mention of source development for an individual",
+        "direct_quote": "Peterson believed, and we are inclined to agree, that Rolando Jr. may be a good candidate for source development.",
+        "significance": "Suggests potential intelligence recruitment or monitoring of an individual, though not directly related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "F77-260",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "6 July 1972 Memorandum",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Memo discusses intelligence gathering about an individual named Rolando Masferrer Jr. in Mexico",
+        "direct_quote": "I mentioned to Masferrer that my superiors (supposedly in the State Department) were interested that some responsible U.S. Government authority be informed of his story regarding U.S. citizen involvement and guerrilla training in Mexico.",
+        "significance": "Suggests potential covert intelligence activities and US government interest in guerrilla training operations in Mexico"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Mentions interactions with Mexican law enforcement and judicial officials",
+        "direct_quote": "Bravo told Masferrer of the insurrectionary problem in the Mexican states of Morelos and Guerrero",
+        "significance": "Indicates potential political instability and intelligence sharing between US and Mexican officials"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "23880",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document discusses Castaneda, a U.S. military-trained individual potentially connected to insurgent activities in Guatemala",
+        "direct_quote": "Castaneda mentioned to Mastorga, Jr., as growing insurgents in Peten area of Guatemala",
+        "significance": "Suggests potential connections to covert military training and insurgent networks that Oswald might have been peripherally involved with"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Reference to U.S. military training missions and potential involvement with insurgent groups",
+        "direct_quote": "New local guerrillas in Guatemala are protruding those U.S. trained, local military personnel with uncanny accuracy",
+        "significance": "Indicates complex relationships between U.S. military training, covert operations, and insurgent groups during this period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "23660",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Details of travel to Mexico in 1972, including meetings and interactions",
+        "direct_quote": "Subject traveled again to Mexico in March 1972 with Bernardo MASFERRER TORRES...",
+        "significance": "Provides insight into continued covert travel and potential intelligence connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Describes interactions with political and intelligence figures",
+        "direct_quote": "Made two trips to Mexico. During his first trip, close with Wilfrido Paredes Aragonez, generally associated with Lizano Systems",
+        "significance": "Suggests ongoing intelligence-related activities and network connections"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 5,
+        "description": "Mention of potential arms dealing and criminal activities",
+        "direct_quote": "Masferrer had invited Nasferrer to return to Mexico to go on a 'hunting party', that is, to participate in an actual counter-insurgency operation",
+        "significance": "Indicates possible connections to paramilitary or criminal networks"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown (bottom of page shows SECRET document)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document discusses an insurgent/prisoner situation involving Americans and potential guerrilla activities",
+        "direct_quote": "The prisoner eventually revoked the following information about Victor Foro Pazo, participating North American CIA-trained insurgents",
+        "significance": "Suggests potential covert CIA operations involving foreign insurgents"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "References to American prisoner involvement in various illegal activities",
+        "direct_quote": "In return, the Americans were told in money and drugs, mostly marijuana, but some cocaine",
+        "significance": "Indicates potential covert operational activities and illegal drug involvement"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not a JFK assassination document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "A-168846",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "This document is not about Oswald, but appears to be an assessment of a different individual named Rolando Masferrer Jr.",
+        "direct_quote": "Assessment of Recruitability - Rolando Masferrer Jr., Vice-President, Sales, Military Armament Corporation",
+        "significance": "Not directly related to JFK assassination or Lee Harvey Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Document discusses political activities and contacts in Latin America",
+        "direct_quote": "Subject seems to have inherited that particular Latin American penchant for involvent in covert political activities",
+        "significance": "Provides insight into CIA-type intelligence assessments of individuals with political connections"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (not clearly visible)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Subject scheduled for two-week business trip to Venezuela and Colombia in early August 1972",
+        "direct_quote": "Subject is scheduled to leave on a two-week business trip to Venezuela and Colombia beginning in early August 1972.",
+        "significance": "Provides insight into subject's (Jeffrey G. Peterson) international travel and potential operational activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document suggests subject has intelligence/security-related background",
+        "direct_quote": "Subject believes the U.S. voluntary military training reflects motives of learning 'special forces qualified' activities",
+        "significance": "Indicates potential connection to intelligence or military intelligence operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Mexican government's involvement with rebels and training",
+        "direct_quote": "Mexicans is having 'particulars' trained in part by U.S. adventurers who claimed to be ex-rangers, airborne Marine or Special Forces type",
+        "significance": "Suggests potential international context and military training connections"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Reference to travel and interaction with Mexican authorities",
+        "direct_quote": "Subject had a small firefight with the Mexican Army and Police special forces during judicial proceedings",
+        "significance": "Indicates potential international movement and encounters with law enforcement"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": null,
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "23886",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "E.17-260",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "F-16-88-46",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "16-84-46",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be a routine intelligence reporting form about a potential false recruitment effort involving Rolando Masferrer",
+        "direct_quote": "Our local colleagues here acted us to report this brief item in order to put it in the system",
+        "significance": "Minimal direct connection to Oswald, but suggests ongoing intelligence tracking of Cuban-related personalities"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-(05)292/12364-75",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "16-88-46",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Document appears to be a process server record related to Guillermo Valentin/Alfaro to Peter Morey Unit",
+        "direct_quote": "",
+        "significance": "Limited contextual information about potential connections"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 3,
+        "description": "Handwritten notes reference potential legal/authorization processes",
+        "direct_quote": "Maraguan shows to begin operation... auth... of FBI and Police",
+        "significance": "Suggests potential administrative tracking of movement or operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "F-16-88-44",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct references to Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "Document appears to be about an individual named Rolando Masferrer, unrelated to Oswald"
+      }
+    ],
+    "overall_page_relevance": 1
+  }
+]

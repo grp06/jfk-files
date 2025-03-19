@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "104-10048-10252",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "SECURITY_CLASSIFICATION",
+        "confidence": 10,
+        "description": "Confidential security information document related to intelligence gathering",
+        "direct_quote": "SECURITY INFORMATION - CONFIDENTIAL",
+        "significance": "Indicates sensitive intelligence report about international police activities"
+      },
+      {
+        "category": "SOURCE_INFORMATION",
+        "confidence": 8,
+        "description": "Intelligence report from local detective working with National Police",
+        "direct_quote": "The information in this report was obtained from a local detective who works for the National Police.",
+        "significance": "Suggests ongoing intelligence gathering about delegations and international police activities"
+      },
+      {
+        "category": "GEOGRAPHICAL_DISTRIBUTION",
+        "confidence": 7,
+        "description": "Distribution list includes multiple locations",
+        "direct_quote": "Distribution: Washington - 4, Havana - 1, Guatemala (City) - 1, Caracas - 1, Quito - 1, Maracaibo - 1, Guayaquil - 1, Piura - 2",
+        "significance": "Indicates wide international intelligence sharing across Latin American locations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Confidential report about delegations from Latin American countries (Venezuela, Guatemala, Cuba) at an international event in Berlin",
+        "direct_quote": "Source reports that an informant in Paris has submitted information on the Local Police concerning delegates at the World Festival Mundial de la Juventud held in Berlin in August and September 1952",
+        "significance": "Provides insight into international diplomatic movements and surveillance of Latin American delegations during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

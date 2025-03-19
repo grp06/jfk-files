@@ -1,0 +1,36 @@
+JFK ANALYSIS SUMMARY: 176-10036-10173
+================================================================================
+
+Document contains 3 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 6/10
+- Page 2: Relevance 5/10
+- Page 3: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Detailed communication about covert operations, potentially related to 1960 coup attempt
+  QUOTE: "We recognize heed to bear in mind generals' interpretation of U. S. role in 1960 coup attempt"
+
+Page 3 (Confidence: 7/10)
+  Detailed instructions for managing leadership during potential coup scenario
+  QUOTE: "If you have left and a coup occurs, we believe that emergency situation requires, pending your return, that direction of country team be vested in most senior officer with experience of military decisions"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 2 (Confidence: 6/10)
+  References to communications with agents in Saigon about political situation
+  QUOTE: "While you are in Saigon you will be chief of country team in all circumstances"
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 3 (Confidence: 6/10)
+  Strict communication and consultation protocols between key personnel
+  QUOTE: "all instruction to Conein to be conducted in immediate consultation with Harkins and Smith so that all three know what is said to Conein"
+

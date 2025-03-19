@@ -1,0 +1,46 @@
+JFK ANALYSIS SUMMARY: 104-10290-10309
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 2: Relevance 6/10
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 2 (Confidence: 5/10)
+  Reference to anti-Castro context and potential intelligence connection
+  QUOTE: "HIGH SUBJ KNOWN AS ANTI-CASTRO"
+
+
+ORGANIZED CRIME CONNECTIONS:
+----------------------------------------
+Page 1 (Confidence: 4/10)
+  Subject works in insurance, has anti-Castro sentiment
+  QUOTE: "ASSISTANT MANAGER SALES FOR MEXICO - STRONGLY ANTI-CASTRO"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Cuban individual with connections to Soviet submarine base construction and Che Guevara
+  QUOTE: "RECENTLY REPORTED BELIEF SOV CONSTRUCTING SUBMAR[INE] BASE IN CUBA, CAME TO MEXICO"
+
+Page 2 (Confidence: 6/10)
+  Subject connected to Cuban Communist leadership
+  QUOTE: "DIVORCED HMO HER OF EX-WIFE HAS RE-MARRIED TO JOAQUIN MIRABAL, COMMUNIST, FORMER 'CHIEF OF SECURITY SERVICE' HAVANA"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Subject planning to leave Cuba at end of year, appears dissatisfied
+  QUOTE: "SUBJ. PLANNING TO LEAVE CUBA AT END OF YEAR, DISILLUSIONED"
+
+Page 1 (Confidence: 6/10)
+  Subject traveled from Cuba to Mexico with interesting movement patterns
+  QUOTE: "CUBA ABOUT 1959 OR 1960 GOING FIRST TO BERMUDA, LATER TO MEXICO"
+

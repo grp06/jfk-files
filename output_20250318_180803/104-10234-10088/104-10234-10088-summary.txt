@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10234-10088
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Secret/classified communication between intelligence units
+  QUOTE: "MESSAGE FORM - SECRET"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Document references a jeweler who contracted at Miami Hotel in early fall of 1964
+  QUOTE: "Portela states Jeweler who Contracted am Miami Hotel Early Fall 64 Behalf AMLASH-1 and AMCHIN-1"
+

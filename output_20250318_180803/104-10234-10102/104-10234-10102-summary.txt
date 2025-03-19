@@ -1,0 +1,51 @@
+JFK ANALYSIS SUMMARY: 104-10234-10102
+================================================================================
+
+Document contains 3 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+- Page 2: Relevance 5/10
+- Page 5: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 5 (Confidence: 7/10)
+  References to a person named 'JORGE' who appears to work for or be connected to the Pentagon and intelligence activities
+  QUOTE: "SUB-SOURCE THAT BOTH CRIZCNCO AND ''JORGE'' WORK FOR THE PENTAGON AND ALSO MENTION CRIZCNCO'S VISITS ON 8 AND 11 JANUARY"
+
+Page 1 (Confidence: 3/10)
+  No direct mention of Oswald, but suggests complex intelligence network
+  QUOTE: "BOTH THE WIFE OF AMTRUNK-9 AND AMICE-14 HAVE IDENTIFIED 'JORGE' AND 'TORRES'"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Secret dispatch discussing operational memo about AMTRUNK-9 and AMICE-14 intelligence assets
+  QUOTE: "TRANSMITTAL DE COPY OF MEMO REGARDING AMTRUNK-9 INFIL WHICH ACTION RECORD PASSED TO ACS 19 JANUARY 1965"
+
+Page 2 (Confidence: 5/10)
+  Intelligence gathering about individual's planned activities
+  QUOTE: "CAS SOURCE ASKED MRS. OROZCO HOW MUCH MONEY OROZCO HAD LEFT BEHIND FOR HER SUPPORT"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 2 (Confidence: 6/10)
+  References to interactions with Cuba and potential infiltration activities
+  QUOTE: "PLANNED TO GO INTO NORTHEASTERN MATANZAS PROVINCE TO THE MARTI AREA"
+
+Page 5 (Confidence: 6/10)
+  Discusses activities and interactions involving Cuba and Mexican government connections
+  QUOTE: "MRS. OROZCO TOLD THIS SUB-SOURCE THAT SHE WAS GOING TO PUT PRESSURE UPON THEIR RESPECTIVE PENTAGON/GRIZONDO AND ''JORGE''"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Orozco discussing husband's travel plans and financial arrangements
+  QUOTE: "CAS SOURCE ASKED MRS. OROZCO INTO WHAT AREA DID HER HUSBAND INTEND TO INFILTRATE CUBA"
+

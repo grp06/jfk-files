@@ -1,0 +1,65 @@
+[
+  {
+    "document_id": "124-90124-10092",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 10,
+        "description": "FBI document related to Mitchell Livingston Werbell",
+        "direct_quote": "SUBJECTS: MITCHELL LIVINGSTON WERBELL",
+        "significance": "Unusual document in JFK assassination records mentioning a lesser-known name"
+      },
+      {
+        "category": "CLASSIFICATION_DETAILS",
+        "confidence": 8,
+        "description": "Classified as Secret document with restricted access",
+        "direct_quote": "CLASSIFICATION: Secret, RESTRICTIONS: 1B; 4",
+        "significance": "Indicates sensitive information potentially related to assassination investigation"
+      },
+      {
+        "category": "DOCUMENT_TIMELINE",
+        "confidence": 9,
+        "description": "Document dated July 16, 1965, with last review on September 12, 1998",
+        "direct_quote": "DATE: 07/16/1965, DATE OF LAST REVIEW: 09/12/1998",
+        "significance": "Shows ongoing review and potential significance of document decades after original creation"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "134-138562",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document about Antonio Hector Rivero Juarrero, a Cuban-born Dominican resident",
+        "direct_quote": "Information received from the local office of CIA... subject, born in Havana, Cuba; 52 years; height 5'11\"; weight 190 pounds",
+        "significance": "Provides contextual background on Cuban exile networks active in the early 1960s"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Immigration and travel details of Rivero Juarrero",
+        "direct_quote": "Entered the Dominican Republic at Santo Domingo on February 2, 1962, from Miami, Florida",
+        "significance": "Demonstrates mobility of Cuban exiles between Florida and Caribbean locations during this period"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50953, Docld:32335534",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct connection to Lee Harvey Oswald found",
+        "direct_quote": "",
+        "significance": "Document appears to be about Antonio Hector Rivero Juarrero, unrelated to Oswald"
+      }
+    ],
+    "overall_page_relevance": 1
+  }
+]

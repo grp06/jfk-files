@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10290-10055",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_METADATA",
+        "confidence": 8,
+        "description": "Classified message from Mexico City station dated 2 December 1963",
+        "direct_quote": "2 DECEMBER 1963",
+        "significance": "Timing indicates document created shortly after JFK assassination"
+      },
+      {
+        "category": "WITNESS_LOCATION",
+        "confidence": 6,
+        "description": "Reference to Grace Rogers with P.O. Box in Coral Gables, Florida",
+        "direct_quote": "GRACE ROGERS, P.O. BOX 1767, CORAL GABLES, FLORIDA",
+        "significance": "Potential witness or person of interest location identified"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

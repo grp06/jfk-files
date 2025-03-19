@@ -1,0 +1,525 @@
+JFK ANALYSIS SUMMARY: 198-10004-10076
+================================================================================
+
+Document contains 98 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 64: Relevance 8/10
+- Page 92: Relevance 8/10
+- Page 22: Relevance 7/10
+- Page 32: Relevance 7/10
+- Page 38: Relevance 7/10
+
+FINDINGS BY CATEGORY:
+
+ORGANIZED CRIME CONNECTIONS:
+----------------------------------------
+Page 34 (Confidence: 4/10)
+  Support for Cuban exiles associated with the 26 July Movement
+  QUOTE: "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 July Movement and who believe that the Castro regime can be overthrown from within"
+
+Page 49 (Confidence: 3/10)
+  Support for Cuban exiles with connections to 26 July Movement
+  QUOTE: "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 July Movement and believe that the Colon regime can be overthrown"
+
+Page 62 (Confidence: 3/10)
+  Support for Cuban exiles opposing Castro regime
+  QUOTE: "Support the efforts of certain Cuban exiles, who are associated with the original 26 July Movement and who believe that the Castro regime can be overthrown from within"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 7 (Confidence: 8/10)
+  US government plan for covert actions against Cuban regime
+  QUOTE: "The U.S. Government will apply increasing degrees of political, economic, psychological pressures, as appropriate until the Castro/Communist regime is overthrown."
+
+Page 62 (Confidence: 8/10)
+  Secret document outlining covert operations against Cuba
+  QUOTE: "In addition to current covert programs such as intelligence collection, radio broadcasts, recruitment of Cuban officials as agents, support of the Cuban Revolutionary Council (CRC) activities, and infiltration of propaganda materials"
+
+Page 71 (Confidence: 8/10)
+  US strategic objectives to undermine Cuban government
+  QUOTE: "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the Hemisphere"
+
+Page 2 (Confidence: 8/10)
+  Comprehensive U.S. policy objectives for destabilizing Cuban government
+  QUOTE: "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states"
+
+Page 92 (Confidence: 8/10)
+  U.S. policy explicitly seeks regime change in Cuba
+  QUOTE: "Encouraging and supporting any developments within Cuba that offer the possibility of replacing the Cuban Government with a regime that would break with the Sino-Soviet Bloc"
+
+Page 2 (Confidence: 7/10)
+  Top Secret documents related to US Policy Towards Cuba from January 1963
+  QUOTE: "US Policy Towards Cuba (TOP SECRET)"
+
+Page 19 (Confidence: 7/10)
+  Secret document outlining potential actions against Cuba, involving negotiations with Fidel Castro
+  QUOTE: "With respect to the actions listed below, the results of Mr. Donovan's imminent negotiations with Fidel Castro for freeing the 20-odd American prisoners should first be ascertained."
+
+Page 26 (Confidence: 7/10)
+  Secret document outlining covert operations against Cuba
+  QUOTE: "In addition to current covert programs such as intelligence collection, recruitment of Cuban officials, support of the Cuban Revolutionary Council (CRC) and other exile activities, infiltration of propaganda materials, and radio broadcasts, the following are recommended for approval and immediate initiation:"
+
+Page 31 (Confidence: 7/10)
+  Outlines covert US government strategy against Cuba
+  QUOTE: "Maximizing the political isolation of the Castro regime from other free world states, and especially from states of the OAS"
+
+Page 36 (Confidence: 7/10)
+  Secret document outlining contingency plans against Castro/Communist regime in Cuba
+  QUOTE: "Our contingency planning should include preparations for large-scale use of Cubans inside Cuba; more extensive air activity including both high and low level flights primarily directed toward surveillance"
+
+Page 41 (Confidence: 7/10)
+  Detailed covert action plan against Castro/Communist regime in Cuba
+  QUOTE: "Such actions might include leaflet dropping; propaganda urging sabotage, strikes, and opposition to the regime; psychological operations urging defections..."
+
+Page 43 (Confidence: 7/10)
+  Top Secret document discussing U.S. policy towards Communist Cuba and Castro regime
+  QUOTE: "The active pursuit of our objective will make it clear that the U.S. will not permit the maintenance of a communist base in the hemisphere."
+
+Page 2 (Confidence: 7/10)
+  Top Secret document outlining U.S. objectives regarding Cuba and Soviet influence
+  QUOTE: "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states"
+
+Page 49 (Confidence: 7/10)
+  Document appears to be a top-secret CIA/OAS plan for actions against Cuba
+  QUOTE: "In addition to current covert programs such as intelligence collection, radio broadcasts, recruitment of Cuban official agencies, support of the Cuban Revolutionary Council (CRC) activities, and infiltration of propaganda materials..."
+
+Page 51 (Confidence: 7/10)
+  Top secret document outlining contingency plans for overthrowing the Castro/Communist regime in Cuba
+  QUOTE: "In addition to these immediate actions, we should make preparations now so that we are able to seize opportunities for more positive action towards our ultimate objective of the overthrow of the Castro/Communist regime."
+
+Page 8 (Confidence: 7/10)
+  Document appears to be a secret policy document about actions against Cuba, suggesting extensive intelligence gathering and covert operations
+  QUOTE: "Intensive, comprehensive and continuing intelligence gathering in depth on Cuba should be identified as a primary objective of the national intelligence effort."
+
+Page 55 (Confidence: 7/10)
+  Secret document discussing U.S. policy toward Castro's Cuba, indicating strategic planning for regime change
+  QUOTE: "The active pursuit of our objective will make it clear that the U.S. will not permit the maintenance of a communist base in the hemisphere."
+
+Page 65 (Confidence: 7/10)
+  Document appears to be a policy document about actions against Cuba, involving U.S. military and intelligence operations
+  QUOTE: "Intensive, comprehensive and continuing intelligence gathering on Cuba should be identified as a primary objective of the national intelligence effort."
+
+Page 66 (Confidence: 7/10)
+  Detailed covert action plan targeting Cuba and Latin American security
+  QUOTE: "This course of action would involve a broad gamut of carefully timed political, economic, psychological and covert actions, such as OAS negotiations, Caribbean security arrangements, intensified surveillance and public security concerning Castro/Communist subversive activities in Latin America"
+
+Page 67 (Confidence: 7/10)
+  Secret document discussing US policy towards Castro/Communist Cuba
+  QUOTE: "The active pursuit of our objective will make it clear that the U. S. will not permit the maintenance of a communist base in the hemisphere."
+
+Page 111 (Confidence: 7/10)
+  Secret document discussing potential actions against Cuba and Soviet activities
+  QUOTE: "prohibition of AR ships from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade"
+
+Page 115 (Confidence: 7/10)
+  Secret document discussing potential training of Cuban Brigade as a U.S. military reserve component
+  QUOTE: "Train the Brigade and Cubans in training as a unit. Maintain and support them as a military reserve component of the U.S. Armed Forces."
+
+Page 10 (Confidence: 6/10)
+  Detailed study to be made by CIA with other Departments on vulnerabilities in Cuba
+  QUOTE: "Detailed study to be made by CIA with other Departments of possible weaknesses and vulnerabilities in elements which control Cuba."
+
+Page 11 (Confidence: 6/10)
+  References to policy and planning regarding Cuban relations
+  QUOTE: "Policy Toward non-bloc ships in Cuban trade (Action US Government proposes to take with regard to shipping to Cuba)"
+
+Page 12 (Confidence: 6/10)
+  Document relates to Cuba overflight intelligence gathering operations
+  QUOTE: "Presidential directive approved... requested CIA to come up with an estimate of the adequacy of such a system of intelligence collection"
+
+Page 17 (Confidence: 6/10)
+  U.S. government prepared to employ multiple pressure tactics against Cuba
+  QUOTE: "Being prepared to meet, with the employment of appropriate U.S. combat elements and/or logistical support, the wide variety of military contingencies that may arise"
+
+Page 20 (Confidence: 6/10)
+  Proposed OAS resolutions targeting Cuba
+  QUOTE: "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploying refusal to allow inspection, condemning the presence of Soviet troops, recommending continued surveillance and continued vigilance against subversive activities"
+
+Page 21 (Confidence: 6/10)
+  Detailed strategic planning for coordinated international action against Cuba
+  QUOTE: "We will seek to get agreement from Free World industrial nations to prevent shipping of critical spare parts and equipment to Cuba"
+
+Page 30 (Confidence: 6/10)
+  Policy document outlining US objectives regarding Cuba
+  QUOTE: "Protecting the security of the United States and the other states of the Organization of American States (OAS) by ensuring that offensive weapons are not reintroduced into Cuba"
+
+Page 33 (Confidence: 6/10)
+  Diplomatic strategy for addressing Cuba and Soviet bloc trade
+  QUOTE: "prohibit any cargo sponsored by any department or agency of the United States from being shipped on vessels owned or controlled by persons who own or control vessels engaged in trade between Cuba and the Soviet bloc"
+
+Page 42 (Confidence: 6/10)
+  Reference to managing international perception of U.S. policy regarding Cuba
+  QUOTE: "If properly handled, the overt aspects of this policy may serve not only to mitigate any unfavorable reactions from other countries, but also to gain, particularly in Latin America, increasing appreciation of the threat of Castro/Communist Cuba."
+
+Page 4 (Confidence: 6/10)
+  Proposed diplomatic actions against Cuba and Soviet bloc
+  QUOTE: "d. prohibit any cargo sponsored by any department or agency of the United States from being shipped on vessels owned or controlled by persons who own or control vessels engaged in the trade between Cuba and the Soviet bloc."
+
+Page 11 (Confidence: 6/10)
+  Discussion of alternative policy approaches to dealing with Communist regime
+  QUOTE: "Alternative I does not sufficiently contemplate the creation of opportunities to effect the downfall of that regime."
+
+Page 59 (Confidence: 6/10)
+  U.S. policy aims to reduce Cuban regime's subversive capabilities
+  QUOTE: "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states"
+
+Page 60 (Confidence: 6/10)
+  Secret document outlining strategic actions related to Cuba
+  QUOTE: "Inform NATO and OAS twelve hours in advance of the proclamation of the four point shipping orders"
+
+Page 61 (Confidence: 6/10)
+  Proposed OAS resolutions targeting Cuba's activities
+  QUOTE: "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploring refusal to allow inspection, condemning the presence of Soviet troops"
+
+Page 68 (Confidence: 6/10)
+  Recommendation document with two alternative policy approaches
+  QUOTE: "I recommend approval of Alternative I... I recommend adoption of Alternative II."
+
+Page 72 (Confidence: 6/10)
+  Top secret document outlining U.S. government objectives regarding Cuba
+  QUOTE: "Maximizing the political isolation of the Castro regime from other free world states, and especially from states of the OAS"
+
+Page 76 (Confidence: 6/10)
+  Proposed OAS resolutions against Cuba
+  QUOTE: "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploring refusal to allow inspection, condemning the presence of Soviet troops, recommending continued vigilance against subversive activities"
+
+Page 100 (Confidence: 6/10)
+  Secret document detailing potential actions against Cuba
+  QUOTE: "Close United States ports to all vessels of a country whose vessels engage in carrying arms to Cuba"
+
+Page 101 (Confidence: 6/10)
+  Proposed OAS resolutions targeting Cuba
+  QUOTE: "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploying refusal to allow inspection, condemning the presence of Soviet troops"
+
+Page 104 (Confidence: 6/10)
+  Detailed diplomatic efforts to isolate Cuba through OAS resolutions
+  QUOTE: "Acting in this capacity, the COAS/OC on October 23 unanimously passed a resolution calling for the withdrawal of all offensive weapons from Cuba"
+
+Page 114 (Confidence: 6/10)
+  DOD program for integrating Cuban military personnel into US military
+  QUOTE: "DOD has a program providing for enlistment in the U. S. Army of those Cuban nationals between the ages of 18 and 30 who pass entrance requirements."
+
+Page 119 (Confidence: 6/10)
+  Discussion of intelligence and surveillance activities against Cuba
+  QUOTE: "6. Policy on low-level aerial surveillance as a political weapon against the Castro regime."
+
+Page 122 (Confidence: 6/10)
+  Diplomatic analysis of Castro's regime and potential political instability
+  QUOTE: "It is difficult for Castro to remain calm. Therefore the revolutionary regime will continue with all means at its disposition to disseminate subversive propaganda."
+
+Page 3 (Confidence: 6/10)
+  Discussion of potential strategic approaches to Cuban regime
+  QUOTE: "A partial solution would worsen the situation and a definitive solution could be directed only by Washington. I think therefore that only pressure which is accompanied by material strength can obtain results in Cuba."
+
+Page 77 (Confidence: 5/10)
+  Strategic planning for international isolation of Cuba
+  QUOTE: "1) extension of arms embargo to all strategic items; 2) prohibition of ships from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade"
+
+Page 102 (Confidence: 5/10)
+  Detailed diplomatic strategy for coordinating actions against Cuba
+  QUOTE: "After obtaining the maximum possible support of the key countries of Mexico, Chile and Brazil, the other OAS members will be approached in Washington and in their respective capitals"
+
+Page 113 (Confidence: 5/10)
+  Detailed plan for potential disbanding of a Cuban Brigade with comprehensive refugee support
+  QUOTE: "Induce the Brigade to disband as a military unit, with no further U.S. special assistance."
+
+Page 9 (Confidence: 3/10)
+  Policy document about US approach to Cuba and Castro regime
+  QUOTE: "Agreed that US policy toward Cuba should aim at the downfall of Castro regime."
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 16 (Confidence: 8/10)
+  US aims to discourage Cuban alignment with Sino-Soviet bloc
+  QUOTE: "Encouraging and supporting any developments within Cuba that offer the possibility of divorcing the Cuban Government from its support of Sino-Soviet Communist purposes"
+
+Page 31 (Confidence: 8/10)
+  Document discusses US objectives regarding Cuba and Soviet influence
+  QUOTE: "Reducing the capabilities of the Castro regime to dissect and support subversion and insurrections within the other OAS states"
+
+Page 11 (Confidence: 7/10)
+  Multiple NSC action items related to Cuba policy and contingency planning
+  QUOTE: "Contingency Planning for Cuba"
+
+Page 17 (Confidence: 7/10)
+  Document discusses U.S. strategies against Castro regime and Cuba
+  QUOTE: "Maximizing the political isolation of the Castro regime from other free world states, and especially from states of the OAS."
+
+Page 18 (Confidence: 7/10)
+  Detailed plan to support Cuban exiles in overthrowing Castro regime
+  QUOTE: "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 of July Movement and who believe that the Castro regime can be overthrown from within"
+
+Page 20 (Confidence: 7/10)
+  Diplomatic strategy regarding Cuba and Soviet Bloc relations
+  QUOTE: "At the termination of the U. S. Chiefs of Mission Conference - January 20-30, or at a later date dependent on the Donovan mission, Assistant Secretary Martin, or another representative of the President will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity"
+
+Page 21 (Confidence: 7/10)
+  Document appears to be a SECRET file discussing OAS (Organization of American States) actions regarding Cuba
+  QUOTE: "prohibition of ships of OAS member states from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade"
+
+Page 30 (Confidence: 7/10)
+  Top secret draft document about United States policy toward Cuba
+  QUOTE: "United States Policy Toward Cuba"
+
+Page 33 (Confidence: 7/10)
+  Discussion of OAS resolutions condemning Cuba and Soviet involvement
+  QUOTE: "condemning the presence of Soviet troops, recommending cessation of subversive activities, and terminating the invocation of the Rio Treaty on the missile crisis"
+
+Page 34 (Confidence: 7/10)
+  Detailed plans for covert actions against Cuba, including intelligence gathering and supporting Cuban exiles
+  QUOTE: "In addition to current covert programs such as intelligence collection, radio broadcasts, recruitment of Cuban officials as agents, support of Cuban Revolutionary Council (CRC), activities, and infiltration of propaganda materials are recommended for approval and immediate initiation."
+
+Page 42 (Confidence: 7/10)
+  Discussion of potential international political reactions, specifically Latin American governments' potential response to U.S. actions
+  QUOTE: "They may attack the U.S. for 'intervening' or they may react favorably (as they did during the missile crisis)."
+
+Page 4 (Confidence: 7/10)
+  Document discusses diplomatic communications and actions related to Cuba and Soviet Union
+  QUOTE: "At the continuation of the U. S. Chiefs of Mexico Conference in El Salvador on January 28-30, Assistant Secretary Martin will visit the Presidents of Chile, Mexico and Brazil to convey to them the importance President Kennedy attaches to maintaining hemispheric solidarity by supporting the following resolutions:"
+
+Page 7 (Confidence: 7/10)
+  US policy document outlines strategies to isolate Cuba from Soviet Bloc and reduce Russian influence
+  QUOTE: "Increase the cost to the Bloc of sustaining the regime; and obtain the withdrawal of Russian troops from Cuba."
+
+Page 9 (Confidence: 7/10)
+  Potential international political consequences analysis
+  QUOTE: "From the standpoint of international politics, the U.S. will probably be subjected to criticism for aggression from the uncommitted nations"
+
+Page 59 (Confidence: 7/10)
+  U.S. policy objectives regarding Cuba and Soviet involvement
+  QUOTE: "Removal of remaining Soviet forces from Cuba"
+
+Page 60 (Confidence: 7/10)
+  Document discusses negotiations with Fidel Castro regarding American prisoners
+  QUOTE: "Mr. Donovan's imminent negotiation with Fidel Castro for freeing the 20-odd American prisoners"
+
+Page 61 (Confidence: 7/10)
+  Document discusses diplomatic strategy regarding Cuba and Soviet bloc
+  QUOTE: "At the termination of the U. S. Chefs of Mission Conference in El Salvador on January 28-30, Assistant Secretary Martin will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity by supporting the following resolutions"
+
+Page 62 (Confidence: 7/10)
+  Strategies to isolate Cuba internationally
+  QUOTE: "We will request that NATO include Cuba on the list of countries to which shipment of COCOM list (strategic) items is prohibited"
+
+Page 70 (Confidence: 7/10)
+  US policy statement indicates ongoing tensions with Communist Cuba
+  QUOTE: "We shall neither initiate nor permit aggression in this hemisphere."
+
+Page 71 (Confidence: 7/10)
+  Detailed US objectives regarding Cuba and Soviet influence
+  QUOTE: "Removing remaining Soviet forces from Cuba"
+
+Page 73 (Confidence: 7/10)
+  Focus on internal Cuban regime destabilization through exile groups
+  QUOTE: "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 of July Movement and who believe that the Castro regime can be overthrown from within"
+
+Page 76 (Confidence: 7/10)
+  Discussion of US diplomatic efforts regarding Cuba and Soviet bloc
+  QUOTE: "At the termination of the U. S. Chiefs of Mission Conference... Assistant Secretary Martin, or another representative of the President will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity"
+
+Page 79 (Confidence: 7/10)
+  Discussion of potential U.S. military actions against Cuba, including involvement of free Cubans and Latin American nations
+  QUOTE: "U.S. military forces employed against Cuba should be accompanied by U.S. militarily-trained free Cubans and by the armed forces of those Latin American nations desirous of participating in the U.S. effort."
+
+Page 2 (Confidence: 7/10)
+  U.S. strategic objectives regarding Cuba and Soviet influence
+  QUOTE: "Removal of remaining Soviet forces from Cuba"
+
+Page 10 (Confidence: 7/10)
+  Proposed actions against Cuban officials and infrastructure
+  QUOTE: "ment of Cuban officials in other countries; severance of communications to Cuba; major acts of sabotage on shipping destined for Cuba and on key installations in Cuba; intensive naval patrols"
+
+Page 92 (Confidence: 7/10)
+  U.S. objectives focused on reducing Castro regime's capabilities and supporting potential internal opposition
+  QUOTE: "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states"
+
+Page 99 (Confidence: 7/10)
+  Strategies for supporting Cuban exiles against Castro regime
+  QUOTE: "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 of July Movement and who believe that the Castro regime can be overthrown"
+
+Page 100 (Confidence: 7/10)
+  Document discusses negotiations with Fidel Castro regarding American prisoners
+  QUOTE: "Mr. Donovan's imminent negotiations with Fidel Castro for freeing the 20-odd American prisoners"
+
+Page 101 (Confidence: 7/10)
+  Discussion of diplomatic strategy regarding Cuba and Soviet Bloc
+  QUOTE: "At the termination of the U. S. Chiefs of Mission Conference... Assistant Secretary Martin... will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity"
+
+Page 104 (Confidence: 7/10)
+  Document discusses U.S. policy towards Cuba in the Organization of American States (OAS)
+  QUOTE: "With the conclusion of the U.S.-Soviet talks in New York, the Cuban problem reverts to the OAS context."
+
+Page 114 (Confidence: 7/10)
+  DOD program for Cuban military refugees and potential invasion preparation
+  QUOTE: "Individual Cubans could continue to be accepted for service in the U. S. Armed Forces and their language, skill and country knowledge could be distributed through various U. S. units which might be used in an invasion."
+
+Page 119 (Confidence: 7/10)
+  Multiple topics related to Cuban missile crisis aftermath and US policy
+  QUOTE: "1. Verification of withdrawal of missiles. 2. Removal of Soviet troops from Cuba."
+
+Page 121 (Confidence: 7/10)
+  Analysis of Cuban-Soviet relations from Italian Embassy report
+  QUOTE: "The possibility that there will soon be a loosening of the political and economic ties with the USSR appears to me to be nil at this time."
+
+Page 122 (Confidence: 7/10)
+  Discussion of Castro's relations with USSR and potential political changes
+  QUOTE: "In substance Castro, even if he cannot exactly be defined as pro-Khrushchev, is tied to the USSR in such a way that he cannot for any reason release himself."
+
+Page 3 (Confidence: 7/10)
+  Analysis of Cuban situation and potential revolutionary dynamics
+  QUOTE: "In conclusion, in judging the Cuban situation it is necessary first to keep in mind the personality and temperament of Fidel Castro, the influence which he has on a part of the population, and finally his deep-rooted hate of the United States."
+
+Page 124 (Confidence: 7/10)
+  Discussion of Cuban-Soviet relations and potential geopolitical implications
+  QUOTE: "...when Castro will tried for the solution of the problem - one can hope for a perhaps not too distant day... the USSR is obliged to feed Castro to permit his survival..."
+
+Page 14 (Confidence: 6/10)
+  Document references papers about United States Policy Toward Cuba
+  QUOTE: "United States Policy Toward Cuba"
+
+Page 15 (Confidence: 6/10)
+  US policy stance on preventing Cuban aggression and communist expansion
+  QUOTE: "We will neither initiate nor permit aggression in this hemisphere."
+
+Page 19 (Confidence: 6/10)
+  Detailed plan for potential maritime actions against Cuba
+  QUOTE: "Close United States ports to all vessels of a country whose vessels engage in carrying arms to Cuba"
+
+Page 22 (Confidence: 6/10)
+  Potential motivations for action against Castro regime
+  QUOTE: "New opportunities for accomplishing our objectives may arise either as a result of Bloc action in other parts of the world; as a result of aggressive moves (or isolated hostile actions) by the Castro-Communist regime itself"
+
+Page 26 (Confidence: 6/10)
+  Potential Soviet involvement consideration
+  QUOTE: "Removal of remaining Soviet forces from Cuba because taking these actions could provide the U.S.S.R. with rationale for maintaining its forces in Cuba."
+
+Page 36 (Confidence: 6/10)
+  Document indicates potential scenarios for regime change in Cuba
+  QUOTE: "These opportunities may arise either as a result of Bloc action in other parts of the world, as a result of aggressive moves (or isolated hostile acts) by the Castro/Communist regime itself; or as a result of uprisings or internal conflict within Cuba"
+
+Page 41 (Confidence: 6/10)
+  Planned actions against Cuban government including intelligence gathering and psychological warfare
+  QUOTE: "Large scale training of Cubans in the U.S. and the use of such Cubans inside Cuba"
+
+Page 45 (Confidence: 6/10)
+  US policy aims to prevent Cuban aggression and subversion
+  QUOTE: "We shall neither initiate nor permit aggression in this hemisphere"
+
+Page 2 (Confidence: 6/10)
+  Document discusses Cuban-Sino-Soviet relations
+  QUOTE: "Encouraging and supporting any developments within Cuba that offer the possibility of divorcing the Cuban Government from its support of Sino-Soviet Communist purposes"
+
+Page 49 (Confidence: 6/10)
+  Detailed plan for coordinating actions with NATO allies against Cuba
+  QUOTE: "We will inform our NATO allies of the impending OAS action."
+
+Page 51 (Confidence: 6/10)
+  Plans for military intervention with Latin American support
+  QUOTE: "U.S. military forces employed against Cuba should be accompanied by U.S. militarily-trained free Cubans and by the armed forces of those Latin American nations desirous of participating in the U.S. effort."
+
+Page 8 (Confidence: 6/10)
+  Discusses potential Soviet and Castro regime responses to US actions
+  QUOTE: "Soviet actions that threaten the peace or security of the hemisphere. This does not not preclude appropriate U.S. retaliation for isolated hostile acts by the Castro/Communist or Soviet forces."
+
+Page 55 (Confidence: 6/10)
+  Document references potential reactions from Latin American countries and the Sino-Soviet Bloc
+  QUOTE: "to mitigate any unfavorable reactions from other countries, but also to gain, particularly in Latin America, increasing appreciation of the threat of Castro/Communist Cuba"
+
+Page 65 (Confidence: 6/10)
+  References Soviet concerns about U.S. actions in the hemisphere
+  QUOTE: "Soviet actions that threaten the peace or security of the hemisphere. This does not preclude appropriate U.S. retaliation for hostile acts by the Castro Communist or Soviet forces."
+
+Page 66 (Confidence: 6/10)
+  Potential international political reactions to U.S. actions
+  QUOTE: "It is difficult to predict the reaction of the Latin American governments. They may attack the U.S. for 'intervening' or they may react favorably (as they did during the missile crisis)."
+
+Page 67 (Confidence: 6/10)
+  Reference to Sino-Soviet Bloc and potential international implications
+  QUOTE: "From the standpoint of military posture, the more active approach may be subjected to counteractions from the Sino-Soviet Bloc elsewhere."
+
+Page 71 (Confidence: 6/10)
+  US goal to break Cuban ties with Communist bloc
+  QUOTE: "Encouraging and supporting any developments within Cuba that offer the possibility of replacing the Cuban Government with a regime that would break with the Sino-Soviet Bloc"
+
+Page 74 (Confidence: 6/10)
+  Negotiations related to American prisoners
+  QUOTE: "Results of Mr. Donovan's imminent negotiations with Fidel Castro for freeing the 20-odd American prisoners"
+
+Page 77 (Confidence: 6/10)
+  Document discusses diplomatic actions regarding Cuba through OAS and NATO
+  QUOTE: "After obtaining the maximum possible support of the key countries of Mexico, Chile and Brazil, the other OAS members will be approached in Washington and in their respective capitals, simultaneously."
+
+Page 78 (Confidence: 6/10)
+  Discusses potential multilateral and bilateral political and economic measures against Cuba
+  QUOTE: "Our contingency planning... should include preparations for increased multilateral and/or bilateral political and economic measures, large scale use of Cubans who are now inside Cuba"
+
+Page 91 (Confidence: 6/10)
+  Multiple policy documents related to Cuba and Cuban Brigade
+  QUOTE: "United States Policy Toward the Cuban Brigade"
+
+Page 102 (Confidence: 6/10)
+  Document discusses OAS (Organization of American States) actions regarding Cuba
+  QUOTE: "prohibition of ships of OAS member states from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade"
+
+Page 111 (Confidence: 6/10)
+  Diplomatic strategy regarding Soviet and Cuban relations
+  QUOTE: "denial of overflights and transit rights to Soviet aircraft on Bloc-Cuba runs"
+
+Page 113 (Confidence: 6/10)
+  Document discusses Cuban resistance and potential refugee impacts
+  QUOTE: "politico-psychological value as a symbol of Cuban resistance to Castro/Communism may more than compensate for its limited military utility."
+
+Page 115 (Confidence: 6/10)
+  Document outlines U.S. strategic objectives regarding Cuba
+  QUOTE: "to unseat the Castro regime, and would lend weight to arguments that the U.S. may be leaning toward coexistence with the Castro regime."
+
+Page 121 (Confidence: 6/10)
+  Insights into Cuba's international diplomatic stance
+  QUOTE: "The Chinese Ambassador to Habana will have done everything possible to convince Castro to resist (and in fact the latter held firm on the question of inspection)."
+
+Page 10 (Confidence: 5/10)
+  US discussions about Castro and potential actions against Cuba
+  QUOTE: "USIA will expand L.A. progress, but not initiate electronic warfare against Castro; means of propaganda should be made deniable to non-US groups."
+
+Page 12 (Confidence: 5/10)
+  Interdepartmental coordination on Cuban affairs
+  QUOTE: "Interdepartmental Organization of Cuban Affairs - with responsibility yeasted in Coordinator of Cuban affairs in Department of State"
+
+Page 72 (Confidence: 5/10)
+  Document suggests multilateral approach to dealing with Cuba
+  QUOTE: "U.S. actions against Cuba should be multilateral, preferably based upon the Treaty of Reciprocal Assistance (Rio Pact)"
+
+Page 9 (Confidence: 4/10)
+  Discussion of relations with Cuban Revolutionary Council
+  QUOTE: "Relations with Cuban Revolutionary Council should be improved."
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 2 (Confidence: 8/10)
+  Multiple classified memos involving National Security Council Executive Committee
+  QUOTE: "Memo fr McGeorge Bundy to NSC Exec Comm(C)"
+
+Page 43 (Confidence: 8/10)
+  Strategic document outlining approach to dealing with Communist Cuba
+  QUOTE: "The successful execution of this policy will require careful timing and coordination of our actions and the development of detailed plans."
+
+Page 14 (Confidence: 7/10)
+  Top Secret Department of State memorandum about NSC Executive Committee meeting on Cuba policy
+  QUOTE: "Papers for NSC Executive Committee Meeting, January 25 at 4:00 p.m."
+
+Page 11 (Confidence: 7/10)
+  Disagreement between Coordinator and DoD Representative on policy towards Castro/Communist regime
+  QUOTE: "Alternative I does not make the overthrow of the Castro/Communist regime an objective of the U.S."
+
+Page 68 (Confidence: 7/10)
+  Secret document showing internal disagreement about policy recommendations regarding a Castro/Communist regime
+  QUOTE: "I do not concur in the policy recommended by the Coordinator. Alternative I does not make the overthrow of the Castro/Communist regime an objective of the U.S."
+
+Page 91 (Confidence: 7/10)
+  Confidential NSC Executive Committee memo about Cuba policy
+  QUOTE: "CUBA - Back-up Papers and a Summary of Recommendations of the Coordinator of Cuban Affairs"
+

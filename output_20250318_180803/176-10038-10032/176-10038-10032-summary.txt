@@ -1,0 +1,16 @@
+JFK ANALYSIS SUMMARY: 176-10038-10032
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 3: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 3 (Confidence: 7/10)
+  Document appears to be a secret memo discussing intelligence gathering and internal security services
+  QUOTE: "RELATED INTERNAL SECURITY SERVICES TO INCLUDE: A. CONSOLIDATION OF CIVIL POLICE FUNCTIONS UNDER THE SECRETARY OF STATE; FOR INTERIOR."
+

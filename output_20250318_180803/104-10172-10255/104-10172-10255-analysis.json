@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10172-10255",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Secret outgoing message from CIA to Stockholm station",
+        "direct_quote": "WE HAVE BEGUN CHECKING WITH NOSENKO (PD)IPPERS 19 AND 20, AND (PD)ABLE RE WALLENBERG AND WILL CABLE OR TELEPOUCH RESULTS AS RECEIVED. WE EXPECT TO BE FINISHED BY MID-NOVEMBER-V",
+        "significance": "Indicates ongoing intelligence investigation related to Nosenko and Wallenberg, potentially connected to Cold War era intelligence gathering"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to communication with Stockholm station suggests international intelligence coordination",
+        "direct_quote": "UNITEL, SEKTOR TSBLOCK V, REF: [STOCKHOLM] 3957b [IN 062621]",
+        "significance": "Demonstrates cross-agency and international communication channels active during the time period"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

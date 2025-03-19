@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10073-10113",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Ling Lindsay's connections to Cuban and Portuguese networks",
+        "direct_quote": "LING was contacted in late August 1960 in Santa Maria, and Ploy (probably Cuban National), and Rafal (probably RAFAEL HERNANDEZ), a Cuban diplomat",
+        "significance": "Provides context of international intelligence networks and potential connections to Cuban operations during the period surrounding the Kennedy assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "Document appears to be about Ling Lindsay, not directly related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "document_id": "104-10097-10170",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret communication from Mexico City CIA station, requesting a letter drop for a cryptonym 'CRYSTAL-1'",
+        "direct_quote": "C/S COMMENT: REQUESTED MEXI PROVIDE LETTER DROP FOR T)CRYSTAL-1.",
+        "significance": "Suggests an active intelligence operation or communication channel in Mexico City, potentially related to surveillance or covert communication"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but indicates complex intelligence communication networks",
+        "direct_quote": "",
+        "significance": "Demonstrates the type of communication channels and coded messaging used by intelligence agencies during the period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "14:00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document shows travel plans for Jerzy Plebanski to attend international symposium in Dallas",
+        "direct_quote": "JERZY PLEBANSKI GOING DALLAS 15 DEC ATTEND INTERNATIONAL SYMPOSIUM ON GRAVITATIONAL COLLAPSE AND OTHER TOPICS IN RELATIVITY/ASTROPHYSICS",
+        "significance": "Reveals academic travel details, though not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  }
+]

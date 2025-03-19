@@ -1,0 +1,77 @@
+[
+  {
+    "document_id": "176-10036-10173",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 10,
+        "description": "CIA National Security Files related to Vietnam, dated 10/30/1963",
+        "direct_quote": "National Security Files, Box 201: Vietnam,10/29/63-10/31/63, CIA Reports, Box 2",
+        "significance": "Document dates are close to JFK assassination, potentially revealing context of CIA activities during critical period"
+      },
+      {
+        "category": "AGENCY_INVOLVEMENT",
+        "confidence": 8,
+        "description": "White House (WH) communication from Bundy to Lodge",
+        "direct_quote": "ORIGINATOR: WH, FROM: Bundy, TO: Lodge",
+        "significance": "Indicates high-level national security communication around time of JFK's assassination"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "CAS 79407",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "TOP-SECRET-EYES-ONLY",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed communication about covert operations, potentially related to 1960 coup attempt",
+        "direct_quote": "We recognize heed to bear in mind generals' interpretation of U. S. role in 1960 coup attempt",
+        "significance": "Suggests ongoing covert CIA involvement in foreign political operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "References to communications with agents in Saigon about political situation",
+        "direct_quote": "While you are in Saigon you will be chief of country team in all circumstances",
+        "significance": "Indicates complex diplomatic and operational planning in Vietnam"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "TOP-SECRET EYES ONLY 10/30/63",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed instructions for managing leadership during potential coup scenario",
+        "direct_quote": "If you have left and a coup occurs, we believe that emergency situation requires, pending your return, that direction of country team be vested in most senior officer with experience of military decisions",
+        "significance": "Reveals high-level contingency planning for potential political instability, suggesting sophisticated internal protocols for managing sensitive situations"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Strict communication and consultation protocols between key personnel",
+        "direct_quote": "all instruction to Conein to be conducted in immediate consultation with Harkins and Smith so that all three know what is said to Conein",
+        "significance": "Demonstrates careful coordination and monitoring of communications, indicating sensitivity of operations and potential political volatility"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

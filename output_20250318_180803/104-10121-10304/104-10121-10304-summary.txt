@@ -1,0 +1,30 @@
+JFK ANALYSIS SUMMARY: 104-10121-10304
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 7/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 8/10)
+  Detailed interview processing sheet with security and travel precautions
+  QUOTE: "Travel Precautions (to carry nothing identifying him with CIA)"
+
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Interview checklist with multiple security-related points
+  QUOTE: "Personal Conduct (a. general good behavior, b. no black market or currency transactions, c. no undue curiosity in natives)"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  CIA travel processing document for an individual, suggesting official or covert travel arrangements
+  QUOTE: "Destination: Moscow Hungary, Passport Type & No.: State Outgoing"
+

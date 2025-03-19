@@ -1,0 +1,16 @@
+[
+  {
+    "document_id": "104-10166-10068",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Confidential CIA dispatch discussing deployment sketch of a battalion's defensive positions",
+        "direct_quote": "INTEL/TYPIC - AMCOR-2 Production Deployment Sketch of Battalion, Defensive Positions",
+        "significance": "Suggests potential military/intelligence operational document, though direct connection to Oswald is not clear"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

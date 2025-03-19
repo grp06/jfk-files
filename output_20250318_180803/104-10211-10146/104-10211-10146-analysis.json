@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10211-10146",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret dispatch from Chief of Station in Mexico City regarding an individual named Alfonso Hidalgo Torres",
+        "direct_quote": "PFQ Part I - Alfonso Hidalgo Torres",
+        "significance": "Suggests potential intelligence or surveillance related document from the time period of the JFK assassination"
+      },
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Released under JFK Assassination Records Act of 1992, dated 13 November 1969",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Indicates official documentation process for JFK assassination-related records"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

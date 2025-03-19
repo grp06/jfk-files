@@ -1,0 +1,511 @@
+[
+  {
+    "document_id": "104-10103-10079",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 8,
+        "description": "Operational plan for continuing intelligence operations against Cuba",
+        "direct_quote": "Operational Plan for Continuing Operations Against Cuba",
+        "significance": "Reveals CIA's strategic planning and intentions towards Cuba in 1962, during the height of Cold War tensions"
+      },
+      {
+        "category": "GOVERNMENT_INTENTIONS",
+        "confidence": 7,
+        "description": "US government assurances about non-invasion of Cuba",
+        "direct_quote": "The United States does not intend to invade Cuba or support an invasion of Cuba",
+        "significance": "Diplomatic positioning and public messaging around potential military action against Cuba"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses CIA operations and policy regarding Cuba",
+        "direct_quote": "CIA operations involving a high noise level and a distinct element of attributability, particularly paramilitary, guerrilla, and commando type operations will be unacceptable as a matter of policy.",
+        "significance": "Reveals CIA's strategic considerations for covert operations, suggesting constraints on potential interventions in Cuba"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Analysis of Castro-communist regime's stability and Soviet involvement",
+        "direct_quote": "While it is possible that recent and future developments including the Soviet action in removing the offensive weapons from Cuba may serve to weaken and discredit Castro, there is as yet no hard indication that the control of the Castro-communist regime over Cuba has been substantially weakened.",
+        "significance": "Provides insight into US intelligence assessment of Cuban regime's power and Soviet influence"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses CIA intelligence efforts against Cuba and Castro regime",
+        "direct_quote": "Higher Authority probably will continue heavy pressure on the CIA for a maximum effort against Cuba and may even continue to contend that the ultimate objective is the overthrow of the Castro-communist regime.",
+        "significance": "Reveals internal CIA strategic discussions about operations targeting Cuba"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Analysis of potential Cuban exile group actions against Castro regime",
+        "direct_quote": "Track Two course of action, i.e., unlimited support of Cuban exiles and exile groups with no real control or objective purposes",
+        "significance": "Indicates US government strategy of supporting Cuban exile groups as part of anti-Castro efforts"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA operational objectives targeting Cuba and Castro regime",
+        "direct_quote": "Take all feasible clandestine action to isolate and assist in isolating the Castro-communist regime in Cuba from the rest of the Western Hemisphere and the rest of the Free World.",
+        "significance": "Reveals CIA's strategic goals for undermining Cuban government through covert operations"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA plan to discredit Castro-communist regime",
+        "direct_quote": "To the maximum extent possible, discredit the Castro-communist regime in Cuba and in the Western Hemisphere and the rest of the world.",
+        "significance": "Indicates widespread propaganda and diplomatic efforts to marginalize Cuban leadership internationally"
+      },
+      {
+        "category": "INTELLIGENCE_OPERATIONS",
+        "confidence": 6,
+        "description": "Cautionary note about intelligence collection methods",
+        "direct_quote": "Premilitary, commando and sabotage operations, except in rare selective instances will serve little purpose; also they will be counter-productive since, if undertaken, they will make the collection of intelligence more difficult",
+        "significance": "Suggests CIA was strategically limiting direct military interventions to maintain intelligence gathering capabilities"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Detailed intelligence gathering objectives targeting Cuba",
+        "direct_quote": "Maintain maximum possible intelligence and counter-intelligence coverage of Cuba, including particular emphasis on...",
+        "significance": "Reveals extensive CIA intelligence collection strategy focused on comprehensive surveillance of Cuban government, military, and international relationships"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Detailed tracking of Cuba's international relationships",
+        "direct_quote": "Relationships between Cuba, USSR, Red China, the Bloc, Latin American nations and other Free World and uncommitted nations.",
+        "significance": "Indicates active monitoring of Cuba's diplomatic and geopolitical connections during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Operational plan for intelligence collection and covert actions against Cuba",
+        "direct_quote": "Take maximum action to induce a split in the Cuban regime and maintain the capability of capitalizing immediately through clandestine means",
+        "significance": "Reveals CIA's strategic approach to destabilizing the Cuban government through intelligence and covert operations"
+      },
+      {
+        "category": "INTELLIGENCE_OPERATIONS",
+        "confidence": 7,
+        "description": "Detailed intelligence gathering plan focusing on Cuban refugees",
+        "direct_quote": "Intelligence Exploitation of Refugees: As you know, with the quarantine and the cessation of air travel the heavy flow of Cuban refugees has dwindled almost to nothing.",
+        "significance": "Indicates CIA's strategy of using refugee networks for intelligence collection, particularly in the context of Cuban-US relations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown - page appears to be part of a document about Cuba operations",
+    "page_number": 7,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 8,
+        "description": "Document discusses contingency planning for potential military action in Cuba and intelligence gathering",
+        "direct_quote": "with the contingency planning for supporting any possible military action in Cuba, the Opa-Locke Interrogation Center as such was dismantled; although the personnel of the Center have been retained intact.",
+        "significance": "Reveals CIA operational planning and intelligence infrastructure related to Cuba during a sensitive historical period"
+      },
+      {
+        "category": "INTELLIGENCE_GATHERING",
+        "confidence": 7,
+        "description": "Plans to re-establish intelligence flow from refugees and maintain agent networks",
+        "direct_quote": "In order to re-establish the flow of intelligence from refugees, it is proposed that Pan American Airways and KLM be induced to reinstitute their regular flights from Havana to Miami.",
+        "significance": "Indicates ongoing intelligence collection efforts targeting Cuban refugees and maintaining communication channels"
+      },
+      {
+        "category": "RESIDENT_AGENTS",
+        "confidence": 6,
+        "description": "Continuing efforts to maintain agent network in Cuba",
+        "direct_quote": "Every effort will be made to continue to exploit, to the fullest, preserve the viability of and, where necessary, re-establish communications with the 131 recruited agents now resident in Cuba.",
+        "significance": "Demonstrates extensive CIA agent network in Cuba and strategies for maintaining operational capabilities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 9,
+    "relevant_findings": [
+      {
+        "category": "LIAISON_OPERATIONS",
+        "confidence": 7,
+        "description": "Detailed intelligence coordination strategy targeting Cuba involving multiple international liaison services",
+        "direct_quote": "We will continue to press the liaison services who are assisting us in the effort against Cuba for additional coverage, including the recruiting of agents within their own areas for joint dispatch to Cuba.",
+        "significance": "Reveals extensive international intelligence network focused on Cuba, potentially relevant to understanding geopolitical context around assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Multinational intelligence services involved in operations",
+        "direct_quote": "The services most effectively co-operating at this point are the British, Dutch, French, Spanish, Italian, Greek, Norwegian, Danish, West German, Mexican, Argentinian, Uruguayan, Canadian, Chilean, and Israeli",
+        "significance": "Demonstrates broad international intelligence cooperation against Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 9,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_OPERATIONS",
+        "confidence": 8,
+        "description": "Detailed intelligence operation targeting Cuban diplomats and vessels abroad",
+        "direct_quote": "We propose to continue and intensify the current program of attempting to recruit or defect every Cuban official representative abroad to whom we can gain access",
+        "significance": "Reveals extensive covert CIA operations against Cuban diplomatic personnel, indicating aggressive intelligence gathering and potential destabilization efforts"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 7,
+        "description": "Widespread audio surveillance of Cuban installations in multiple countries",
+        "direct_quote": "At the present time we have audio and/or telephone tap coverage of Cuban official installations in Chile, Italy, Mexico, The Netherlands, England, Uruguay, Greece, Spain, France, and Canada",
+        "significance": "Demonstrates extensive international surveillance network targeting Cuban diplomatic communications"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 10,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA communications intelligence focused on Cuban communications and Communist Party operations",
+        "direct_quote": "We will continue our present CIA Close Support coverage from the KOLA station in Miami at the same level and will continue to press NSA for additional coverage of Cuban communications.",
+        "significance": "Reveals ongoing CIA intelligence gathering efforts targeting Cuba during the early 1960s"
+      },
+      {
+        "category": "COMMUNIST_PARTY_SURVEILLANCE",
+        "confidence": 8,
+        "description": "Comprehensive worldwide survey of Communist Party penetration operations",
+        "direct_quote": "A complete survey has been made world-wide of all Communist Party penetration operations and wherever any such penetration can be directed against Cuba either by dispatching the agent to Cuba or by pointing the agent against Cuban targets",
+        "significance": "Indicates systematic intelligence efforts to infiltrate and redirect Communist Party operations against Cuban targets"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 11,
+    "relevant_findings": [
+      {
+        "category": "CIA_COVERT_OPERATIONS",
+        "confidence": 8,
+        "description": "Detailed plan for black infiltration teams (COBRA and ANTORRID) into Cuba for intelligence collection",
+        "direct_quote": "The two successful black infiltrated teams (COBRA and ANTORRID) which have produced substantial intelligence will be continued, resupplied, and reinforced but pointed primarily at continued intelligence collection",
+        "significance": "Reveals CIA covert operational strategies for intelligence gathering in Cuba during Cold War period"
+      },
+      {
+        "category": "INFILTRATION_STRATEGY",
+        "confidence": 7,
+        "description": "Plan to infiltrate and exfiltrate agents for training and intelligence missions",
+        "direct_quote": "agents and potential recruits now in Cuba will be exfiltrated for training, indoctrination, supplying with communications, and motivation. They will then be re-infiltrated into Cuba, primarily on intelligence missions.",
+        "significance": "Demonstrates systematic approach to developing and deploying covert agents in Cuba"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 12,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a CIA planning document discussing strategies to undermine and destabilize the Cuban regime",
+        "direct_quote": "An intensive program will be continued to take advantage of any possible opportunity to weaken, subvert, or split the regime in any possible fashion.",
+        "significance": "Reveals active CIA planning for regime change in Cuba, suggesting broader geopolitical context around Cold War operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discussion of potential military intervention or support for destabilization efforts",
+        "direct_quote": "It is entirely possible that any such effort might fail unless supported with military forces which on the basis of the assumptions in Paragraph I above would appear unlikely.",
+        "significance": "Indicates awareness of limitations in covert operations and potential need for military backing"
+      },
+      {
+        "category": "SABOTAGE_OPERATIONS",
+        "confidence": 8,
+        "description": "Cautious approach to sabotage operations in Cuba",
+        "direct_quote": "Commando type sabotage, minor sabotage, and other acts of sabotage inside Cuba would appear to serve little purpose and should not be undertaken except in the rare instances where an opportunity is presented with acceptable risk to do major damage to the Cuban economy.",
+        "significance": "Reveals strategic thinking about covert operations, emphasizing calculated risk and potential economic impact"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 13,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 8,
+        "description": "Detailed plan for covert operations against Cuba, including paramilitary, economic warfare, counterintelligence, and political action",
+        "direct_quote": "Given the assumptions in Paragraph I above, no wide scale program of such activity should be undertaken. However, we propose to maintain in being our present facilities and the capability of undertaking such operations in order to fully exploit any substantial change in internal Cuban conditions or any substantial revolt or uprising which might occur.",
+        "significance": "Reveals US government's strategic approach to potential regime change in Cuba, suggesting preparedness for covert intervention"
+      },
+      {
+        "category": "ECONOMIC_WARFARE",
+        "confidence": 7,
+        "description": "Covert economic strategy to deny critical materials to Cuba",
+        "direct_quote": "It is proposed to continue and intensify the program already undertaken to deny through clandestine and covert means critical materials to the Cuban economy.",
+        "significance": "Demonstrates systematic approach to economic destabilization of Cuba"
+      },
+      {
+        "category": "COUNTERINTELLIGENCE",
+        "confidence": 9,
+        "description": "Ongoing counterintelligence program against Cuban intelligence services",
+        "direct_quote": "The current counterintelligence and counterespionage program against the Cuban G-2 and related services will be continued and as possible intensified.",
+        "significance": "Indicates sophisticated intelligence operations targeting Cuban government"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 14,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA operational plan targeting Castro regime in Cuba",
+        "direct_quote": "Stimulate, support and guide covertly the propaganda and political action activities of the CNC and other Cuban political groups and individuals, as appropriate, who offer a potential for impact inside Cuba.",
+        "significance": "Reveals CIA covert operations aimed at undermining Cuban government, potentially relevant to understanding geopolitical context around JFK assassination"
+      },
+      {
+        "category": "PROPAGANDA_OPERATIONS",
+        "confidence": 7,
+        "description": "Multiple propaganda strategies against Castro regime",
+        "direct_quote": "Continue 'Radio Americas' and other CIA-sponsored Cuban exile radio broadcasts as appropriate.",
+        "significance": "Documents systematic disinformation and psychological warfare tactics used by CIA against Cuba"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 15,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Document discusses clandestine exploitation of exile groups, particularly Cuban exile groups, for intelligence collection and psychological warfare",
+        "direct_quote": "We will continue the clandestine exploitation of exile groups for intelligence collection, psychological warfare and other approved missions.",
+        "significance": "Reveals CIA strategies for using exile groups as intelligence assets, potentially relevant to understanding operational methods around Cuban exiles"
+      },
+      {
+        "category": "CUBA_RELATIONS",
+        "confidence": 8,
+        "description": "Proposal to create a specialized office for managing relationships with Cuban exile groups within the State Department",
+        "direct_quote": "it would be advisable to press for the creation within the Department of State of an office of Cuban Exile Affairs to handle the covert government relationships with Cuban exile groups.",
+        "significance": "Indicates high-level governmental interest in maintaining covert communications with Cuban exile organizations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 16,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discusses restructuring of Task Force W within Clandestine Service, potentially related to covert operations",
+        "direct_quote": "Consideration of the re-positioning of Task Force W within the Clandestine Service, possibly as a major component of the WH Division under different direction.",
+        "significance": "Suggests internal reorganization of CIA covert operations unit, which could be related to post-assassination restructuring"
+      },
+      {
+        "category": "OPERATIONAL_CHANGES",
+        "confidence": 7,
+        "description": "Recommendation to abolish 'Mongoose mechanism' and remove past operational framework",
+        "direct_quote": "C. The abolition of the operational Mongoose mechanism.",
+        "significance": "Operation Mongoose was a CIA program targeting Cuba, potentially relevant to assassination context"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 17,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Recommendation to abolish the Mongoose operational mechanism related to Cuban exile groups",
+        "direct_quote": "It is recommended that the Mongoose operational mechanism be abolished.",
+        "significance": "Suggests changes in CIA covert operations targeting Cuba, potentially related to anti-Castro activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10103-10079",
+    "page_number": 19,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_OPERATIONS",
+        "confidence": 8,
+        "description": "Secret document detailing U.S. intelligence objectives regarding Cuba",
+        "direct_quote": "Covertly support the above-cited U. S. national objectives with respect to Cuba.",
+        "significance": "Reveals active U.S. intelligence strategy for undermining Castro's government"
+      },
+      {
+        "category": "INTELLIGENCE_FOCUS",
+        "confidence": 9,
+        "description": "Comprehensive intelligence gathering priorities on Cuba",
+        "direct_quote": "Provide the maximum intelligence coverage of Cuba with particular emphasis on the following:",
+        "significance": "Detailed intelligence collection plan covering multiple aspects of Cuban government and society"
+      },
+      {
+        "category": "POLITICAL_OBJECTIVES",
+        "confidence": 7,
+        "description": "U.S. goal to develop support for Castro's overthrow",
+        "direct_quote": "Assist and support State in any feasible action to develop active OAS and Latin-American country support for the containment or overthrow of Castro.",
+        "significance": "Demonstrates explicit U.S. policy of regime change in Cuba"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "Unknown (heavily redacted document)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 8,
+        "description": "Top secret sensitive document appears to be a CIA operational plan related to Cuba",
+        "direct_quote": "SECRET SENSITIVE",
+        "significance": "Reveals covert CIA strategic objectives regarding Cuba"
+      },
+      {
+        "category": "FOREIGN_POLICY",
+        "confidence": 7,
+        "description": "Document outlines specific objectives for Cuba-related operations",
+        "direct_quote": "Assist State in the development of non-Castro Cuban concepts, leaders, and political groups",
+        "significance": "Indicates active CIA efforts to undermine Castro regime"
+      },
+      {
+        "category": "COVERT_ACTIONS",
+        "confidence": 9,
+        "description": "Multiple covert operational objectives listed",
+        "direct_quote": "Provide covert support to the CRC and to such other Cuban political groups as appropriate",
+        "significance": "Confirms systematic CIA intervention strategy in Cuban affairs"
+      },
+      {
+        "category": "ECONOMIC_WARFARE",
+        "confidence": 8,
+        "description": "Economic disruption strategies targeting Cuba",
+        "direct_quote": "Harass Free World Trade with Cuba",
+        "significance": "Document reveals intentional economic destabilization efforts"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "Sensitive-4",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA document outlining intelligence gathering strategies related to Cuba",
+        "direct_quote": "To undertake the above-listed tasks, CIA would be required to develop the following program",
+        "significance": "Reveals CIA operational planning and intelligence collection methods focused on Cuba during Cold War period"
+      },
+      {
+        "category": "INTELLIGENCE_GATHERING",
+        "confidence": 9,
+        "description": "Detailed intelligence collection strategies targeting Cubans and international travelers",
+        "direct_quote": "Spotting/recruiting/training of legally established Cubans in Cuba",
+        "significance": "Outlines systematic approach to developing intelligence assets through recruitment and training"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PSYCHOLOGICAL_WARFARE",
+        "confidence": 9,
+        "description": "Detailed psychological warfare plan targeting Cuban population",
+        "direct_quote": "Psychological Warfare (CA): The program must primarily concentrate on and reach the Cuban population.",
+        "significance": "Reveals covert US government strategy for psychological operations against Cuba"
+      },
+      {
+        "category": "PROPAGANDA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Specific propaganda tactics including balloon leaflet operations",
+        "direct_quote": "A propaganda balloon launching capability and appropriate policy authority to conduct propaganda-balloon launching operations.",
+        "significance": "Demonstrates planned covert propaganda methods to influence Cuban public opinion"
+      },
+      {
+        "category": "INFILTRATION_CAPABILITIES",
+        "confidence": 7,
+        "description": "Plans for infiltrating propaganda materials through various channels",
+        "direct_quote": "Continue and expand the present propaganda operations infiltrating material into Cuba via the open mail, legal travelers, or couriers.",
+        "significance": "Outlines strategies for covert information dissemination into Cuba"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

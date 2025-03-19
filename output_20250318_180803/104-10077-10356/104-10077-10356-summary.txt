@@ -1,0 +1,30 @@
+JFK ANALYSIS SUMMARY: 104-10077-10356
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 7/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 5/10)
+  Possible reference to surveillance of potential associates or networks
+  QUOTE: "ASSUME (REDACTED) IN BRITISH USE SURVEILLANCE, PARTICULARLY SINCE INFILTRATION"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Memo from P.A. Maggio at SAS/MOB/FI (likely FBI domestic operations) discussing intelligence communications
+  QUOTE: "IMMEDIATE WAVE RYBAT TYPIC AMBER ANTANNA"
+
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Multiple wave/communication references indicating ongoing intelligence monitoring
+  QUOTE: "REFS A) WAVE 8316 (IN 70529) B) WAVE 8346 (IN 70905)"
+

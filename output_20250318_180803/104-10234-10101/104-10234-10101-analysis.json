@@ -1,0 +1,50 @@
+[
+  {
+    "document_id": "104-10234-10101",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed intelligence communication about CIA/intelligence investigation and involvement",
+        "direct_quote": "SINCE FORWARDING REF D WAVE PRESSED INVESTIGATION SPONSORSHIP AMTRUNK-9 TRIP",
+        "significance": "Suggests ongoing intelligence investigation related to an operation or individual (possibly Oswald)"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Reference to possible intelligence agent handlers and identities",
+        "direct_quote": "AGENT HANDLER 'TORRES', 'JORGE' ... REF B) HAS SINCE IDENTIFIED HIMSELF TO MRS. A-9 AS 'TORRES'",
+        "significance": "Indicates potential coded communication and intelligence network connections"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Vague reference to 'Torres Organization' and potential agent connections",
+        "direct_quote": "\"TORRES\" ORGANIZATION NEGOTIATE HIS RELEASE THRU DIP CHANNELS",
+        "significance": "Suggests potential coded communication or operational network, but details are unclear"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Indications of covert operational spending and resource allocation",
+        "direct_quote": "FUNDS EXPENDED A-9 TRIP ESTIMATED CONSERVATIVELY APPROX $1450",
+        "significance": "Reveals financial trail of potential covert activities, with specific expenditure tracking"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

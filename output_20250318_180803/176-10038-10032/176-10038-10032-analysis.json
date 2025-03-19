@@ -1,0 +1,49 @@
+[
+  {
+    "document_id": "176-10038-10032",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "AGENCY_DOCUMENTATION",
+        "confidence": 7,
+        "description": "Department of State (DOS) document about Vietnam Task Force",
+        "direct_quote": "Embtel 660 (Saigon) Re: Task Force on Vietnam",
+        "significance": "Provides context of US government diplomatic communications during early 1960s, potentially relevant to geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": null,
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "660-11-16",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a secret memo discussing intelligence gathering and internal security services",
+        "direct_quote": "RELATED INTERNAL SECURITY SERVICES TO INCLUDE: A. CONSOLIDATION OF CIVIL POLICE FUNCTIONS UNDER THE SECRETARY OF STATE; FOR INTERIOR.",
+        "significance": "Suggests systematic intelligence and security restructuring, potentially relevant to broader operational contexts"
+      },
+      {
+        "category": "INTELLIGENCE_OPERATIONS",
+        "confidence": 6,
+        "description": "Discusses intelligence and communist party penetration training",
+        "direct_quote": "PROVISION OF INTELLIGENCE AND COMMUNIST PARTY PENETRATION TRAINING TO VIETNAMESE OFFICER PERSONNEL OF NEW SPECIAL BRANCH",
+        "significance": "Indicates sophisticated intelligence recruitment and training strategies"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "660-NOVEMBER-16",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

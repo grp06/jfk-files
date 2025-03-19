@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10077-10382",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "CIA internal communication marked 'SECRET' dated 10 Dec 1963, shortly after JFK assassination",
+        "direct_quote": "RETURN TO CIA, Background Use Only, Do Not Reproduce",
+        "significance": "Indicates ongoing sensitive internal communications about high-level matters in the immediate aftermath of the assassination"
+      },
+      {
+        "category": "TRAVEL_RECORDS",
+        "confidence": 6,
+        "description": "Reference to planned visit by an individual (name redacted) from 16 to 19 Feb 1964",
+        "direct_quote": "PER YOUR DECISION HQS, PLANNED HAVE (REDACTED) VISIT YOU 16 TO 19 FEB 1964 PRIOR HIS RETURN BROS. HQS OFFICER WILL ESCORT.",
+        "significance": "Suggests ongoing operational planning and movement of personnel in early 1964"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

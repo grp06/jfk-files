@@ -1,0 +1,58 @@
+[
+  {
+    "document_id": "104-10290-10309",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Cuban individual with connections to Soviet submarine base construction and Che Guevara",
+        "direct_quote": "RECENTLY REPORTED BELIEF SOV CONSTRUCTING SUBMAR[INE] BASE IN CUBA, CAME TO MEXICO",
+        "significance": "Provides context of Cuban-Soviet relations and potential Cold War tensions during the assassination period"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Subject traveled from Cuba to Mexico with interesting movement patterns",
+        "direct_quote": "CUBA ABOUT 1959 OR 1960 GOING FIRST TO BERMUDA, LATER TO MEXICO",
+        "significance": "Demonstrates complex travel routes typical of intelligence-related movements in the Cold War era"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "Subject works in insurance, has anti-Castro sentiment",
+        "direct_quote": "ASSISTANT MANAGER SALES FOR MEXICO - STRONGLY ANTI-CASTRO",
+        "significance": "Potential link to anti-Castro networks that intersected with intelligence and organized crime circles"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10290-10309",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Subject planning to leave Cuba at end of year, appears dissatisfied",
+        "direct_quote": "SUBJ. PLANNING TO LEAVE CUBA AT END OF YEAR, DISILLUSIONED",
+        "significance": "Suggests potential movement and potential recruitment or operational context"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Reference to anti-Castro context and potential intelligence connection",
+        "direct_quote": "HIGH SUBJ KNOWN AS ANTI-CASTRO",
+        "significance": "Indicates potential involvement in anti-Communist operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Subject connected to Cuban Communist leadership",
+        "direct_quote": "DIVORCED HMO HER OF EX-WIFE HAS RE-MARRIED TO JOAQUIN MIRABAL, COMMUNIST, FORMER 'CHIEF OF SECURITY SERVICE' HAVANA",
+        "significance": "Reveals complex personal and political connections in Cuban regime"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

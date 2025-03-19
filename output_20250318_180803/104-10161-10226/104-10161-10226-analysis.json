@@ -1,0 +1,16 @@
+[
+  {
+    "document_id": "104-10161-10226",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct connection to Oswald found in this document",
+        "direct_quote": "",
+        "significance": "Document appears to be about a different individual (Vladimir Rodriguez Lahera)"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

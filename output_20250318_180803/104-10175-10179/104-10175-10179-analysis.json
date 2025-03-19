@@ -1,0 +1,292 @@
+[
+  {
+    "document_id": "104-10175-10179",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document refers to subject as an 'outside agent' with connections to KUBARK and LIHUFF/2 organizations",
+        "direct_quote": "Subject was originally recruited as a cutout for the LIHUFF/2 organization. However, his actual duties for KUBARK entail far more than initial contact.",
+        "significance": "Suggests potential intelligence connections beyond typical narrative, indicating Oswald may have had complex operational relationships"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Document discusses subject's compensation arrangement",
+        "direct_quote": "His salary was established to reimburse him for the amount of time it is necessary for him to expend activities. In this regard, it is felt that the sum of $500 monthly is not an excessive amount.",
+        "significance": "Reveals financial arrangements that suggest structured compensation for covert activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10175-10179",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PERSONAL_HISTORY",
+        "confidence": 7,
+        "description": "Personal history statement for Alfonso Rudolphi Wichtrich",
+        "direct_quote": "",
+        "significance": "Appears to be a standard personnel form, not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "LANGUAGE_SKILLS",
+        "confidence": 7,
+        "description": "Detailed Spanish language proficiency breakdown",
+        "direct_quote": "Spanish: x x x",
+        "significance": "Indicates language capabilities potentially useful for intelligence work"
+      },
+      {
+        "category": "MILITARY_TRAINING",
+        "confidence": 8,
+        "description": "Military training at multiple cavalry schools and intelligence-related assignments",
+        "direct_quote": "Cav. School - Basic, Troop Duty (1941)\nCav. School - Advanced, Horse & Mechanized (1942)\nCommand & Genl. G-2 - C&CS (1943)\nWar Dept. MIS-X - Intelligence, Fort Hunt, Washington, D.C. (1943 - 6 months)",
+        "significance": "Suggests specialized military intelligence training during World War II era"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified in image",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 9,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "JFK_Form",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Banking accounts in Falls Church, Virginia and Mexico City",
+        "direct_quote": "Falls Church Bank, Banco Nacional de Mexico",
+        "significance": "Shows potential financial connections across different locations"
+      },
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 4,
+        "description": "Credit references from different US cities",
+        "direct_quote": "B.C. Bottling of Baltimore, Popular Dept. Store in El Paso, Texas",
+        "significance": "Indicates potential network of personal and business contacts"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Personal background information",
+        "direct_quote": "Married, Wife: Rachel Esther Williams",
+        "significance": "Provides basic personal context, but no direct assassination links"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "104-10175-10179",
+    "page_number": 12,
+    "relevant_findings": [
+      {
+        "category": "PERSONAL_BACKGROUND",
+        "confidence": 7,
+        "description": "Immigration/family record for Gustav Wichrich, born in 1864 in Germany",
+        "direct_quote": "Place of Birth: Germany, Date of Birth: 1864",
+        "significance": "Provides genealogical background for a potential peripheral figure in assassination research"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Immigration document showing multiple family members with U.S. and Mexican addresses",
+        "direct_quote": "Addresses include Tucson, Arizona; Newport, RI; Mexico, D.F.",
+        "significance": "Demonstrates transnational family connections and mobility"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 13,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 4,
+        "description": "Mother's death record showing personal information",
+        "direct_quote": "Esperaza Fermina, Died Feb. 1951, Cause of Death: Pneumonia",
+        "significance": "Provides genealogical background information about the individual's family history"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 12,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": 14,
+    "relevant_findings": [
+      {
+        "category": "PERSONAL_BACKGROUND",
+        "confidence": 7,
+        "description": "Personal reference and acquaintance section with multiple contacts listed",
+        "direct_quote": "Any relatives I might have in Mexico or Germany are unknown.",
+        "significance": "Suggests limited personal connections or potential intentional obfuscation of background"
+      },
+      {
+        "category": "REFERENCES_NETWORK",
+        "confidence": 6,
+        "description": "Multiple references from different locations across United States",
+        "direct_quote": "References include contacts from Arizona, Texas, Florida, New Mexico, California, Connecticut, Virginia",
+        "significance": "Indicates broad geographic network of acquaintances, potentially suggesting mobility or diverse professional connections"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "104-10175-10179",
+    "page_number": 16,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Record of residences and organizations in Mexico and Arizona",
+        "direct_quote": "Mexico, D.F., Mexico 655 Sierra Leona",
+        "significance": "Provides potential context for Oswald's movements and associations during mid-20th century"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "List of club and organizational memberships",
+        "direct_quote": "Sigma Chi, Alpha Zeta, American Club, American Chamber of Commerce",
+        "significance": "Shows potential networking and organizational connections, though no direct Oswald link is evident"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "JFK-page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PERSONAL_INFORMATION",
+        "confidence": 8,
+        "description": "Personal information form with details about an individual",
+        "direct_quote": "Mrs. Rachel Esther Wichrich",
+        "significance": "Appears to be a standard personnel or security clearance form"
+      },
+      {
+        "category": "LOCATION_DETAILS",
+        "confidence": 7,
+        "description": "Location information in Mexico City",
+        "direct_quote": "Policia Highway, Km 1y 1/2 Cujuluapa Mexico D.F., Lucerna 878, Mexico, D.F.",
+        "significance": "Provides specific address and location details in Mexico"
+      },
+      {
+        "category": "EMERGENCY_CONTACTS",
+        "confidence": 6,
+        "description": "Emergency contact information",
+        "direct_quote": "Mr or Mrg Ellen Claridge - 619-16th St., N.W. Albuquerque, New Mexico",
+        "significance": "Lists alternative contact person and their location"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "104-10175-10179",
+    "page_number": 18,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Mentions shares in Ron Castillo S.A. in Mexico, D.F. and Telefonos de Mexico, S.A.",
+        "direct_quote": "Section XI - (9) - Shares in Ron Castillo S.A. - Mexico, D.F., Shares in Telefonos de Mexico, S.A.",
+        "significance": "Potentially indicates financial connections or business interests in Mexico, but limited context for direct Oswald link"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 2,
+        "description": "Section noting 'only neighbors - remaining in area'",
+        "direct_quote": "Section XXI (3) Only neighbors - remaining in area.",
+        "significance": "Vague reference to location and neighborhood, minimal investigative value"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Form 4444",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Page is a personal history statement listing numerous organizations",
+        "direct_quote": "",
+        "significance": "Provides context of potential organizational connections, but does not directly link to Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not visible on this page",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

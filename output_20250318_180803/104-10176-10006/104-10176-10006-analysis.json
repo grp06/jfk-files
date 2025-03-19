@@ -1,0 +1,3111 @@
+[
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA dispatch about LIRING-3 operation involving contact with asset in Mexico City",
+        "direct_quote": "LIRING-3 made contact on 5 December with one HumbertoX GONZALEZ Vega (no Station traces)",
+        "significance": "Indicates covert CIA operation and asset handling in Mexico City around time of Oswald's alleged activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document references communications between CIA stations in Guatemala and Mexico City",
+        "direct_quote": "Chief of Station, Guatemala City, Chief of Station, Mexico City",
+        "significance": "Suggests inter-station communications about sensitive operational activities"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "HMM-36114",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about CIA tracking of individuals named LIRING-3 and LIRING-9, with potential connections to Guatemala",
+        "direct_quote": "LIRING-3 hinted to LIRING-9 that he may accept a teaching job at the University of Jalapa",
+        "significance": "Potential coded references to intelligence operatives, but no direct link to Oswald confirmed"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "References to activities in Guatemala and Mexico",
+        "direct_quote": "left for Guatemala with LIRING-3... contact him in Mexico",
+        "significance": "Suggests intelligence operations in Central America during relevant time period"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HMMA-37739",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "AGENT_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret Agent Service Record documenting agent dismissal from LINLC-3 project",
+        "direct_quote": "Agent Dismissed By: Leonard S. TKUT. Dismissal effective 1 July 1965",
+        "significance": "Reveals internal personnel management in covert operations project"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct connection to Oswald found on this document",
+        "direct_quote": "",
+        "significance": "Cannot confirm Oswald links from this specific page"
+      },
+      {
+        "category": "DISMISSAL_DETAILS",
+        "confidence": 8,
+        "description": "Agent self-terminated after failing to maintain contact with station",
+        "direct_quote": "Reason for Dismissal: Agent in effect terminated himself, since he failed to initiate contact with Station after being turned over to TKUT",
+        "significance": "Highlights potential operational security protocols and agent disconnection procedures"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HT-36114",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_OPERATIONS",
+        "confidence": 6,
+        "description": "CIA-like administrative document discussing covert meeting and potential safehouse rental",
+        "direct_quote": "Rowton asked LIRING/3 to rent a small apartment that they could use as a safehouse, in lieu of Iden A, for the future",
+        "significance": "Suggests ongoing covert operational planning involving secure locations"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Detailed tracking of individual movements and communications",
+        "direct_quote": "L/3 reported to Rowton that he had dropped into the LIRING office on 4/12/68 is the hope, of running into the LIRING Chief",
+        "significance": "Indicates active intelligence monitoring and communication protocols"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "10-12-68",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Mention of contact with Humberto Gonz\u00e1lez Vega, possibly related to international connections",
+        "direct_quote": "LHRNG/3 reported to Norton that he had met with Humberto Gonz\u00e1lez Vega on 5 and 6 December",
+        "significance": "Suggests potential diplomatic or intelligence-related interactions"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Gonz\u00e1lez planning to open a book store and seeking financial assistance",
+        "direct_quote": "Gonz\u00e1lez added that he was making a living selling books and was planning to open a book store at the University. He indicated that he might be able to help L/3 financially if the latter were interested in this business venture.",
+        "significance": "Reveals potential financial motivations and connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed intelligence gathering about an individual's activities and connections",
+        "direct_quote": "Gonz\u00e1lez kept in touch with his friends there. He dropped the names of Sandoval Alegr\u00eda, Jorge Torr\u00f3n and a certain Avecillas (phon) who he assumed were known to LHRNG/3.",
+        "significance": "Indicates active intelligence gathering and networking"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown from this page",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Detailed description of a person named Gonz\u00e1lez who was in hiding and traveled between Mexico City and Guatemala",
+        "direct_quote": "Gonz\u00e1lez recounted that he himself had to go into hiding for the previous two months as a result of his having been exposed to a certain N\u00fa\u00f1ez who had arrived in Mexico City with a group of Guatemalan exiles",
+        "significance": "Provides context about covert movements and potential revolutionary/political activities in Central America"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Detailed physical description of Gonz\u00e1lez Vega, including height, weight, and appearance",
+        "direct_quote": "LIRING/9 described Heriberto Gonz\u00e1lez Vega as a 'rather tall' (about 1.78) heavy (about 85-90 k.), apparent age 42, with light eyes ('ojos claros') and straight ('lacio') black hair",
+        "significance": "Demonstrates detailed surveillance and intelligence gathering practices"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "46-45-11520",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_RECORD",
+        "confidence": 3,
+        "description": "Personal identification document or sketch of Humberto Gonzalez Vega",
+        "direct_quote": "Humberto Gonz\u00e1lez Vega",
+        "significance": "Appears to be an administrative record or personnel document, but no direct connection to JFK assassination evident"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NTOA-36114",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Coded communication between government personnel (L/9, L/3, etc.) discussing sensitive interactions",
+        "direct_quote": "But as I said before, she shouldn't go to the American Embassy. Keep her away from it. That would be bad, as I explained last time.",
+        "significance": "Suggests covert communication and potential sensitivity around embassy-related activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Mention of a Guatemalan individual named Humberto Gonz\u00e1lez Vega",
+        "direct_quote": "His name is Humberto Gonz\u00e1lez Vega. He's been in Mexico for some time. A former activist in the FVG. You must know him.",
+        "significance": "Potentially indicates international connections or surveillance of political activists"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "HGNA-30114",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document discusses Gustavo Colindres, a Guatemalan who met someone in Pav\u00f3n prison",
+        "direct_quote": "Colindres is the uncle (mother's side) of the Le\u00f3n Barrios brothers",
+        "significance": "Minimal connection to Oswald or assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to a Guatemalan in Mexico City named Humberto Gonz\u00e1lez Vega",
+        "direct_quote": "has met a Guatemalan in Mexico City by the name of Humberto Gonz\u00e1lez Vega who seems to know everyone there quite well",
+        "significance": "Suggests potential international connections or intelligence network interactions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Information about a prisoner named Gustavo Colindres in Pav\u00f3n prison",
+        "direct_quote": "Gustavo Colindres, who is still in the Pav\u00f3n prison, obviously smuggled this letter through his wife who visits him regularly",
+        "significance": "Indicates potential surveillance or intelligence gathering about imprisoned individuals"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HMMA-36114",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "Identity sheet with multiple identities listed",
+        "direct_quote": "Identity A: Suites Warne\nIdentity B: Sal\u00f3n de la Plastica Mexicana\nIdentity C: Sra. Lourdes GOMEZ L. de Chumacero\nIdentity D: Francisco KLARA Barrios",
+        "significance": "Multiple identities suggests potential operational cover, but no direct link to Oswald confirmed"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "HMMA-36114",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 15,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HMMA-36615",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HMMA-36115",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": "",
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 0,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 0,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3,
+    "language_notes": {
+      "language": "Spanish",
+      "document_type": "Handwritten administrative or investigative document",
+      "date_mentioned": "10 de Abril de 1968"
+    },
+    "content_summary": "This appears to be a handwritten Spanish-language document from April 10, 1968, discussing some administrative or investigative matter involving people named Carlos and a person referenced as being pregnant or in a delicate condition. The document seems to be an internal communication about some personal or administrative situation, but does not appear directly related to the JFK assassination based on this page."
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 50,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "MEGA-9697",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be a CIA dispatch related to intelligence activities in Guatemala City",
+        "direct_quote": "Oscar Rolando HOLAN ESQUIVEL, was uncountably identifiable with to use rebel FLAR forces",
+        "significance": "Minimal direct connection to Oswald, appears to be unrelated intelligence report"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HGA-9697",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document discusses communications involving Guatemala City and references locations in Mexico",
+        "direct_quote": "Guatemala City notes in the letter which LIHRG-3 received from the mother of the de LOS brothers",
+        "significance": "Suggests potential international diplomatic communications related to regional intelligence activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "References FAR (likely Foreign Area Reports) and potential intelligence gathering",
+        "direct_quote": "it is requested that LIHRG-3 be queried for any activity details he can provide to further identify these individuals",
+        "significance": "Indicates ongoing intelligence collection and tracking of individuals"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "12172Z DEC 68",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret communication about personnel replacement and movement",
+        "direct_quote": "LIRING-2 LEAVING DEFINITELY FOR PERUSEN 20 DEC. HAVING DROPPED BA* 12 DEC WHICH LIRIHG-2 SCHEDULED ATTEND. REPLACEMENT TO BE LIRING-24, REPLACEMENT CONFIRMED BY LIRING-3 TO WHOM LIRING-10 INTRODUCED LIRING-24 AS 'MY SUCCESSOR'",
+        "significance": "Suggests internal personnel movements and potential operational reassignments, which could indicate operational continuity or personnel changes"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "HMMA-35908",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be a standard contractor engagement form, not directly related to Oswald",
+        "direct_quote": "",
+        "significance": "No clear evidence of Oswald associations found on this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HDMA-35908",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HN70A-37705",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "SECRET Dispatch",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Cuban literary pamphlet and communist activities",
+        "direct_quote": "supposedly 'literary' Cuban publication containing two short essays by the Salvadorian poet and writer Roque DALTON",
+        "significance": "Provides context of communist intellectual networks in Latin America during Cold War period"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Mentions clandestine activities for Communist Party",
+        "direct_quote": "engaged in clandestine activities for the Communist Party of El Salvador",
+        "significance": "Tangential information about communist networks, but no direct Oswald connection"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "HWA-36915",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "RC-10",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 0,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 0,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "Unknown (not clearly visible in this document)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CONTEXT",
+        "confidence": 9,
+        "description": "Secret classified document dated 23 November 1968, related to Guatemala City and Mexico City station operations",
+        "direct_quote": "SECRET IMMEDIATE GUATEMALA CITY",
+        "significance": "Provides insight into CIA station communications and operations in Central America post-assassination"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown from this image",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discussion of diplomatic communication between Mexico City and Guatemala City stations",
+        "direct_quote": "MEXICO CITY   GUATEMALA CITY",
+        "significance": "Suggests inter-agency communication about regional intelligence activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Suggests desire to discuss Cuban-related intelligence efforts discretely",
+        "direct_quote": "DESIRE ETHICS TO EXPOSE HAND AS MUCH AS POSSIBLE WITHIN FEASIBLE KNOWLEDGEABILITY LIMIT-3",
+        "significance": "Indicates careful management of intelligence gathering and potential operational sensitivities"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "HMMA-35905",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "CIA dispatch related to LIRING-3 operation, involving communications between CIA stations in Guatemala and Mexico City",
+        "direct_quote": "LIRING-3 Operation",
+        "significance": "Suggests ongoing CIA intelligence operation, but no direct connection to JFK assassination found on this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HMMA-35905",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be an internal communication about operational activities related to intelligence gathering",
+        "direct_quote": "UETNG/3 agreed with Boston that there were several phases to his surveyed operational activity that needed careful planning and coordination",
+        "significance": "Suggests coordinated intelligence monitoring and operational planning"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but indicates inter-agency communication about operational subjects",
+        "direct_quote": "",
+        "significance": "Generic intelligence communication document, minimal direct relevance to Oswald"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Discussions about potential travel routes and logistics for an individual (potentially Oswald)",
+        "direct_quote": "I/3 added that he felt he and I/4 could travel by boat at a modest fare and this would permit him to carry as many of his products as possible",
+        "significance": "Reveals detailed travel planning and potential movement strategies, suggesting covert operational considerations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussions about potential travel to Mexico via different routes",
+        "direct_quote": "Roxton agreed that this might be a solution, but recommended that I/3 look into the possibility of returning to Mexico via BRUNEI (on the boat)",
+        "significance": "Indicates potential intelligence-related travel planning and communication about routing"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HNRA-35705",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "UNSPECIFIED_INTELLIGENCE",
+        "confidence": 3,
+        "description": "Partial reference to intelligence gathering about individuals named C\u00e9sar Montes and FBRUMEN",
+        "direct_quote": "local PAR attitude toward C\u00e9sar Montes and CPG leaders; through whom FBRUMEN has worked in past. Also in French girl who executed recently about whom L/9 asked L/3 a number of questions, indicating FBRUMEN interest in exact role she played vis-\u00e1-vis PAR.",
+        "significance": "Appears to be fragmentary intelligence communication referencing potential covert operational relationships, but lacks clear context related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HNNA-35905",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be a meeting report involving coded individuals (LIHNG/3, LIHNG/9)",
+        "direct_quote": "LIHNG/3 reported to Roxton at the safehouse (Identity B) at 1015 on 22 November, 1968",
+        "significance": "Cryptic communication suggests potential intelligence community involvement, but not directly related to Oswald or JFK assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 2,
+        "description": "Discusses exposition and political activities in Central America",
+        "direct_quote": "I have had a long standing interest in Central America politically, and, despite the fact that it has cost me a great deal personally, I hope to continue helping my friends within my capabilities.",
+        "significance": "Indicates intelligence or diplomatic activities in Central America, but no direct connection to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": null,
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Discussion of travel to Mexico and loss of revolutionary connections",
+        "direct_quote": "C\u00e9sar Montes had spent too much time with your people, on trips to your country and to Mexico, and has completely lost touch with the revolution.",
+        "significance": "Suggests potential intelligence/operational connections and travel patterns related to revolutionary activities"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Indirect reference to discussing an individual named Iden A. with his wife",
+        "direct_quote": "I would like to have present Iden A. with his wife since I want once and for all to clear up any questions about the circumstances of our mutual experience there.",
+        "significance": "Potentially discussing intelligence connections or operational details, though context is unclear"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HNMA-3595",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NARA-35905",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "",
+    "page_number": 0,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "HMMA-35905",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "IDENTITY_RECORD",
+        "confidence": 8,
+        "description": "Identity sheet for Carlos Persabal Marcue from Mexico",
+        "direct_quote": "Identity A: Carlos X Persabal Marcue",
+        "significance": "Potentially relevant to investigating connections in Mexico City related to JFK assassination"
+      },
+      {
+        "category": "LOCATION_CONTEXT",
+        "confidence": 7,
+        "description": "Document mentions connection to subject file with specific reference number",
+        "direct_quote": "re: Connection with Subj. of 201-798301",
+        "significance": "Suggests ongoing intelligence file or investigation tracking this individual"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "201-798301",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HMMA-35704",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Discussion of Oswald (L/3) and interactions with Bowen",
+        "direct_quote": "L/3 then decided that he would like to get in touch with Bowen, came to Mexico to see Bowen.",
+        "significance": "Provides insight into Oswald's movements and potential connections"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Oswald's travel to Mexico City and subsequent interactions",
+        "direct_quote": "Boxton explained that when he had learned that L/3 had left Mexico City for the trip as planned, he telephoned the colonel and said 'recently read help at some point'",
+        "significance": "Tracks Oswald's travel and suggests potential support network or connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Potential involvement of military and police in Oswald's interactions",
+        "direct_quote": "He explained that he had been beaten severely on several occasions during the initial interrogation both by the military and the police and 'of course' did not have the benefit of medical treatment afterwards.",
+        "significance": "Suggests potential hostile interrogation and treatment of Oswald"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown (no clear document ID on page)",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Mentions of cross-border movements and activities related to identities A and B",
+        "direct_quote": "Idens A and B and myself crossed the border on Castro Santiago(April13) without incident",
+        "significance": "Suggests potential covert operations or travel related to intelligence activities"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "References to travel to Guatemala City and planned border crossings",
+        "direct_quote": "planned to get Iden 1 across the border illegally north of Melille and meet his subsequent in Guatemala City",
+        "significance": "Indicates potential clandestine travel and movement of identities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown from this page",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document describes a travel scenario involving customs inspection and a suspicious individual (Iden A) with a briefcase",
+        "direct_quote": "Item A, who had only a briefcase, refused to enter the Customs shed, but winced for us in a nearby cafe to keep as calm as possible.",
+        "significance": "Suggests potential covert travel or smuggling activity, with an individual displaying nervous behavior during customs inspection"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Detailed observation of an individual's movements and behavior",
+        "direct_quote": "Item A, incidentally, has dyed his hair at my suggestion to reduce the starkness of his hair spotted by an acquaintance.",
+        "significance": "Indicates close surveillance and potential attempt to alter appearance to avoid recognition"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Mention of Soviet-made items and possible propaganda materials",
+        "direct_quote": "Item B was carrying a soviet-made white boots, red, worst of all, a Parisian-printed FAR propaganda leaflets",
+        "significance": "Suggests potential Cold War-era intelligence or propaganda activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 110,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 111,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "14686B",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Mentions imprisonment and interactions with Mexican authorities",
+        "direct_quote": "learned later that he told me he had been the victim of year-long persecutions and might have attempted to cross the frontier with the other two",
+        "significance": "Suggests potential covert travel or cross-border activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Reference to Mexican Consul Serrano and diplomatic interactions",
+        "direct_quote": "Respectfully the Mexican Consul, Serrano, recognized my family name and told me that he was a friend of my father",
+        "significance": "Indicates diplomatic connections and potential international context"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 4,
+        "description": "Mentions communications about deciphering messages",
+        "direct_quote": "Armed-Reyonds confided to me on one occasion that he had to be very discreet in sending messages to relaciones Exteriores in Mexico since the 'North-americans' decipher and read everything we send",
+        "significance": "Suggests sensitive diplomatic communications and potential surveillance"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 8,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Indirect reference to political activities and associations",
+        "direct_quote": "Iden 3 was described as 'an opportunist, with slicers ideology, in reality a bourgeois of superficial convictions.'",
+        "significance": "Suggests potential ideological profile, but lacks direct Oswald connection"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Mentions Mexico and political interactions",
+        "direct_quote": "CP representatives from Mexico discussed channeling financial aid and political activities",
+        "significance": "Hints at potential international political intrigue, but context is unclear"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Document discusses travel to Mexico City on 13 October",
+        "direct_quote": "We arrived in Mexico City on 13 October",
+        "significance": "Provides context for Oswald's movements and potential intelligence activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Mentions interactions with IIRING/10 and IIRING/MO office",
+        "direct_quote": "He agreed with Hoston that IIRING/MO would be the logical person to arrange a discreet meeting with IIRING/MO",
+        "significance": "Suggests potential intelligence agency communication and coordination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HMM4-35904",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Identity sheet with multiple identities listed, potentially indicating complex alias network",
+        "direct_quote": "Identity A: Francisco *LARA\nIdentity B: Carlos *VERSABAL Marcue\nIdentity C: Salon de la Plastica Mexicana",
+        "significance": "Suggests potential intelligence/covert operational connections, though direct Oswald link not clear"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Document appears to have Mexican connection",
+        "direct_quote": "Gedi:Mexico-CV",
+        "significance": "Hints at possible Mexican intelligence or diplomatic involvement in background investigations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "17 November 1968 document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Refers to a document discussing an individual's activities in Guatemala and Mexico City",
+        "direct_quote": "Identity B of the same report is the nephew of Identity F, a Mexican Communist who was arrested on 19 September 1968 during a student demonstration in Mexico City",
+        "significance": "Potentially relates to intelligence gathering on Communist activities in Latin America"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Mention of an individual with an appointment to discuss experiences in Guatemala",
+        "direct_quote": "As this dispatch is being written, LIRING-3 has an appointment to talk at length about his experience in Guatemala with Luis MARIN, LIRING-10",
+        "significance": "Suggests ongoing intelligence operations or debriefing of an agent/informant"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "2361082",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document appears to be about a meeting involving Liring-3 and Liring-9, related to Guatemala rebels",
+        "direct_quote": "LIRING-3 BRIEFED TO DECLARE HIMSELF READY HELP GUAT REBELS FOR IDEOLOGICAL REASONS AND AT SAME TIME IMPLY HE IN NEED MATERIAL HELP AFTER LONG IMPRISONMENT.",
+        "significance": "Unrelated to JFK assassination. Appears to be a CIA communication about Guatemala, not connected to the assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Mexico City 5228",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Vague references to revolutionary activities and potential international connections",
+        "direct_quote": "LIRING-3 EXPLAINED HE ANARCHIST, LEFTIST, IDEALIST AND FELT TRUE REVOLUTION GOING ON GUATEMALA. THIS WHY HE INTERESTED IN HELPING GUAT REBELS ANY WAY POSSIBLE.",
+        "significance": "Suggests potential ideological motivations and connections to revolutionary movements"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Discussion of travel plans and visa concerns",
+        "direct_quote": "LIRING-3 AND WIFE AND AGREED ARRANGE FOR PASSAGE LIRING-4 ON PERUVIAN SHIP TO CANADA SO LIRING-4 COULD SEE FATHER WHO NEW YORK RESIDENT",
+        "significance": "Indicates complex travel arrangements and potential international movement"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Apparent intelligence communication about an individual",
+        "direct_quote": "LIRING-9 MADE VAGUE PROMISES HELP LIRING-3 IN CURRENT DIFFICULT SITUATION ALTHOUGH NO FINANCIAL HELP MENTIONED",
+        "significance": "Suggests intelligence community communication and potential operational interactions"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "280122Z NOV 68",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Mexico City 8228",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about a person named Liring, not directly about Oswald",
+        "direct_quote": "",
+        "significance": "Not relevant to Oswald investigation"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "230122268",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Mexico City 3223",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Vague references to individuals with coded names (Liring-3, Liring-9) discussing travel and potential revolutionary activities",
+        "direct_quote": "LIRING-3 EXPLAINED HE ANARCHIST, LEFTIST, IDEALIST AND FELT TRUE REVOLUTION GOING ON GUATEMALA",
+        "significance": "Possible coded communication about political activities, but context unclear and connection to Oswald not directly established"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 2,
+        "description": "Mention of contacts in Guatemala and discussions of travel",
+        "direct_quote": "LIRING-3 WAS REQUESTED TO RETURN TO LIRING 2 DEC FOR FURTHER TALKS. LIRING-3 WAS SHOWN LETTERS RECENTLY RECEIVED FROM FAR CONTACTS IN GUATEMALA",
+        "significance": "Suggests potential intelligence or revolutionary network communications, but details are cryptic"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "SECRET ZG208 NOV 68",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Cable communication involving Guatemala City and Mexico City",
+        "direct_quote": "TORNET WILL RETURN GUATEMALA PAA 581, 27 NOV.",
+        "significance": "Suggests diplomatic communication, but no direct connection to JFK assassination evident"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "2322862",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Leonard S. Tormet traveling from Guatemala City to Mexico City",
+        "direct_quote": "LEONARD S. TORMET (LIEW GUATEMALA CITY CASE OFFICER TO TRAVEL MEXICO CITY FOR REF DISCUSSIONS. TORMET ATTEMPTING BOOK PASSAGE PAN AM FLT 582, 24 NOV.",
+        "significance": "Indicates potential CIA case officer movement and operational activity around the time of the JFK assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret communication between CIA stations in Guatemala and Mexico City",
+        "direct_quote": "IMMEDIATE MEXICO CITY INFO IMMEDIATE DIRECTOR RYBAT PERUMEN",
+        "significance": "Suggests active intelligence communications and potential operational coordination between CIA stations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not visible on this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret classified communication from Mexico City station",
+        "direct_quote": "SECRET 2322152 NOW 68 CITE GUATEMALA CITY 9748",
+        "significance": "Indicates sensitive intelligence communication during Cold War period"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Potential intelligence communication referencing Barry G. Royden",
+        "direct_quote": "IDEN: BARRY G. ROYDEN",
+        "significance": "Name might be relevant to intelligence network, but insufficient context to determine direct Oswald connection"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "23 November 1963",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret communication discussing intelligence activities in Guatemala City and Mexico City",
+        "direct_quote": "AGREES POINTS REV A PARA 1 A TEN 2 ET RELIEVE THIS NON PROPITIOUS FOR DIRECT GUAT CITY STATION REP DISCUSSION WITH MEXICO CITY STATION ON GUAT INSURGENCY SITUATION AND INVOLVEMENT",
+        "significance": "Suggests ongoing intelligence operations and communication between CIA stations in Guatemala and Mexico City during the time period of the JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Potential reference to intelligence gathering and suspicious activities",
+        "direct_quote": "IT SEEMS POSSIBLE LIMIR-9 MAY HAVE BEEN RELATING DIRECTLY TO ACTIVITIES OF HECTOR SANCHEZ GONZALES PER MEXICO CITY 7744",
+        "significance": "Indicates ongoing intelligence monitoring of individuals and potential cross-border operations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "LOCATION_CONTEXT",
+        "confidence": 8,
+        "description": "Document references Mexico City and Guatemala City",
+        "direct_quote": "MEXICO CITY   GUATEMALA CITY",
+        "significance": "Highlights potential international intelligence operations or communications related to assassination context"
+      },
+      {
+        "category": "INTELLIGENCE_OBJECTIVE",
+        "confidence": 7,
+        "description": "Suggests desire to discuss Cuban efforts and intelligence gathering",
+        "direct_quote": "OBJECTIVE, OF COURSE, IS TO ASSESS OUR CUBAN EFFORT THERE... DESIRE TO EXPLORE HAND AS WELL AS POSSIBLE WITHIN FEASIBLE ENGAGEGABILITY LIMITS",
+        "significance": "Indicates ongoing intelligence activities focused on Cuba during period surrounding JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "201-798301",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret internal communication discussing intelligence gathering and assessment of situation in Guatemala and Mexico City",
+        "direct_quote": "BELIEVE AS STATED REP C LIENZO-3 SHOULD BE FACTUAL AS POSSIBLE IN PREPARING REPORT ON CONTACTS AND EXPERIENCES WHILE DEPLOYED GUATEMALA",
+        "significance": "Suggests ongoing intelligence operations and communication between different station locations during the time period of interest"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Potential reference to intelligence activities involving Mexico City and Guatemala",
+        "direct_quote": "MEXICO CITY GUATEMALA CITY ROUTINE VICTORIA",
+        "significance": "Indicates active intelligence gathering and communication between different geographic stations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "53165",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing objective related to Guatemala City and Cuban insurgency forces",
+        "direct_quote": "OBJECTIVE OF COURSE, IS TO BREAK UP GUAT INSURGENCY FORCES AND NEGATE ANY CUBAN EXPORT WHILE, AT SAME TIME DESIRE PANICS MACHINES TO EXPOSE HARD AS MUCH AS POSSIBLE WITHIN FEASIBLE DENIABILITY LYING-O-3",
+        "significance": "Indicates covert CIA operational planning involving insurgency management and deniable actions"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Secret Document NOV 68",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Leonard S. Tormet (identified as Guatemala City Case Officer) traveling to Mexico City",
+        "direct_quote": "1. LEONARD S. TORMET (IDEN GUATEMALA CITY CASE OFFICER) TO TRAVEL MEXICO CITY FOR REF DISCUSSIONS. TORNET ATTEMPTING BOOK PASSAGE PAN AM FLT 502, 24 NOV.",
+        "significance": "Provides evidence of CIA officer travel and potential operational meetings in Mexico City"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Reference to official CIA communication and case file",
+        "direct_quote": "FILE: 201-798581 tiny 3",
+        "significance": "Indicates existence of an official CIA file related to this communication"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 0,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "9736",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing revolutionary movement strategy, potentially related to Cuban operations",
+        "direct_quote": "ESSENTIAL THAT NEW LEADERSHIP CADRE BE FOUND TO REPLACE PRESENT COMMAND IF REVOLUTIONARY MOVEMENT TO SUCCEED.",
+        "significance": "Suggests CIA involvement in planning leadership changes in revolutionary movements, potentially connected to Cuba"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Strategic document about Cuban leadership and insurgent groups",
+        "direct_quote": "OBJECTIVE... TO PAINT DISMAL PICTURE AS POSSIBLE FOR CUBANS, AND TO SUGGEST THAT LATTER IMPOSE CONDITIONS WHICH WILL BE UNACCEPTABLE TO PRESENT INSURGENT LEADERSHIP",
+        "significance": "Indicates covert operations aimed at destabilizing Cuban revolutionary leadership"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "2363312",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Secret document discussing covert operations related to Cuba and insurgent leadership",
+        "direct_quote": "GOG ABLE TAKE ADVANTAGE OF IMPULSIVE ACTIONS BY FAR MEMBERS WHO FAILED MAKE ADEQUATE PREPARATIONS BEFOREHAND.",
+        "significance": "Reveals CIA strategic thinking about destabilizing Cuban revolutionary leadership"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Analysis of potential Cuban leadership replacement scenarios",
+        "direct_quote": "ESSENTIAL THAT NEW LEADERSHIP CADRE BE FOUND TO REPLACE PRESENT COMMAND IF REVOLUTIONARY MOVEMENT TO SUCCEED.",
+        "significance": "Indicates CIA interest in potentially manipulating Cuban political leadership"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret communication about discussion between intelligence personnel LIRING-9 and LIRING-3 regarding Guatemala",
+        "direct_quote": "LIRING-9 ASKED LIRING-3 PREPARE DETAILED WRITTEN REPORT DUE 1738 HOURS 26 NOV ON HIS EXPERIENCES GUATEMALA AND HIS CONTACTS WITH FAR PERSONALITIES WHILE INCARCERATED",
+        "significance": "Reveals coded communication between intelligence operatives discussing covert activities and personnel interactions"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "8159 S E C R E T",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed discussion of meeting about a report from 'Lirng-3', potential cultural exposition, and official coordination",
+        "direct_quote": "MEETING AT 1730 ON 25 NOV WITH 'SOME MY COLLEAGUES' SO CAN DISCUSS LIRNG-3 REPORT AND SUGGESTIONS AT LENGTH",
+        "significance": "Suggests intelligence community communication and coordination around an unidentified source (Lirng-3)"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to potential cultural exposition and meetings with Mexican city station officer",
+        "direct_quote": "LIRNG-9 SUGGESTED HE MIGHT BE INVITED FOR CULTURAL EXPOSITION TO MAKE TRIP APPEAR INNOCUOUS",
+        "significance": "Indicates diplomatic maneuvering and potential intelligence gathering operation"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown (not explicitly stated on page)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Document appears to be a secret communication about discussions in Guatemala, potentially related to leftist political activities",
+        "direct_quote": "LIRING-9 WANTED TO KNOW WHETHER JEANETTE FISK HAD FAR MISSION BEFORE HER DEATH",
+        "significance": "Suggests potential intelligence gathering about political activities, though not directly related to JFK assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Secret communication between intelligence operatives discussing clandestine activities",
+        "direct_quote": "CHIEF LIRING 'DOES NOT HAVE VERY MUCH TO DO WITH THESE THINGS' (CLANDESTINE ACTIVITIES IN GUATEMALA)",
+        "significance": "Indicates intelligence community communication about covert operations, but no direct JFK assassination connection"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Mexico City 8159",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Potential cultural exposition trip suggested for Liring-3",
+        "direct_quote": "SUGGESTED HE MIGHT BE INVITED FOR CULTURAL EXPOSITION TO MAKE TRIP APPEAR INNOCUOUS AND OFFERED TO MAKE ALL NECESSARY ARRANGEMENTS.",
+        "significance": "Indicates potential covert travel arrangement or operational cover for an individual"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Meeting planned to discuss sensitive report and gather additional information",
+        "direct_quote": "MEETING AT 1730 ON 25 NOV WITH 'SOME MY COLLEAGUES' SO CAN DISCUSS LIRING-3 REPORT AND SUGGESTIONS AT LENGTH",
+        "significance": "Suggests ongoing intelligence gathering and discussion about a specific target/operation"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Reference to contact with Jose Ignacio Roclando (Lopez) Ruiz in jail",
+        "direct_quote": "ROCLANDO(LOPEZ) RUIZ WITH WHOM HAD CONTACT IN JAIL. PLS ADVISE ETA BY IMMEDIATE.",
+        "significance": "Indicates surveillance or intelligence gathering involving jail contacts"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "2308327",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document appears to be a CIA communication about Guatemala, not directly related to JFK assassination",
+        "direct_quote": "DURING LONG DISCUSSION LIRING-9 HAD AT LIRING WITH LIRING-3",
+        "significance": "This document does not contain information relevant to the JFK assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Mexico City Secret Document",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed communication about potential meeting and cultural exposition for Liring-3 in Mexico City",
+        "direct_quote": "LIRING-3 EXPRESSED HOPE HE MIGHT AMPLIFY HIS REPORT IN PERSON IN BRUMEN CAPITAL, LIRING-9 SUGGESTED HE MIGHT BE INVITED FOR CULTURAL EXPOSITION TO MAKE TRIP APPEAR INNOCUOUS",
+        "significance": "Suggests intelligence operation involving potential agent or informant (Liring-3) with carefully planned cover story"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Reference to guidance for report preparation and potential contact with Jose Ignacio Regalado Lopez",
+        "direct_quote": "PROVIDE GUIDANCE FOR PREPARATION LIRING-3 REPORT TO LIRING... MIGHT REACH PERUVIANS TO HOW DEAD JOSE IGNACIO REGALADO-LOPEZ RUIZ WITH WHOM HAD CONTACT IN JAIL",
+        "significance": "Indicates complex international intelligence communication and tracking of individuals"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Document appears to be about activities in Guatemala, discussing interactions between different government/intelligence personnel",
+        "direct_quote": "LIRING-9 STATED CHIEF LIRING 'DOES NOT HAVE VERY MUCH TO DO WITH THESE THINGS' (CLANDESTINE ACTIVITIES IN GUATEMALA)",
+        "significance": "Suggests covert intelligence operations in Guatemala, potentially related to broader Cold War context"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Mentions discussions and interactions between intelligence personnel about experiences and observations",
+        "direct_quote": "LIRING-3 ASKED LIRING-9 PREPARE DETAILED WRITTEN REPORT DUE 1730 HOURS 26 NOV ON HIS EXPERIENCES GUATEMALA AND HIS CONTACTS WITH FAR PERSONALITIES WHILE INCARCERATED",
+        "significance": "Indicates active intelligence gathering and reporting mechanisms between personnel"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Mexico City 8159",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Reference to meeting with Liring-3, potentially discussing intelligence activities in Mexico City",
+        "direct_quote": "MEETING AT 1730 ON 25 NOV WITH *SOME MY COLLEAGUES* SO CAN DISCUSS LIRING-3 REPORT AND SUGGESTIONS AT LENGTH",
+        "significance": "Suggests covert intelligence communication about an operative (Liring-3) with potential connections to assassination investigation"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Mention of potential cultural exposition trip as cover",
+        "direct_quote": "SUGGESTED HE MIGHT BE INVITED FOR CULTURAL EXPOSITION TO MAKE TRIP APPEAR INNOCUOUS AND OFFERED TO MAKE ALL NECESSARY ARRANGEMENTS",
+        "significance": "Indicates potential use of cultural events as operational cover for intelligence activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Discussion of meeting with station officer to prepare intelligence report",
+        "direct_quote": "REQUEST GUAT CITY STATION OFFICER FAMILIAR WITH PAR PGT OP PROCEED MEXICO CITY MORNING 23 NOV TO DISCUSS ABOVE",
+        "significance": "Reveals active intelligence coordination and operational planning in Mexico City"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "2362312",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Reference to individual Francis Sherri with phone number",
+        "direct_quote": "1. IDEN IS FRANCIS SHERRI, PHONE NO. 20-76-66.",
+        "significance": "Limited context, minimal connection to Oswald"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 2,
+        "description": "File number potentially related to individual tracking",
+        "direct_quote": "2. FILE 231-798301",
+        "significance": "Vague file reference, insufficient details to establish clear connection"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "2380312",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Document relates to Mexico City operations and intelligence gathering",
+        "direct_quote": "IMMEDIATE GUATEMALA CITY, DIRECTOR INFO JMCOBRA",
+        "significance": "Suggests ongoing intelligence monitoring in Mexico City region around time of assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Potential intelligence file reference",
+        "direct_quote": "REF MEXICO CITY 8159",
+        "significance": "Indicates possible CIA/intelligence tracking of subject in Mexico City"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "2330312 NW 68 CITE MEXICO CITY",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Identification of a person named Francis Sherry with phone number",
+        "direct_quote": "1. IDEN IS FRANCIS SHERRY, PHONE NO. 23-76-66.",
+        "significance": "Minimal direct connection to Oswald, potential peripheral witness or contact"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 146,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a CIA secret communication about covert operations related to Cuba and insurgent leadership",
+        "direct_quote": "GOG ABLE TAKE ADVANTAGE OF IMPULSIVE ACTIONS BY FAR MEMBERS WHO FAILED MAKE ADEQUATE PREPARATIONS BEFOREHAND.",
+        "significance": "Suggests strategic planning to manipulate and destabilize Cuban insurgent groups, potentially related to broader Cold War geopolitical strategies"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Strategic document discussing potential Cuban leadership changes and imposing conditions",
+        "direct_quote": "SUGGEST THAT LATER IMPOSE CONDITIONS WHICH WILL BE UNACCEPTABLE TO PRESENT INSURGENT LEADERSHIP",
+        "significance": "Indicates active CIA manipulation of Cuban political dynamics, potentially creating internal conflict"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Meeting in Mexico City discussing Liring-3 report and potential cultural exposition",
+        "direct_quote": "MEETING AT 1730 ON 25 W/ 'SOME MY COLLEAGUES' SO CAN DISCUSS LIRING-3 REPORT AND SUGGESTIONS AT LENGTH",
+        "significance": "Suggests ongoing intelligence monitoring and discussion of a specific subject (Liring-3)"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Potential travel arrangements for subject to Mexico City",
+        "direct_quote": "SUGGESTED HE MIGHT BE INVITED FOR CULTURAL EXPOSITION TO MAKE TRIP APPEAR INNOCUOUS AND OFFERED TO MAKE ALL NECESSARY ARRANGEMENTS",
+        "significance": "Indicates potential cover story or managed travel for intelligence purposes"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Reference to contact with Mexican official or intelligence asset",
+        "direct_quote": "WHICH WOFIRM MIGHT WANT REACH PRBUNEMENS TO MOW DEAD JOSE IGNACIO ROLANDO LOPEZ RUIZ WITH WHOM HAD CONTACT IN JAIL",
+        "significance": "Suggests ongoing communication with local contacts in Mexico"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "201-798301",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Secret dispatch from CIA station in Guatemala City to Mexico City station",
+        "direct_quote": "Letter Received by LIRING-3 from Guatemala",
+        "significance": "Indicates potential intelligence operation or communication related to Latin American activities"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "ART MTR7-3522",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Secret communication between CIA station chiefs in Guatemala and Mexico City",
+        "direct_quote": "Letter Received by LIBING-3 from Guatemala",
+        "significance": "Indicates inter-agency communication channels and potential surveillance networks"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "SECRET 2723117",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "This document appears to be about a different individual named Miguel Francisco Argueta Alvarado in Guatemala, not related to Lee Harvey Oswald",
+        "direct_quote": "MIGUEL FRANCISCO ARGUETA ALVARADO",
+        "significance": "Not relevant to JFK assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "DY-175",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Name Check and Consolidation Request form from 1968",
+        "direct_quote": "",
+        "significance": "Administrative document related to filing and indexing of records, potentially part of JFK assassination document collection"
+      },
+      {
+        "category": "LOCATION_INFO",
+        "confidence": 7,
+        "description": "Citizenship listed as Guatemala City, Guatemala",
+        "direct_quote": "Citizenship: Guatemala City, Guatemala",
+        "significance": "Indicates potential international connections or background information being tracked"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "166903",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 8,
+        "description": "Preparatory document for international meeting in July 1959",
+        "direct_quote": "FORMAL MERCER OF THE INTERNATIONAL PREPARATORY COMMITTEE TO BE HELD IN VIENNA, AUSTRIA JUL. 59",
+        "significance": "Contextual document from time period near Oswald's alleged activities, potential intelligence meeting"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_RECORD",
+        "confidence": 7,
+        "description": "Name check and consolidation request for a person named Cubera, Juan",
+        "direct_quote": "CUBERA, Juan",
+        "significance": "Appears to be an administrative document related to personnel or intelligence records"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "056-000-109",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about individuals with last name Carrera from Panama, does not directly relate to Oswald",
+        "direct_quote": "",
+        "significance": "No clear connection to JFK assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "DY-175",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Name check and consolidation request for a person named ALECTA Ricoberto from Guatemala City",
+        "direct_quote": "Guatemala City resident who possibly involved in adversive activities",
+        "significance": "Appears to be an administrative routing document for intelligence filing, but does not directly relate to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "035-004-124",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Document references a scholarship and planned travel from Guatemala City to Moscow via Mexico in January 1960",
+        "direct_quote": "PLANNED TO LEAVE FOR MOSCOW VIA MEXICO JAN 60",
+        "significance": "Provides potential insight into travel patterns and international movements"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "DY-175",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "Document appears to be a name check and consolidation request for a person named Maria de Carreras, wife of Juan Carrera",
+        "direct_quote": "",
+        "significance": "No direct connection to Oswald found on this page"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "DY-175",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "LOCATION_DATA",
+        "confidence": 7,
+        "description": "Subject's place of birth is listed as Guatemala",
+        "direct_quote": "Place of Birth: Chiquimula, Guatemala",
+        "significance": "Potentially indicates foreign connections or background"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "35-4-134-7",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document shows travel details for Luis Barrios Argueta from Guatemala City, planned to leave for Moscow via Mexico in January 1960",
+        "direct_quote": "PLANNED TO LEAVE FOR MOSCOW VIA MEXICO JAN. 60",
+        "significance": "Indicates international travel pattern during Cold War period, potentially relevant to tracking movement of individuals"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret communication between Mexico City and Guatemala regarding traces/files related to Rafael Argueta and Enrique Puente",
+        "direct_quote": "HQS TRACES NEGATIVE RE RAFAEL ARGUETA AND ENRIQUE PUENTE.",
+        "significance": "Indicates interagency communication and tracking of individuals, potentially related to surveillance activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Reference to release from Guatemala jail of an unidentified person",
+        "direct_quote": "BILING/3 received brief typewritten unsigned letter which expressed happiness his release from Guatemala Puente Men's Store jail.",
+        "significance": "Suggests potential diplomatic or intelligence connection involving a release from custody"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document appears to be a SECRET communication about a letter involving individuals named Rafael Agusta and Lining-3",
+        "direct_quote": "LINING-3 RECEIVED BRIEF TYPEWRITTEN UNSIGNED LETTER DATED 22 OCT FROM RAFAEL AGUSTA A.*",
+        "significance": "Potential coded communication or intelligence network reference, though direct Oswald connection not clear"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Document references location details in Guatemala City and Mexico City",
+        "direct_quote": "DIRECTOR, GUATEMALA CITY, MEXICO CITY 7965",
+        "significance": "Indicates intelligence tracking of communications and movements in Central America"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Communication involves Mexican postal details and addresses",
+        "direct_quote": "ENVELOPE IS AIRMAIL STATIONERY 'LA CAJA AZUL, ENRIQUE PLANTE C, ARTICULOS PARA CABALLOS'",
+        "significance": "Suggests complex communication network involving multiple parties in Mexico"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Mexico City 7945",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret communication about establishing contact with an individual in Mexico City",
+        "direct_quote": "Address to use in establishing contact with him.",
+        "significance": "Suggests ongoing intelligence operations and communication tracking in Mexico City"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Reference to Rafael Agcelia (possibly Arcelia) and potential alias usage",
+        "direct_quote": "Rafael Agcelia A aid assures it alias or notional letter drop.",
+        "significance": "Indicates potential use of aliases or covert communication methods"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Mention of apartment rental and travel plans",
+        "direct_quote": "Write next letter directly to apartment Liang-6 rented during Liang-3 absence. Liang-3 will ask friends to expedite contact.",
+        "significance": "Suggests tracking of travel and living arrangements of a subject"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "4167-1973",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "8201-918342",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret communication from Mexico City CIA station discussing communication and contact strategies",
+        "direct_quote": "TO FACILITATE SUBSEQUENT CONTACT WITH LIRING-3 AND OPEN DOOR TO POSSIBLE CLAIM OF INSTRUMENTAL IN LIRING-3 RELEASE",
+        "significance": "Suggests covert communication channels and potential operational involvement with an asset or contact"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "201-719830",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DISPATCH_METADATA",
+        "confidence": 9,
+        "description": "Secret/TAPOR classified dispatch from Chief of Station in Mexico City to Chief of Western Hemisphere Division",
+        "direct_quote": "DISPATCH: SECRET/NAKED",
+        "significance": "Indicates official CIA communication channel about operational review"
+      },
+      {
+        "category": "OPERATION_DETAILS",
+        "confidence": 7,
+        "description": "Operational review of LIRING-3 operation by Wallace B. ROWTON",
+        "direct_quote": "Attached is an operational review of the LIRING-3 operation prepared by Wallace B. ROWTON",
+        "significance": "Suggests ongoing intelligence operation being reviewed, potentially related to surveillance or covert activities"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "201-789301",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Document appears to be about background of an individual (possibly Oswald), mentioning Mexico and potential political connections",
+        "direct_quote": "Subject is a 36-year-old Mexican citizen of the Ciero Rivera social and political activist organization",
+        "significance": "Suggests potential context of political activism, but not directly about Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "GENERAL_OBSERVATIONS",
+        "confidence": 7,
+        "description": "Appears to be an official document discussing development of a subject's background/history",
+        "direct_quote": "Development of Subject's Notation",
+        "significance": "Seems to be part of an intelligence or investigative file analyzing a specific individual"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Subject born in Mexico City in 1930, middle class family, with connections to textile industry",
+        "direct_quote": "Subject was born in Mexico City in 1930 of a middle class family principally engaged in the textile business",
+        "significance": "Provides background context for understanding Oswald's potential recruitment or operational connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document suggests potential international intelligence context",
+        "direct_quote": "Subject was a member of the Chamber of Commerce, at least one of Subject's aunts works in several houses in Mexico City",
+        "significance": "Indicates potential social and professional networks that could be relevant to intelligence activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document appears to reference subject's time in Cuba and Mexico, potentially indicating international connections",
+        "direct_quote": "Subject went to Cuba in about 1960 'to join the revolution', and spent a year residence in Cuba, while at the same time working in the Ministry of Labor",
+        "significance": "Suggests Oswald's potential involvement with revolutionary movements and international political activities"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Details about subject's marriages, residences, and international movements",
+        "direct_quote": "just prior to his marriage he was living in New York and on about 1953-54, he came to Mexico...City was utilized to share with his brothers of social work in Mexico",
+        "significance": "Provides insight into Oswald's complex personal history and international travel patterns"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "SECRET 27533",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Document appears to be a communication about a letter from someone named Lirins-3 in Guatemala",
+        "direct_quote": "LIRINS-3 RECEIVED BRIEF TYPEWRITTEN UNSIGNED LETTER DATED 22 OCT FROM 'RAFAEL AGUSTIN' LETTER WHICH CONTAINS MANY TYPOGRAPHICAL ERRORS",
+        "significance": "Provides a potential communication trail, though not directly related to JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Communication involves Guatemala City and Mexico City",
+        "direct_quote": "DIRECTOR, GUATEMALA CITY TEL: 44-72, GUATEMALA, C.A.",
+        "significance": "Suggests international communication, but no clear connection to assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "4167/1973",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Secret communication between Mexico City and Guatemala City stations about an individual named Liring/3",
+        "direct_quote": "SUBJECT TO GUATEMALA STATION CONCURRENCE, WE BELIEVE LIRING/3 SHOULD BE CANDID WITH LIRING/10 AND TELL HIM WHAT AND AS MUCH AS HE WANTS TO KNOW.",
+        "significance": "Appears to be an internal CIA communication discussing operational details, but not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Secret document from Guatemala City",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Secret CIA communication discussing debriefing of an individual named Liring-3 in Mexico City",
+        "direct_quote": "ROWTON REESTABLISHED CONTACT LIRING-3 25 OCT AND BEGAN DETAILED DEBRIEFING EVENING SAME DAY",
+        "significance": "Suggests intelligence gathering activity, but no direct connection to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Mexico City 7930",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of FAR (likely Revolutionary Armed Forces) activities and relationships in Mexico",
+        "direct_quote": "LIRING-3 REPORT THEY HAD RECEIVED JULY FROM 'RELIABLE FAR SOURCES MEXICO' DESCRIBING LIRING-3 AS 'ANARQUICO, SIN PARTIDO, CONDUCTA BUENA, CONFIABLE, RESPONSABLE PERO DIFICIL CONTROLAR.'",
+        "significance": "Provides insight into revolutionary group dynamics and intelligence gathering in Mexico during the period of interest"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Indication of political figure Montes being out of the country",
+        "direct_quote": "MONTES COMPLETELY STRIPPED OF POWER SINCE HAD IN FACT DESERTED REVOLUTION BY REMAINING OUTSIDE COUNTRY FOR EXTENDED PERIOD",
+        "significance": "Suggests potential political exile or displacement of key revolutionary figure"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Mexico City 7928",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA station communication about intelligence gathering and potential contact with an asset named Liring-3",
+        "direct_quote": "STATION HOPES LIRING AND PARTICULARLY LIRING-10 WILL TRY ESTABLISH CONTACT WITH LIRING-3 AS HE CAN BE EXPECTED TO HAVE INFO OF VALUE TO PERUMEN REGIME",
+        "significance": "Suggests covert intelligence operations in Mexico City involving multiple coded assets"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "References to operations involving Guatemala and Mexico City stations",
+        "direct_quote": "PRIOR TO POSSIBLE LIRING-3 TRIP PERUMEN, SUGGEST HAS, GUATEMALA CITY AND MEXICO CITY STATIONS DETERMINE WHAT CAN BE PASSED PERUMENS",
+        "significance": "Indicates multi-location intelligence coordination and information filtering"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Mexico City 7928 Secret",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to Guatemala City and potential war-related identities",
+        "direct_quote": "CITY BETWEEN ROWTON, PRADYER AND GUAT CITY STATION REPS MIGHT BE USEFUL IN THIS CONNECTION. ASSUME GUAT NAMES MENTIONED ABOVE ARE 'WAR NAMES'.",
+        "significance": "Suggests potential intelligence activity or coded communications involving Guatemala City station representatives"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Instruction to file document with specific reference number",
+        "direct_quote": "FILE 221-798301",
+        "significance": "Indicates systematic filing of intelligence information, potentially related to ongoing surveillance or investigation"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "Mexico City 7922",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but document discusses Mexican prison and revolutionary context",
+        "direct_quote": "",
+        "significance": "Minimal contextual information about Mexican political landscape"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Discusses Mexican political situation, revolution, and prison dynamics",
+        "direct_quote": "MEXICO DESCRIBING LIRING-3 AS 'ANARQUICO, SIN PARTIDO, CONDUCTA BUENA, CONFIABLE, RESPONSABLE PERO DIFICIL CONTROLAR'",
+        "significance": "Provides insight into political tensions and surveillance in Mexico during this period"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing intelligence gathering and communication about an individual (Liring-3) with potential operational connections",
+        "direct_quote": "LIRING-3 PLANS FOR COVER PURPOSES WORK IN SIGUEIROS STUDIO CUERNAVACA AND ARRANGE SOONEST BELLAS ARTES SPONSORED EXPOSITION HIS LATEST PAINTINGS",
+        "significance": "Suggests covert intelligence operation involving artistic cover, potentially related to surveillance or intelligence gathering"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mentions multiple geographic locations indicating cross-border intelligence activities",
+        "direct_quote": "THROUGH GUAT CP ETC... MEXICO CITY... GUATEMALA CITY",
+        "significance": "Indicates complex inter-agency and international communication network"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "7920-MEXICO-SECRET",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to Guatemala City and potential 'war names'",
+        "direct_quote": "ASSUME GUAT NAMES MENTIONED ABOVE ARE 'WAR NAMES'. CAN GUATEMALA CITY SHED SOME LIGHT THEIR IDENTITIES.",
+        "significance": "Suggests potential intelligence interest in code names or covert identities related to Guatemala"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_RECORDS",
+        "confidence": 7,
+        "description": "Secret document tracking travel of individuals from Guatemala to Mexico City",
+        "direct_quote": "18 OCTOBER 1968 VIA TACA FLIGHT 210 FOR MEXICO CITY. THEY ASKED FOR AND RECEIVED ESCORT DIRECTLY FROM PRISON FARM TO AIRPORT.",
+        "significance": "Demonstrates detailed surveillance and movement tracking of individuals, suggesting sophisticated intelligence monitoring"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "WR 81/64, WHLOG 64, 40/05",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Secret classified document dated 24 Oct 68, likely related to post-assassination intelligence communications",
+        "direct_quote": "SECRET",
+        "significance": "Indicates ongoing classified communications about the assassination years after the event"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "19 1835Z OCT 68",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to Guatemala legal proceedings, potentially involving political legal case",
+        "direct_quote": "19 OCTOBER GUATEMALAN DAILY PRENSA LIBRE REPORTED COURT OF APPEALS CONFIRMED DECISION OF LOWER COURT ABSOLVING LIRING-3 AND COMPANION OF CHARGES",
+        "significance": "Suggests legal proceedings in Guatemala that might have tangential connection to broader international political investigations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "042387 OCT 68",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret CIA communication discussing operational concerns about Liring-3 and Liring-4, potentially related to covert operations in Guatemala",
+        "direct_quote": "STATION WISHES TO REITERATE ONCE MORE ITS RELUCTANCE TO SOMEHOW TRY TO FREE LIRING-3 FROM JAIL IN GUATEMALA CITY BY GOING TO LIAISON AND EXPOSING HIS WOFIRM CONNECTION.",
+        "significance": "Suggests ongoing covert intelligence operations and concerns about exposing sensitive assets"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Potential involvement of Mexican and Guatemalan political groups",
+        "direct_quote": "IF IT ATTRACTED SUSPICION GUAT REBELS, MEXICAN LEFTISTS OR PERUMEVERS WOULD RENDER FURTHER OPERATIONAL EXPLOITATION LIRING-3 AND LIRING-4 PROBLEMATIC.",
+        "significance": "Indicates complex geopolitical context and potential international intelligence complications"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Mexico City 7486",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing operational potential and liaison between Mexico City and Guatemala City stations",
+        "direct_quote": "STATION WOULD NATURALLY BE WILLING RE-EXAMINE ITS POSITION RE LIRING-3 IF GUATEMALA CITY STATION COULD DETERMINE BEYOND ANY REASONABLE DOUBT THAT APPROACH OF JUDGE THROUGH LIAISON WOULD NOT LEAK.",
+        "significance": "Suggests active intelligence operations and communication between CIA stations, with concerns about information security"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Potential reference to ongoing surveillance or monitoring of a subject (LIRING-3)",
+        "direct_quote": "WILL HAVE INCREASED OPERATIONAL POTENTIAL. IF LIRING-3 NOT RELEASED IN NEAR FUTURE LIRING-4 MAY FIND ONLY WAY OUT HER CURRENT PREDICAMENT IS AT LEAST TEMPORARY RETURN TO CAREER.",
+        "significance": "Indicates complex operational tracking of individuals, with potential implications for intelligence activities"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "WH/1/3604",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Reference to LIRING-4 taking residence in Cuban Embassy in Mexico City",
+        "direct_quote": "Headquarters commented on fact LIRING-4 recently took up residence in Cuban Embassy, Mexico City because lacked funds pay rent.",
+        "significance": "Suggests potential intelligence connection or surveillance of Cuban diplomatic location around time of assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Potential intelligence/diplomatic connections in Mexico City",
+        "direct_quote": "Also asked Guatemala Station if could arrange for early release LIRING-3 from jail through high level Cuban official",
+        "significance": "Hints at complex diplomatic/intelligence network involving Cuba and possible covert operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "30-804-60",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA communication about LIRING-3 and LIRING-4 operations in Guatemala and Mexico City",
+        "direct_quote": "GUATEMALA CITY STATION IS WILLING TO USE ITS LIASON RELATIONSHIP IN ANY WAY NECESSARY TO SUPPORT UNILATERAL WOFIRM OPERATIONS",
+        "significance": "Reveals covert CIA operational activities in Central America, suggesting complex intelligence network"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Potential diplomatic tensions between Guatemala and Mexico City stations",
+        "direct_quote": "MEXICO CITY STATION POSITION THEY DEFINITELY NOT IN FAVOR INTERVENTION WITH GUAT AUTHORITIES",
+        "significance": "Indicates potential disagreements between CIA regional stations about operational approaches"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Guatemala City 9517",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Vague reference to potential court interaction or intelligence interest",
+        "direct_quote": "SCHEDULED AND INDICATION THAT SENTENCE MAY BE, BELIEVE ANY INTEREST",
+        "significance": "Cryptic language suggests potential connection or ongoing investigation, but details are unclear"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "201-98384",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret dispatch from CIA Chief of Station in Mexico City about LIRING-3 operational activities",
+        "direct_quote": "LIRING-3's efforts to obtain help in getting LIRING-3 out of jail in Guatemala",
+        "significance": "Suggests covert CIA operational activities involving asset management and potential legal complications"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Difficulties with Mexican and Guatemalan legal systems for CIA operatives",
+        "direct_quote": "LIRING-3 cannot work in Mexico without risking chance of being arrested",
+        "significance": "Indicates challenges for CIA operations in Central America during this period"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NRHA-35502",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed diplomatic communication about intelligence operations involving LIRING agents in Mexico",
+        "direct_quote": "LIRING-4 developed close relationships with Orlando SUAREZ of the Ministry of Culture in Mexico",
+        "significance": "Provides insight into CIA intelligence network and operational relationships in Mexico during the early 1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mentions interactions with Mexican communist cultural attach\u00e9",
+        "direct_quote": "LIRING-4's agreement with LIRING-4 claimed to KORTON that there was no connection, between the two and thank SUAREZ was not an agent",
+        "significance": "Suggests complex diplomatic interactions and potential intelligence gathering efforts"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 197,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "SECRET_12JUNE1968",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3,
+    "notes": "This appears to be a mostly blank secret document envelope/cover sheet with a mailing address. While marked 'SECRET', the page contains very little readable text and no substantive information related to the JFK assassination investigation. The document is in Spanish and appears to be a mailing envelope addressed to someone named 'Blanca' in Mexico City. No meaningful intelligence findings can be extracted from this specific page."
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 10,
+        "description": "Top secret classified document",
+        "direct_quote": "SECRET",
+        "significance": "Indicates sensitive, restricted information"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Internal communication document discussing diplomatic/intelligence interactions",
+        "direct_quote": "LIENG/4 reported to Boston that she had received two distressing letters from LIENG/3 complaining about the miserable coalitions under which he is living",
+        "significance": "Suggests ongoing intelligence communications and potential operational tensions"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "References to Mexican judicial/diplomatic interactions",
+        "direct_quote": "the Mexican Embassy could do nothing to speed up the final release and that if Boston could not intervene, anything could happen",
+        "significance": "Indicates potential diplomatic complications or pressure surrounding an unspecified case"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not visible in image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Document describes a meeting involving Wallace B. Rowton and someone with a LIRING/11 code name",
+        "direct_quote": "Rowton had hoped to be able to invite LIRING/11 to lunch, but he had to take a short trip to Nuevo Laredo to attempt to arrange for the purchase of a car.",
+        "significance": "Suggests potential intelligence-related travel and clandestine meeting arrangements"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Appears to be a Secret Service or intelligence agency communication about a meeting",
+        "direct_quote": "After several days of attempts by Rowton to meet with LIRING/11 in the vicinity of his residence... Rowton finally succeeded at about 1600 on 5 July, 1968",
+        "significance": "Indicates covert communication and surveillance between individuals with coded identifiers"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Document discusses an individual named Iden's financial activities and living arrangements",
+        "direct_quote": "Iden, who said several times prior to his town Cuernavaca, She commented that Iden was divorced and lived alone",
+        "significance": "Provides background on an individual's personal circumstances, potentially relevant to understanding broader context"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Detailed account of interactions and movements between individuals",
+        "direct_quote": "LIRIN/G/4 then related that she received a message early in the previous week that Iden was trying to get in touch with her and she accordingly went to the LIRIN offices",
+        "significance": "Suggests active tracking and communication monitoring of individuals"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a CIA/intelligence report discussing operational details and interactions between agents/assets",
+        "direct_quote": "LIENG/4 then continued that when she finally got in touch with Iden A...",
+        "significance": "Suggests ongoing intelligence operations and communication networks being managed"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "References to travel and living expenses for agents in Mexico City and Guatemala",
+        "direct_quote": "...he would have to count on the realty of Siqueiros for his living expenses during his anticipated three-month stay in Mexico",
+        "significance": "Indicates covert movement and financial support for intelligence operatives"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10176-10006",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 9,
+        "description": "Secret document dated 9 July 1968 titled 'USIE/A Report of Activities'",
+        "direct_quote": "Subject: USIE/A Report of Activities.",
+        "significance": "Appears to be an internal intelligence agency document from late 1960s"
+      },
+      {
+        "category": "PERSONNEL_IDENTIFICATION",
+        "confidence": 7,
+        "description": "Three individuals identified: Orlando Suarez (Director de Cultura), Arturo Cerrao, Mercedes Morales",
+        "direct_quote": "Iden A is Orlando Suarez, Director de Cultura. Iden 3 is Arturo Cerrao. Iden C is Mercedes Morales.",
+        "significance": "Names of potential persons of interest in intelligence-related activities"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "12 July 1968",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "IRRELEVANT_DOCUMENT",
+        "confidence": 9,
+        "description": "This document appears to be about Guatemalan rebel activities and a CIA/intelligence matter, not related to JFK assassination",
+        "direct_quote": "Information on the Guatemalan rebel activities in PNEUVEL",
+        "significance": "Document does not contain JFK assassination evidence"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret CIA document about activities in Cuernavaca, Mexico",
+        "direct_quote": "LIN:76/4 saw a brain briefly at CICC, 12/7/68 at the Buena Vista tea shop",
+        "significance": "Suggests ongoing CIA intelligence gathering and surveillance activities in Mexico"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "20 July, 1968",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Discussion of LIRING/3 arrest in Guatemala and potential political implications",
+        "direct_quote": "Reyes then revealed that LIRING/3 had been arrested in Guatemala and charged with the murder of three men",
+        "significance": "Provides insight into potential international intelligence operations and connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed meeting between Roxton and Rodolfo Reyes discussing intelligence network",
+        "direct_quote": "Roxton met Rodolfo Reyes at about 2230 in the dining room of the Vendimia Restaurant and night club",
+        "significance": "Suggests ongoing intelligence gathering and communication about operatives"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "21 August 1968 Contact Report",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (Page 2 of a document)",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DETAILS",
+        "confidence": 6,
+        "description": "Discussion of expenses and administrative handling related to an individual's case",
+        "direct_quote": "LIHNG/3 told Hoxton that she had spent a 'considerable' amount of money (some 300 pesos) in teletypes, stamps and vitamins for LIHNG/3 since his arrest.",
+        "significance": "Provides insight into administrative handling of a case, potentially related to intelligence or law enforcement activities"
+      },
+      {
+        "category": "LEGAL_SUPPORT",
+        "confidence": 5,
+        "description": "Mention of a lawyer offering to help with a case without fee",
+        "direct_quote": "She added that the lawyer, who was a personal friend of LIHNG/3, would take the case without a fee, but she felt obliged to offer to cover his expenses.",
+        "significance": "Suggests personal connections and support network for the subject of the document"
+      }
+    ],
+    "overall_page_relevance": 3,
+    "notes": "This document does not appear to be directly related to the JFK assassination. The page contains administrative details about a case involving someone named LIHNG/3, with limited contextual information."
+  },
+  {
+    "document_id": "Unknown - Not specified in this document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Secret document dated 23 August, 1968",
+        "direct_quote": "23 August, 1968",
+        "significance": "Late-dated document related to potential post-assassination investigations or communications"
+      },
+      {
+        "category": "PERSONNEL_IDENTIFICATION",
+        "confidence": 7,
+        "description": "Two individuals identified: Orlando Suarez and Carlos Perzabal",
+        "direct_quote": "Iden A: Orlando Suarez\nIden B: Carlos Perzabal",
+        "significance": "Potentially relevant individuals connected to intelligence or investigative activities"
+      },
+      {
+        "category": "DOCUMENT_ORIGINATOR",
+        "confidence": 8,
+        "description": "Document signed by Wallace B. Rowton",
+        "direct_quote": "Wallace B. Rowton",
+        "significance": "Identifies potential author or approving official for the document"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "N/A",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Internal meeting notes from LIKING/4 agent discussing interactions between agents",
+        "direct_quote": "LIING/CA informed Newton that she had run into LIING/10 and his assistant, Iden I, the previous afternoon",
+        "significance": "Provides insight into internal communications and interactions between intelligence agents"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unspecified from image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 10,
+        "description": "Secret contact report dated 29 August 1958",
+        "direct_quote": "Iden's of LIKING/A Contact Report",
+        "significance": "Appears to be an early CIA operational document involving multiple individuals"
+      },
+      {
+        "category": "PERSONNEL_IDENTITIES",
+        "confidence": 8,
+        "description": "Three individuals listed: Felix Lema Mederos, Orlando Suarez, Jesus Cruz Gonzalez",
+        "direct_quote": "Iden A: Felix Lema Mederos\nIden B: Orlando Suarez\nIden C: Jesus Cruz Gonzalez",
+        "significance": "Potential CIA assets or operational contacts from 1958"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "201-793301",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DISPATCH_DETAILS",
+        "confidence": 8,
+        "description": "Secret dispatch from Western Hemisphere Division to Chief of Station in Mexico City about LIBERTE-3 and LIBERTE-4 activities",
+        "direct_quote": "FREDERICK: Activities of LIBERTE-3, LIBERTE-4 May through Mid-September 1968",
+        "significance": "Appears to be a CIA communications document about covert operatives"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "ER-3550",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "DC/VH1/7375",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document appears to be a secret communication involving Mexico City and Guatemala City",
+        "direct_quote": "MEXICO CITY, GUATEMALA CITY",
+        "significance": "Suggests potential international intelligence communications related to ongoing investigation or operation"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Discussion of potential financial assistance and personal situation involving someone referred to as L/4",
+        "direct_quote": "ROWTON COULD SEND MONEY OSTENSIBLY FROM L/4's FATHER IN NEW YORK TO BAIL HER OUT OF PRESENT DESPERATE SITUATION",
+        "significance": "Indicates complex personal/financial circumstances involving potential intelligence-related individuals"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses potential release of individuals related to Guatemala, suggesting diplomatic negotiations",
+        "direct_quote": "FOR GUATEMALA: WOULD APPRECIATE RECOMMENDATIONS RE POSSIBILITY EARLY RELEASE OF LIUNG/3 AND ASSOCIATE FROM JAIL.",
+        "significance": "Indicates potential diplomatic maneuvering involving international actors, though not directly related to JFK assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Secret classified document suggesting inter-agency communication about potential prisoner release",
+        "direct_quote": "AWARE WOFIRN INTEREST MUST BE SHOWN AT HIGH LEVEL BUT SOME OFFICIALS COULD ALLEGE MEXICAN GOVT INTEREST TO THEIR SUBORDINATES AS BASIS OF RELEASE.",
+        "significance": "Reveals complex diplomatic negotiations and potential covert communication strategies"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "BGHA-35523",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "LOCATION_REFERENCE",
+        "confidence": 7,
+        "description": "Document references Guatemala",
+        "direct_quote": "LIFERG-3: LIFERG-9 IS STILL IN JAIL IN GUATEMALA",
+        "significance": "Potentially relates to CIA operations or intelligence activities in Central America"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "072842",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to Guatemala and Mexico, discussing Communist party and guerrilla activities",
+        "direct_quote": "GUAT COMMUNIST PARTY AT REQUEST MEXICAN COMMUNIST PARTY",
+        "significance": "Provides context of Communist political interactions in Central America during Cold War period"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Reference to an individual named Jurado who entered Guatemala and picked up hitchhiking youths connected to guerrillas",
+        "direct_quote": "ENTERED GUATEMALA IN HIS CAR FOUR MONTHS AGO AND PICKED UP SOME HITCHHIKING YOUTHS WHO LATER TURNED OUT BE CONNECTED WITH GUAT COMMUNIST GUERRILLAS",
+        "significance": "Suggests potential surveillance or tracking of Communist movement and individuals"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Mexico City 6658",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Vague reference to potential liaison and information gathering about a case (Jurado case)",
+        "direct_quote": "BELIEVE NEWS ARTICLE COULD BE USED TO APPROACH LIAISON AND ASK FOR DETAILS ON JURADO CASE WITHOUT INDICATING ANY SPECIAL CONNECTION TO JURADO",
+        "significance": "Suggests potential intelligence gathering strategy, but lacks clear connection to Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Indicates ongoing interest in a subject's potential deportation or sentencing",
+        "direct_quote": "PARTICULARLY IF HE DEPORTED OR SENTENCED RELATIVELY SHORT JAIL SENTENCE",
+        "significance": "Hints at intelligence monitoring of an individual's legal status and potential future movements"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown (not specified in document)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret communication between Mexico City and Guatemala City information directors",
+        "direct_quote": "MEXICO CITY INFO DIRECTOR... GUATEMALA CITY",
+        "significance": "Suggests inter-agency communication about an unspecified case"
+      },
+      {
+        "category": "LIAISON_ACTIVITIES",
+        "confidence": 7,
+        "description": "Case appears to be in court, with liaison officer unable to probe further",
+        "direct_quote": "LIAISON OFFICER SAID SINCE CASE IN HANDS OF COURT THEY UNABLE PROBE FURTHER RE OUTCOME",
+        "significance": "Indicates potential operational sensitivity and legal constraints"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "201-798301",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Oswald in this document",
+        "direct_quote": "",
+        "significance": "Minimal relevance to Oswald investigation"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Brief reference to LISAT coverage for Cuba section",
+        "direct_quote": "Carlos JUEIDO was target of LISAT coverage on behalf of Cuba section",
+        "significance": "Suggests intelligence monitoring activities related to Cuba"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "WH 8",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to Mexico City and Guatemala City intelligence information",
+        "direct_quote": "MEXICO CITY INFO GUATEMALA CITY",
+        "significance": "Suggests intelligence gathering activities in Central America during the relevant time period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of Arturo Serrano, a publishing house director with potential exile connections",
+        "direct_quote": "HQS FILES INDICATE ARTURO SERRANO IN 1966 WAS DIRECTOR PCM PUBLISHING HOUSE FONDO DE CULTURA IN MEXICO CITY",
+        "significance": "Indicates intelligence interest in cultural/publishing figures and potential exile networks"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "WH/1/3604",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Reference to Guatemala and potential exile connections",
+        "direct_quote": "LIRG/4 approached by PCM member Arturo SERRANO who claimed he has contact with Guatemalan exile who could arrange bribe through relatives in Guatemala in transit",
+        "significance": "Suggests potential international connections and covert communication channels involving exiles"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "250185Z MAY 68",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to Mexican and Guatemalan intelligence activities",
+        "direct_quote": "GUATEMALA CITY INFO DIRECTOR",
+        "significance": "Provides insight into intelligence communications between Mexico and Guatemala around the time period of JFK assassination aftermath"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Mexico City 5683",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Reference to Liring-3 smuggled from jail, potential covert communication",
+        "direct_quote": "MESSAGES FROM LIRING-3 SMUGGLED FROM JAIL. ONE IN OPEN CODE",
+        "significance": "Suggests potential underground communication network or operational contact"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "16May68-12603",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Secret document about communist propaganda and prisoners in Guatemala",
+        "direct_quote": "PRISON FARM PENDING SENTENCE BY FOURTH JUZGADO DE PRIMERA INSTANCIA. ONLY CHARGE IS DISTRIBUTING COMMUNIST PROPAGANDA.",
+        "significance": "Tangentially related to global political tensions, but not directly connected to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "HDQA-34623",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "Document appears to be about LIRING-3 operations in Guatemala, with no direct mention of Oswald",
+        "direct_quote": "",
+        "significance": "No clear connection to Oswald found in this document"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "MEGA-9386",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 10,
+        "description": "Secret classified document dated 3 May 1968",
+        "direct_quote": "SECRET",
+        "significance": "Indicates sensitive government communication from shortly after the assassination"
+      },
+      {
+        "category": "LOCATION_CONTEXT",
+        "confidence": 8,
+        "description": "Document originates from Mexico City",
+        "direct_quote": "Chief of Station, Mexico City",
+        "significance": "Mexico City was a key location in Oswald-related intelligence activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "3N29940383",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  }
+]

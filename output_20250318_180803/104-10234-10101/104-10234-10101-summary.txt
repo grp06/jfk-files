@@ -1,0 +1,32 @@
+JFK ANALYSIS SUMMARY: 104-10234-10101
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 7/10
+- Page 3: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Reference to possible intelligence agent handlers and identities
+  QUOTE: "AGENT HANDLER 'TORRES', 'JORGE' ... REF B) HAS SINCE IDENTIFIED HIMSELF TO MRS. A-9 AS 'TORRES'"
+
+Page 3 (Confidence: 3/10)
+  Vague reference to 'Torres Organization' and potential agent connections
+  QUOTE: ""TORRES" ORGANIZATION NEGOTIATE HIS RELEASE THRU DIP CHANNELS"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Detailed intelligence communication about CIA/intelligence investigation and involvement
+  QUOTE: "SINCE FORWARDING REF D WAVE PRESSED INVESTIGATION SPONSORSHIP AMTRUNK-9 TRIP"
+
+Page 3 (Confidence: 4/10)
+  Indications of covert operational spending and resource allocation
+  QUOTE: "FUNDS EXPENDED A-9 TRIP ESTIMATED CONSERVATIVELY APPROX $1450"
+

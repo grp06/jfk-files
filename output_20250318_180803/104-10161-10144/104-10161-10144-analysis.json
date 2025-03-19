@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10161-10144",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Document details personnel transfer and cover employment information for Joseph S. Piccolo",
+        "direct_quote": "Mr. Piccolo's forwarding address will be 1636 N.E. 20th Street, Ft. Lauderdale, Florida. His new employment is 121st Tactical Fighter Sq., Andrews AFB.",
+        "significance": "Shows internal CIA personnel movement and cover employment practices, potentially indicating methods used for covert operations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "CIA document describing an employee's cover and employment history",
+        "direct_quote": "Mr. Piccolo entered on duty with the Agency on 4 February 1957 and will resign on 4 October 1961. During his period of employment he utilized [nominal] cover status",
+        "significance": "Reveals CIA's use of cover assignments and personnel management techniques during late 1950s/early 1960s"
+      }
+    ],
+    "overall_page_relevance": 2
+  }
+]

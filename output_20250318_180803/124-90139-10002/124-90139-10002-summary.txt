@@ -1,0 +1,28 @@
+JFK ANALYSIS SUMMARY: 124-90139-10002
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 6/10
+- Page 2: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  FBI document related to CIA Liaison Material
+  QUOTE: "SUBJECTS: CIA LIAISON MATERIAL"
+
+Page 2 (Confidence: 6/10)
+  CIA developing surveillance and coverage of a suspect near Venezuelan-Colombian border
+  QUOTE: "CIA developed a suspect and instituted coverage. Recently, this individual transmitted a letter to Havana which communication was intercepted by CIA"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Document discusses Cuban intelligence communications and a Cuban agent in Panama/Havana
+  QUOTE: "subject is a high-ranking official in the [Cuban G-2 organization] in Havana"
+

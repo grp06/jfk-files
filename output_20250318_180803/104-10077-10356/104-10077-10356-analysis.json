@@ -1,0 +1,30 @@
+[
+  {
+    "document_id": "104-10077-10356",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Memo from P.A. Maggio at SAS/MOB/FI (likely FBI domestic operations) discussing intelligence communications",
+        "direct_quote": "IMMEDIATE WAVE RYBAT TYPIC AMBER ANTANNA",
+        "significance": "Suggests inter-agency communication about surveillance or intelligence gathering related to the assassination investigation"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Multiple wave/communication references indicating ongoing intelligence monitoring",
+        "direct_quote": "REFS A) WAVE 8316 (IN 70529) B) WAVE 8346 (IN 70905)",
+        "significance": "Indicates active intelligence tracking and communication channels being used to share information"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Possible reference to surveillance of potential associates or networks",
+        "direct_quote": "ASSUME (REDACTED) IN BRITISH USE SURVEILLANCE, PARTICULARLY SINCE INFILTRATION",
+        "significance": "Suggests ongoing investigation into potential conspiracies or networks related to the assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  }
+]

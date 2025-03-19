@@ -1,0 +1,24 @@
+JFK ANALYSIS SUMMARY: 124-10326-10103
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 6/10
+- Page 2: Relevance 6/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Document discusses Bureau Informant 100 and CIA liaison arrangements with Israeli Intelligence Service
+  QUOTE: "In 1954, a procedure was approved whereby we could attribute certain information received from James Angleton, CIA, under the symbol 'Bureau Informant 100.'"
+
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 2 (Confidence: 5/10)
+  Memo notes information about travelers, including U.S. citizens' travel to Israel
+  QUOTE: "In recent months regarding the travel of U.S. citizens to Russia, via Israel"
+

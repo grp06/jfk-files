@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "104-10169-10017",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "Vague reference to anti-Communist organization FAL (Fuerza Anti-Comunista de Liberacion)",
+        "direct_quote": "FAL (Fuerza Anti-Comunista de Liberacion) is well organized, the best organized being the forces in Nitar del Rio Provinces",
+        "significance": "Suggests potential anti-Communist paramilitary group with possible organized crime or intelligence connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Document appears to be an intelligence briefing about a Cuban source",
+        "direct_quote": "Source said that EAC (Salvur a Cuba) was destroyed by Cuban security forces",
+        "significance": "Indicates CIA-related intelligence gathering about Cuban anti-Communist activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "CCA-105",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses Arturo Godoy, a bank employee with potential intelligence connections",
+        "direct_quote": "Agenoia Ndo-Jodo Arturo Godoy, en ccclcgpo do the National Bank, G-2, Arturo is about 32 years old, white, stocky (about 190 pounds), 5'10\"",
+        "significance": "Provides details about a potential intelligence operative with G-2 (military intelligence) background"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to communications involving Cerronio and discussions about potential information sharing",
+        "direct_quote": "he was not going to try and locate him. he was careful to remain detached of the 'amigos' who would call on him for this information.",
+        "significance": "Suggests cautious communication between intelligence contacts"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

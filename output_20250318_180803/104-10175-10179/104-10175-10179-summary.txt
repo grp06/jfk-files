@@ -1,0 +1,42 @@
+JFK ANALYSIS SUMMARY: 104-10175-10179
+================================================================================
+
+Document contains 5 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+- Page 2: Relevance 5/10
+- Page 1: Relevance 4/10
+- Page 14: Relevance 4/10
+- Page 1: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Document refers to subject as an 'outside agent' with connections to KUBARK and LIHUFF/2 organizations
+  QUOTE: "Subject was originally recruited as a cutout for the LIHUFF/2 organization. However, his actual duties for KUBARK entail far more than initial contact."
+
+Page 1 (Confidence: 3/10)
+  Personal background information
+  QUOTE: "Married, Wife: Rachel Esther Williams"
+
+
+WITNESS TESTIMONIES:
+----------------------------------------
+Page 1 (Confidence: 4/10)
+  Credit references from different US cities
+  QUOTE: "B.C. Bottling of Baltimore, Popular Dept. Store in El Paso, Texas"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Document discusses subject's compensation arrangement
+  QUOTE: "His salary was established to reimburse him for the amount of time it is necessary for him to expend activities. In this regard, it is felt that the sum of $500 monthly is not an excessive amount."
+
+Page 1 (Confidence: 6/10)
+  Banking accounts in Falls Church, Virginia and Mexico City
+  QUOTE: "Falls Church Bank, Banco Nacional de Mexico"
+

@@ -1,0 +1,38 @@
+JFK ANALYSIS SUMMARY: 104-10186-10099
+================================================================================
+
+Document contains 4 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 6: Relevance 7/10
+- Page 1: Relevance 5/10
+- Page 2: Relevance 5/10
+- Page 5: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  CIA document detailing policy guidance directives for Cuban Intelligence Representatives in the Dominican Republic
+  QUOTE: "Policy Guidance Directives for Cuban Intelligence Representatives in the Dominican Republic"
+
+Page 2 (Confidence: 6/10)
+  Intelligence gathering priorities on leftist forces and potential interventions
+  QUOTE: "Status of Leftist Forces: organization, leaders, strength, position, and argumentation in the revolutionary struggle"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Detailed intelligence guidelines focused on Cuba and Dominican Republic
+  QUOTE: "Political and military agreements adopted by regional organs against Cuba in which the Bosch government participates"
+
+Page 1 (Confidence: 6/10)
+  Document prepared during the regime of Juan Bosch Gavino, indicating complex political landscape
+  QUOTE: "It may be noted that this directive was prepared during the régime of Juan Bosch Gavino"
+
+Page 6 (Confidence: 6/10)
+  Sections on Cuban-Soviet relations and political movements
+  QUOTE: "In regard to Cuban-Soviet relations, in questions which affect Cuba and world peace."
+

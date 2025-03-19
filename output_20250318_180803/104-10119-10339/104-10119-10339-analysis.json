@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10119-10339",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret memo about converting a CIA staff employee's status for assignment to Mexico City under deep cover",
+        "direct_quote": "Concurrence is requested in the conversion of the subject's status from that of OFC Staff Employee to that of OFC Staff Agent. The subject is to be assigned to Mexico City as a GS-13, Intelligence Officer under Department of State Deep Cover.",
+        "significance": "Indicates covert CIA personnel assignment and operational method of using State Department cover"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Memo references personnel assignment to Mexico City",
+        "direct_quote": "to be assigned to Mexico City",
+        "significance": "Highlights potential intelligence operational base in Mexico City, which was significant during the Cold War period"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

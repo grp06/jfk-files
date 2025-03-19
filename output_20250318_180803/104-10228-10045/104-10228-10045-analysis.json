@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "104-10228-10045",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Jamaican government's stance on Cuba and Cold War involvement",
+        "direct_quote": "JAMAICAN GOVT WANTS NOT BE OVERLY INVOLVED IN COLD WAR AND OUT OF CONCERN FOR SAFETY LARGE JAMAICAN COMMUNITY CUBA WILL MAKE STRENUOUS EFFORT TO STAY OUT.",
+        "significance": "Provides insight into diplomatic tensions and strategic positioning during Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Indicates covert monitoring and diplomatic maneuvering",
+        "direct_quote": "HOWEVER THEY WILL HELP COVERTLY WHEREVER POSSIBLE. ANY ATTEMPT TO INVOLVE JAMAICAN GOVT AGAINST ITS WILL AT THIS TIME WOULD RESULT IN NETLOSS OF COOPERATION NOW AND IN FUTURE.",
+        "significance": "Reveals complex diplomatic strategies and covert operational approaches during Cold War"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of communist groups in Jamaica and potential revolutionary activities",
+        "direct_quote": "COMPRISING LOCAL COMMUNISTS AND RAS TAFARIS), AND GIFT TO BUDDING NEW COMMUNIST FRONT 'SOCIALIST PARTY OF JAMAICA'",
+        "significance": "Indicates regional communist political movements and potential international political tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Suggestion to send representative to assess local political climate",
+        "direct_quote": "SUBJ KNGS CONCURRENCE, SUGGESTED MAY SEND AMBUD REP TO TEST LOCAL GOVT CLIMATE FOR PROPOSED DELEG AND REPORT RESPONSE AMBUD/1",
+        "significance": "Suggests covert diplomatic intelligence gathering and monitoring of political developments"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

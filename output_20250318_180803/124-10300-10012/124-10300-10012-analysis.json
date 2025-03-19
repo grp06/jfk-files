@@ -1,0 +1,72 @@
+[
+  {
+    "document_id": "124-10300-10012",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "FBI document related to JFK Assassination Records Act release",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Indicates ongoing document declassification process for JFK assassination records"
+      },
+      {
+        "category": "SUBJECT_INFORMATION",
+        "confidence": 7,
+        "description": "Document involves Jorge Raul Roblejo, associated with political prisoners",
+        "direct_quote": "SUBJECTS: MR. LORIE, JORGE RAUL ROBLEJO, RES, POLIT ACT, TRA, ASSOC, POLIT PRISONERS",
+        "significance": "Potential political context or connection to broader investigation"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 8,
+        "description": "Highly restricted document with multiple classification levels",
+        "direct_quote": "CLASSIFICATION: Secret, 1B; IC4, CURRENT STATUS: Redact",
+        "significance": "Suggests sensitive information potentially related to the assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "105-147458",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document references 'JORGE SERGIO OSWALDO' in connection with Cuban liberation committee",
+        "direct_quote": "RAUL ROBLEJO LORIE, IS - CUBA and SERGIO OSWALDO BETANCOURT COLLAZO, aka - PSI, IS - CUBA",
+        "significance": "Suggests potential connections to Cuban exile networks and intelligence operations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA and FBI inter-agency communication about Cuban liberation group",
+        "direct_quote": "COMITE PRO-LIBERACION DE LOS CIEN (CIPLIC - COMMITTEE FOR THE LIBERATION OF THE ONE HUNDRED) IS - CUBA",
+        "significance": "Indicates active intelligence monitoring of Cuban exile groups during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "MM 105-9977",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Cuban intelligence and diplomatic connections involving potential informants",
+        "direct_quote": "ROBLEJO has been in contact with REINALDO ABREU, Attache at the Cuban Embassy in Mexico City and connected with Cuban Intelligence",
+        "significance": "Reveals complex diplomatic networks and potential intelligence operations involving Cuban officials"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Cuban exile and diplomatic networks potentially relevant to assassination investigation",
+        "direct_quote": "LUIS RICARDO ALONSO, former Cuban Ambassador to London, who defected in 1965, has been in correspondence with ABREU",
+        "significance": "Highlights interconnected networks of Cuban diplomats and exiles during the Cold War period"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

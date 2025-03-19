@@ -1,0 +1,17 @@
+JFK ANALYSIS SUMMARY: 104-10087-10054
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 43: Relevance 6/10
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  System for maintaining detailed personal dossiers on individuals
+  QUOTE: "The 201 Dossier: the official file containing the 201 opening form and all biographical reporting on and references to the individual"
+

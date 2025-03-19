@@ -1,0 +1,106 @@
+[
+  {
+    "document_id": "177-10002-10016",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document discusses Cuban financing of subversive operations in Latin America",
+        "direct_quote": "Cuban financing of subversive operations in Latin America is easy to ascertain and hard to document.",
+        "significance": "Provides context of Cuban international activities during the early 1960s, potentially relevant to geopolitical tensions surrounding the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not specified in the document",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Cuban involvement with revolutionary youth groups in Ecuador",
+        "direct_quote": "arrested some 48 members of the URJE (Union of Revolutionary Ecuadorean Youth). The leaders of the group admitted having received guerrilla training in Cuba",
+        "significance": "Highlights Cuban support for revolutionary movements in Latin America, potentially relevant to broader Cold War context of JFK assassination investigations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Internal communist party conflicts and funding of revolutionary groups",
+        "direct_quote": "the Communists managed to have a URJE convention, run by Young Communists, expel the leaders. They were accused... of having wasted $44,000 supplied by Cuba for guerrilla activities.",
+        "significance": "Demonstrates covert funding and manipulation of youth revolutionary groups by communist networks"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 8,
+        "description": "Detailed account of Cuban weapon smuggling operations",
+        "direct_quote": "A highly placed Guatemalan Communist who defected last November has given us a specific account of procedures by which Cuba sent cash to Mexico to buy weapons which were then smuggled into Guatemala.",
+        "significance": "Provides evidence of Cuban-sponsored weapon smuggling operations in Latin America"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Cuban involvement in funding Latin American political groups and guerrilla training",
+        "direct_quote": "We also have considerable evidence of involved bank transfers by which Cuban money eventually reaches Latin American front groups to pay for political and propaganda activity.",
+        "significance": "Provides insight into Cuban intelligence operations and potential international political interference during the early 1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Cuban diplomats allegedly paid for printing propaganda materials in countries with Cuban diplomatic missions",
+        "direct_quote": "We have obtained photostats showing that Cuban diplomats paid for printing of front-group propaganda.",
+        "significance": "Suggests active Cuban covert political influence operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified in image",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Communist guerrilla activities in Latin America",
+        "direct_quote": "Communists have staged waves of bank robberies in Venezuela, Peru, and Argentina.",
+        "significance": "Provides context of Communist revolutionary activities during Cold War period, potentially relevant to understanding geopolitical tensions"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "References criminal activities mixed with political movements",
+        "direct_quote": "We know that the hold-up was carried out by a combination of guerrillas and ordinary criminals, who divided the loot fifty-fifty.",
+        "significance": "Suggests potential overlap between political movements and criminal networks"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "COMMUNIST_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document describes Communist activities involving criminal actions",
+        "direct_quote": "Communists--responsible for a wave of hold-ups, burglaries, and attacks on police posts designed to obtain funds, weapons, and explosives.",
+        "significance": "Provides context about Communist operational tactics during the era, potentially relevant to background investigations surrounding Cold War-era political violence"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

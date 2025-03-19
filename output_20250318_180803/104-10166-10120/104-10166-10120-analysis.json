@@ -1,0 +1,702 @@
+[
+  {
+    "document_id": "104-10166-10120",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Multiple travel records for locations in Cuba, Mexico City, and other locations",
+        "direct_quote": "CUBA HAVANA, MEXICO CITY, LONDON noted in travel logs",
+        "significance": "Indicates complex travel history and potential operational movements"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed tracking and logging of individuals and movements",
+        "direct_quote": "SECRET/NOFORN markings on document",
+        "significance": "Suggests sensitive intelligence monitoring and classification"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Multiple entries related to Cuba and Mexico",
+        "direct_quote": "CUBA HAVANA, MEXICO CITY repeated in records",
+        "significance": "Indicates international intelligence interest and tracking"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "116761",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Multiple references to Cuba and potential intelligence connections",
+        "direct_quote": "CUBA HAVANA, FIRST SECRETARY, DEPARTMENT OF STATE",
+        "significance": "Suggests potential connections to Cuban diplomatic or intelligence networks"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Listed travel/position details for multiple individuals",
+        "direct_quote": "FIRST SECRETARY DEC 70-AUG 73",
+        "significance": "Indicates movement and diplomatic postings that could be relevant to background investigations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Appears to be a sensitive government/intelligence document with multiple agency references",
+        "direct_quote": "SECRET/NOFORM",
+        "significance": "Classified document suggesting internal government communication about sensitive matters"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Mentions Charlie Murphy in connection with some administrative or communication process",
+        "direct_quote": "Charlie Murphy soc-leg/cc of legat curtis contract 800 mem",
+        "significance": "Potentially indicates an administrative or bureaucratic connection, but context is unclear"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown from this image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 8,
+        "description": "Handwritten document with time notation '2 O'clock'",
+        "direct_quote": "2 O'clock",
+        "significance": "Potentially indicates a scheduled time for a meeting or event"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "WH/MIAMI-0125",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document discusses covert communication about an individual named Lenergo, with potential operational considerations",
+        "direct_quote": "LENERGO CERTAINLY AWARE SEVERAL FORMER PRISONERS OF EQUAL STATURE RANSOMED BY FAMILIES IN PAST TWO YEARS WITH LITTLE IF ANY PROPAGANDA MILEAGE GAINED FROM RELEASES.",
+        "significance": "Suggests internal intelligence communication about a sensitive operational matter, potentially related to clandestine activities"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Secret classified document with multiple agency routing codes",
+        "direct_quote": "C/F/2 IN, C/CE DDR NEW CODE",
+        "significance": "Indicates inter-agency communication at a high classified level"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "105957",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Fragmentary reference to an informant relationship from 1962-1965",
+        "direct_quote": "LARGO INFORMANT FROM 62 UNTIL 65 WHEN HE WAS RECRUITED BY LANCIA",
+        "significance": "Suggests potential informant or operational connection, but details are unclear"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "222291Z JAN 71",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "WH/MIAMI 0125",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document discusses potential use of AMDEN-14 release as propaganda in Cuban community",
+        "direct_quote": "LNERGO/MIAMI COMMENTED THAT RELEASE OF AMDEN-14 MIGHT BE ADVANTAGEOUS TO JKLANCE AS SOURCE OF INFORMATION (AND, POSSIBLY, AS OPERATIONAL AGENT) AS WELL AS BEING A PROPAGANDA VICTORY IN THE CUBAN COMMUNITY.",
+        "significance": "Suggests potential CIA propaganda operations targeting Cuban exiles, indicating ongoing covert activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Reference to ransoming Castro prisoners",
+        "direct_quote": "STATION WH/MIAMI HAS REMAINED NON-COMMITTAL RE THIS CASE AS WELL AS ENTIRE SUBJECT OF RANSOMING CASTRO PRISONERS.",
+        "significance": "Hints at diplomatic tensions and potential negotiation efforts related to Cuban prisoners"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "105-1795",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 10,
+        "description": "FBI document dated 27 October 1969 related to Antonio Cuesto from Miami",
+        "direct_quote": "FBI doc 27 Oct 69 (Miami) Re - Antonio Cuesto Belle Bureau # 105-1795",
+        "significance": "Provides context and document tracking information"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10166-10120",
+    "page_number": 26,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "201-281313",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Secret classified document transfer and cross-reference form",
+        "direct_quote": "SECRET",
+        "significance": "Indicates sensitive government document related to CIA/intelligence operations"
+      },
+      {
+        "category": "LOCATION_CONTEXT",
+        "confidence": 8,
+        "description": "Document relates to Cuba, specifically Havana",
+        "direct_quote": "CIT CUBA, C CUBA, HAVANA",
+        "significance": "Potential connection to Cuban intelligence or operations during Cold War period"
+      },
+      {
+        "category": "INDIVIDUAL_RECORD",
+        "confidence": 7,
+        "description": "Document references an individual named Cuesta (Del) Valle, Antonio",
+        "direct_quote": "CUESTA (DFL) VALLE, ANTONIO",
+        "significance": "Possible intelligence or surveillance target related to Cuban operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "FBI document related to Miami field office, referencing an individual named Antonio Cuesta Valle (aka Tony Cuesta)",
+        "direct_quote": "FBI doc 10 May 68 (Miami)\nRe- Antonio Cuesta Valle\n(aka-Tony Cuesta)\nBureau # mm 105-1795",
+        "significance": "Suggests ongoing FBI investigation or surveillance of an individual with potential connections to Cuban-related activities"
+      },
+      {
+        "category": "FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Second FBI document entry referencing Commandos L",
+        "direct_quote": "FBI doc 29 April 68 (Miami)\nRe: Commandos L",
+        "significance": "Indicates potential investigation of Cuban exile group or militant organization"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "OGC 68-0374",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "N/A - Not a JFK assassination document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "UFGA 27020",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Administrative tracking document with processing stamps and routing information",
+        "direct_quote": "",
+        "significance": "Demonstrates bureaucratic handling of document related to investigation, but no direct substantive evidence revealed"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "IDENTITY_RECRUITMENT",
+        "confidence": 7,
+        "description": "Document discusses recruitment and identity of an individual by CUIS (Cuban intelligence) related to LNBRGO officer",
+        "direct_quote": "the local LNBRGO officer who is handling the IDENTITY case of JHAVY officer that she had been recruited by the CUIS on her recent visit to Cuba",
+        "significance": "Suggests potential intelligence recruitment and operational activity involving Cuban and other intelligence services"
+      },
+      {
+        "category": "TRAVEL_RECORDS",
+        "confidence": 6,
+        "description": "Individual traveled to Cuba and had interactions with Cuban authorities",
+        "direct_quote": "received permission from U.S. and Cuban authorities to visit Cuba on 7 April 1967 and arrived in Cuba on 7 April 1967",
+        "significance": "Documents cross-border travel and diplomatic permissions during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about a person named INFANTE reporting on anti-Castro activities",
+        "direct_quote": "He said the pitch was on behalf of the DSE and would benefit her and her husband. He said if she could successfully report on anti-Castro activities in Miami, and essentially reactivate her husband from custody, and after three years of reporting they would grant him permission to depart from Cuba",
+        "significance": "Suggests potential connections to anti-Castro networks, though not directly about Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "LTKA-27629",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document mentions Cuban G-2 agents and anti-Castro groups potentially connected to Oswald",
+        "direct_quote": "Omar HERNANDEZ was identified as a G-2 agent and/or Cuban official involved in the revolutionaries in La Charan from 18 April 1960 through 29 August 1961",
+        "significance": "Suggests potential intelligence network connections that might relate to Oswald's activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "References to Cuban intelligence and revolutionary groups",
+        "direct_quote": "Omar HERNANDEZ was a Communist and a G-2 agent in Havana who participated in anti-Castro groups",
+        "significance": "Provides context for Cuban intelligence activities during the period of Oswald's alleged interactions"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown (no clear document ID visible)",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be related to individuals from Cuba, potential connection to Oswald's background",
+        "direct_quote": "Cuba mentioned multiple times in location/nationality fields",
+        "significance": "Possible context for Oswald's international connections"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Handwritten note suggests previous U.S. residency or movement",
+        "direct_quote": "Has formerly been in U.S. Has some type of a back allowance",
+        "significance": "Indicates potential undocumented travel or financial support"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10166-10120",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "IDENTITY",
+        "confidence": 9,
+        "description": "Document identifies Maria Lourdes Blanco Diez de Cuesta",
+        "direct_quote": "Maria Lourdes BLANCO Diez de Cuesta",
+        "significance": "Appears to be an identity record, though direct connection to JFK assassination is not clear from this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-L-321/1670-67",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "CIA intelligence report about Cuba, focusing on Antonio Cuesta Valle, a political prisoner",
+        "direct_quote": "Country: Cuba",
+        "significance": "Provides context of Cuban political landscape around 1967, potentially relevant to understanding geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "CO-323-16470-61",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 6,
+        "description": "Document appears to be a narrative report about an individual's legal status and movement restrictions",
+        "direct_quote": "He has not been formally charged and was told that because of his condition he could not be sent somewhere",
+        "significance": "Suggests a legal/administrative document potentially related to a witness or person of interest"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Describes restrictions on an individual's movement and interactions",
+        "direct_quote": "She stayed with family members of her husband and was permitted to go anywhere she liked not visiting her husband",
+        "significance": "Indicates an official document tracking someone's movements and communication limitations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "S 871945Z",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Cuban UN mission connections",
+        "direct_quote": "BEEN IN CONTACT WITH CHAFIK HOMERO SAKER ZENNI OF NEW YORK CUBAN UN MISSION",
+        "significance": "Suggests potential Cuban diplomatic intelligence involvement or monitoring of subjects"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "FBI monitoring case involving potential Cuban connections",
+        "direct_quote": "FBI WAS INFORMED AND THEY HAVE BEEN MONITORING CASE",
+        "significance": "Indicates inter-agency surveillance and information sharing about subjects with potential Cuban links"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "20 May 66 DIA doc",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to U.S. Army proposal concerning Cuba",
+        "direct_quote": "Subject - Withdrawal of U.S. Army Proposal - Cuba",
+        "significance": "Indicates ongoing diplomatic/military considerations regarding Cuba in 1966, potentially related to post-assassination geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "201-78/822",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_RECORD",
+        "confidence": 8,
+        "description": "Termination record for individual named Elias Gonzalez, Francisco",
+        "direct_quote": "Subject was terminated without prejudice by ACSI on 17 January 1966",
+        "significance": "Administrative document showing personnel action, potentially related to intelligence or military personnel"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "201-281313",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document relates to Antonio Cuesta Valle, member of Puerto Rico Group of Comandos with potential intelligence connections",
+        "direct_quote": "MEMBER OF THE PUERTO RICO GROUP OF COMANDOS L.o. OF INTEREST TO WESTERN INTELL.",
+        "significance": "Suggests potential peripheral connections to intelligence networks that might have intersected with Oswald's activities"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown from this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Secret classified document transfer and cross-reference form",
+        "direct_quote": "DOCUMENT TRANSFER AND CROSS REFERENCE",
+        "significance": "Indicates official, restricted document handling related to sensitive case file"
+      },
+      {
+        "category": "FILE_CLASSIFICATION",
+        "confidence": 8,
+        "description": "Restricted CI/OA folder related to specific subject file",
+        "direct_quote": "THIS IS A RESTRICTED CI/OA FOLDER ON THE SUBJECT OF THIS 201 FILE UNDER CO 9018",
+        "significance": "Suggests counterintelligence or operational file with restricted access"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "201-281313",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "OGC 66-0119",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses CIA Agency's limited financial relationship with Jorge MAS Causa and potential disclosure concerns",
+        "direct_quote": "This Agency has no present operational interest in CUESTA or MAS, although it did have in times past.",
+        "significance": "Suggests potential CIA connections to anti-Castro Cuban organizations, revealing ongoing intelligence interest in Cuban exile groups"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to Cuban Representatives in Exile (RECE)",
+        "direct_quote": "the Cuban Representation in Exile (RECE)",
+        "significance": "Indicates ongoing CIA monitoring and engagement with Cuban exile political organizations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "281313",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Registration request for Antonio Cuesta Valle, no direct Oswald connection",
+        "direct_quote": "Terminated without prejudice 10 May 1966. SUBJECT would not submit to control.",
+        "significance": "Minimal relevance, appears to be an unrelated registration document"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "302-352-CITE JMWAVE 1209",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct indication of Oswald's associations found",
+        "direct_quote": "NO INDICATION JMWAVE FILES THAT OTHER THAN GUILLERMO ALVAREZ GONZALEZ ANY OF PERSONS MENTIONED HAVE EVER BEEN ASSOCIATED WITH KUBARK.",
+        "significance": "Suggests limited intelligence information connecting Oswald to specific operations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Cuban exile group surveillance in Flamingo Key area",
+        "direct_quote": "GROUP OF CUBAN EXILES, LATER IDENTIFIED AS CUESTA, ROMER, FERNANDEZ ANTA, DIAZ, ZALDIZAR, EXERCISING WITH SEABIRU BEARING REGISTRATION FL-8509-F, WERE SPOTTED BY WAVE OFFICER IN FLAMINGO KEY AREA ON 18 APRIL 66",
+        "significance": "Indicates ongoing CIA monitoring of Cuban exile activities"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "JMWAVE 1289",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "EXILE_GROUPS",
+        "confidence": 8,
+        "description": "Document discusses Cuban exile groups Commandos L and Alpha 66",
+        "direct_quote": "NINE OTHER EXILES ASSOCIATED WITH COMMANDOS L AND ALPHA 66",
+        "significance": "Highlights CIA coordination with anti-Castro exile groups involved in operational planning"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Memo details coordination of ACSI (Army Counter Intelligence) operation into Cuba",
+        "direct_quote": "COORDINATION OF ACSI OP INTO CUBA INVOLVING USE OF ANTONIO CUESTA, CRAFT OWNED BY HIM",
+        "significance": "Reveals covert operational planning against Cuba in mid-1960s"
+      },
+      {
+        "category": "PERSONNEL_STATUS",
+        "confidence": 6,
+        "description": "Key operative Antonio Cuesta being terminated from operation",
+        "direct_quote": "CUESTA IN PROCESS OF BEING TERMINATED",
+        "significance": "Indicates changes in operational personnel and potential restructuring of covert activities"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "JWAVE 129",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of potential Cuban reaction to an unspecified incident in April",
+        "direct_quote": "WHILE IMPOSSIBLE PREDICT CUBAN REACTION BELIEVE THEY MAY CHARGE THAT 29-33 MAY INCIDENT WAS OPERATION BY U.S. ARMY",
+        "significance": "Suggests potential Cuban perspective on a covert US operation, indicating tensions and potential alternative narratives about events"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "Reference to exile and ooyoke circles",
+        "direct_quote": "LOCAL EXILE AND ODYOKE CIRCLES. ALSO POSSIBLE THAT CUBANS WILL CHOOSE TO CHARGE OP WAS DIRECTLY SPONSORED OR MASTERMINDED BY KUBARK",
+        "significance": "Hints at potential covert operations involving Cuban exiles and intelligence networks"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 9,
+        "description": "FBI document related to Cuban Representation",
+        "direct_quote": "FBI doc 13 Dec 65 (Miami) Re- Representation Cubana dell Exilis (RECE)",
+        "significance": "Appears to be an FBI document concerning Cuban exile organizations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses intelligence about Cuban emigre plans for attack against Cuba",
+        "direct_quote": "PLANS OF COMANDOS 1 FOR ATTACK AGAINST CUBA",
+        "significance": "Suggests ongoing anti-Castro operations and potential connections to broader geopolitical tensions during the early 1960s"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "Source is a Cuban emigre in Miami with potential connections to exile networks",
+        "direct_quote": "A CUBAN EMIGRE WHO IS CLOSELY ASSOCIATED WITH CUBAN EMIGRE MATTERS IN THE MIAMI AREA. HE IS CONSIDERED TO BE A RELIABLE SOURCE",
+        "significance": "Hints at complex network of Cuban exiles, potentially intersecting with intelligence operations and organized crime"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Cuban military operations against Cuban refugees",
+        "direct_quote": "ANTONIO CUESTA DEL VALLE, CHIEF OF MILITARY OPERATIONS OF THE COMANDOS L, A MILITANT CUBAN ONIGRE ORGANIZATION, PLANS TO LEAVE FLORIDA FOR CUBA WITH A GROUP TO CONDUCT AN OPERATION AGAINST CUBA",
+        "significance": "Reveals tensions between Cuban exile groups and Castro regime, potential covert operations context"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Funding activities in Miami",
+        "direct_quote": "CUESTA WAS SOLICITING MONEY IN MIAMI ON 21 OCTOBER",
+        "significance": "Indicates external funding for anti-Castro operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Oswald on this page",
+        "direct_quote": "",
+        "significance": "This page appears to be about a person named Cuesta and a group of commandos planning to leave Miami for Puerto Rico"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "10-fall-1965",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "LTG-6676",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "20-16/313",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "019-300-003",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Document relates to recruiting men for Cloy Gutierrez Menoyo's camp in Dominican Republic",
+        "direct_quote": "RECRUITING MEN FOR CLOY GUTIERREZ MENOYO'S CAMP IN THE DOMINICAN REPUBLIC",
+        "significance": "Suggests potential connection to anti-Castro activities or covert operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

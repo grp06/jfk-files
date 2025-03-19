@@ -1,0 +1,54 @@
+[
+  {
+    "document_id": "104-10516-10270",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Declassification under JFK Assassination Records Act of 1992",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Indicates ongoing official process of releasing classified documents related to the assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "91660",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Soviet citizens and situation in 1947 related to grain crops and food harvesting",
+        "direct_quote": "SOVIET CITIZENS STARVED 1947 WHILE GRAIN CROPS HELD BACK, SITUATION AROUND SERIOUS CRISIS THAT WAS IN STILL SOVIET GOVERNMENT PUT NEGOTIATIONS",
+        "significance": "Provides historical context about Soviet economic conditions, potentially relevant to understanding Cold War tensions and geopolitical environment surrounding Oswald's time in USSR"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "91660",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10516-10270",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "91640",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10516-10270",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

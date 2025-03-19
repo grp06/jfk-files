@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10101-10198
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Operational communication about surveillance and tracking of subjects
+  QUOTE: "REQUEST STATION TRACKS ONLY ON SUBJECTS REF B AND C. NO HEADQUARTERS RECORD ON EITHER."
+
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Mention of coverage and potential surveillance adjustments
+  QUOTE: "IF NECESSARY TO EFFECT COVERAGE ON LINE, STATION MAY SUSPEND COVERAGE AMESS/1 BUT PREFER MAINTAIN BOTH."
+

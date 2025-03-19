@@ -1,0 +1,72 @@
+[
+  {
+    "document_id": "104-10250-10199",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Document discusses a covert CIA employee undergoing sensitive assignment training",
+        "direct_quote": "The Subject is a covert employee of this Agency now in the United States for four weeks training and being considered for Staff C/JCB in a highly sensitive assignment.",
+        "significance": "Reveals internal CIA process for recruiting and training covert operatives during early 1950s, providing context for agency operational methods"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Detailed tracking of covert employee's status and potential future assignments",
+        "direct_quote": "The Subject is still a covert employee of this Agency, is now in the United States (New York City) on home leave, and is scheduled to report to Washington, D.C., to commence four weeks of covert training: 6 July 1951.",
+        "significance": "Demonstrates meticulous internal monitoring and documentation of covert personnel movements"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10250-10199",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Ongoing surveillance and investigation of subject's potential communist activities",
+        "direct_quote": "The people on this list are being contacted for use on a continuing basis in their specific cases rising in their particular area of knowledge.",
+        "significance": "Indicates ongoing monitoring of subject's potential communist connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Interagency communication about subject's potential future assignment",
+        "direct_quote": "The subject's use in the proposed Staff C project is still in the planning stage, but the assignment that the Subject is being considered for is a highly sensitive one",
+        "significance": "Suggests potential covert operational planning involving the subject"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Immigration and naturalization inquiries about subject",
+        "direct_quote": "Memorandum of 9 June 1951 requesting further information regarding their memorandum of 16 June 1951 on the Subject",
+        "significance": "Indicates ongoing official interest in subject's immigration status and background"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "104-10250-10199",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses coordination between agencies regarding a subject's location and security status",
+        "direct_quote": "Commissioner of Immigration and Naturalization has indicated in a conversation that INS had been able to locate the Subject's location",
+        "significance": "Indicates inter-agency communication and tracking of an individual (possibly related to Oswald)"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Reference to an agency and subject's father providing location information",
+        "direct_quote": "the agency in (Gaboa, Panama, Canal Zone) which appears in the subject's father's information",
+        "significance": "Potential geographic and familial connections being investigated"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

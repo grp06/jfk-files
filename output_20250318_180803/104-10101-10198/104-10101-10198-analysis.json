@@ -1,0 +1,29 @@
+[
+  {
+    "document_id": "104-10101-10198",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Operational communication about surveillance and tracking of subjects",
+        "direct_quote": "REQUEST STATION TRACKS ONLY ON SUBJECTS REF B AND C. NO HEADQUARTERS RECORD ON EITHER.",
+        "significance": "Indicates ongoing intelligence monitoring of specific targets, potentially related to assassination investigation"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Mention of coverage and potential surveillance adjustments",
+        "direct_quote": "IF NECESSARY TO EFFECT COVERAGE ON LINE, STATION MAY SUSPEND COVERAGE AMESS/1 BUT PREFER MAINTAIN BOTH.",
+        "significance": "Suggests flexible surveillance strategies and potential operational adaptability"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": null,
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

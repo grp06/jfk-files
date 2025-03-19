@@ -1,0 +1,65 @@
+[
+  {
+    "document_id": "104-10074-10413",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "SOURCE_INFORMATION",
+        "confidence": 7,
+        "description": "Document about Jose Xavier Cortes Hernandez, involving a Jesuit priest named Father Manuel Perez Alonso",
+        "direct_quote": "Father Manuel PEREZ Alonso, Jesuit and contact of CAS, was the source of Field comment not 2.",
+        "significance": "Provides context of religious and potential intelligence community connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Mentions communication between religious figures about actions in Mexico",
+        "direct_quote": "PEREZ Alonso has been conferring with Archbishop Miguel Dario Miranda, Primate of Mexico, regarding CORTES Hernandez and possible actions against him.",
+        "significance": "Suggests potential diplomatic or internal Mexican discussions about an individual"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban diplomatic connections and activities",
+        "direct_quote": "Jose Xavier CORTES Hernandez who represents himself as a priest told Juan Antonio PORTUONDO Valdes, Cuban Ambassador to Mexico",
+        "significance": "Provides insight into Cuban diplomatic communications and potential intelligence activities around the time of the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but discusses Cuban diplomatic context",
+        "direct_quote": "",
+        "significance": "Provides background on Cuban-Mexican diplomatic relations during the period of interest"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Cuban-Mexican diplomatic interactions related to political tensions",
+        "direct_quote": "Jose Xavier CORTES Hernandez... represents himself as a 'priest' told Jose Antonio PORTUGOIDO VALLOY, Cuban Ambassador to Mexico",
+        "significance": "Provides context about Cuban diplomatic communications and potential political tensions around 1960"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "Mentions Carlos OLIVARES, potential government/church official",
+        "direct_quote": "Carlos OLIVARES, Under-secretary of Foreign Affairs",
+        "significance": "Minimal direct connection to assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "document_id": "104-10070-10079",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "This document is about an AMFAUNA-1 Cuban national agent, not directly about Oswald",
+        "direct_quote": "",
+        "significance": "No direct connection to Oswald found on this page"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA internal dispatch discussing operational intelligence about a Cuban agent",
+        "direct_quote": "AMFAUNA-1 is a Cuban national who was recruited and trained in the United States and returned legally to Cuba",
+        "significance": "Provides insight into CIA operational methods and intelligence gathering on Cuban agents during early 1960s"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about an intelligence operative (AMFAUNA-1) using false identities and recruiting sub-agents",
+        "direct_quote": "He has built a false identity which he uses wherever possible in his operational contacts",
+        "significance": "While not directly about Oswald, illustrates CIA tradecraft of using false identities and recruiting agents"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Detailed intelligence document about an operative's recruitment and operational methods",
+        "direct_quote": "In recruiting sub-agents, AMFAUNA-1 relies primarily on his own judgment and intuition",
+        "significance": "Provides insight into CIA agent recruitment and operational security practices"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "This appears to be a CIA document about courier and communication networks, but does not directly mention Oswald",
+        "direct_quote": "",
+        "significance": "No clear connection to Oswald found on this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about CIA intelligence on Cuban agents, not directly related to Oswald",
+        "direct_quote": "",
+        "significance": "No clear connection to Oswald found on this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UFGA-4703",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "This document appears to be about a CIA asset named AMFAUNA-1, not related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Document discusses clandestine operations involving multiple agents in Cuba and United States",
+        "direct_quote": "AMFAUNA-1, AMCUSP-1, and AMCUTLER-1 returned to Cuba in January 1961",
+        "significance": "Suggests complex network of covert operatives active during period of Oswald's activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed records of covert operational activities against Castro regime",
+        "direct_quote": "AMFAUNA-1 was engaged in some form of clandestine work against the CASTRO regime as early as December 1960",
+        "significance": "Reveals ongoing CIA operational efforts to undermine Cuban government during early 1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Background on Cuban revolutionary dynamics and anti-Communist sentiments",
+        "direct_quote": "The elements of AMFAUNA-1's motivation include an adventurous spirit and a taste for clandestine work",
+        "significance": "Provides context for geopolitical tensions during Kennedy era"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "UFGA-4703",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban operations and activities related to invasion preparations",
+        "direct_quote": "Preparations for supporting the April invasion",
+        "significance": "Provides context for Cuban exile and CIA activities around the time of the JFK assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed record of CIA-affiliated group (AMFAUNA-1) covert operations and identities",
+        "direct_quote": "AMFAUNA-1 resumed operations by sending Identities 24, 25, 26 and 27 to collect order of battle information",
+        "significance": "Reveals complex covert operational network and communication methods of CIA-backed groups"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but shows context of covert operations",
+        "direct_quote": null,
+        "significance": "Provides background on CIA and Cuban exile operational tactics during early 1960s"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "UFGA-4703",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Document discusses AMFAUNA network of operatives and contacts",
+        "direct_quote": "AMFAUNA-1 first began making regular use of AMFAUNA-2)",
+        "significance": "Suggests potential intelligence network connections, but no direct Oswald link on this page"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed intelligence operations tracking various individuals",
+        "direct_quote": "Identity-21 continued to help Identities 19 and 20 until they were arrested",
+        "significance": "Demonstrates complex intelligence gathering and tracking operations during this period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document details CIA AMFAUNA operation involving Cuban diplomatic and intelligence activities",
+        "direct_quote": "AMFAUNA-1 continued to use AMFAUNA-2 as a cutout to AMCOG-2",
+        "significance": "Reveals complex CIA covert operations involving multiple cutouts and identities in Cuban diplomatic circles"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mentions Cuban government internal tensions and potential counterrevolutionary activities",
+        "direct_quote": "According to a disaffected Cuban Army officer... [RAMIREZ] was killed in action on 16 April 1962",
+        "significance": "Indicates ongoing covert conflicts and potential political assassinations in Cuba during early 1960s"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "UFGA-4703",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Detailed document about AMFAUNA operation, a covert intelligence network within Cuban aviation",
+        "direct_quote": "AMFAUNA-1 seems to have an excellent network within Cuban aviation",
+        "significance": "Reveals complex CIA intelligence gathering operation targeting Cuban networks"
+      },
+      {
+        "category": "AGENT_ACTIVITIES",
+        "confidence": 6,
+        "description": "Multiple agent identities tracked, some going into hiding or seeking asylum",
+        "direct_quote": "Identity-55 and Identity-56 were mentioned briefly as active during the period from December 1961 to April 1962",
+        "significance": "Demonstrates intricate tracking of covert operatives and their movements"
+      },
+      {
+        "category": "SECURITY_ANALYSIS",
+        "confidence": 8,
+        "description": "Potential double agent scenario discussed",
+        "direct_quote": "The possibility that AMFAUNA-1 is a double agent is considered remote",
+        "significance": "Indicates sophisticated counterintelligence assessment of agent reliability"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about AMFAUNA-1, not directly about Oswald",
+        "direct_quote": "",
+        "significance": "No direct connection to Oswald found on this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Oswald's connections with intelligence networks and identity groups",
+        "direct_quote": "AMFAUNA-1 was in touch with Identity-52, a (nephew of Osvaldo RAMIREZ)",
+        "significance": "Indicates potential intelligence network connections and complex relationship mapping around Oswald"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Cuban revolutionary communication about leadership death",
+        "direct_quote": "news of the death of our commander-in-chief, Oswaldo RAMIREZ, on 16 April last at 9 a.m.",
+        "significance": "Suggests internal communications about leadership losses and potential political instability"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Sophisticated intelligence tracking and surveillance operations",
+        "direct_quote": "an alert and competent security service, which the G-2 shows signs of becoming",
+        "significance": "Reveals ongoing intelligence monitoring and potential counterintelligence activities"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "UFGA-4703",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "Document appears to be about an unrelated intelligence operation involving coded identities",
+        "direct_quote": "Identity-12",
+        "significance": "No direct connection to Oswald found on this page"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "UFGA-4703",
+    "page_number": 14,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "List appears to be a personnel or surveillance document related to Cuban individuals",
+        "direct_quote": "",
+        "significance": "While no direct Oswald connection is visible, the document suggests detailed tracking of individuals in Havana, Cuba during the early 1930s"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document appears to be a CIA contact sheet about individuals in Cuba",
+        "direct_quote": "C.T. CUBA",
+        "significance": "Provides insight into CIA tracking of Cuban individuals, potentially related to Cold War era intelligence gathering"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be an identity tracking sheet with multiple names, but no direct Oswald connection evident",
+        "direct_quote": "",
+        "significance": "Generic identity tracking list with Cuban and Cuban exile names, but no clear Oswald link"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "IDENTITY_TRACKING",
+        "confidence": 7,
+        "description": "Detailed list of identities, potentially related to intelligence or investigative records",
+        "direct_quote": "Identity 30: Elisa de FORMOSO\nIdentity 31: Luis da ARMAS\nIdentity 37: Cecilia (sister-in-law of Luis de ARMAS)",
+        "significance": "Suggests systematic tracking of individuals, possibly for intelligence gathering or surveillance purposes"
+      },
+      {
+        "category": "LOCATION_INFORMATION",
+        "confidence": 6,
+        "description": "Multiple Cuban location references",
+        "direct_quote": "Calle 24 #705, Mirama, Havana, Cuba",
+        "significance": "Indicates focus on Cuban connections and geographical tracking of individuals"
+      },
+      {
+        "category": "PROFESSIONAL_ROLES",
+        "confidence": 5,
+        "description": "Various professional titles noted",
+        "direct_quote": "Capt. Oscar Delgado, Capt. Roger Garcia",
+        "significance": "Suggests military or professional connections being documented"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

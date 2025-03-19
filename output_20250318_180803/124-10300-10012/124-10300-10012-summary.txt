@@ -1,0 +1,36 @@
+JFK ANALYSIS SUMMARY: 124-10300-10012
+================================================================================
+
+Document contains 3 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 6/10
+- Page 2: Relevance 6/10
+- Page 2: Relevance 6/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Document references 'JORGE SERGIO OSWALDO' in connection with Cuban liberation committee
+  QUOTE: "RAUL ROBLEJO LORIE, IS - CUBA and SERGIO OSWALDO BETANCOURT COLLAZO, aka - PSI, IS - CUBA"
+
+Page 2 (Confidence: 5/10)
+  Cuban exile and diplomatic networks potentially relevant to assassination investigation
+  QUOTE: "LUIS RICARDO ALONSO, former Cuban Ambassador to London, who defected in 1965, has been in correspondence with ABREU"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 2 (Confidence: 8/10)
+  CIA and FBI inter-agency communication about Cuban liberation group
+  QUOTE: "COMITE PRO-LIBERACION DE LOS CIEN (CIPLIC - COMMITTEE FOR THE LIBERATION OF THE ONE HUNDRED) IS - CUBA"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Cuban intelligence and diplomatic connections involving potential informants
+  QUOTE: "ROBLEJO has been in contact with REINALDO ABREU, Attache at the Cuban Embassy in Mexico City and connected with Cuban Intelligence"
+

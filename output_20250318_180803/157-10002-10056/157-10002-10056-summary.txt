@@ -1,0 +1,46 @@
+JFK ANALYSIS SUMMARY: 157-10002-10056
+================================================================================
+
+Document contains 5 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 3: Relevance 6/10
+- Page 4: Relevance 6/10
+- Page 1: Relevance 5/10
+- Page 2: Relevance 5/10
+- Page 5: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 4/10)
+  Document references subjects related to CIA covert operations
+  QUOTE: "SUBJECTS: CIA COVERT ACTION, PARAMILITARY WARFARE, CUBA, POLICY CONTROL"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 3 (Confidence: 8/10)
+  Document discusses CIA's covert political operations and their impact on State Department policy
+  QUOTE: "The result of CIA's initiative in covert political operations has been to force situations which have forced policy on the State Department."
+
+Page 4 (Confidence: 8/10)
+  Document discusses CIA expanding use of official cover and increasing personnel in diplomatic missions
+  QUOTE: "The CIA should continue to develop overseas as an organization able to use State Department cover."
+
+Page 1 (Confidence: 7/10)
+  CIA internal document about CIA reorganization from 1961
+  QUOTE: "TITLE: CIA REORGANIZATION"
+
+Page 4 (Confidence: 7/10)
+  CIA increasing its presence and political reporting capabilities in diplomatic missions
+  QUOTE: "In the embassy today, there are more CIA people... CIA has begun to move into areas of political reporting more extensively occupied by State."
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 3 (Confidence: 6/10)
+  Mention of Cuba and potential CIA activities
+  QUOTE: "I well remember Tom Mann's remark the day the decision was made to go ahead on Cuba: 'I would never have favored liquidating this operation'"
+

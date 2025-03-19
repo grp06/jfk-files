@@ -1,0 +1,3612 @@
+[
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CIA Special Collection Release",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Internal CIA communication about potential document release",
+        "direct_quote": "Talked Judge Tunheim and he is willing to release the two letters (Cohen & Tenet) and refrain from other derogatory comments if the Carey declaration is substantially like the ones Ed signed.",
+        "significance": "Suggests ongoing discussions about document release and potential sensitivity of information"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CIA Special Collections Release 2000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 7,
+        "description": "Declaration by CIA Executive Director David W. Carey regarding JFK assassination records search",
+        "direct_quote": "I am responsible, on behalf of the Director of Central Intelligence (DCI) and the Deputy Director of Central Intelligence (DDCI), for the overall daily management of the Central Intelligence Agency",
+        "significance": "High-level CIA official directly involved in managing records related to the JFK assassination investigation"
+      },
+      {
+        "category": "RECORDS_DISCLOSURE",
+        "confidence": 8,
+        "description": "Official commitment to disclose JFK assassination records",
+        "direct_quote": "The purpose of this declaration is to provide an assurance that the Central Intelligence Agency (1) has made a diligent records search to locate and disclose to the JFK Assassination Records Review Board (the Board) all records in its possession relating to Lee Harvey Oswald",
+        "significance": "Demonstrates official CIA acknowledgment of responsibility to fully disclose assassination-related documents"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Explicit mention of Oswald records search",
+        "direct_quote": "(2) is aware of no assassination of President Kennedy records in its possession other than those being disclosed",
+        "significance": "Suggests careful review of Oswald-related documents, potential limitation of full disclosure"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": null,
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Edmund Cohen Declaration",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA confirms diligent record searches related to JFK Assassination Records Review Board",
+        "direct_quote": "The Central Intelligence Agency: (a) has made diligent records searches to locate and disclose to the JFK Assassination Records Review Board (the Board) all records in its possession relating to Lee Harvey Oswald and the assassination of President Kennedy",
+        "significance": "Official CIA acknowledgment of record searches about Oswald and Kennedy assassination, indicating potential transparency in document disclosure"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "CIA states no additional Oswald-related records being withheld",
+        "direct_quote": "(b) is aware of no other assassination-related records in its possession being withheld from the Board",
+        "significance": "Suggests potential limitation of available documentation about Oswald"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment I",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment I",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_DOCUMENT_SCOPE",
+        "confidence": 9,
+        "description": "Comprehensive CIA document collection related to JFK assassination",
+        "direct_quote": "We estimate that the equivalent of roughly 320,000 pages comprise the \"CIA collection\" of documents associated with prior assassination reviews, including duplicates.",
+        "significance": "Indicates massive volume of CIA documentation about the assassination, suggesting extensive internal investigation and record-keeping"
+      },
+      {
+        "category": "DOCUMENT_SOURCES",
+        "confidence": 8,
+        "description": "Multiple sources of CIA assassination-related documents",
+        "direct_quote": "CIA has reviewed over 100,000 pages of documents from the National Archives, the Ford, Johnson, and Kennedy Presidential Libraries and miscellaneous papers",
+        "significance": "Reveals broad range of documentary sources beyond typical CIA files, indicating comprehensive research effort"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "INVESTIGATION_CONTEXT",
+        "confidence": 9,
+        "description": "Comprehensive overview of JFK assassination investigations from 1963-1979",
+        "direct_quote": "Assassinations (HSCA). The HSCA brought together in one place in 1978 the principal documents retrieved over the course of years from earlier investigations, including the Warren Commission, the Rockefeller Commission, and the Church Committee.",
+        "significance": "Highlights the multi-agency investigations and consolidation of documents related to the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Reference to Oswald's Mexico City visit",
+        "direct_quote": "materials from CIA's Mexico City Station, which were considered relevant because of a visit to Mexico City by Lee Harvey Oswald shortly before the assassination",
+        "significance": "Suggests ongoing interest in Oswald's activities and connections in Mexico City"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Investigations focused on potential assassination capabilities and methods",
+        "direct_quote": "Notheless, as a part of these investigations they yielded information which, to many, appeared to relate in some way to the assassination, such as an operational capability or willingness to consider assassination as an intelligence method.",
+        "significance": "Indicates broader investigation into intelligence agencies' potential involvement or capabilities"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Specific Oswald-related document collection (201 file) maintained by CIA Directorate of Operations",
+        "direct_quote": "Directorate of Operations maintained on Lee Harvey Oswald (the 201 file) as well as similar files on additional individuals.",
+        "significance": "Confirms CIA had an active file on Oswald prior to assassination, suggesting ongoing monitoring or interest"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Extensive CIA and FBI documentation related to Oswald and assassination investigation",
+        "direct_quote": "Boxes 35 through 63 consist of reports, memoranda, transcripts, cables, letters, newspaper clippings, photographs, and charts.",
+        "significance": "Indicates multiple agencies collected extensive documentation about Oswald and the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Mexico City Station files related to Oswald",
+        "direct_quote": "Other major additions to the Oswald 201 file include relevant Mexico City Station files",
+        "significance": "Suggests potential connections or surveillance of Oswald in Mexico City"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Attachment II",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment II",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_RECORDKEEPING",
+        "confidence": 8,
+        "description": "CIA maintained decentralized record-keeping systems with different procedures across directorates",
+        "direct_quote": "For most of its history, the Agency has had a system of records which has been shaped by the divergent requirements of the directorates in accordance with the wide variance of focus in their missions.",
+        "significance": "Highlights potential gaps and inconsistencies in CIA document management that could impact investigation comprehensiveness"
+      },
+      {
+        "category": "ASSASSINATION_INVESTIGATION",
+        "confidence": 9,
+        "description": "Sequestered collection focused on JFK Assassination investigation materials",
+        "direct_quote": "Today, the sequestered collection comprises the great bulk of CIA-originated documents which can be associated with the JFK Assassination and related investigations.",
+        "significance": "Confirms existence of a dedicated document collection specifically related to JFK assassination research"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA document details search methodologies for JFK assassination-related materials since 1992 JFK Act",
+        "direct_quote": "Since 1992 and the passage of the JFK Act, CIA has, in responding to the requests of the Board, had to devise search methodologies and techniques to address both the hard copy and electronic versions of our databases.",
+        "significance": "Reveals internal CIA processes for managing and searching assassination-related documents, indicating ongoing document review and potential information control"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Electronic database search techniques used for comprehensive records review",
+        "direct_quote": "Electronic files searches can actually be more complex than manual searches, in major part because of the number of different electronic systems in use.",
+        "significance": "Suggests extensive electronic record-keeping and complex search methods across multiple CIA database systems"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Automated searches using keywords related to Oswald and assassination",
+        "direct_quote": "Where possible, automated systems were searched using key words such as JFK, Kennedy, assassination, executive action, Oswald, place names, and a large number of names, crypts, or pseudonyms identifying individuals known to have",
+        "significance": "Indicates systematic attempts to cross-reference potential Oswald connections across multiple database systems"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Multiple investigative contexts related to Oswald's activities and potential connections",
+        "direct_quote": "Moscow Station, Mexico City Station, and JMWAVE Station, as they related to Oswald's activities or possible conspiracies",
+        "significance": "Indicates multiple intelligence agency interests in tracking Oswald's movements and potential foreign connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA anti-Cuban operations during Oswald's timeframe",
+        "direct_quote": "CIA anti-Cuban operations 1960-64 if they involve JFK figures or subjects; most US anti-Castro activities in 1963 are considered relevant",
+        "significance": "Suggests potential operational context surrounding Oswald and potential broader conspiracy investigations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "KGB interest in Oswald documented",
+        "direct_quote": "KGB interest in Oswald",
+        "significance": "Indicates potential foreign intelligence involvement or surveillance of Oswald"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA Historical Review Group conducted search on Lee Harvey Oswald records in October 1993",
+        "direct_quote": "In October 1993, following enactment of the JFK Act but prior to the President's appointment of the Board, CIA's Historical Review Group (HRG) requested the CIA directorates to conduct a name search on Lee Harvey Oswald, JFK assassination, and any related documents",
+        "significance": "Indicates ongoing internal investigation and document collection related to Oswald after the JFK Act was passed"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Multiple potentially relevant individuals listed who may have connections to Oswald",
+        "direct_quote": "Names include: Howard Hunt, Valeriy Kostikov, Mr. & Mrs. George de Mohrenschildt, Yuri Nosenko, Michael & Ruth Paine, David A. Phillips",
+        "significance": "Several individuals with potential intelligence or peripheral connections to Oswald are named"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Extensive document collection and transfer of assassination-related records",
+        "direct_quote": "More than thirty-one additional boxes of materials were sent to HRG for review. Included were nineteen boxes of JFK working files, Russ Holmes' files, CIA employee records, boxes on Nosenko, Latin American division documents",
+        "significance": "Demonstrates systematic collection and internal review of assassination-related documentation"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": null,
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA conducting internal searches and reviews of records related to JFK assassination in 1997-1998",
+        "direct_quote": "In the spring and summer of 1997, the Agency arranged for the Board staff to receive a series of briefings by representatives of each directorate on the files kept within the records systems of each directorate.",
+        "significance": "Indicates ongoing internal investigation and document review process years after the assassination"
+      },
+      {
+        "category": "AGENCY_RESPONSE_TO_INVESTIGATION",
+        "confidence": 7,
+        "description": "CIA issued Agency-wide bulletin directing employees to review documents related to JFK assassination",
+        "direct_quote": "DCI Tenet issued an Agency-wide Employees Bulletin on 22 July 1998 directing all CIA personnel to 'consider documents in their possession or with which they are associated'",
+        "significance": "Demonstrates high-level directive to ensure comprehensive document review and potential disclosure"
+      },
+      {
+        "category": "INVESTIGATION_SCOPE",
+        "confidence": 6,
+        "description": "Broad search for assassination-related materials across CIA operations and files",
+        "direct_quote": "The Board staff requested a number of additional searches... which included the histories of various CIA operations and Agency components, files on specific individuals involved in either the Warren Commission or HSCA investigations",
+        "significance": "Shows extensive and wide-ranging effort to uncover potential relevant information"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 6,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CSI-0311/93",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Official CIA Historical Review Group memorandum requesting comprehensive search for JFK assassination records",
+        "direct_quote": "Request to Conduct Search for JFK Assassination Records",
+        "significance": "Demonstrates ongoing official efforts to compile and review all available documentation related to the JFK assassination in 1993"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Specific request for name and subject search on Lee Harvey Oswald from 1980-1993",
+        "direct_quote": "A name search on Lee Harvey Oswald for the period 1980 through 1993; a subject search on JFK assassination (Kennedy assassination, etc.)",
+        "significance": "Indicates continued institutional interest in documenting Oswald's activities and connections during an extended time period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unidentified from image",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "DO/IMS 95-0691",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Memo about establishing Directorate Focal Points for JFK Assassination Board Requests",
+        "direct_quote": "Appointment of Directorate Focal Points for JFK Assassination Board Requests",
+        "significance": "Indicates ongoing internal coordination for managing JFK assassination records review"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Mentions Board's focus on 'sequestered' CIA records related to Assassination Investigation",
+        "direct_quote": "Up to now, the Board has focused on the 'sequestered' records CIA had collected for the House Assassination Committee investigation and documents that had been part of the Oswald 201 file.",
+        "significance": "Reveals ongoing scrutiny of CIA's document collection related to Oswald and the assassination"
+      },
+      {
+        "category": "HISTORICAL_REVIEW",
+        "confidence": 8,
+        "description": "Historical Review Group (HRG) established as primary liaison with JFK Assassination Board",
+        "direct_quote": "The Historical Review Group (HRG) of the Center for the Study of Intelligence (CSI), which has been the Agency's principal liaison with the JFK Board, will continue in that role.",
+        "significance": "Demonstrates institutional mechanism for managing JFK assassination document review"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "14.50000",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "OIM 98-0081",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "New search of JFK assassination counterintelligence files being conducted",
+        "direct_quote": "New Search of CI Files for JFK Assassination Records",
+        "significance": "Indicates ongoing internal review of assassination documentation decades after the event"
+      },
+      {
+        "category": "DOCUMENT_CONTEXT",
+        "confidence": 8,
+        "description": "Document suggests new documents have recently surfaced related to assassination investigation",
+        "direct_quote": "relevant new documents have surfaced within the past few months, the Board has also requested specific focus on renewed searches of the Agency's 'counterintelligence files'",
+        "significance": "Implies potential previously undisclosed information about the assassination investigation"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to new documents related to Soviet Union and recent defector reports",
+        "direct_quote": "including references to a variety of reasons... records made available because of the break up of the Soviet Union",
+        "significance": "Suggests potential new insights from Soviet-era documents becoming available"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "SECRET_JFK_SEARCH_RECORDS",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Specific search directive for Oswald-related files and references",
+        "direct_quote": "Debriefings of defectors in which ANY reference to Oswald occurs",
+        "significance": "Indicates intentional investigation of Oswald's potential intelligence connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 9,
+        "description": "Comprehensive search protocol for JFK assassination records across multiple databases",
+        "direct_quote": "Search terms in paragraph 5-on ANY OF FILES which may contain information relating in any way to the JFK assassination",
+        "significance": "Reveals systematic effort to locate all potential evidence across file systems"
+      },
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 7,
+        "description": "Post-1978 search terms include key investigation references",
+        "direct_quote": "Warren Commission, House Select Committee on Assassinations, HSCA, Oswald, Lee Harvey Oswald, Marina Oswaid, Jack Ruby",
+        "significance": "Indicates ongoing investigation and review of multiple witness and participant accounts"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "Unknown from this page",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_INVESTIGATION",
+        "confidence": 8,
+        "description": "New search of CIA files related to JFK assassination records",
+        "direct_quote": "New Search of CI Files for JFK Assassination Records",
+        "significance": "Indicates ongoing internal investigation into JFK assassination files"
+      },
+      {
+        "category": "PERSONNEL_TRACKING",
+        "confidence": 7,
+        "description": "Seeking identity and location of personnel involved in 'JUDECANTER' debriefings",
+        "direct_quote": "The identity and current location of personnel (either the current assignment of employees or any knowledge of current location of retirees) who participated in debriefings or preparation of reports on debriefings of [JUDECANTER]",
+        "significance": "Suggests sensitive internal tracking of personnel related to specific operational debriefings"
+      },
+      {
+        "category": "DOCUMENT_DESTRUCTION",
+        "confidence": 9,
+        "description": "Specific request for destruction of James J. Angleton's files",
+        "direct_quote": "The destruction of James J. Angleton's files",
+        "significance": "Highly unusual request to destroy files of a senior CIA counterintelligence chief, potentially indicating sensitive information"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "OIM EB No. 02-98",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_INVESTIGATION",
+        "confidence": 8,
+        "description": "CIA conducting final document search for JFK Assassination Records Collection Act compliance",
+        "direct_quote": "The Agency has been working on this effort since 1992 and has searched all of the obvious databases.",
+        "significance": "Indicates ongoing internal review of JFK assassination documents, suggesting potential sensitivity about existing records"
+      },
+      {
+        "category": "DOCUMENT_SCOPE",
+        "confidence": 7,
+        "description": "Expanded search to include documents from former Soviet Union and Warsaw Pact",
+        "direct_quote": "The reference to 1992 is largely intended to encompass documents which may have come into our hands since the collapse of the Soviet Union and Warsaw Pact.",
+        "significance": "Suggests potential new sources of information related to the assassination"
+      },
+      {
+        "category": "SEARCH_METHODOLOGY",
+        "confidence": 6,
+        "description": "Comprehensive search strategy including non-traditional document sources",
+        "direct_quote": "Representatives of the Historical Review Program believe that if such documents do exist, most likely, be found in files that would not be generally related to the assassination or that would not be 'logical' areas for systematic searches.",
+        "significance": "Indicates thorough and unconventional approach to document review"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "CIA_PERSONNEL",
+        "confidence": 7,
+        "description": "List of CIA personnel with secure phone contacts for JFK Project Review",
+        "direct_quote": "William McNair (DO/IRO), Barbara Blufer (DI/IRO), Teresa Wilcox (DS&T/IRO), Becky Rant (DA/IRO), Mary Lou Cummings (DCI Area/IRO), Barry Harelson (JFK Project Coordinator)",
+        "significance": "Provides insight into CIA internal communication channels for JFK assassination document review"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "1450000",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "OIM 98-0088",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": null,
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Attachment III",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment III",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA engaged in extensive document review and declassification process for JFK assassination records",
+        "direct_quote": "CIA, during 1992 and 1993, reviewed for declassification material which had been sequestered following the investigation of the House Select Committee on Assassinations (HSCA) in 1978.",
+        "significance": "Demonstrates long-term CIA involvement in managing and potentially controlling narrative around assassination documents"
+      },
+      {
+        "category": "GOVT_TRANSPARENCY",
+        "confidence": 8,
+        "description": "Systematic review and release of classified JFK assassination documents",
+        "direct_quote": "As a result of this effort, CIA released as declassified to the National Archives in August 1993 some 127,000 pages of material from this collection.",
+        "significance": "Large-scale document declassification indicating potential historical sensitivity of materials"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document describes CIA document review process involving retired officers with extensive Agency experience",
+        "direct_quote": "Each document in the collection was read by an Historical Reviewer Program (HRP) Reviewer -- in every case a retired officer with at least two decades of Agency experience",
+        "significance": "Reveals internal CIA document review protocols for sensitive historical materials"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Mention of sensitive CIA operations and investigations related to JFK assassination era",
+        "direct_quote": "Material from the Rockefeller Commission and Church Committee investigations, presidential libraries and PFIAB files which addressed the entire scope of CIA activities raised issues with respect to relevance to the JFK assassination.",
+        "significance": "Indicates multiple investigations examined CIA activities connected to JFK assassination context"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to CIA anti-Castro operations",
+        "direct_quote": "Project MONGOOSE, a clandestine position of the publicly acknowledged U.S. anti-Castro policy, was released.",
+        "significance": "Provides context of CIA operations against Cuba during this period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_REVIEW_PROCESS",
+        "confidence": 8,
+        "description": "National Archives review process revealed inconsistencies in document collection",
+        "direct_quote": "comparison with the 1993 released version revealed not only inconsistencies but textual phrasing which, in a mosaic of related documents, made likely the identification of a protected individual or action",
+        "significance": "Highlights potential deliberate redaction strategies to protect sensitive information"
+      },
+      {
+        "category": "AGENCY_LOCATION_PROTECTION",
+        "confidence": 7,
+        "description": "Efforts to protect CIA overseas station locations and agency personnel",
+        "direct_quote": "identification of overseas station locations, traditionally not revealed--both to protect Agency individuals, activities and sources and to avoid foreign relations difficulties",
+        "significance": "Demonstrates CIA's strategies for maintaining operational security and diplomatic relationships"
+      },
+      {
+        "category": "REDACTION_POLICY",
+        "confidence": 9,
+        "description": "Specific redaction guidelines for sensitive documents",
+        "direct_quote": "Except for redaction of names of CIA employees, true names of clandestine agents (otherwise identified with traceable cryptonyms), and currently-sensitive cooperation with specific foreign intelligence services, the final collection in the National Archives will contain very limited redactions",
+        "significance": "Provides insight into the CIA's document release methodology and information protection protocols"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Attachment IV",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment IV",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA maintained a pre-assassination subject file on Oswald containing newspaper articles and reports from other government agencies",
+        "direct_quote": "The Office of Security (OS) maintained a pre-assassination subject file on Oswald.",
+        "significance": "Indicates active CIA monitoring of Oswald prior to the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Extensive searches conducted for Oswald-related volumes and files, with some inconsistencies in filing and storage",
+        "direct_quote": "A second thorough search of the OS file system failed to produce any record of Volume V.",
+        "significance": "Suggests potential gaps or deliberate omissions in CIA record-keeping about Oswald"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 8,
+        "description": "Significant interest in locating electronic surveillance tapes of Oswald's Mexico City visit",
+        "direct_quote": "There has been considerable interest over the years in locating any electronic surveillance tapes that would have been made during the period that Oswald visited Mexico City (26 September - 2 October 1963).",
+        "significance": "Highlights the importance of Oswald's Mexico City trip and potential gaps in surveillance documentation"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA analysis of audio surveillance tapes from Cuban and Soviet embassies in Mexico City during immediate post-assassination period",
+        "direct_quote": "In our search efforts we did locate approximately 185 audio surveillance tapes of the Cuban and Soviet embassies in Mexico City that were recorded during the immediate time following the assassination (22 November 1963 to January 1964).",
+        "significance": "Reveals extensive intelligence gathering around the time of Kennedy's assassination, with specific focus on Soviet and Cuban diplomatic locations"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Memo discussing disposal and potential recycling of intelligence tapes",
+        "direct_quote": "CIA has concluded that tapes in question do not exist and were almost certainly recycled in the normal course of business before their potential value was identified.",
+        "significance": "Suggests potential destruction or loss of potentially crucial evidence"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_RECORDS_MANAGEMENT",
+        "confidence": 7,
+        "description": "Documents about JFK assassination-related files being reviewed and processed",
+        "direct_quote": "Both documents were noted as missing when the files were reviewed by the CIA History Staff in November 1986.",
+        "significance": "Indicates potential gaps or intentional removal of documents related to the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Reference to documents about Oswald",
+        "direct_quote": "Participants - DCI, U.J. McCloy; Dinner at Residence - Re: Oswald. [The latter is annotated: 'Destroyed 1-28-72.']",
+        "significance": "Suggests high-level discussions about Oswald, with a document subsequently destroyed"
+      },
+      {
+        "category": "CIA_INTERNAL_INVESTIGATION",
+        "confidence": 8,
+        "description": "Systematic review and processing of assassination-related files",
+        "direct_quote": "The JFK collection contains a 201 file on Mr. Pawley... Most of the material was already within the JFK collection.",
+        "significance": "Demonstrates ongoing CIA efforts to compile and review documents related to the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Oswald files from Mexico City and potential CIA interest",
+        "direct_quote": "files from Mexico City Station are listed in the sequestered collection and the Oswald 201 file materials",
+        "significance": "Suggests CIA maintained significant documentation on Oswald's activities in Mexico City"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Court-ordered destruction of HTLINGUAL surveillance files",
+        "direct_quote": "CIA was directed by court order to destroy all HTLINGUAL material",
+        "significance": "Indicates systematic removal of sensitive surveillance records related to mail opening project involving American citizens"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Files related to Warren Commission investigation of Oswald",
+        "direct_quote": "the time of the assassination (as shown by the fact that they are contained in the Warren Commission materials)",
+        "significance": "Confirms ongoing investigation and documentation of Oswald's activities surrounding the assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "RECORD_DESTRUCTION",
+        "confidence": 8,
+        "description": "A record related to the Kennedy assassination was destroyed on 5/1/95",
+        "direct_quote": "In November 1997, the Information Management Officer of the Office of the Inspector General (OIG) advised that he had discovered a record which indicated that a file referred to the Kennedy assassination had been destroyed on '5/1/95'.",
+        "significance": "Suggests potential evidence suppression or systematic removal of documents related to the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document was part of the Lee Harvey Oswald file",
+        "direct_quote": "A search for information on this document revealed that the document had been created in 1977 and was described as 'allegations regarding the Lee Harvey Oswald file.'",
+        "significance": "Indicates ongoing investigation and documentation of Oswald-related materials long after the assassination"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "1450000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Attachment V",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment V",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA worked closely with JFK Assassination Records Review Board, providing documents related to Oswald Pre-Assassination File",
+        "direct_quote": "On each request, the CIA worked closely with the Board and Board staff to provide the information and/or documents requested and a written response which records such actions.",
+        "significance": "Indicates ongoing CIA involvement and cooperation in document disclosure about Oswald"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Reference to CIA-16 request specifically mentioning Oswald Pre-Assassination File",
+        "direct_quote": "this attachment includes at Tab 2 the specific response to the request numbered CIA-16 (Oswald Pre-Assassination File)",
+        "significance": "Suggests existence of a specific CIA file documenting Oswald's activities prior to the assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "1400050",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment V. Tab 1",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Comprehensive CIA records review related to JFK assassination",
+        "direct_quote": "JFK Assassinations Records Review Board Requests for Additional Information and Records",
+        "significance": "Indicates systematic documentation and review of CIA materials related to the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Multiple CIA file requests concerning Oswald and related materials",
+        "direct_quote": "CIA - 11: Sylvia Duran Materials; CIA - 16: Oswald Pre-Assassination Files",
+        "significance": "Suggests ongoing investigation into Oswald's background and connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Intelligence materials related to Cuba and USSR",
+        "direct_quote": "CIA - 9: Intelligence Community Publications on Cuba or USSR, Nov. 20-30, 1963",
+        "significance": "Indicates potential international context and intelligence gathering around assassination period"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Unknown (page 3 of a document)",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Multiple CIA informal requests related to Oswald records",
+        "direct_quote": "CIA-IR-05: Possible foreign source for records on Oswald",
+        "significance": "Indicates ongoing CIA interest in Oswald's background and potential foreign connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Internal CIA investigation of Oswald-related documents and files",
+        "direct_quote": "CIA-IR-10: Determination if CIA IG maintains an index of reports and determine if one was done on handling of Oswald matters",
+        "significance": "Suggests internal review of how Oswald information was handled and documented"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Searches and inquiries about Oswald-related computer files",
+        "direct_quote": "CIA-IR-09: George Bush computer search",
+        "significance": "Indicates high-level interest in searching for Oswald-related information"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "CIA-IR-INFORMAL_REQUESTS",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Multiple references to Oswald-related files",
+        "direct_quote": "CIA-IR-29: Oswald Le Winter",
+        "significance": "Indicates multiple CIA files related to Lee Harvey Oswald exist"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Extensive CIA informal requests tracking surveillance and files",
+        "direct_quote": "CIA-IR-15: Mexico City Station electronic surveillance and surveillance tapes",
+        "significance": "Suggests ongoing surveillance operations potentially related to Oswald and assassination investigation"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 9,
+        "description": "Specific mention of surveillance tapes from Mexico City",
+        "direct_quote": "Tapes from 22-23 Nov. '63 have been processed and are available to NARA",
+        "significance": "Direct reference to surveillance recordings from the time of the assassination"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Informal request related to Oswald information from a specific source",
+        "direct_quote": "Oswald related information provided by Source identified in RIF No 104-10151-10206",
+        "significance": "Suggests potential intelligence source with information about Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "CIA informal requests involving files and investigations",
+        "direct_quote": "Files of CIA officials/offices",
+        "significance": "Indicates internal CIA documentation and potential surveillance of CIA personnel related to the case"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "1440000",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "CIA-16",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA document discussing pre-assassination files on Lee Harvey Oswald",
+        "direct_quote": "Request for Additional Information and Records No. CIA-16 (Oswald Pre-Assassination Files)",
+        "significance": "Indicates ongoing internal review of Oswald-related documents by CIA"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Reference to Office of Security files containing information about Oswald",
+        "direct_quote": "These include the Office of Security file on Oswald, a general file on Americans who had defected to another country",
+        "significance": "Suggests CIA maintained multiple files tracking Oswald's activities and associations"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "22 December 1997 Memorandum",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA maintained two files on Lee Harvey Oswald at the time of the Kennedy assassination",
+        "direct_quote": "At the time of the assassination, the Office of Security (OS) held two files which contained information on Lee Harvey Oswald.",
+        "significance": "Confirms official CIA documentation of Oswald existing prior to the assassination, suggesting potential prior knowledge or surveillance"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Document reveals internal review of Oswald-related files and their destruction",
+        "direct_quote": "Since this material has been destroyed, OPS cannot definitively state whether these files contained any information on Lee Harvey Oswald.",
+        "significance": "Indicates potential deliberate destruction of records related to Oswald, raising questions about transparency"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Detailed information about HTLINGUAL project involving mail surveillance of countries including Soviet Union, China, Pakistan, and South America",
+        "direct_quote": "HTLINGUAL was a Directorate of Operations project involving the opening incoming and outgoing mail destined to and from the Soviet Union, China, Pakistan, and South America.",
+        "significance": "Provides context for intelligence operations during Oswald's time, suggesting potential surveillance mechanisms that could have tracked Oswald"
+      },
+      {
+        "category": "DEFECTORS_INTELLIGENCE",
+        "confidence": 8,
+        "description": "Defectors File established to record information on US citizens defecting to other countries",
+        "direct_quote": "The Defectors File (#0341008) was established circa 1950 for the purpose of recording information on US citizens defecting to other countries and information regarding foreign nationals considering defection to the United States.",
+        "significance": "Directly relates to Oswald's status as a defector to the Soviet Union, indicating systematic tracking of such individuals"
+      },
+      {
+        "category": "DOCUMENT_SOURCES",
+        "confidence": 6,
+        "description": "Pre-assassination documents about Oswald from various sources",
+        "direct_quote": "The pre-assassination documents located in this file relative to Lee Harvey Oswald are: a. Washington Star press clipping of 26 November 1959...",
+        "significance": "Demonstrates existing documentation and intelligence interest in Oswald prior to the assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Detailed file on Lee Harvey Oswald established circa 1960, containing press clippings and reports from government agencies about his defection",
+        "direct_quote": "The subject file pertaining to Lee Harvey Oswald (W035l164) was established circa 1960. It appears this file was created as a separate repository for the numerous press clippings and reports received from other government agencies on the defection of Lee Harvey Oswald to the USSR and his activities following his return to the United States.",
+        "significance": "Provides insight into early documentation and tracking of Oswald's movements and activities before the assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Early document referencing Oswald's interactions with Soviet authorities",
+        "direct_quote": "Department of State telegram #1304 from Moscow dated 31 October 1959",
+        "significance": "Indicates official State Department communications about Oswald's Soviet defection"
+      },
+      {
+        "category": "MEDIA_COVERAGE",
+        "confidence": 6,
+        "description": "Press coverage of Oswald's marine status",
+        "direct_quote": "The Washington Post press clipping dated November 1959 entitled 'Ex-Marine Asks Soviet Citizenship'",
+        "significance": "Shows early media attention to Oswald's controversial actions"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Multiple documents related to Oswald's activities and communications",
+        "direct_quote": "Department of State Dispatch from Moscow dated May 1961 with enclosure of Oswald letter",
+        "significance": "Suggests ongoing monitoring and documentation of Oswald's communications with Moscow"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Multiple agency documents tracking Oswald",
+        "direct_quote": "Report Summary prepared by Soviet Russia Division forwarded to Office of Security in March 1960",
+        "significance": "Indicates sustained intelligence community interest in Oswald before the assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Department of State communications from Moscow and Tokyo",
+        "direct_quote": "Department of State telegram #1358 from Moscow dated 9 November 1959",
+        "significance": "Suggests diplomatic communications about Oswald's activities during his time in USSR"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "CIA and State Department tracking Oswald since 1959 when he traveled to Russia",
+        "direct_quote": "OS holdings on Lee Harvey Oswald began in 1959 with his travel to Russia during which he renounced his US citizenship. Oswald was in contact with the American Embassy in Moscow, and the Department of State prepared reports on these contacts.",
+        "significance": "Indicates early US government surveillance of Oswald, suggesting potential prior knowledge or interest in his activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Central Intelligence Agency involved in distributing reports about Oswald",
+        "direct_quote": "Most likely because of counterintelligence concerns, the Central Intelligence Agency was included in the distribution of these reports.",
+        "significance": "Reveals inter-agency communication and tracking of Oswald before the assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Multiple cables from Mexico City related to Oswald time period",
+        "direct_quote": "Incoming cables from Mexico City dated 20 July 1963, 17 August 1963, 9 October 1963, and 24 October 1963",
+        "significance": "Suggests potential significance of Oswald's activities in Mexico City around the time of Kennedy's assassination"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document discusses Lee Harvey Oswald file and pre-assassination information",
+        "direct_quote": "Lee Harvey Oswald (#0351614) were handled by Marguerite D. Stevens of the OS/Security Research Staff during the pre-assassination time frame.",
+        "significance": "Indicates CIA's prior knowledge and handling of Oswald before the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Security Research Staff (SRS) role in intelligence gathering and counterintelligence",
+        "direct_quote": "The Security Research Staff (SRS) was the component responsible for collecting, developing, and evaluating information of a counterintelligence nature",
+        "significance": "Reveals internal CIA operational methods for tracking individuals of interest"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "SRS maintained detailed records on individuals of counterintelligence interest",
+        "direct_quote": "SRS maintained records identifying personalities, environments, and personal traits of individuals who had been of counterintelligence interest over the years",
+        "significance": "Demonstrates extensive surveillance and profiling capabilities of CIA"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document relates to researching pre-assassination files on Lee Harvey Oswald",
+        "direct_quote": "The Office of Personnel Security was tasked on 31 January 1997 by the Historical Review Group/Center for the Study of Intelligence(HRG/CSI), via the Directorate of Administration/Information Review Office, with researching pre-assassination files on Lee Harvey Oswald",
+        "significance": "Indicates ongoing official investigation into Oswald's background years after the assassination"
+      },
+      {
+        "category": "ARCHIVAL_INCONSISTENCIES",
+        "confidence": 8,
+        "description": "Missing Volume V of Oswald files, potential numbering error in document volumes",
+        "direct_quote": "A search of the entire area where the volumes had been maintained failed to locate Volume V. The IMB Files Section was subsequently charged with conducting an all out search for the missing volume.",
+        "significance": "Suggests potential deliberate suppression or accidental loss of critical documentary evidence"
+      },
+      {
+        "category": "INVESTIGATION_METHODOLOGY",
+        "confidence": 6,
+        "description": "Detailed investigation into missing Oswald file volumes",
+        "direct_quote": "During the complete review of the Oswald files no time gap was apparent and no one was located who could recall ever seeing Volume V.",
+        "significance": "Highlights potential gaps or deliberate obfuscation in historical record about Oswald"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "DO Response to Board Request CIA - 16",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA document references HTLINGUAL operation involving Oswald",
+        "direct_quote": "Given that Oswald was a subject of the HTLINGUAL operation, it is reasonable to believe that there was a file on him.",
+        "significance": "Indicates CIA had active surveillance or intelligence gathering on Oswald prior to assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA destroyed all HTLINGUAL files related to Oswald under court order",
+        "direct_quote": "We did not review all of the DO record system to destroy all copies of material which may have been derived from HTLINGUAL material.",
+        "significance": "Suggests potential evidence suppression or deliberate destruction of records related to Oswald"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Document details CIA file management procedures for Oswald records",
+        "direct_quote": "Prior to establishing a 201, any documents received would have been placed in an operational interest file.",
+        "significance": "Reveals internal CIA file classification processes for subjects of interest"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Attachment VI",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "Attachment VI",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Specific documents related to Oswald's files being processed for transfer",
+        "direct_quote": "All documents from Lee Harvey Oswald's \"A\" file and post-1978 201 file, Oswald's 201 file and security file and Marina Oswald's 201 (microfilm version) have already been transferred to NARA",
+        "significance": "Indicates ongoing systematic review and release of Oswald's CIA/HSCA files"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed processing plan for CIA assassination records",
+        "direct_quote": "Per agreement with Review Board, the declassification review of all records, unless specifically designated for post-September 1998 processing by the Review Board",
+        "significance": "Reveals formal government process for reviewing and releasing sensitive assassination-related documents"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA preparing to review and return unreviewed third-party referral documents related to JFK assassination",
+        "direct_quote": "The CIA proposes that it complete its review and return to originating agency by April 1999 all unreviewed third agency referral documents which were received prior to 30 September 1998.",
+        "significance": "Indicates ongoing document review process and potential sensitivity of assassination-related records"
+      },
+      {
+        "category": "REFERRAL_SOURCES",
+        "confidence": 8,
+        "description": "Multiple sources of potential assassination-related records identified",
+        "direct_quote": "Referral sources include: Army's Investigative Records Repository, SSCI -- Church Committee Records, JFK Presidential Library (Robert Kennedy files)",
+        "significance": "Demonstrates multiple government agencies had relevant documents about the assassination"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": null,
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_RECORDS_MANAGEMENT",
+        "confidence": 8,
+        "description": "CIA proposes to transfer Oswald's Security File and 'A' File to NARA, but retain custody until 2017",
+        "direct_quote": "The CIA proposes that the classified versions of Lee Harvey Oswald's Security File and 'A' File along with Marina Oswald's original 201 be transferred to the protected (secure) portion of the JFK Collection at NARA by 30 September 1998.",
+        "significance": "Reveals CIA's controlled approach to releasing sensitive documents about Oswald, indicating potential sensitivity of information"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Existence of specific CIA files about Oswald (Security File and 'A' File)",
+        "direct_quote": "Oswald 201 (original and microfilm from the sequestered collection)",
+        "significance": "Confirms CIA maintained detailed files on Oswald, suggesting potential operational interest"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "1-10000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "JFK Records Review Project - 8 October 1997",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document indicates records specifically related to Oswald and assassination investigation",
+        "direct_quote": "seventeen (17) are made up the Oswald 201 file",
+        "significance": "Confirms existence of dedicated Oswald file collection within JFK records"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Detailed breakdown of record collections including CIA staff files",
+        "direct_quote": "personnel files of CIA staff employees (approximately 5 reels)",
+        "significance": "Indicates potential internal CIA documentation about Oswald and assassination investigation"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Records include Cuban and Soviet-linked investigative materials",
+        "direct_quote": "Cubans, Americans, and Soviets linked to Oswald, the JFK assassination or various investigations",
+        "significance": "Suggests international dimensions to assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "SECRET",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document references Oswald's connections to multiple investigations and intelligence agency files",
+        "direct_quote": "The Oswald Security File; Agency working files generated by JFK assassination investigations and requests",
+        "significance": "Indicates widespread official interest in Oswald's background and activities"
+      },
+      {
+        "category": "TIME_FRAME_ANALYSIS",
+        "confidence": 9,
+        "description": "Precise time frame for JFK assassination records defined",
+        "direct_quote": "Time frame commences when Oswald arrived at the US air base (the U-2) at Atsugi, Japan, in December 1957 and continues through the end of the Garrison investigation in 1968",
+        "significance": "Establishes official documentary scope covering Oswald's movements and related investigations"
+      },
+      {
+        "category": "INVESTIGATIONS",
+        "confidence": 8,
+        "description": "Multiple official investigations listed",
+        "direct_quote": "- Warren Commission, 1963-64\n- James Garrison, New Orleans DA, 1966-68\n- Rockefeller Commission, *1975\n- Church Committee (Senate), *1975-76\n- House Select Committee on Assassinations (HSCA), 1976-79",
+        "significance": "Comprehensive list of government investigations into the JFK assassination"
+      },
+      {
+        "category": "INTELLIGENCE_STATIONS",
+        "confidence": 6,
+        "description": "Intelligence stations connected to Oswald's movements",
+        "direct_quote": "Moscow Station, Mexico City Station, JMWAVE Station, and CIA stations in those cities through which Oswald passed and how way to and from the Soviet Union",
+        "significance": "Highlights Oswald's potential intelligence connections and international movements"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Multiple potential Oswald connections listed in 'Key Figures' section",
+        "direct_quote": "-- David Phillips, CIA employee; -- Michael and Ruth Paine, Dallas; -- friends of Oswalds",
+        "significance": "Indicates multiple CIA and peripheral connections to Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 9,
+        "description": "CIA document detailing anti-Cuban operations and surveillance of key figures",
+        "direct_quote": "CIA anti-Cuban operations 1960-64 (Mongoose, etc.) if they involve JFK figures",
+        "significance": "Reveals agency-level interest in tracking individuals related to JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document mentions KGB officer in Mexico City and Cuban embassy connections",
+        "direct_quote": "-- Valeriy Kostikov, KGB Officer in Mexico City; -- Silvia Duran, employee in Cuban Embassy, Mexico City",
+        "significance": "Suggests international intelligence community involvement and surveillance"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_TRAVEL_CHRONOLOGY",
+        "confidence": 9,
+        "description": "Detailed timeline of Oswald's movements from 1956-1963",
+        "direct_quote": "Oswald Chronology, 1956-1963",
+        "significance": "Provides a comprehensive record of Oswald's geographical movements, including military service, international travel, and locations before the assassination"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 8,
+        "description": "Tracked international movements including Japan, USSR, Europe, and multiple US locations",
+        "direct_quote": "Arrives Atsugi (U2 Base) Japan 09/12/57, Departs New Orleans for Moscow via LeMavre, London, Helsinki 09/20/59",
+        "significance": "Reveals complex international travel pattern suggesting potential intelligence connections or operational movements"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_INTERACTIONS",
+        "confidence": 7,
+        "description": "Extended residence in Soviet locations",
+        "direct_quote": "Resides in Minsk 01/07/60 - 05/22/62",
+        "significance": "Indicates substantial time spent in USSR during Cold War period, potentially involving intelligence activities"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Internal CIA memorandum discussing JFK Board's request for assassination records release",
+        "direct_quote": "The Board has considered release of all CIA assassination records to be critical to successful implementation of the JFK Act. Accordingly, the Board requested each of CIA's directorates to certify,",
+        "significance": "Indicates official CIA engagement with JFK assassination document disclosure process"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Efforts to address and potentially limit conspiracy theories about JFK assassination",
+        "direct_quote": "The whole six year effort was designed to put rest all of the conspiracy theories and this comment would undercut the effort.",
+        "significance": "Suggests institutional concern about controlling narrative around assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_COMPLIANCE",
+        "confidence": 8,
+        "description": "Document suggests CIA refused to fully comply with JFK Act requirements",
+        "direct_quote": "CIA refused to sign CIA's Declaration of Compliance. Instead, the CIA raised serious concerns for the Board that the CIA has in fact fully complied with the JFK Act.",
+        "significance": "Indicates potential resistance or selective compliance with official investigation requirements"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "CIA Directorate of Intelligence document about JFK assassination records review process",
+        "direct_quote": "I am the Information Review Officer (IRO) for the Directorate of Intelligence (DI) of the Central Intelligence Agency (Agency).",
+        "significance": "Provides insight into internal CIA documentation and review process for JFK assassination records"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Ongoing effort to search and review records related to JFK assassination",
+        "direct_quote": "On 21 August, Mr. Harrelson contacted me for a further search of DI records, specifically that the DI follow up on a previously search by extending the timeframe covered in that original search.",
+        "significance": "Demonstrates continued internal investigation and document review years after the assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 8,
+        "description": "CIA internal memo requesting comprehensive file search on Kennedy assassination",
+        "direct_quote": "We are requested to search our files for any classifying material relating to the assassination of President Kennedy",
+        "significance": "Shows active internal investigation and document collection efforts by CIA in 1975"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Specific individuals named for file search related to assassination",
+        "direct_quote": "Lee Harvey Oswald, Jack Ruby, Jury Ivanovich Nosenko, and the Warren Commission",
+        "significance": "Official document explicitly linking key figures of interest in assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "28 Nov '63",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Memo discusses 'Rumours About Lee Harvey Oswald' and his presumed assassination connections",
+        "direct_quote": "Memo entitled: 'Rumours About Lee Harvey Oswald, which discusses the rumor-mongering in the world public regarding the presumed assassin'",
+        "significance": "Indicates active intelligence interest in Oswald's role and public perception immediately after the assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 9,
+        "description": "Multiple documents related to international reactions and analysis of Kennedy's assassination",
+        "direct_quote": "Fidel Castro's Speech, which contained an 'objective analysis' of implications of Kennedy's assassination",
+        "significance": "Shows high-level foreign government (Cuban) analysis and potential involvement/knowledge"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Confidential memos and reports tracking global reactions and propaganda",
+        "direct_quote": "FBIS study, never disseminated, entitled: The Past Soviet Propaganda Assessment of President Johnson",
+        "significance": "Reveals intelligence agencies were tracking international propaganda and reactions to assassination"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 8,
+        "description": "Official CIA Information Review Officer declaration about managing JFK Assassination records",
+        "direct_quote": "I am the Information Review Officer ('IRO') for the offices of the Director of Central Intelligence (CIA).",
+        "significance": "Provides insight into official CIA record-keeping and management of sensitive assassination documents"
+      },
+      {
+        "category": "DOCUMENT_MANAGEMENT",
+        "confidence": 9,
+        "description": "Detailed process for handling Assassination Records Review Board (ARRB) requests",
+        "direct_quote": "By memo date 6 April 1995, the Executive Director (CIA) requested that focal points for each Directorate be appointed to be responsible for responding to requests for information from the Assassination Records Review Board (ARRB).",
+        "significance": "Reveals official bureaucratic process for managing sensitive historical records related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Not Specified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_RECORDS",
+        "confidence": 8,
+        "description": "CIA organizational materials related to JFK assassination records review",
+        "direct_quote": "The DCI area/IRO made available to the Board the following records: Organization of the Office of the Director, 1963",
+        "significance": "Demonstrates ongoing internal review of documents related to the JFK assassination investigation"
+      },
+      {
+        "category": "HISTORIES_REVIEW",
+        "confidence": 7,
+        "description": "Ongoing review of 61 histories for JFK assassination relevance",
+        "direct_quote": "Sixty-one histories were provided to the Board by CST/HRG. The ARRB staff is continuing to review the histories to determine their relevance to the JFK assassination.",
+        "significance": "Indicates active archival research to uncover potential new information about the assassination"
+      },
+      {
+        "category": "GEORGE_BUSH_RECORD_SEARCH",
+        "confidence": 6,
+        "description": "Search for records related to George Bush in 1960-1967",
+        "direct_quote": "The DCT area provided a response of 'no record found' of any contact with Bush in the 1960-1967 time frame.",
+        "significance": "Addresses potential connections between George Bush and CIA activities during the period surrounding the assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "CIA-IR-10",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "No specific report on Oswald handling was ever prepared by the Office of External Affairs (OEXA)",
+        "direct_quote": "There is no indication that a report on the handling of Oswald was ever prepared.",
+        "significance": "Suggests potential suppression or lack of official documentation about Oswald's interactions with external agencies"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Multiple document collections related to JFK assassination being reviewed and processed",
+        "direct_quote": "The OIG located six documents that may be relevant to the JFK assassination.",
+        "significance": "Indicates ongoing investigation and document review decades after the assassination, suggesting continued interest in uncovering information"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "DCI_IRO_ACTIVITIES",
+        "confidence": 7,
+        "description": "DCI area/IRO completed declassification review of records from Ford and Kennedy libraries",
+        "direct_quote": "DCI area/IRO completed the declassification review of three NIEs, documents from the Ford and Kennedy libraries.",
+        "significance": "Indicates ongoing review and potential release of historical documents related to JFK era"
+      },
+      {
+        "category": "RECORD_PRESERVATION",
+        "confidence": 8,
+        "description": "Commitment to incorporate newly discovered JFK assassination records into CIA-HSCA Sequestered Collection",
+        "direct_quote": "will place any newly discovered or created assassination records into the JFK collection.",
+        "significance": "Suggests ongoing efforts to comprehensively document and preserve assassination-related materials"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_STRUCTURE",
+        "confidence": 8,
+        "description": "Detailed overview of CIA Directorate of Administration organizational structure and record-keeping",
+        "direct_quote": "I am the Information Review Officer (IRO) for the Directorate of Administration (DA) of the Central Intelligence Agency (Agency)",
+        "significance": "Provides insight into CIA's internal organizational management and record-keeping processes related to JFK assassination document review"
+      },
+      {
+        "category": "DOCUMENT_REVIEW_PROCESS",
+        "confidence": 7,
+        "description": "CIA's process for reviewing and releasing records related to JFK assassination",
+        "direct_quote": "To ensure that the ARRB staff understood the DA records systems and search capabilities, the DA/IRO and DA Information Management Officer (DA/IMO) briefed the staff on 17 March 1997",
+        "significance": "Reveals the systematic approach used by CIA to review and potentially release sensitive historical documents"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "CIA-12-JMWAVE-5 Files",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Multiple CIA file searches conducted on individuals potentially connected to Oswald case",
+        "direct_quote": "The DA conducted file searches in OS and HRM for records on Theodore Shackley, Ronald Cross, Bart Henry, Doug Gupton, David Morales",
+        "significance": "Indicates ongoing internal investigations and record collection related to potential assassination connections"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "CIA Office of Security identified a multi-volume file on Oswald pre-assassination",
+        "direct_quote": "The Office of Security identified a multi-volume file and provided answers to questions posed by the ARRB staff",
+        "significance": "Suggests significant CIA documentation and interest in Oswald before the assassination"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 5,
+        "description": "CIA offices searched records related to potential crime and Cuban connections",
+        "direct_quote": "CIA-IR-13 - Office/Person Dealing with Organized Crime & Cuba",
+        "significance": "Indicates investigations into potential organized crime and Cuban links to assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "CIA-IR-19",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Computer search on specific individuals, including multiple CIA/intelligence personnel file searches",
+        "direct_quote": "CIA-IR-19 Computer Search on Specific Individuals and Organizations",
+        "significance": "Indicates systematic internal review of personnel files related to various individuals"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct Oswald references, but shows extensive internal personnel file searches",
+        "direct_quote": "The Offices of Security, Human Resource Management, Medical Services, Training & Education conducted searches on the following individuals with described results",
+        "significance": "Demonstrates comprehensive internal record-keeping and cross-referencing of personnel files"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "CIA-IR-29/36",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA internal review of Oswald-related files and search procedures",
+        "direct_quote": "The Nagell, Novel and Ruby files were designated assassination records and copies were provided to HRP.",
+        "significance": "Indicates ongoing internal investigation and documentation of Oswald-related materials"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Systematic search of records related to Oswald",
+        "direct_quote": "The Offices of Security, Human Resource Management, Facilities Security & Services conducted searches for information on Oswald Winter.",
+        "significance": "Suggests continued agency interest in tracking Oswald's background and connections"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "JFK_Assassination_Records_Review_Board",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Not a JFK assassination document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 7,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 8,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": 9,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Administrative-Internal Use Only",
+    "page_number": 10,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 11,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 12,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 13,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "JFK-M-15",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document lists multiple file references for Oswald and several directors",
+        "direct_quote": "Robert Edward Webster, EE-18854; Lee Harvey Oswald, MS-1115; Libero Ricciardelli, MG-8295; Vladimir Sloboda, MG-10565; Joseph Dutkanicz, MS-10724",
+        "significance": "Indicates multiple intelligence files and connections involving Oswald across different personnel and file systems"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Detailed questions about OS/SRS file management and security clearances for Oswald",
+        "direct_quote": "How are these designations assigned? Does OS process security clearances for non-employees (e.g. sources)",
+        "significance": "Suggests active intelligence tracking and management of Oswald's file and status"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Inquiry about records of OS operations and liaison cooperation",
+        "direct_quote": "Where are records that would describe liaison (etc.) cooperation or operations between OS and CI located?",
+        "significance": "Indicates potential gaps or questions about documentation of Oswald-related intelligence activities"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of a secret CIA slush fund ('Cold Warrior Mangold') tightly controlled by Angleton, with potential unaudited operational expenses",
+        "direct_quote": "CIA secret slush fund which was tightly controlled by Angleton and not audited by usual procedures",
+        "significance": "Reveals potential off-the-books financial operations within CIA during critical Cold War period"
+      },
+      {
+        "category": "AGENCY_RECORD_KEEPING",
+        "confidence": 6,
+        "description": "Inconsistent record-keeping practices for CIA staff assignments and financial documentation",
+        "direct_quote": "CMO also stated that he does not have some old records during that time pertaining to assignments but the list he has is alphabetical by name",
+        "significance": "Highlights potential gaps in institutional record management that could obscure historical investigations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Document details Office of Security record-keeping practices from 1955-1965",
+        "direct_quote": "Prior to 1964 all index records were maintained on 3x5 inch index cards.",
+        "significance": "Provides insight into how government agencies maintained sensitive files during the period surrounding the JFK assassination"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Index cards tracked detailed personal information on individuals",
+        "direct_quote": "Cards included names (primary, alias, telecodes), file numbers, kinzlatives, location/residence, DPOB, citizenship, occupation, polygraph number, reference source data, information codes, remarks, SSN, sex, employer, and file retirement data.",
+        "significance": "Reveals extensive surveillance and record-keeping methods used by government agencies to track individuals of interest"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSRS_OPERATIONS",
+        "confidence": 7,
+        "description": "Details about Office of Security/Security Research Staff (OS/SRS) counterintelligence activities",
+        "direct_quote": "The Security Research Staff (SRS) was the component responsible for collecting, developing, and evaluating information of a counterintelligence nature to detect and/or prevent penetration of the Agency's organization, employees, and activities",
+        "significance": "Provides insight into CIA's internal security and intelligence gathering methods during the early 1960s"
+      },
+      {
+        "category": "RECORD_KEEPING",
+        "confidence": 6,
+        "description": "Explanation of file numbering and classification system",
+        "direct_quote": "'M' designated a miscellaneous record; 'S' designated a Security Research Staff record; 'MS' most likely referred to a miscellaneous record of interest to the Security Research Staff",
+        "significance": "Reveals internal document classification methodology used by CIA during this period"
+      },
+      {
+        "category": "SECURITY_CLEARANCES",
+        "confidence": 5,
+        "description": "Process for non-employee security clearance validation",
+        "direct_quote": "Security clearances per se are not processed for non-employees (sources/contacts). The Office of Security conducts appropriate national agency checks to try to determine the reliability of those individuals",
+        "significance": "Demonstrates CIA's approach to vetting non-employee contacts and information sources"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Questions about OS (Office of Security) files and components related to Oswald",
+        "direct_quote": "Question 8 - How many files did OS have on Oswald? Which OS components maintained files on Oswald? Why did OS have any files on Oswald?",
+        "significance": "Indicates potential surveillance or investigation of Oswald by CIA's Office of Security prior to assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Reference to potential records about Oswald in various organizational files",
+        "direct_quote": "Records on operations and/or projects in which the Office of Security was involved in the past have most likely been destroyed, unless they are maintained because of congressional directives or the records control schedules.",
+        "significance": "Suggests potential destruction or limitation of records related to Oswald and CIA operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_COMMUNICATIONS_PROCESS",
+        "confidence": 8,
+        "description": "Detailed description of CIA cable and message processing procedures from 1960-1964",
+        "direct_quote": "Prior to 1962 messages were delivered to the DPD (Development Products Division) at 1717 H Street or to the Communications Center at 'L' Street.",
+        "significance": "Provides technical insight into CIA communications infrastructure and message handling during critical pre-assassination period"
+      },
+      {
+        "category": "COMMUNICATION_CHANNELS",
+        "confidence": 7,
+        "description": "Messages originated from multiple channels including field communications",
+        "direct_quote": "Messages came in from the field via the Brandy Station State Channels or military channels.",
+        "significance": "Reveals multiple communication pathways used by CIA for receiving sensitive information"
+      },
+      {
+        "category": "DECRYPTION_METHODS",
+        "confidence": 6,
+        "description": "CIA used sophisticated encryption decryption techniques",
+        "direct_quote": "Messages were deciphered using a OTT (One Time Tape) or a OTP (One Time Pad) process.",
+        "significance": "Demonstrates sophisticated cryptographic methods used to protect sensitive communications"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "CIA-16",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA Office of Security held two files on Lee Harvey Oswald at time of assassination",
+        "direct_quote": "At the time of the assassination, the Office of Security (OS) held two files which contained information on Lee Harvey Oswald. A file entitled Defectors File (#0341008) contained a reference to Lee Harvey Oswald.",
+        "significance": "Indicates CIA had active files on Oswald prior to the assassination, suggesting potential surveillance or intelligence interest"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document is a request for information about pre-assassination files on Oswald",
+        "direct_quote": "The Office of Personnel Security has researched this request from the Assassination Records Review Board relating to the existence of pre-assassination files on Lee Harvey Oswald.",
+        "significance": "Demonstrates ongoing institutional interest in documenting Oswald's pre-assassination records and activities"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document references subject file on Lee Harvey Oswald maintained by Office of Security",
+        "direct_quote": "and the Office of Security also had a subject file on Lee Harvey Oswald (#0351164)",
+        "significance": "Indicates official tracking of Oswald by government agency prior to assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Files related to Oswald were part of Management Data Program/Personnel Security system",
+        "direct_quote": "These files were originally miscellaneous files which were converted to the above numbers circa 1964",
+        "significance": "Suggests systematic documentation and potential monitoring of Oswald's records"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Multiple official files existed about Oswald, but contents largely destroyed",
+        "direct_quote": "OPS cannot definitively state whether these files contained any information on Lee Harvey Oswald",
+        "significance": "Raises questions about completeness and intentional preservation of Oswald documentation"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document references a press clipping about Oswald defecting",
+        "direct_quote": "Washington Star press clipping of 26 November 1959 entitled 'U.S. Defector to Reds Turned to Marx at 15'",
+        "significance": "Provides early context about Oswald's potential communist sympathies and defection history"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 7,
+        "description": "Establishes a systematic tracking file on US citizens defecting",
+        "direct_quote": "The Defectors File (#0341008) was established circa 1950 for the purpose of recording information on US citizens defecting to other countries",
+        "significance": "Reveals extensive government monitoring of potential defectors, including compilation of information from multiple sources"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document lists countries of interest for defector tracking",
+        "direct_quote": "Defector outline prepared in October 1961 listing known defectors to the USSR, Red China, Cuba, and United Arab Republic",
+        "significance": "Indicates geopolitical focus on communist and emerging nationalist states during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "SECRET document",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses internal reorganization of Security Analysis Group and Counterintelligence Center (CIC) functions",
+        "direct_quote": "CIC assumed many of the functions previously conducted by the Security Analysis Group.",
+        "significance": "Reveals potential institutional shifts and reorganization of intelligence agencies around the time of the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mentions of Oswald, but document refers to a 'Defectors Machine Listing'",
+        "direct_quote": "The index reference to the Defectors File identifies a list dated 13 September 1966 which was known as the Defector Machine Listing.",
+        "significance": "Suggests existence of intelligence tracking system for defectors, potentially relevant to Oswald's background"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown (Secret file about Lee Harvey Oswald)",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Detailed file tracking Oswald's activities related to his return from USSR to the United States",
+        "direct_quote": "The subject file pertaining to Lee Harvey Oswald (HQ18L164) was established circa 1960. It appears this file was created as a separate repository for the numerous press clippings and reports received from other government agencies on the defection of Lee Harvey Oswald to the USSR and his activities following his return to the United States.",
+        "significance": "Indicates official government agencies were actively tracking Oswald's movements and Soviet connections well before the JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Multiple documents related to Oswald's interactions with Soviet entities",
+        "direct_quote": "Department of State telegram #1304 from Moscow dated 31 October 1959",
+        "significance": "Suggests ongoing diplomatic communication about Oswald's defection and activities"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Multiple government dispatches tracking Oswald's movements",
+        "direct_quote": "Department of State telegram #1358 from Moscow dated 9 November 1959",
+        "significance": "Demonstrates extensive government surveillance of Oswald's international travel and communications"
+      }
+    ],
+    "overall_page_relevance": 9
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Multiple documents related to Lee Harvey Oswald's file and background",
+        "direct_quote": "Undated summary of file information on Lee Harvey Oswald",
+        "significance": "Indicates substantial pre-assassination intelligence collection on Oswald"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Incoming cables from Mexico City with potential Oswald-related intelligence",
+        "direct_quote": "Incoming cable #63S58 from Mexico City dated 20 July 1963 (no mention of Oswald)",
+        "significance": "Suggests active intelligence monitoring in Mexico City around time of Oswald's visit"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 7,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Early Oswald travel and potential intelligence connections",
+        "direct_quote": "OS holdings on Lee Harvey Oswald began in 1959 with his travel to Russia during which he renounced his US citizenship",
+        "significance": "Indicates early surveillance of Oswald by intelligence agencies, suggesting potential prior knowledge or involvement"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Defectors File and document handling related to Oswald",
+        "direct_quote": "As the number of documents on this person increased, a separate file was created to be the repository of information on the alleged American defector.",
+        "significance": "Reveals systematic documentation and tracking of Oswald by US intelligence agencies before the assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Oswald's contacts with American Embassy in Moscow",
+        "direct_quote": "Oswald was in contact with the American Embassy in Moscow, and the Department of State prepared reports on these contacts.",
+        "significance": "Suggests official diplomatic awareness of Oswald's activities during his time in Russia"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 8,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document describes the Security Research Staff (SRS) as a counterintelligence component that collected and evaluated intelligence",
+        "direct_quote": "The Security Research Staff (SRS) was the component responsible for collecting, developing, and evaluating information of a counterintelligence nature to detect and/or prevent penetration of the Agency's organization, employees, and activities by foreign or domestic organizations or individuals.",
+        "significance": "Provides insight into CIA's internal counterintelligence operations and organizational structure during the pre-assassination period"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "SRS reported directly to the Office of the Director of Security",
+        "direct_quote": "SRS reported directly to the Office of the Director of Security.",
+        "significance": "Demonstrates reporting lines and internal communication protocols within the CIA"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret memorandum dated 1 June 1981",
+        "direct_quote": "MEMORANDUM FOR: Gloria Boyd, HRG-IGS",
+        "significance": "Internal government communication about historical document request"
+      },
+      {
+        "category": "RECORDS_REQUEST",
+        "confidence": 8,
+        "description": "Request for additional information about CIA service group documents",
+        "direct_quote": "Attached per your request is a copy of Regulatory Service Group documents responsive to the subject request for areas involving the occurrence and division of responsibilities within CIA",
+        "significance": "Indicates ongoing archival research into CIA historical records"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_PROCESS",
+        "confidence": 7,
+        "description": "Memorandum about ARRB request for access to CIA historical indices related to JFK assassination records",
+        "direct_quote": "ARRB Request for Access to Indices to CIA Histories",
+        "significance": "Provides insight into the ongoing process of declassifying and accessing JFK assassination-related documents"
+      },
+      {
+        "category": "DOCUMENT_ACCESS",
+        "confidence": 8,
+        "description": "Potential broad access to assassination-related documents across multiple agency files",
+        "direct_quote": "Potentially, the ARRB could request access to any number of Agency documents totally unrelated to the JFK Assassination (i.e. 201 files).",
+        "significance": "Indicates the Assassination Records Review Board had wide-ranging authority to access historical documents"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CIA-16",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA files confirmed holding two files containing information on Lee Harvey Oswald at the time of Kennedy's assassination",
+        "direct_quote": "At the time of the assassination, the Office of Security (OS) held two files which contained information on Lee Harvey Oswald.",
+        "significance": "Confirms CIA had pre-existing files on Oswald, suggesting prior knowledge or surveillance"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Interdepartmental communication about reviewing Oswald files from Assassination Records Review Board",
+        "direct_quote": "The Office of Personnel Security has researched this request from the Assassination Records Review Board relating to the existence of pre-assassination files on Lee Harvey Oswald.",
+        "significance": "Indicates ongoing official investigation and archival review of Oswald-related documents"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document discusses files related to Lee Harvey Oswald maintained by Office of Security",
+        "direct_quote": "the Office of Security also had a subject file on Lee Harvey Oswald (#0351164)",
+        "significance": "Indicates ongoing monitoring of Oswald by internal government agencies"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Systematic destruction of Oswald-related files",
+        "direct_quote": "All of the HTLINGUAL files were destroyed on 8 April 1994 along with numerous soft files",
+        "significance": "Suggests potential cover-up or deliberate erasure of documentation about Oswald"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document references pre-assassination documents related to Lee Harvey Oswald",
+        "direct_quote": "pre-assassination documents located in this file relative to Lee Harvey Oswald are:",
+        "significance": "Indicates existence of CIA files tracking Oswald before the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed tracking of US citizens and foreign nationals defecting",
+        "direct_quote": "The Defectors File (#0341008) was established circa 1950 for the purpose of recording information on US citizens defecting to other countries and information regarding foreign nationals considering defection to the United States",
+        "significance": "Shows systematic government surveillance of potential defectors, potentially including Oswald"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Documentation of defectors from May 1959 to October 1960",
+        "direct_quote": "Department of State memorandum dated 25 October 1960 with attached list of American 'defectors' from May 1959 to October 1960",
+        "significance": "Indicates comprehensive tracking of US citizens' international movements during Oswald's period of interest"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown (Secret document page 4)",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document details internal reorganization of intelligence groups handling defector files",
+        "direct_quote": "CIC assumed many of the functions previously conducted by the Security Analysis Group.",
+        "significance": "Reveals potential bureaucratic shifts in intelligence handling around the time of the Kennedy assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "References 'Defectors Machine Listing' which might relate to intelligence tracking of defectors",
+        "direct_quote": "The index reference to the Defectors File identifies a list dated 13 September 1966 which was known as the Defector Machine Listing.",
+        "significance": "Suggests systematic tracking of individuals considered potential defectors or security risks"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "H0351164",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Detailed file tracking Oswald's defection and return to the United States",
+        "direct_quote": "The subject file pertaining to Lee Harvey Oswald (H0351164) was established circa 1960. It appears this file was created as a separate repository for the numerous press clippings and reports received from other government agencies on the defection of Lee Harvey Oswald to the USSR and his activities following his return to the United States.",
+        "significance": "Provides official documentation of Oswald's movements and governmental tracking of his activities, suggesting significant interest in his Soviet connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Multiple Department of State communications about Oswald's status",
+        "direct_quote": "Documents include Department of State telegrams from Moscow and Tokyo dated November 1959",
+        "significance": "Indicates diplomatic communications and potential intelligence gathering about Oswald's international movements"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Press clippings discussing Oswald's defection and citizenship",
+        "direct_quote": "The Washington Post press clipping dated 1 November 1959 entitled 'Ex-Marine Asks Soviet Citizenship'",
+        "significance": "Provides contemporaneous media documentation of Oswald's attempts to change citizenship"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "SECRET",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Multiple government agencies tracked Oswald's activities in 1961-1963",
+        "direct_quote": "Undated summary of file information on Lee Harvey Oswald",
+        "significance": "Indicates widespread surveillance and interest in Oswald before the assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Multiple communications from Mexico City related to Oswald",
+        "direct_quote": "Incoming cable #83858 from Mexico City dated 20 July 1963 (no mention of Oswald)",
+        "significance": "Suggests potential intelligence interest or monitoring of Oswald's movements"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Extensive documentation tracking Oswald across multiple agencies",
+        "direct_quote": "Documents were located in a subsequent volume of the Oswald file and also appear to predate the assassination of President Kennedy",
+        "significance": "Demonstrates comprehensive inter-agency file on Oswald before assassination"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "SECRET document from 9 October 1963",
+    "page_number": 7,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Oswald's interactions with US intelligence agencies before assassination",
+        "direct_quote": "OS holdings on Lee Harvey Oswald began in 1955 with his travel to Russia during which he renounced his US citizenship. Oswald was in contact with the American Embassy in Moscow, and the Department of State prepared reports on these contacts.",
+        "significance": "Establishes early intelligence interest in Oswald, documenting his movements and communications with US government agencies"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Intelligence file management for Oswald",
+        "direct_quote": "Most likely because of counterintelligence concerns, the Central Intelligence Agency was included in the distribution of these reports. In the beginning this material was probably retained in the Defectors File.",
+        "significance": "Indicates CIA's active tracking and documentation of Oswald as a potential person of interest"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Specific file creation and management for Oswald",
+        "direct_quote": "As the number of documents on this person increased, a separate file was created to be the repository of information on the alleged American defector.",
+        "significance": "Demonstrates systematic documentation and file management of Oswald's activities by US intelligence agencies"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "SECRET document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Document details internal Security Research Staff (SRS) counterintelligence activities",
+        "direct_quote": "SRS was the component responsible for collecting, developing, and evaluating information of a counterintelligence nature to detect and/or prevent penetration of the Agency's organization",
+        "significance": "Provides insight into CIA's internal intelligence monitoring processes during the relevant time period"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but document discusses counterintelligence investigations of individuals",
+        "direct_quote": "SRS maintained records identifying personalities, environments, and personal traits of individuals who had been of counterintelligence interest over the years",
+        "significance": "Suggests potential tracking of individuals of interest, potentially including Oswald"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "1450000",
+    "page_number": 6,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "27 February 1998 ARRB Memorandum",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CONTEXT",
+        "confidence": 8,
+        "description": "Assassination Records Review Board (ARRB) document investigating CIA records on Claude B. Capehart",
+        "direct_quote": "ARRB Request No. CIA-IR-7 For Information On Claude B. Capehart",
+        "significance": "Part of systematic review of assassination-related documents"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 7,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 8,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "CIA-IR-11",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Internal CIA document about search for files related to Warren Commission critics",
+        "direct_quote": "This is with reference to your 2 February 1993 memorandum (Tab A) and our subsequent telephone conversation on 6 February wherein you requested that the Disclosure Office (DA) search for files on records of Warren Commission critics",
+        "significance": "Demonstrates CIA's ongoing file management and searches related to JFK assassination investigation documentation"
+      },
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 5,
+        "description": "Mentions specific individuals potentially connected to Warren Commission investigation",
+        "direct_quote": "Search for files on Josiah Thompson, Mark Lane, Harold Weisberg, or Sylvia Meagher",
+        "significance": "Identifies key critics and researchers of the Warren Commission report"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 8,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": 6,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 9,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 10,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "CIA IR-19 (DA/IRO No. 32)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Internal CIA memorandum about search requests for specific individuals related to historical review",
+        "direct_quote": "This is in response to your 3 August 1998 memorandum [...] wherein you requested that the Directorate of Administration (DA) conduct searches on the following names",
+        "significance": "Indicates ongoing historical review of CIA records related to potential JFK assassination connections"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Search conducted for individuals potentially connected to historical investigation",
+        "direct_quote": "Andrew 'Andy' Anderson, Howard Guesler, Gordon Duane Novel, Edward Scanned Butler III, Director Information Council of the Americas (INCA)",
+        "significance": "Suggests ongoing investigation into potential associates or connections related to historical events"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": null,
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Confidential memo from Associate Information Review Officer requesting comprehensive file search on specific individuals related to JFK assassination",
+        "direct_quote": "This is in response to your 3 February 1997 memorandum... request is for access to records of possible pertinence to the JFK assassination.",
+        "significance": "Shows ongoing internal government review of JFK assassination documents in late 1990s, indicating continued interest in investigating potential leads"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "List of individuals being investigated in connection with JFK assassination",
+        "direct_quote": "Individuals listed below: Leo Cherne, Hunter Leake, Paul Garbler, Byron B. Morton Jr., Marie Cheatham, Verna Deane Brown, John A. McVickar",
+        "significance": "Suggests broad investigation into potential connections, though no direct Oswald link is evident from this document"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INVESTIGATION_LIMITATIONS",
+        "confidence": 9,
+        "description": "OPS (Office of Professional Responsibility) was only able to locate files on limited individuals and found no information directly related to JFK assassination",
+        "direct_quote": "OPS was only able to locate files on Cherne, Leake and Garbler. However, after a careful review, they determined that there is no information contained in the files that links the individuals to JFK or to the JFK assassination.",
+        "significance": "Indicates potential gaps or limitations in record-keeping and investigation of assassination-related documents"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 8,
+        "description": "Confidential document with declassification instructions",
+        "direct_quote": "UNCLASSIFIED UPON REMOVAL OF ATTACHMENTS",
+        "significance": "Suggests sensitive nature of original document and controlled release process"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Reference to Marilyn Murret, Lee Harvey Oswald's cousin, potentially involved in espionage",
+        "direct_quote": "Marilyn Murret is Lee Harvey Oswald's cousin and that evidence indicates she was involved in espionage activities in Russia and Asia.",
+        "significance": "Suggests potential familial connections to intelligence activities, indicating possible broader network around Oswald"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mention of Oswald's connections to foreign documents and research services",
+        "direct_quote": "Foreign Documents Division/00 requested a clearance on Spas T. Raikin for unclassified contact employment with U.S. Joint Publications Research Service in New York City",
+        "significance": "Hints at potential international intelligence connections and networks involving Oswald's associates"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Interdepartmental memo about CIA records search related to JFK/ARR (Assassination Records Review)",
+        "direct_quote": "Re: PRIORITY - CIA IR-19 (DA/IRO 32c) JFK/ARRB",
+        "significance": "Indicates ongoing document review and search process for JFK assassination records"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Communication between CIA/IRO departments about record searches",
+        "direct_quote": "CCS has no record for the organizations listed below.",
+        "significance": "Suggests potential gaps or limitations in record-keeping about Oswald-related organizations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Searching for information on Andrew (Andy) Anderson, who was noted as a 'former employee' with an Agency Identification Number (AIN)",
+        "direct_quote": "I note the presumption 'Evidently, he was a former employee' because he had a AIN number of 0 800211. An AIN number is an Agency Identification Number, not necessarily suggesting an 'employee' relationship.",
+        "significance": "Minimal relevance to Oswald, appears to be a general administrative search for personnel records"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "1-4-10000",
+    "page_number": 11,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "GA-1025",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Interdepartmental memo about locating information on Homer Albert McMahon, a former photographer",
+        "direct_quote": "I have located information on a former employee named Homer Albert McMahon, DOB: 6 Jan 1928, who [first] EOD'd 22 Sept 1952 and resigned on 20 March 1953 (GS-03)",
+        "significance": "Routine personnel record search, minimal direct connection to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Routine administrative memo about a name trace request related to Assassination Records Review Board",
+        "direct_quote": "Assassination Records Review Board Name Trace Request on William Green",
+        "significance": "While not directly revealing a conspiracy, demonstrates ongoing administrative processes around assassination records"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 4,
+        "description": "Reference to searching a Management Data Program/Personnel Security database",
+        "direct_quote": "MDP/PS database was searched as requested",
+        "significance": "Suggests ongoing tracking and documentation of personnel related to assassination investigations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "14-10000",
+    "page_number": 12,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2,
+    "analysis_notes": "This appears to be an internal CIA routing document from 1998 requesting a records search for Jordan James Pfunter, dated 13 August 1998. While it is a CIA document, it does not seem directly related to JFK assassination investigation. The document appears to be about a records destruction and search request from 1980-1981, with no clear connection to JFK assassination evidence."
+  },
+  {
+    "document_id": "Unknown (page 13 visible)",
+    "page_number": 13,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 164,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown - image appears to be mostly blank/unreadable",
+    "page_number": 14,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown from this page",
+    "page_number": 14,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document references Oswald claiming to be a former CIA officer",
+        "direct_quote": "LeWinter apparently approached the British Broadcasting Corporation (BBC) claiming to be a former CIA officer.",
+        "significance": "Suggests potential intelligence community connection or disinformation effort surrounding Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "LeWinter volunteered information about Agency operations",
+        "direct_quote": "LeWinter volunteered to provide information about Agency operations overseas.",
+        "significance": "Indicates potential intelligence source or fabricator attempting to shape narrative about CIA operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10332-10023",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "Oswald identified as having CIA connections and being the subject of a 'burn notice'",
+        "direct_quote": "Oswald LeWinter is a naturalized US citizen and a man of at least four other names... Lewinter was the subject of an Agency 'burn notice' in 1990; a burn notice alerts the intelligence community.",
+        "significance": "Suggests Oswald had complex intelligence affiliations and was known to CIA"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA report documenting intelligence fabricator and drug dealer interactions",
+        "direct_quote": "CIA has report of an episode involving an intelligence fabricator and convicted drug dealer involving Oswald LeWinter, George Mearak, Oscar LeWinter, Ibrahim Razin",
+        "significance": "Indicates potential covert intelligence operations and complex network around Oswald"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mentions overseas interactions and potential defection attempts",
+        "direct_quote": "US representative overseas reported that LeWinter, using the name of George Mearak, contacted GDR officials wishing to defect",
+        "significance": "Suggests potential international intelligence connections and defection attempts"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "LEWinter_CIA_CONNECTION",
+        "confidence": 6,
+        "description": "Document discusses LeWinter, a CIA-connected individual offering information about Agency operations",
+        "direct_quote": "LeWinter disc came to the attention of the Office of Security in December 1981. The CIA's Public Affairs Adviser: that LeWinter apparently approached the British Broadcasting Corporation claiming to be a former CIA officer. LeWinter volunteered to provide information about Agency operations overseas.",
+        "significance": "Suggests potential CIA insider with willingness to share operational details, potentially related to broader intelligence community activities"
+      },
+      {
+        "category": "MEDIA_INVOLVEMENT",
+        "confidence": 5,
+        "description": "LeWinter's information offer involved collaboration with BBC and a book project",
+        "direct_quote": "His offer was in conjunction with a six-part television series being produced by the BBC based on the book 'The Agency' by John Ranelagh.",
+        "significance": "Indicates potential media narrative shaping around CIA operations and potential information disclosure"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "1340000",
+    "page_number": 15,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "14-10001",
+    "page_number": 15,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Attachment to 10 March 1998 Memorandum RE: CIA-TR-36",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZATIONAL_TRANSFER",
+        "confidence": 8,
+        "description": "Transfer of Cable Secretariat from Office of Director to Office of Communications, Directorate for Support",
+        "direct_quote": "Effective 1 February 1973, the Cable Secretariat is transferred from the Office of the Director to the Office of Communications, Directorate for Support.",
+        "significance": "Routine administrative reorganization document, not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown (page marked 16)",
+    "page_number": 16,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "CIA Security internal memorandum about records search request",
+        "direct_quote": "Records Search Request HSCA Names from ARRB",
+        "significance": "Indicates ongoing document review and information management related to JFK assassination investigations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "CIA Security Center internal memorandum about records search for JFK Project",
+        "direct_quote": "Records Search Request HSCA Names from ARRB",
+        "significance": "Indicates ongoing internal review and management of JFK assassination records"
+      },
+      {
+        "category": "DOCUMENT_HANDLING",
+        "confidence": 8,
+        "description": "Classified document with restricted access marked 'FOR OFFICIAL USE ONLY'",
+        "direct_quote": "FOR OFFICIAL USE ONLY",
+        "significance": "Suggests sensitive nature of documents being reviewed and managed"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Silvia Tirado de Duran listed with Oswald File reference",
+        "direct_quote": "DURAN, Silvia Tirado de AIN 0 351 164 = Oswald File",
+        "significance": "Suggests potential connection to Oswald through CCS record"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Multiple individuals with potential intelligence connections",
+        "direct_quote": "MARTIN, Jack. CCS records reflect three following individuals who may or may not be identifiable with your request.",
+        "significance": "Indicates potential intelligence file tracking and deliberate obfuscation"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Sylvia Odio listed with Oswald File references",
+        "direct_quote": "ODIO, Sylvia AIN 0 351 164 = Oswald File AIN 0 351 164-6 =-Oswald File",
+        "significance": "Indicates potential connection to Oswald investigation documentation"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "AIN 0 535 449",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "AIN 0 256 167",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_ADMINISTRATIVE_RECORD",
+        "confidence": 7,
+        "description": "CIA Center for Security has no record of three specific individuals",
+        "direct_quote": "The Center for CIA Security has no record of the following individuals: ALVARADO, Gilberto; CALDERON, Luisa; RAY, Manuel",
+        "significance": "Suggests possible screening or vetting of individuals with potential connection to agency operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Declaration by Teresa F. Wilcox, Information Review Officer for Directorate of Science and Technology (DS&T)",
+        "direct_quote": "I, Teresa F. Wilcox, hereby declare and say as follows:",
+        "significance": "Official internal CIA document describing document review process"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "SEARCHES_AND_RECORDS",
+        "confidence": 7,
+        "description": "DS&T conducted searches of OTS, OTC, and CITO records related to Mexico City and time period around JFK assassination",
+        "direct_quote": "In conducting a search for the above information, the DS&T located in OTS records a file with the folder title, 'Mexico City, Mexico.'",
+        "significance": "Indicates systematic internal investigation and document review by intelligence agencies regarding potential connections to assassination"
+      },
+      {
+        "category": "KEYWORD_SEARCHES",
+        "confidence": 6,
+        "description": "Multiple keywords used in searches including surveillance-related terms",
+        "direct_quote": "Searches of OTS, OTC, and CITO records used the following keywords: surveil*, Russian, USSR, Cuba*, audio*, electron*, embassy, Mexico*",
+        "significance": "Reveals intelligence agencies' focus on foreign connections, surveillance, and potential international dimensions of investigation"
+      },
+      {
+        "category": "RECORD_DISPOSAL",
+        "confidence": 5,
+        "description": "Multiple records from different time periods were destroyed or transferred",
+        "direct_quote": "Records Retirement Request records disposition included: Destroyed, Transferred to other offices",
+        "significance": "Suggests potential deliberate management/sanitization of documentary evidence"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "CIA-TR-16",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA records mention KGB file on Oswald and searched records related to Oswald",
+        "direct_quote": "CIA-TR-16 FBIS-USR-92-112. The DS&T provided a translation of articles about a KGB file on Oswald.",
+        "significance": "Suggests potential intelligence connections and foreign interest in Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Multiple searches conducted for records related to Oswald",
+        "direct_quote": "CIA-IR-16 U-2 Files. The DS&T provided the Board a copy of the U-2 shelflist. We also searched for records filed under Richard Bissell's name.",
+        "significance": "Indicates ongoing investigation and document compilation about Oswald"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Searches for various records and items potentially associated with Oswald",
+        "direct_quote": "CIA-TR-17 DS&T Records on Castro Assassination Plots. Records searched for the following keywords: Castro, Oswald, Oswalt, assassin, and KDBADGER.",
+        "significance": "Shows extensive documentation efforts tracking Oswald and related figures"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_REVIEW",
+        "confidence": 7,
+        "description": "Internal CIA document reviewing organizational charts and document release related to JFK assassination files",
+        "direct_quote": "Review of Organizational Charts of all Agency directorates for the years 1958-1968 (CIA-1)",
+        "significance": "Indicates ongoing internal review of CIA documentation from period surrounding JFK assassination"
+      },
+      {
+        "category": "DOCUMENT_REVIEW",
+        "confidence": 6,
+        "description": "Review of documents concerning JFK assassination, with some documents withheld or sanitized",
+        "direct_quote": "Four documents had been previously released (one was released in full, and three were sanitized); eight documents had been denied in full",
+        "significance": "Suggests continued classification and selective release of JFK assassination-related documents"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA Central Intelligence Agency document about records management and information systems",
+        "direct_quote": "I am the JFK Focal point Officer ('FPO') for the Directorate of Operations ('DO') of the United States Central Intelligence Agency ('CIA')",
+        "significance": "Provides insight into CIA's internal record-keeping and document management processes related to JFK assassination files"
+      },
+      {
+        "category": "DOCUMENT_MANAGEMENT",
+        "confidence": 8,
+        "description": "Details about record-keeping practices and potential missing documents",
+        "direct_quote": "DO records were predominately paper with a hard copy card index in the 1960's and an electronic index in the 1970's... We did locate one set of tapes which we know was made available to the Warren Commission but was not included in the HSCA sequestered collection.",
+        "significance": "Reveals potential gaps or inconsistencies in document preservation and archiving of JFK-related records"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA issued agency-wide employee bulletin for new JFK Assassination records search in July 1998",
+        "direct_quote": "The CIA is issued an Agency-wide employee bulletin for a new search for JFK Assassination records (OIM 98-0081, dated 30 July 1998).",
+        "significance": "Indicates ongoing efforts to locate and review JFK assassination documents decades after the event"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Detailed briefings to Assassination Records Review Board about records management",
+        "direct_quote": "The DO provided several briefings to the Assassination Records Review Board and their staff, starting in 1995, to describe the records created by the DO and the record system",
+        "significance": "Shows transparency efforts and ongoing document review process for JFK assassination records"
+      },
+      {
+        "category": "RECORD_KEEPING",
+        "confidence": 8,
+        "description": "Challenges in searching historical records systems",
+        "direct_quote": "Many of the searches performed today are not significantly different than the ones done during the period of the various commissions and committees.",
+        "significance": "Reveals ongoing difficulties in comprehensively searching historical government records"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed CIA organizational records request covering multiple sensitive areas",
+        "direct_quote": "CIA-1 - Information on the organization of CIA",
+        "significance": "Reveals extensive documentation about CIA's internal structure, personnel, and operations during the 1960s"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Request for comprehensive CIA organizational charts and related materials",
+        "direct_quote": "The March 1995 ARRB request called for the availability of 'comprehensive organizational charts (or the best available substitutes)'",
+        "significance": "Indicates ongoing efforts to understand CIA's organizational structure during the period relevant to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "JFK Declaration of Fredrick C. Wickham, Jr.",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document reveals CIA ARRB (Assassination Records Review Board) requests for information about CIA operations in 1961-1963",
+        "direct_quote": "in April 1998, we agreed to provide structure charts for the DDP in 1961 and 1963, with Division and Staff titles and a JMWAVE Chart.",
+        "significance": "Indicates ongoing documentation and review of CIA operational structures during the period relevant to JFK assassination investigations"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Multiple ARRB requests for detailed CIA records from 1995",
+        "direct_quote": "The ARRB request was dated May 1995 and was six pages of file code numbers, crypts, names, dispatch designators, and cable location designators",
+        "significance": "Shows systematic efforts to collect and review classified documents related to CIA operations during the early 1960s"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "SECRET JFK Declaration of Fredrick C. Wickham, Jr.",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "CIA request for systematic review of cable traffic between Mexico City and JMWAVE from September-December 1963",
+        "direct_quote": "This ARRB request was dated September 1995 and was for 'the CIA to assemble all of the cable traffic and dispatches for . . . September 26, 1963 through October 20, 1963 and November 22, 1963 through December 30, 1963 between' . . . Mexico City and Headquarters and Mexico City and JMWAVE.",
+        "significance": "Indicates potential interest in communications related to the timeframe of the JFK assassination, suggesting possible intelligence agency monitoring or involvement"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Cables and dispatches from specific period were not fully preserved",
+        "direct_quote": "The DO provided a classified response in January 1998. All cable traffic and dispatches for the period... are not available as a chronological collection.",
+        "significance": "Suggests potential document destruction or intentional gaps in record-keeping during a critical period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "CIA_HISTORIES",
+        "confidence": 7,
+        "description": "CIA review of multiple historical documents related to covert operations in 1960s",
+        "direct_quote": "Record of Paramilitary Action Against the Castro Government of Cuba, written by Colonel J. Hawkins, USMC, on 5 May 1961",
+        "significance": "Provides insight into CIA operations against Cuba during the period relevant to JFK assassination context"
+      },
+      {
+        "category": "COVERT_OPERATIONS",
+        "confidence": 6,
+        "description": "Multiple classified historical documents about CIA divisions and operations",
+        "direct_quote": "Covert Action Project Funds, FY 1964 and FY 1965 (With Historical Perspective December 1947 - January 1964)",
+        "significance": "Reveals ongoing CIA covert funding and operational activities during critical time period surrounding JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 7,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 8,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 9,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 10,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 11,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 12,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA document discussing search for materials related to Sylvia Duran and JMWAVE-connected individuals",
+        "direct_quote": "IMS/ESG searched its main index system, its 'names' data base, and hard copy files.",
+        "significance": "Indicates ongoing CIA investigation and information gathering about individuals potentially connected to JFK assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Request for files on five persons allegedly connected to JMWAVE",
+        "direct_quote": "Files, personnel files, Office of Security files, P-files, or any other files related to ... David Sanchez Morales ... Ted Shackley ... Ron Cross ... Bart Henry and Doug Gupton.",
+        "significance": "Suggests investigation of CIA personnel with potential connections to Oswald or assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Document indicates inability to confirm or provide certain files",
+        "direct_quote": "The DO maintains no files on former employees, such as Morales, Shackley, or Gupton (P).",
+        "significance": "Potential evidence of document destruction or deliberate obfuscation of records"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": null,
+    "page_number": 13,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "CIA Mexico City Station annual reports from 1957-1973 were reviewed, with some documents missing or not located",
+        "direct_quote": "RMDs for Mexico City Station, for the years 1962, 1963, or 1964 could not be located.",
+        "significance": "Gaps in CIA documentation for the period surrounding the JFK assassination, potentially indicating deliberate document removal"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Annual reports were used as evaluative tools for CIA station operations",
+        "direct_quote": "The RMDs, themselves are a summary of station activities reported to Headquarters in other correspondence during the courses of the year",
+        "significance": "Reveals internal CIA reporting mechanisms and how stations documented their activities"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": null,
+    "page_number": 14,
+    "relevant_findings": [
+      {
+        "category": "CIA_RECORDS_MANAGEMENT",
+        "confidence": 7,
+        "description": "Document details CIA record retention and destruction policies for administrative files",
+        "direct_quote": "The National Archives and Records Administration (NARA) authorized the Agency to destroy facilitative reports in 1954",
+        "significance": "Provides insight into CIA's standard document handling procedures for sensitive materials"
+      },
+      {
+        "category": "RECORD_DISPOSAL",
+        "confidence": 8,
+        "description": "Specific details about retired CIA files related to Win Scott's Mexico City operations",
+        "direct_quote": "Mr. Scott's Mexico City files were retired as Job 78-00594R on 11 August 1972. These records were retired to the Agency's Archives and Records Center under Item Number 40-76",
+        "significance": "Reveals systematic approach to managing operational files, potentially related to JFK assassination context"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 15,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 8,
+        "description": "CIA confirms existence of Oswald file related to HTLINGUAL operation",
+        "direct_quote": "Given that Oswald was a subject of the HTLINGUAL operation, it is reasonable to believe that there was a file on him.",
+        "significance": "Reveals CIA had active surveillance and intelligence gathering on Oswald prior to assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA destroyed Oswald-related files under court order",
+        "direct_quote": "We destroyed all of the HTLINGUAL files under court order, and no record was made of what files existed.",
+        "significance": "Indicates potential suppression or concealment of evidence related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 16,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 7,
+        "description": "Detailed CIA internal process for searching and handling sensitive files related to HTLINGUAL operation",
+        "direct_quote": "First, as an outcome of the Pike and Church Committees investigations, all HTLINGUAL files which were identifiable, as such, were destroyed under court order.",
+        "significance": "Reveals CIA's systematic destruction of sensitive files related to domestic surveillance programs, potentially hiding evidence of covert operations"
+      },
+      {
+        "category": "FOIA_DOCUMENT_MANAGEMENT",
+        "confidence": 6,
+        "description": "Ongoing efforts to review and release redacted records related to HTLINGUAL files",
+        "direct_quote": "OIM has identified that they have only redacted records for the large FOIA case that is listed. IMS/ESG/HCS is retrieving its records for unredacted copies of the records and will make them available.",
+        "significance": "Indicates ongoing transparency efforts and potential future document releases"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 17,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Multiple CIA internal review requests related to JFK assassination files",
+        "direct_quote": "The DO provided the following unclassified response about the Angleton Files",
+        "significance": "Indicates ongoing internal CIA review and potential document management around sensitive JFK assassination records"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct Oswald references found on this page",
+        "direct_quote": "",
+        "significance": "Page focuses on administrative file review processes rather than substantive assassination details"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Multiple CIA internal review requests documenting file collection and disposition",
+        "direct_quote": "Items that were duplicates or not worthy of retention were destroyed",
+        "significance": "Reveals potential systematic management and potential sanitization of CIA records related to JFK investigation"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 18,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA referenced a 'Garrison Investigation of Kennedy Assassination' file opened in 1969 and closed in 1996",
+        "direct_quote": "A file titled 'Garrison Investigation of Kennedy Assassination' was opened in 1969 and closed in 1996",
+        "significance": "Suggests ongoing internal investigation and documentation of the assassination aftermath, potentially related to Jim Garrison's probe"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Document mentions several individuals potentially connected to Oswald investigation",
+        "direct_quote": "Edward J. Epstein, Josiah Thompson, Mark Lane, Harold Weisberg, Sylvia Meagher",
+        "significance": "These were known critics and researchers of the Warren Commission findings, suggesting continued scrutiny of Oswald's case"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 19,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "CIA document discusses contacts with journalists and publishing houses, likely related to propaganda efforts",
+        "direct_quote": "The DO provided both an unclassified and classified response about contacts with journalists or publishing houses, regarding whether CIA might have attempted to influence any journalists or publishers regarding public discussion of the assassination.",
+        "significance": "Reveals CIA's strategic communication efforts to manage public narrative around the assassination"
+      },
+      {
+        "category": "CIA_PROPAGANDA_OPERATIONS",
+        "confidence": 7,
+        "description": "CIA projects designed to counter Soviet propaganda and promote anti-Communist intellectuals",
+        "direct_quote": "Projects concerning press and propaganda and programs designed to promote anti-communism and to counter Soviet press and propaganda initiatives worldwide.",
+        "significance": "Demonstrates CIA's broader Cold War information manipulation strategies during the period of the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "SECRET document on JFK Declaration",
+    "page_number": 20,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA research and investigation activities related to Charles Ford and potential organized crime connections",
+        "direct_quote": "(S) As part of DA/OIM/JFK's research, IMS/ESG/HCS was requested to do a trace on 'Charles Ford.' The trace resulted in no hits.",
+        "significance": "Indicates ongoing CIA investigations into potential assassination-related figures"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 6,
+        "description": "Reference to Charles Ford's testimony about Mafia connection to Castro assassination plots",
+        "direct_quote": "a citation to testimony to Congress by Charles Ford in September of 1975. A copy of testimony to a Senate Committee regarding a Mafia connection to assassination plots against Castro was provided to DA/OIM/JFK in February 1998.",
+        "significance": "Suggests potential links between organized crime, CIA, and assassination plots"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Multiple project searches and information gathering",
+        "direct_quote": "(U) At the request of HRP JFK, several project Crypts were searched and results provided in connection with this request.",
+        "significance": "Demonstrates ongoing internal investigations and information sharing about JFK assassination-related materials"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "SECRET_JFK_Wickham_Declaration",
+    "page_number": 21,
+    "relevant_findings": [
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 8,
+        "description": "Detailed account of audio surveillance tapes related to Oswald's Mexico City visit",
+        "direct_quote": "There has been considerable interest over the years in locating any electronic surveillance tapes that would have been made during the period that Oswald visited Mexico (26 September - 2 October 1963)",
+        "significance": "Confirms extensive surveillance of Oswald during critical period before assassination"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 7,
+        "description": "Specific details about surveillance tape collection and destruction",
+        "direct_quote": "Approximately 185 audio surveillance tapes of the Cuban and Soviet embassies in Mexico City were recorded during the immediate time following the assassination (22 November 1963 to January 1964)",
+        "significance": "Large volume of surveillance tapes exist, potentially containing crucial evidence about Oswald's activities"
+      },
+      {
+        "category": "COMMUNICATION_ANALYSIS",
+        "confidence": 6,
+        "description": "Notes on potential communication misinterpretations",
+        "direct_quote": "Messages between field stations and headquarters used operational jargon and shortened sentence structures that can sometimes allow for misinterpretations",
+        "significance": "Suggests potential intentional or unintentional obscurity in official communications"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "JFK Declaration of Fredrick C. Wickham, Jr.",
+    "page_number": 22,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "CIA Defector Staff office handling Soviet bloc defector cases",
+        "direct_quote": "Only Soviet Bloc (formerly Warsaw Pact countries) defector cases were handled by this branch. Staffs and branches identified, among other duties, were responsible for identifying, debriefing, and resettling foreign defectors of intelligence interest.",
+        "significance": "Reveals CIA's operational procedures for managing Soviet defectors, potentially relevant to understanding Oswald's potential intelligence connections"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Computer search on specific individuals",
+        "direct_quote": "The DO provided an unclassified response to the ARRB Staffs' request to review Agency files on some 38 names who were the subjects of the HSCA.",
+        "significance": "Indicates ongoing investigation and file reviews related to individuals connected to the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 23,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Reference to a microfilm collection of files from Michelle Combs related to a 'SECRET' classified memo about file organization",
+        "direct_quote": "(U) This is a large number of files from the microfilm part of the collection that Michelle Combs reviewed and then crafted a 'SECRET' classified memo identifying the reels and folders of files that were then declared 'Not Believed Relevant.'",
+        "significance": "Suggests potential document screening and classification process for JFK assassination files, indicating possible information management or potential evidence filtering"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Multiple trace searches on individuals with potential connections",
+        "direct_quote": "Paul A. Garbler had three pseudos assigned to him. Also, Garbler had four aliases on record.",
+        "significance": "Hints at potential use of pseudonyms and aliases in intelligence operations, which could relate to covert activities"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 24,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Reference to Oswald LeWinter, who claimed to be an Agency employee and Acting Assistant Director of Counter Espionage",
+        "direct_quote": "Apparently he is/was claiming to be an Agency employee and the Acting Assistant Director of Counter Espionage.",
+        "significance": "Suggests potential intelligence community connection to Oswald, though the claim is presented as unverified"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Multiple CIA internal research reports about JFK assassination-related individuals",
+        "direct_quote": "CIA-IR-21 -- DRE Monthly operational reports, CIA-IR-22 -- \"A\" file on Clay Shaw and Jim Garrison",
+        "significance": "Indicates ongoing internal CIA investigations and document collections related to JFK assassination figures"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "CIA-IR-30 - Cherepanov Papers",
+    "page_number": 25,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Oswald LeWinter identified as an intelligence swindler with multiple aliases",
+        "direct_quote": "Oswald LeWinter is a naturalized US citizen and a man of at least four other names -- George Mearah, Oscar LeWinter, Razin LeWinter, and Ibrahim Razin.",
+        "significance": "Suggests potential intelligence connections and identity manipulation"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA report about LeWinter as an intelligence fabricator and drug dealer",
+        "direct_quote": "CIA has a report of an episode involving an intelligence fabricator and convicted drug dealer Oswald LeWinter, AKA George Mearah, born 2 April 1931, in Vienna, Austria.",
+        "significance": "Indicates potential CIA involvement and surveillance of LeWinter"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Attempted contact with East German officials for potential defection",
+        "direct_quote": "LeWinter, using the name of George Mearah, contacted him and offered to put high-level GDR officials wishing to defect in touch with our representative and in turn the CIA.",
+        "significance": "Suggests potential intelligence operations involving East German contacts"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 26,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA AMWORLD operation targeting Cuban exile groups for potential overthrow of Fidel Castro",
+        "direct_quote": "AMWORLD's mission was to cause a popular uprising in Cuba through the use of propaganda and paramilitary forces to ultimately overthrow Fidel Castro.",
+        "significance": "Reveals CIA covert operation involving Cuban exile groups, demonstrating agency's active efforts to destabilize Cuba during the Cold War period"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "CIA support for Cuban exile groups with indirect operational involvement",
+        "direct_quote": "The Agency provided direct and indirect financial aid and technical advisory support to these groups but did not participate directly in the day-to-day operations.",
+        "significance": "Highlights CIA's strategy of supporting anti-Castro groups while maintaining plausible deniability"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 27,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 8,
+        "description": "AMWORLD Project details related to Cuban exile operations",
+        "direct_quote": "The AMWORLD Project, begun well after the failure of the Bay of Pigs invasion and after the release of Manuel Artime Buesa and other Bay of Pigs veterans from Cuban prisons, was designed to support and unite several Cuban exile groups under the control of Artime",
+        "significance": "Reveals CIA covert operations targeting Cuban exiles and attempts to foment uprising against Fidel Castro's government"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "No evidence of Cuban Government in Exile",
+        "direct_quote": "there was never a Cuban Government in Exile. The invasion site was never secured.",
+        "significance": "Contradicts potential narrative of organized Cuban opposition to Castro"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "CIA-IR-34/35/36",
+    "page_number": 28,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Ongoing review of Oswald's 201 file, with multiple records being examined",
+        "direct_quote": "The surfacing of a report in the continuing Oswald 201 file attributed to IJDECANTER prompted the ARRB to request a review of that defector's 201 file.",
+        "significance": "Indicates continued investigation into Oswald's CIA file, suggesting ongoing interest in understanding his background and potential connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Extensive document review process for JFK assassination records",
+        "direct_quote": "IMS/ESG/HCS ran a computer search for 'OPI 40' files... Her review encompasses some 42 boxes from a variety of retired DDP files.",
+        "significance": "Reveals systematic effort to compile and review CIA documents related to the JFK assassination, suggesting comprehensive internal investigation"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Not specified on this page",
+    "page_number": 29,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 30,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA document references Oswald's 201 file containing a 'book message' about Kennedy assassination",
+        "direct_quote": "A 'book message,' that is a message to all stations and bases, DIR 84608, dated 22 November 1963... This message advised all stations and bases about the assassination of President John F. Kennedy.",
+        "significance": "Shows immediate CIA communication network response to assassination, documenting Oswald-related file references"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Worldwide query sent out day after assassination to gather information",
+        "direct_quote": "In March 1998 the ARRB asked 'whether a worldwide query was sent out the day after the assassination for all case officers to query their sources for any information on the assassination and Oswald'",
+        "significance": "Indicates systematic attempt to collect intelligence about assassination aftermath"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 31,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "CIA cable discusses Lee Harvey Oswald's identity in routing communications",
+        "direct_quote": "This cable advised the identity of the alleged assassin by name of Lee Harvey Oswald.",
+        "significance": "Demonstrates CIA's early communication about Oswald immediately after the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Routing of classified communications about Oswald across multiple international stations",
+        "direct_quote": "Routing with addresses to Paris, Rome, Madrid, Copenhagen, Oslo, Helsinki, Brussels, The Hague, London, and Ottawa",
+        "significance": "Indicates widespread international intelligence sharing about Oswald immediately following JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 33,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

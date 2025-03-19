@@ -1,0 +1,30 @@
+JFK ANALYSIS SUMMARY: 104-10163-10065
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 7/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Document discusses Cuban-American intelligence networks and potential recruitment
+  QUOTE: "Ex-Captain in the U.S.A.F. See Pgs 201 for full details"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 8/10)
+  Secret CIA document discussing recruitment and operational details
+  QUOTE: "In my mind he is the ideal type of Latin American agent. It will be a real loss to more dedicated and more loyal"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Detailed notes about Cuban intelligence and anti-Castro activities
+  QUOTE: "Planning to send him to Nicaragua, and I have recommended his to the Nicaragua desk"
+

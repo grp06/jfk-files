@@ -1,0 +1,114 @@
+[
+  {
+    "document_id": "157-10002-10056",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA internal document about CIA reorganization from 1961",
+        "direct_quote": "TITLE: CIA REORGANIZATION",
+        "significance": "Provides context for CIA's internal structure and operations around the time leading up to the Kennedy assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Document references subjects related to CIA covert operations",
+        "direct_quote": "SUBJECTS: CIA COVERT ACTION, PARAMILITARY WARFARE, CUBA, POLICY CONTROL",
+        "significance": "Suggests potential contextual background for CIA operations in Cuba around the time of Oswald's activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown from this page",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Discussion of CIA clandestine intelligence collection methods and potential operational risks",
+        "direct_quote": "Clandestine activities should be assessed not only in the context of their relationship to an open activity but also in the context of their relationship to United States foreign policy.",
+        "significance": "Reveals CIA's strategic approach to covert operations, suggesting careful consideration of diplomatic implications"
+      },
+      {
+        "category": "FOREIGN_INTELLIGENCE_OPERATIONS",
+        "confidence": 7,
+        "description": "Example of problematic CIA recruitment and intelligence gathering",
+        "direct_quote": "The record shows that some US employees were recruited when CIA is discovered recruiting in a multiple of circumstances in a friendly country",
+        "significance": "Indicates potential risks and complications in CIA's international intelligence collection methods"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Document discusses CIA's covert political operations and their impact on State Department policy",
+        "direct_quote": "The result of CIA's initiative in covert political operations has been to force situations which have forced policy on the State Department.",
+        "significance": "Reveals internal tensions between CIA and State Department regarding policy-making and foreign operations"
+      },
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "CIA criticized for overstepping policy boundaries and operating without proper oversight",
+        "direct_quote": "CIA has, in effect, 'made' policy in many parts of the world.",
+        "significance": "Suggests potential for unauthorized CIA interventions and policy manipulations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mention of Cuba and potential CIA activities",
+        "direct_quote": "I well remember Tom Mann's remark the day the decision was made to go ahead on Cuba: 'I would never have favored liquidating this operation'",
+        "significance": "Indicates CIA involvement in Cuban operations and potential covert actions"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Not directly specified",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Document discusses CIA expanding use of official cover and increasing personnel in diplomatic missions",
+        "direct_quote": "The CIA should continue to develop overseas as an organization able to use State Department cover.",
+        "significance": "Reveals CIA's strategy of embedding operatives in diplomatic missions, potentially explaining Oswald-related surveillance or intelligence activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA increasing its presence and political reporting capabilities in diplomatic missions",
+        "direct_quote": "In the embassy today, there are more CIA people... CIA has begun to move into areas of political reporting more extensively occupied by State.",
+        "significance": "Suggests expanded CIA intelligence gathering operations within diplomatic missions, potentially relevant to Oswald's international movements"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of CIA's paramiltiary operations and organizational challenges",
+        "direct_quote": "a paramilitary operation is in its nature a large and attributable operation and thereby, as suggested above, clashes with the presuppositions of our open society.",
+        "significance": "Reveals internal CIA strategic thinking about covert operations and their potential public exposure risks"
+      },
+      {
+        "category": "GEOPOLITICAL_CONTEXT",
+        "confidence": 6,
+        "description": "Analysis of Communist paramilitary strategies and global political maneuvering",
+        "direct_quote": "Communists, when they stimulate paramilitary activity, are doing what the work expects from them; when we do it, we appear to be engaging in unconscionable and compound delinquency by default.",
+        "significance": "Provides insight into Cold War-era thinking about ideological conflict and covert operations"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

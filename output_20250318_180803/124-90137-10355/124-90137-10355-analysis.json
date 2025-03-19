@@ -1,0 +1,65 @@
+[
+  {
+    "document_id": "124-90137-10355",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "FBI document related to CIA Liaison Material, classified as Secret",
+        "direct_quote": "CIA LIAISON MATERIAL [Restricted]",
+        "significance": "Indicates potential sensitive communication between CIA and FBI regarding the JFK assassination investigation"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 9,
+        "description": "Document remains partially restricted with redactions",
+        "direct_quote": "Classification: Secret, Restrictions: 1B; 1C; 4, Current Status: Redact",
+        "significance": "Suggests ongoing sensitivity of the document's contents, with multiple classification restrictions"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "105-24643-4",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document discusses Eduardo Espinosa y Prieto, a possible connection to communist workers",
+        "direct_quote": "reveals that your active communist workers of Mexico City were not active",
+        "significance": "Potential context for Oswald's international communist connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Reference to Mexican Mission and intelligence significance",
+        "direct_quote": "subject's bank draft to her Marine Mission to the United Nations a fact which tends to reduce the intelligence significance of this payment",
+        "significance": "Suggests diplomatic/intelligence monitoring of communist-related activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA internal communication about investigating a potential communist network",
+        "direct_quote": "Based on information in the files of this Bureau, it appears inadvisable to include in your summary the bank drafts to active communist workers",
+        "significance": "Indicates ongoing surveillance and careful management of communist-related intelligence"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "This page appears to be about a different subject, possibly related to CIA files about Communist activities"
+      }
+    ],
+    "overall_page_relevance": 2
+  }
+]

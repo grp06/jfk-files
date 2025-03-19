@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10123-10421",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "CIA personnel file for James W. McCord, Jr., with multiple CIA and security-related assignments",
+        "direct_quote": "ASSIGNMENTS: 64: CIA, Security Off, Washington; 62-63: Dept of Army; Civilian,Germany; 53-62: CIA, Security Off, Washington",
+        "significance": "McCord was a CIA security officer with multiple assignments, potentially relevant to agency operations during the JFK assassination period"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Detailed personnel record suggesting extensive government and intelligence community involvement",
+        "direct_quote": "Dept of Def, Security Off, San Francisco; 48-51: FBI Agent, California",
+        "significance": "Shows McCord's extensive background in multiple government agencies, indicating potential insider knowledge or connections"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

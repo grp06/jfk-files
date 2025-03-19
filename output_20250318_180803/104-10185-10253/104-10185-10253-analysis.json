@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10185-10253",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Instructions for preparing documents with alias and fake identity for 'voter registration'",
+        "direct_quote": "DRIVER'S LICENSE: REQUIRE FULL FACE NEGATIVE, NAME AND SIGNATURE SPECIMEN IN ALIAS, DOB OF ASSET TO BE USED IN RECOVERY OR MAIL. FOR(VOTER REGISTRATION) ASSUME 'EMPLEADO' WILL SUFFICE FOR OCCUPATION.",
+        "significance": "Suggests preparation of false identity documents, potentially for covert operations or surveillance"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Classified secret communication from CIA Director to Mexico City",
+        "direct_quote": "CLASSIFIED MESSAGE - SECRET",
+        "significance": "Indicates high-level internal communication about an operational matter"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

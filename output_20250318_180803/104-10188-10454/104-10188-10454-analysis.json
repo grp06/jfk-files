@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10188-10454",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret classified document discussing potential informant issues at a university",
+        "direct_quote": "HAD REFUSED TO SERVE AS INFORMANT FOR GOES ON SECURITY GROUNDS; CITED CASE OF STUDENT WHOSE REPUTATION RUINED IN UNIV",
+        "significance": "Suggests internal agency discussions about recruitment and potential personnel challenges"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to Russian professors and a decision to 'let the dust settle'",
+        "direct_quote": "HAVE DECIDED TO LET THE DUST SETTLE ON THE RUSSIAN PROFESSORS FLAP BEFORE FOLLOWING UP PITCH",
+        "significance": "Indicates diplomatic or intelligence interactions involving Russian academics"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

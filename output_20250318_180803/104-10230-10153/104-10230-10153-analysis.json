@@ -1,0 +1,91 @@
+[
+  {
+    "document_id": "104-10230-10153",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Budget-related document for expenses out of $1,500,000 budget for INFORM, covering July 1-31, 1962",
+        "direct_quote": "ANALYSIS OF DEPOSITS FOR EXPENSES OUT OF THE $1,500,000.00 Budget INFORM JULY 1 TO 31, 1962",
+        "significance": "Potential reference to covert CIA/intelligence operation budget, predating Kennedy assassination"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Detailed financial breakdown of deposited funds across different annexes",
+        "direct_quote": "Total Deposits $ 55,100.00",
+        "significance": "Provides insight into financial allocations for various operational categories"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Revolutionary Council Financial Department Document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2,
+    "notes": "This appears to be a financial record from a Revolutionary Council, listing payments to individuals dated July 1962. The document does not contain any direct information related to the JFK assassination investigation categories specified. The page shows payments to several individuals (Jos\u00e9 Fern\u00e1ndez Batist\u00e9, Orlando Rodriguez, Ricardo Lobo, Ra\u00fal M\u00e9ndez Pires, Paseacio Llaneras, Orlando Rodriguez, Gerardo Quesada) with check numbers and total amounts, but lacks any substantive connection to the JFK assassination research parameters."
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": null,
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Annex IV-A",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  }
+]

@@ -1,0 +1,1920 @@
+[
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown from this image",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PERSONNEL_RECORD",
+        "confidence": 7,
+        "description": "Secret personnel action notification for a CIA officer",
+        "direct_quote": "",
+        "significance": "Appears to be an internal CIA personnel document, potentially related to personnel movements or assignments"
+      },
+      {
+        "category": "LOCATION",
+        "confidence": 8,
+        "description": "Assigned to Paris, France",
+        "direct_quote": "PARIS, FRANCE",
+        "significance": "Indicates CIA operational presence in European division"
+      },
+      {
+        "category": "PERSONNEL_DETAILS",
+        "confidence": 6,
+        "description": "Personnel record for Casasin, Thomas B",
+        "direct_quote": "CASASIN, THOMAS B",
+        "significance": "Identifies a specific CIA officer and their initial entry into the organization"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "CC-3623-ASSASSINATION-PHASE",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret personnel action notification form for a CIA/military personnel record",
+        "direct_quote": "NOTIFICATION OF PERSONNEL ACTION",
+        "significance": "Appears to be an official administrative document related to personnel assignment"
+      },
+      {
+        "category": "LOCATION_CONTEXT",
+        "confidence": 7,
+        "description": "Personnel location noted as Paris, France",
+        "direct_quote": "PARIS, FRANCE",
+        "significance": "Indicates potential overseas assignment or administrative action"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "CG37633",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "SECRET Notification of Personnel Action",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 7,
+        "description": "Secret personnel action document for a government employee",
+        "direct_quote": "",
+        "significance": "Appears to be an administrative personnel record, not directly related to JFK assassination evidence"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "0037833",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "78-082697",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Oswald in this document",
+        "direct_quote": "",
+        "significance": "This appears to be an administrative document about a person named Thomas R. Casasin, not related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Routing slip for request related to independent contractor Thomas R. CASSIN",
+        "direct_quote": "Recommend AD/Ters approval (albeit retroactively) of the attached request from the Chief, ER Division to extend the NOC for Thomas R. CASSIN (P) as an independent contractor without compensation beginning 1 July 1975",
+        "significance": "Suggests covert CIA contractor operations, potential intelligence network involvement"
+      },
+      {
+        "category": "PERSONNEL_MOVEMENT",
+        "confidence": 6,
+        "description": "Career details of Thomas R. CASSIN",
+        "direct_quote": "Retired under CHARIS CS June 1974 as a GS-15 (Step 10) career associate, on 24 June 1974, D/Pers approved a request to engage his as an independent contractor for a one-year period beginning 1 July 1974 at an annual fee of $5,000",
+        "significance": "Indicates a retired intelligence officer transitioning to independent contractor status"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "SECRET document",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "OP/RAD/ROB/TFMdiscuss/3257",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "TOR1331843E MAY 75",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "20 May 1953",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "SECRET document dated 13 December 1974",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "OFAT-1492",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Confidential status report about an unnamed subject, likely related to CIA/intelligence personnel",
+        "direct_quote": "The attached Memorandum in lieu of a Fitness Report should be read in conjunction with NOC Status Report on Subject",
+        "significance": "Appears to be an internal personnel evaluation document with confidential status"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown - Appears to be a Fitness Report Field Transmittal",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "2011072 SEP 74 STAFF",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "5029 CSB 74-254",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CSB 74-254",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 7,
+        "description": "Financial calculation document for Thomas B. Casasin",
+        "direct_quote": "Thomas B. CASASIN   65-150\u00b0",
+        "significance": "Appears to be an internal administrative or financial record, potentially related to government employee compensation"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "SECRET-74-3423",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 3,
+        "description": "Routine CIA personnel document about Thomas B. Casasin",
+        "direct_quote": "Request for Approval to Utilize Thomas B. CASASIN (P) as an Independent Contractor",
+        "significance": "Appears to be a standard personnel memo, not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "SECRET document",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "UNRELATED_CIA_PERSONNEL_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret document about employing Thomas B. CASASIN as an Independent Contractor",
+        "direct_quote": "It is requested that approval be granted to employ Thomas B. CASASIN (P) as an Independent Contractor.",
+        "significance": "This appears to be a standard CIA personnel document from 1974 unrelated to JFK assassination research"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret amendment to allowance committee document for Thomas B. Cassain",
+        "direct_quote": "SECRET - AMENDMENT TO ALL-WAVES LEAVE ADDENDUM",
+        "significance": "Appears to be an official government administrative document, potentially related to travel or compensation for an individual"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "14 November 1973",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown (not specified in the document)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMIN_FINANCE",
+        "confidence": 6,
+        "description": "Confidential administrative message about cover pay statements and refund",
+        "direct_quote": "LATEST COVER PAY STATEMENTS INDICATE INCREASE ALLOWANCE OF 920L0-67 PER MONTH MADE IN FEB OR MARCH 73",
+        "significance": "Appears to be an internal administrative communication about financial adjustments"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown - not a JFK assassination document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Secret Document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified in image",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Secret document discussing an NOC (Non-Official Cover) operative's performance and capabilities",
+        "direct_quote": "Despite his relative isolation as a NOC, he is well aware of priority objectives, concentrates his efforts in other areas and does not waste time on operationally marginal activities.",
+        "significance": "Suggests detailed tracking and assessment of intelligence operatives, potentially related to broader operational contexts"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Memorandum for Official Personnel File regarding publications by Jacques Richardson",
+        "direct_quote": "Studies in Intelligence is the Agency's quarterly professional journal",
+        "significance": "Indicates internal CIA documentation process for employee publications"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Thomas B. Casasin document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Document appears to be a personnel or communication record",
+        "direct_quote": "Thomas B. Casasin",
+        "significance": "Identifies the name associated with this document record"
+      },
+      {
+        "category": "TIMELINE",
+        "confidence": 8,
+        "description": "Date range of document entries",
+        "direct_quote": "15 NOV 72, 1 JAN 73",
+        "significance": "Shows date range of recorded actions or communications"
+      },
+      {
+        "category": "AGENCY_ACTIVITY",
+        "confidence": 7,
+        "description": "Mentions 'Career Agent' and 'KPI' action",
+        "direct_quote": "Action: Career Agent, KPI",
+        "significance": "Suggests potential intelligence or agency-related activity"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Not identified on this page",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Field Reassignment Questionnaire",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 3,
+        "description": "Document appears to be a field reassignment questionnaire for an individual named Thomas B. Casarin",
+        "direct_quote": "Two-year contract with USGaimd ends officially 14 May 1974; it is theoretically renewable.",
+        "significance": "Suggests potential government/intelligence-related employment"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret administrative assignment document, appears to be a personnel transfer or extension request form",
+        "direct_quote": "SECRET - Personnel Assignment Document",
+        "significance": "While not directly related to JFK assassination, demonstrates typical classified administrative documentation from the era"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "OFat-1110",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified in image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Confidential personnel report discussing an unidentified subject's job performance and interactions with Soviet officials",
+        "direct_quote": "Subject uses his position to spot and assess co-workers having access to Station targets",
+        "significance": "Suggests potential intelligence gathering activities involving Soviet contacts"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed personnel evaluation with focus on intelligence-related job responsibilities",
+        "direct_quote": "Daily contact with numerous Soviet officials and by skillful use of his cover job he connotes logical reasons for contacting Chinese officials",
+        "significance": "Indicates operational techniques for intelligence gathering and maintaining cover"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 3,
+    "analysis_notes": "This page appears to be a confidential section of a narrative report, but contains no specific details related to the JFK assassination investigation. The document is marked 'CONFIDENTIAL' and seems to be discussing a subject (likely an intelligence operative) in generic terms about their work and performance. While the document is from an official source, it does not provide any direct insights into the JFK assassination, Oswald, or related investigations."
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 57,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret memorandum from Contract Personnel Division dated 1 August 1972",
+        "direct_quote": "NOTE: Subject converted from Staff Agent status to Career Agent status effective 15 May 1972, this should be placed in his terminated Staff Agent file.",
+        "significance": "Indicates an internal personnel status change for an unnamed individual, potentially related to CIA personnel management"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not specified on this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret memorandum about Thomas B. Casasin's employment contract",
+        "direct_quote": "Thomas B. CASASIN (P) has been employed under an Agency personal services contract effective 15 May 1972",
+        "significance": "Administrative document unrelated to JFK assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "006102",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret classified intelligence report document",
+        "direct_quote": "SECRET",
+        "significance": "Indicates sensitive operational intelligence reporting"
+      },
+      {
+        "category": "SUBJECT_ASSESSMENT",
+        "confidence": 8,
+        "description": "Scientific publication professional working with cover job",
+        "direct_quote": "Subject's job was with a scientific publication. He was hired at a professional level with a salary that will offset approximately 40% of the total cost of his activity.",
+        "significance": "Suggests potential intelligence/operational cover employment"
+      },
+      {
+        "category": "OPERATIONAL_SECURITY",
+        "confidence": 9,
+        "description": "Strong operational security assessment",
+        "direct_quote": "Subject's operational security is good and all indications are that his cover security is superb.",
+        "significance": "High confidence in subject's ability to maintain covert status"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be a SECRET section C narrative about an individual's operational capabilities",
+        "direct_quote": "subject was weak in long-range, operational development of a target",
+        "significance": "Vague reference might relate to operational assessment, but insufficient context to link directly to Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Mentions NOC (Non-Official Cover) situation and BKTRUST operational context",
+        "direct_quote": "As is normal in a NOC situation, subject has no supervisory duties with BKTRUST personnel",
+        "significance": "Suggests intelligence operations document, but lacks specific assassination-related details"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified Secret Document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Confidential personnel review of a NOC (Non-Official Cover) officer",
+        "direct_quote": "The career of this NOC officer has reached a crucial juncture; if, as we currently anticipate, he succeeds in landing the position for which he appears to have the inside track, he will gain access to an institution and its employees which could prove to be invaluable.",
+        "significance": "Suggests a sensitive internal personnel assessment for a covert operative, potentially related to intelligence community operations"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Oswald",
+        "direct_quote": "",
+        "significance": "This document does not appear to be related to the JFK assassination or Lee Harvey Oswald"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "9233-E/F/X",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not clearly identifiable on this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_COMMUNICATION",
+        "confidence": 8,
+        "description": "Secret communication about background investigation cancellation",
+        "direct_quote": "UNITED STATES CIVIL SERVICE COMMISSION BACKGROUND INVESTIGATION CASASIH HAS BEEN CANCELLED.",
+        "significance": "Suggests potential administrative action related to personnel records"
+      },
+      {
+        "category": "RECORD_MANAGEMENT",
+        "confidence": 7,
+        "description": "No file exists or records cannot be retrieved",
+        "direct_quote": "NO FILE.",
+        "significance": "Indicates potential deliberate suppression or loss of administrative documentation"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "SECRET_DOCUMENT_ROBERT_JARMAN",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_PERSONNEL_OPERATIONS",
+        "confidence": 7,
+        "description": "Internal document discussing conversion of an agent named Casasin to career agent status",
+        "direct_quote": "FOLLOWING IS STATUS REPORT ON TALKS WITH CASASIN RE CONVERSION TO CAREER AGENT",
+        "significance": "Reveals internal CIA personnel management processes and potential recruitment/retention strategies"
+      },
+      {
+        "category": "ADMINISTRATIVE_PROCEDURES",
+        "confidence": 6,
+        "description": "Detailed process for agent transition, including salary and grade level adjustments",
+        "direct_quote": "IN ORDER CONVERT CASASIN TO CAREER AGENT IT NECESSARY TO ALLOW HIM RETAIN PORTION OF COVER SALARY IN LIEU OF 30% LOSS OF STAFF STATUS PAY AND TO MOVE HIM FROM GS-15/8 TO 15/10 LEVEL",
+        "significance": "Provides insight into CIA's internal compensation and career development mechanisms"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about a CASASIN (possibly related to Oswald) potentially receiving training",
+        "direct_quote": "CASASIN TDY HAS AREA FOR ADDITIONAL TWO OR THREE DAYS TRAINING",
+        "significance": "Potentially references a training program or assignment, but context is unclear and connection to Oswald is speculative"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Attachment #1",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Military service/personnel record document with periodic training and assignment entries",
+        "direct_quote": "",
+        "significance": "Provides potential background context for Oswald's military service and movements"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Multiple date entries showing service assignments and training locations",
+        "direct_quote": "DDP/EUR/FF/CenReg - Feb 1967 entry",
+        "significance": "Tracks Oswald's institutional movements and potential intelligence connections"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "MEDICAL_DISPOSITION",
+        "confidence": 7,
+        "description": "Interim medical disposition document for an individual",
+        "direct_quote": "Interim Medical Disposition. This is to advise that the medical processing of [name] is incomplete awaiting receipt of supplemental medical information or completion of corrective medical action. Final medical disposition will be issued when this matter is resolved.",
+        "significance": "Appears to be a routine medical administrative document, not directly related to JFK assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Contract Information and Check List",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PERSONAL_DATA",
+        "confidence": 7,
+        "description": "Document appears to be a CIA contract/personnel record for Thomas B. Casasin",
+        "direct_quote": "Thomas B. Casasin, Paris, France",
+        "significance": "Potential CIA personnel document with international assignment"
+      },
+      {
+        "category": "TRAVEL_RECORDS",
+        "confidence": 6,
+        "description": "Travel and operational details for individual with UNESCO assignment",
+        "direct_quote": "Post Differential NA, Compensation UNESCO",
+        "significance": "Indicates potential international diplomatic or intelligence-related role"
+      },
+      {
+        "category": "MILITARY_STATUS",
+        "confidence": 8,
+        "description": "Subject is a U.S. Army veteran, 1st Lieutenant",
+        "direct_quote": "Branch of Service: U.S. Army, Rank: 1st Lt.",
+        "significance": "Military background suggests potential intelligence connections"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Secret CIA Contact Information and Check List",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_PERSONNEL_RECORD",
+        "confidence": 8,
+        "description": "CIA operations officer with over 20 years of experience",
+        "direct_quote": "Subject has been associated with CIA for over 20 years as an operations officer",
+        "significance": "Provides insight into long-serving CIA operations personnel"
+      },
+      {
+        "category": "EMPLOYMENT_HISTORY",
+        "confidence": 7,
+        "description": "Previous employment with Baltimore Housing Authority and Guide Publishing Company",
+        "direct_quote": "Guide Publishing Company, Baltimore, Md. - County Editor - 1949, Baltimore Housing Authority, Md. - Admin Officer - 1949",
+        "significance": "Indicates professional background before CIA employment"
+      },
+      {
+        "category": "LANGUAGE_SKILLS",
+        "confidence": 6,
+        "description": "Proficient in French and Japanese languages",
+        "direct_quote": "Language: French, Japanese",
+        "significance": "Suggests potential international operations capabilities"
+      },
+      {
+        "category": "AREA_KNOWLEDGE",
+        "confidence": 7,
+        "description": "Expertise in Japan, Canada, and France",
+        "direct_quote": "Area Knowledge: Japan, Canada, France",
+        "significance": "Indicates geographic focus and regional expertise"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [
+      {
+        "category": "STATUS_DOCUMENT",
+        "confidence": 8,
+        "description": "Appears to be a secret government contract document from July 1974",
+        "direct_quote": "SECRET",
+        "significance": "Demonstrates a covert government contractual agreement with specific secrecy provisions"
+      },
+      {
+        "category": "SECRECY_PROVISIONS",
+        "confidence": 9,
+        "description": "Strict secrecy and non-disclosure requirements",
+        "direct_quote": "Violation of such secrecy may subject you to criminal prosecution under the espionage laws of the U.S.",
+        "significance": "Indicates severe legal consequences for revealing confidential information"
+      },
+      {
+        "category": "CONTRACT_TERMS",
+        "confidence": 7,
+        "description": "Independent contractor status with no employee-employer relationship",
+        "direct_quote": "Your legal status under this Agreement is that of an Independent Contractor. Nothing contained herein shall be construed as implying the creation of an employee-employer relationship.",
+        "significance": "Establishes legal framework for a specific type of government engagement"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "SECRET Personnel Action Notification",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "BBQ 01 JAN 71",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 9,
+        "description": "Secret personnel action notification for an individual at Foreign Field Paris Station",
+        "direct_quote": "EXTENSION OF PPA MTL 2 FEBRUARY 1971",
+        "significance": "Administrative document related to personnel assignment in Paris, France"
+      },
+      {
+        "category": "LOCATION_DETAILS",
+        "confidence": 8,
+        "description": "Personnel stationed in Paris, France with Foreign Field unit",
+        "direct_quote": "FOREIGN FIELD, PARIS AREA, PARIS STATION, PARIS ANNEX",
+        "significance": "Indicates intelligence/administrative presence in Paris during early 1970s"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PERSONNEL_RECORD",
+        "confidence": 8,
+        "description": "Secret personnel action notification for an ops officer in Paris, France",
+        "direct_quote": "OPS OFF 002-TUR FOREIGN FIELD CENTRAL REGION PARIS STATION",
+        "significance": "Demonstrates detailed personnel management within CIA foreign operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PERSONNEL_ASSIGNMENT",
+        "confidence": 7,
+        "description": "Secret personnel action document for Thomas B. Casasin, assigned to CIA Foreign Field station in Paris, France",
+        "direct_quote": "PARIS, FRANCE",
+        "significance": "Provides insight into CIA personnel movements and assignments during the relevant time period"
+      },
+      {
+        "category": "CIA_PERSONNEL",
+        "confidence": 6,
+        "description": "Official reassignment document with secret classification",
+        "direct_quote": "NOTIFICATION OF PERSONNEL ACTION",
+        "significance": "Demonstrates CIA's internal personnel management and classified documentation practices"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Not a JFK assassination document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Secret personnel action amendment for Thomas B. Casasin, a staff agent",
+        "direct_quote": "AMENDMENT TO SUPPLEMENT TO STAFF AGENT PERSONNEL ACTION FOR THOMAS B. CASASIN",
+        "significance": "Appears to be an internal government administrative document, potentially related to CIA personnel management"
+      },
+      {
+        "category": "INCOME_CLASSIFICATION",
+        "confidence": 7,
+        "description": "Document discusses income reporting requirements for government employees",
+        "direct_quote": "As an appointed employee of the Government you must satisfy your Federal Income tax liability on income which may be paid you by or through a cover facility.",
+        "significance": "Suggests potential use of cover identities or special income arrangements for government agents"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "DEPA-95019",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not directly specified on this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CAREER_HISTORY",
+        "confidence": 7,
+        "description": "Professional employment record of an individual working in scientific publishing and communications",
+        "direct_quote": "Directeur-Adjoint of fire publishing monthly scientific magazine and providing scientific and technical consulting",
+        "significance": "Provides professional background context for an individual, though not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Detailed chronological work history and international travel record",
+        "direct_quote": "",
+        "significance": "Provides insight into individual's professional movements and international experiences between 1948-1962"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Lists foreign countries visited, including Japan, Korea, Western Europe",
+        "direct_quote": "Countries Visited: Japan, Japan-Korea, Western Europe, France, Western Europe",
+        "significance": "Documents international travel patterns and potential exposure to different geopolitical environments"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown from this image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "MEMBERSHIP_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Individual has memberships in multiple international organizations",
+        "direct_quote": "British Interplanetary Society, Soc of Tech Communication, Intl Science Writers Assn, American Club",
+        "significance": "Shows professional networking and international connections"
+      },
+      {
+        "category": "TRAVEL_RECORDS",
+        "confidence": 7,
+        "description": "Memberships span multiple international locations",
+        "direct_quote": "Addresses include London, Washington, Paris",
+        "significance": "Indicates international professional mobility"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown (cannot definitively identify from image)",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "000102",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "EMPLOYMENT_CONTEXT",
+        "confidence": 6,
+        "description": "Secret document about an individual's employment as a senior executive with a government-subsidized scientific publication",
+        "direct_quote": "During the period under review, Subject managed to gain full-time employment as a senior executive of an HBSPRITE government subsidized scientific publication",
+        "significance": "Provides background on an individual's professional activities, potentially relevant to understanding their network and capabilities"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 5,
+        "description": "Appears to be a witness report discussing an unnamed subject's operational capabilities and performance",
+        "direct_quote": "Subject's reporting has been satisfactory and continue to be copious. He could, however, further improve the selectivity of the leads provided.",
+        "significance": "Suggests an ongoing assessment of an individual's operational performance, potentially related to intelligence activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document indicates efforts to integrate and utilize a subject's potential in intelligence work",
+        "direct_quote": "Additional efforts have been made to make full use of Subject's potential and integrate him further in the work of the station",
+        "significance": "Implies ongoing intelligence operation and active management of an asset or operative"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CONTEXT",
+        "confidence": 8,
+        "description": "Appears to be a CIA personnel evaluation document covering an agent's activities from 1970-1860",
+        "direct_quote": "The comments of the rating officers are limited to the period from October 1969 to March 1970, during which the individual was subject to review",
+        "significance": "Provides insights into CIA personnel evaluation processes and tracking of agent activities"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unavailable on this page",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 105,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (no visible ID on page)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_ASSESSMENT",
+        "confidence": 7,
+        "description": "Secret personnel evaluation document discussing an agent's performance",
+        "direct_quote": "Subject continues to respond to ad-hoc specific assignments in an exemplary manner.",
+        "significance": "Appears to be an internal CIA performance review with classified commentary"
+      },
+      {
+        "category": "OPERATIONAL_NOTES",
+        "confidence": 6,
+        "description": "Agent evaluated on recruitment and field work capabilities",
+        "direct_quote": "Efforts were directed by the Station toward the spotting and developing and assessing WOLADV set agent candidates in terms of recruitment and inclusion in the GET networking.",
+        "significance": "Suggests ongoing intelligence recruitment operations and agent assessment"
+      },
+      {
+        "category": "AGENT_ASSESSMENT",
+        "confidence": 5,
+        "description": "Subject noted for thorough and imaginative work",
+        "direct_quote": "Subject has done thorough and at times imaginative space work in this field despite the fact that the mission was not as successful as anticipated.",
+        "significance": "Indicates agent performance evaluation with nuanced critique"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Secret document discussing operational challenges with a cover agent (CASSIN) in scientific and technical field",
+        "direct_quote": "Subject has established meager cover in the scientific and technical field which should have afforded him virtually unlimited access to persons of interest",
+        "significance": "Reveals CIA tradecraft and operational strategies for embedding agents with cover identities"
+      },
+      {
+        "category": "INTELLIGENCE_ASSESSMENT",
+        "confidence": 6,
+        "description": "Challenges in managing agent's operational effectiveness and cover",
+        "direct_quote": "The principal difficulty has been the time it has taken to relate the cover potential to the specific operational requirements of the station",
+        "significance": "Highlights internal difficulties in intelligence operations and agent management"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "MANAGERIAL_RESPONSIBILITIES",
+        "confidence": 7,
+        "description": "Document appears to be a performance/rating addendum discussing managerial responsibilities in a covert operations context",
+        "direct_quote": "The assignment I have includes managerial responsibilities which (a) are essential to the continued existence and security of the cover mechanism as a vehicle for operational exploitation",
+        "significance": "Suggests internal evaluation of covert operational management capabilities"
+      },
+      {
+        "category": "OPERATIONAL_ASSESSMENT",
+        "confidence": 6,
+        "description": "Self-assessment of performance managing sensitive cover operations",
+        "direct_quote": "Having previously managed both a CS base and the principal denied-areas operating component of a major field station, I can report quite honestly that my present managerial responsibilities exceed the former - despite the apparent lack of 'supervisory responsibilities'",
+        "significance": "Indicates complex, multi-level covert operational management experience"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "000102",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "006102",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 113,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "Thomas R. CASSIN performance review",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Appears to be a CIA/intelligence fitness report",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (Secret document dated 25 May 1964)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be a personnel evaluation of an intelligence officer, not directly related to Oswald",
+        "direct_quote": "",
+        "significance": "No direct information about Lee Harvey Oswald found on this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unidentified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FIELD_ASSIGNMENT",
+        "confidence": 7,
+        "description": "Secret reassignment questionnaire for an intelligence officer",
+        "direct_quote": "Staff Agent assigned to a major overseas station, exploiting the cover provided by a major firm of technical periodical publishers",
+        "significance": "Suggests intelligence work with carefully constructed cover identity"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Q37367",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-10000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown (partially obscured)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret classified fitness report/personnel evaluation",
+        "direct_quote": "SECRET FITNESS REPORT",
+        "significance": "Appears to be an internal personnel evaluation document, likely from a government agency"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not identifiable from this page",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown from this image",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "SECRET Fitness Report (Part II) Potential",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "SECRET document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "This appears to be a SECRET classified performance evaluation document for a government employee",
+        "direct_quote": "",
+        "significance": "While not directly related to JFK assassination, shows internal government personnel assessment process"
+      },
+      {
+        "category": "PERSONNEL_EVALUATION",
+        "confidence": 7,
+        "description": "Document details job performance ratings for a Deputy to Branch Chief in a Foreign Liaison role",
+        "direct_quote": "Deputy to Branch Chief, Administrative Foreign Liaison",
+        "significance": "Provides insight into bureaucratic structure and performance evaluation methods of intelligence/diplomatic agencies"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 0
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (not clearly visible in image)",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Section IV (Secret)",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2,
+    "analysis_notes": "This appears to be a generic performance evaluation or assessment form marked 'SECRET', with various personal and professional characteristics rated across different performance categories. While classified as a secret document, it does not contain specific information related to the JFK assassination investigation. The document seems to be a standard personnel evaluation matrix with categories like 'Able to See Underlying Points', 'Practical', 'Analytical in Thinking', etc. No direct relevance to JFK assassination research found."
+  },
+  {
+    "document_id": "Secret document (no specific ID visible)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Secret personnel evaluation form with detailed performance rating grid",
+        "direct_quote": "Capable operations officer with broad understanding of Soviet problems.",
+        "significance": "Appears to be an internal evaluation document, potentially related to intelligence operations during Cold War era"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not visible on this document page",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UNSPECIFIED",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Secret Personnel Evaluation Report",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 150,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "SECRET Security Information Document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Training Report",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_TRAINING",
+        "confidence": 4,
+        "description": "Document appears to be a training report for a Clandestine Services Review course",
+        "direct_quote": "This course aims to develop in the Clandestine Services Officers and others, recently returned from the field in up-to-date awareness of the role of CIA in the United States intelligence community",
+        "significance": "Provides insight into CIA officer training and awareness programs during the late 1950s/early 1960s"
+      },
+      {
+        "category": "STUDENT_DETAILS",
+        "confidence": 3,
+        "description": "Training record for Jacques G. Richardson, born 1924",
+        "direct_quote": "Student: Jacques G. Richardson, Year of birth: 1924",
+        "significance": "Identifies a specific CIA training participant during a critical historical period"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAINING_RECORDS",
+        "confidence": 5,
+        "description": "Secret TSS (Technical Services Staff) evaluation document for an individual named Jack Richardson in Audio training",
+        "direct_quote": "TSS EVALUATION",
+        "significance": "Appears to be an internal CIA training assessment document"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "S-2-0-8-7",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Addendum to Staff Agent Supplement for Thomas B. Casasin",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (document shown is a SECRET contract information form)",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "PERSONAL_DETAILS",
+        "confidence": 8,
+        "description": "Document appears to be a SECRET contract information form for an individual",
+        "direct_quote": "Thomas De GARMO",
+        "significance": "Potentially revealing details about a CIA or government contractor"
+      },
+      {
+        "category": "LOCATION_INFORMATION",
+        "confidence": 7,
+        "description": "Located in Paris, France",
+        "direct_quote": "Paris, France",
+        "significance": "Indicates potential overseas government/intelligence activity"
+      },
+      {
+        "category": "FAMILY_DETAILS",
+        "confidence": 6,
+        "description": "Individual has a wife and three daughters",
+        "direct_quote": "Wife, Wife, Daughter age 34, Daughter age 8, Daughter age 11",
+        "significance": "Provides personal context about the individual"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified on this page",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 7,
+        "description": "Secret medical evaluation request form for a government agent",
+        "direct_quote": "REQUEST FOR MEDICAL EVALUATION",
+        "significance": "Administrative document related to personnel management, not directly related to JFK assassination investigation"
+      },
+      {
+        "category": "PERSONNEL_DETAILS",
+        "confidence": 6,
+        "description": "Document for Jacques G. Richardson, Staff Agent, GS-15",
+        "direct_quote": "RICHARDSON, Jacques G. (Doogielist), Staff Agent GS-15",
+        "significance": "Shows standard personnel medical evaluation process for government employees"
+      },
+      {
+        "category": "TRAVEL_RECORDS",
+        "confidence": 5,
+        "description": "Overseas assignment to Paris, France in October 1967",
+        "direct_quote": "Return to Station October 1967, Paris, France",
+        "significance": "Indicates international government personnel movement"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "11 March 1968",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret dispatch from Chief of Station Paris to Chief of European Division",
+        "direct_quote": "DISPATCH - SECRET",
+        "significance": "Official CIA communication document"
+      },
+      {
+        "category": "PERSONAL_MEDICAL_RECORDS",
+        "confidence": 7,
+        "description": "Medical examination of dependents at American Hospital in Paris",
+        "direct_quote": "CASASSIN's dependents took physical examinations as the American Hospital in Paris on 20 February",
+        "significance": "Routine administrative documentation, no direct assassination relevance"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Qualification Supplement to Personal History Statement",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Confidential Document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 7,
+        "description": "Confidential document appears to be a voluntary entry form, likely related to personal or financial records",
+        "direct_quote": "CONFIDENTIAL",
+        "significance": "Demonstrates a bureaucratic document from the early 1960s with potential historical context"
+      },
+      {
+        "category": "LOCATION_DATA",
+        "confidence": 6,
+        "description": "Document references Arlington, VA and Washington, D.C.",
+        "direct_quote": "CLARENDON TRUST CO., ARLINGTON 10, VA.",
+        "significance": "Provides geographic context for the document's origin"
+      },
+      {
+        "category": "POWER_OF_ATTORNEY",
+        "confidence": 8,
+        "description": "Indicates a power of attorney document with wife having possession",
+        "direct_quote": "HAVE YOU EXECUTED A POWER OF ATTORNEY? [X] YES - WIFE HAS IN POSSESSION",
+        "significance": "Suggests legal documentation of personal financial arrangements"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "RYBAT Biographic Data Sheet",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "1 February 1962 Memorandum",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CONTEXT",
+        "confidence": 7,
+        "description": "Memorandum about cover requirements for Thomas B. Casasin, potentially related to intelligence personnel",
+        "direct_quote": "Cover requirements for Thomas B. CASASIN (T)",
+        "significance": "Suggests internal CIA personnel management and operational cover assignment"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of establishing a permanent cover for a staff employee",
+        "direct_quote": "SS would like to have a durable, permanent cover established for Thomas B. CASASIN as quickly as possible",
+        "significance": "Indicates standard intelligence agency practice of providing protective cover for operatives"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 187,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "104-10195-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document appears to be a personnel file with travel and location details",
+        "direct_quote": "Current address was 844 (11), Current address 19 312 Lowend Place, Alexandria, Virginia",
+        "significance": "Provides geographical tracking of an individual's movements and residence"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed personnel record with extensive cover and employment history",
+        "direct_quote": "Current covers: industrial liaison officer, Army Scientific Liaison and Advisory Group, Previous cover (Nov 1954-Sep 1960) supervising foreign affairs specialist",
+        "significance": "Indicates potential intelligence community involvement and multiple operational roles"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Planned overseas deployment noted",
+        "direct_quote": "Proposed departure date overseas is roughly summer 1962, but is flexible",
+        "significance": "Suggests planned international movement and potential operational assignment"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Document describes CIA operational details for agent management and recruitment",
+        "direct_quote": "FI-CA management of large group of agents earlier recruited by others for REDWOOD purposes, including termination of marginal assets.",
+        "significance": "Reveals CIA operational practices for recruiting and managing agents, potentially relevant to understanding intelligence networks"
+      },
+      {
+        "category": "LOCATION_INTELLIGENCE",
+        "confidence": 8,
+        "description": "Operational locations specified in European cities",
+        "direct_quote": "Paris, France. Alternates: Brussels, Belgium; Luxembourg; Geneva, Switzerland.",
+        "significance": "Provides insight into CIA operational geographical spread during this period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  }
+]

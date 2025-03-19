@@ -1,0 +1,2363 @@
+[
+  {
+    "document_id": "198-10004-10076",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Secret document from Army about Cuba policy and U.S. actions toward Cuban Brigade",
+        "direct_quote": "SUBJECTS: EXAMINATION OF PRINCIPAL SOURCES OF POLICY AND CONTINGENCY PLANNING ON CUBA NATIONAL SECURITY ACTIONS ON CUBA U.S. POLICY TOWARD THE CUBAN BRIGADE",
+        "significance": "Provides context for U.S. government's strategic thinking about Cuba around the time of the JFK assassination"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 8,
+        "description": "Classified document from Califano Papers collection",
+        "direct_quote": "CLASSIFICATION: Secret, RESTRICTIONS: 1B; 1C",
+        "significance": "Indicates sensitive national security information related to Cuba and potential covert operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Top Secret documents related to US Policy Towards Cuba from January 1963",
+        "direct_quote": "US Policy Towards Cuba (TOP SECRET)",
+        "significance": "Indicates high-level inter-agency communications about Cuba during the period leading up to the JFK assassination"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 8,
+        "description": "Multiple classified memos involving National Security Council Executive Committee",
+        "direct_quote": "Memo fr McGeorge Bundy to NSC Exec Comm(C)",
+        "significance": "Shows coordinated high-level national security discussions about sensitive policy issues"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CONTEXT",
+        "confidence": 9,
+        "description": "Secret - Sensitive document discussing Cuban Crisis and policy materials",
+        "direct_quote": "There are well over eight volumes of material concerned with Cuba, particularly that generated during the recent October crisis.",
+        "significance": "Indicates extensive documentation around Cuban diplomatic tensions during the Kennedy administration"
+      },
+      {
+        "category": "GOVT_INTERNAL_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "References to National Security Council decisions and interdepartmental committee actions",
+        "direct_quote": "The Records of Action of the Executive Committee of the National Security Council as they pertain to Cuba.",
+        "significance": "Suggests high-level governmental coordination and documentation of Cuban-related strategic discussions"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32276061",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Document refers to decisions about Cuba being considered by a committee, with responsibility transferred to the Special Group",
+        "direct_quote": "to date, it appears that all of these decisions call for actions which have already been considered by your Committee. You will note that in some instances action responsibly an the BSG decision or NSAM has been transferred to the Special Group",
+        "significance": "Suggests high-level inter-agency coordination on Cuba-related decisions during the Kennedy era, potentially relevant to broader assassination context"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 7,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 8,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "483 NSC 2422",
+    "page_number": 9,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Policy document about US approach to Cuba and Castro regime",
+        "direct_quote": "Agreed that US policy toward Cuba should aim at the downfall of Castro regime.",
+        "significance": "Provides context for US government's hostile stance toward Cuba during the early 1960s, potentially relevant to geopolitical tensions surrounding the assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Discussion of relations with Cuban Revolutionary Council",
+        "direct_quote": "Relations with Cuban Revolutionary Council should be improved.",
+        "significance": "Indicates active US planning against Castro's government, potentially relevant to broader Cold War context"
+      },
+      {
+        "category": "REFUGEE_OPERATIONS",
+        "confidence": 5,
+        "description": "Policy on Cuban refugees",
+        "direct_quote": "Cuban refugees to be given refugee status; refugees in Miami to be located; refugees to be eligible to apply for travel privileges.",
+        "significance": "Suggests organized US efforts to support Cuban exiles, potentially connected to anti-Castro operations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "483 NSG 2422",
+    "page_number": 10,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed study to be made by CIA with other Departments on vulnerabilities in Cuba",
+        "direct_quote": "Detailed study to be made by CIA with other Departments of possible weaknesses and vulnerabilities in elements which control Cuba.",
+        "significance": "Indicates ongoing intelligence gathering and analysis of Cuba, potentially related to Cold War tensions and covert operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "US discussions about Castro and potential actions against Cuba",
+        "direct_quote": "USIA will expand L.A. progress, but not initiate electronic warfare against Castro; means of propaganda should be made deniable to non-US groups.",
+        "significance": "Reveals US strategic communications and propaganda considerations regarding Cuba"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 11,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Multiple NSC action items related to Cuba policy and contingency planning",
+        "direct_quote": "Contingency Planning for Cuba",
+        "significance": "Indicates high-level strategic discussions about Cuba around the time of the assassination, potentially relevant to geopolitical context"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "References to policy and planning regarding Cuban relations",
+        "direct_quote": "Policy Toward non-bloc ships in Cuban trade (Action US Government proposes to take with regard to shipping to Cuba)",
+        "significance": "Suggests active diplomatic and strategic maneuvering around Cuba during this period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "CUBA NASAM",
+    "page_number": 12,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Document relates to Cuba overflight intelligence gathering operations",
+        "direct_quote": "Presidential directive approved... requested CIA to come up with an estimate of the adequacy of such a system of intelligence collection",
+        "significance": "Indicates CIA was actively developing intelligence collection strategies regarding Cuba during the early 1960s, which was a period of high tension related to the Kennedy administration"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Interdepartmental coordination on Cuban affairs",
+        "direct_quote": "Interdepartmental Organization of Cuban Affairs - with responsibility yeasted in Coordinator of Cuban affairs in Department of State",
+        "significance": "Suggests complex inter-agency coordination regarding Cuba during this historical period"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 13,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 14,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Top Secret Department of State memorandum about NSC Executive Committee meeting on Cuba policy",
+        "direct_quote": "Papers for NSC Executive Committee Meeting, January 25 at 4:00 p.m.",
+        "significance": "Indicates high-level government discussions about Cuba policy shortly after JFK assassination, potentially revealing background geopolitical tensions"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document references papers about United States Policy Toward Cuba",
+        "direct_quote": "United States Policy Toward Cuba",
+        "significance": "Suggests ongoing strategic discussions about Cuba-US relations during critical period of political transition"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 15,
+    "relevant_findings": [
+      {
+        "category": "US_POLICY_CUBA",
+        "confidence": 8,
+        "description": "Secret memorandum detailing US policy towards Cuba in January 1963",
+        "direct_quote": "On November 20, the President set forth the broad guidelines of United States policy with respect to Cuba",
+        "significance": "Provides historical context for US-Cuba tensions during the period leading up to the Kennedy assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "US policy stance on preventing Cuban aggression and communist expansion",
+        "direct_quote": "We will neither initiate nor permit aggression in this hemisphere.",
+        "significance": "Reveals US strategic positioning towards Cuba and communist influence in the Caribbean"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 16,
+    "relevant_findings": [
+      {
+        "category": "US_CUBA_POLICY",
+        "confidence": 9,
+        "description": "Detailed US policy objectives regarding Cuba during Cold War period",
+        "direct_quote": "Objectives of United States policy with respect to Cuba are:",
+        "significance": "Provides context for geopolitical tensions and potential motivations surrounding Cuba during the early 1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 8,
+        "description": "US aims to discourage Cuban alignment with Sino-Soviet bloc",
+        "direct_quote": "Encouraging and supporting any developments within Cuba that offer the possibility of divorcing the Cuban Government from its support of Sino-Soviet Communist purposes",
+        "significance": "Reveals US strategic goal of isolating Cuba from communist influence, potentially relevant to understanding geopolitical pressures"
+      },
+      {
+        "category": "REGIME_CHANGE",
+        "confidence": 7,
+        "description": "US objective to potentially replace Cuban government",
+        "direct_quote": "Encouraging and supporting any developments within Cuba that offer the possibility of replacing the Cuban Government with a regime that would break with the Sino-Soviet Bloc",
+        "significance": "Indicates US willingness to consider regime change as a policy strategy"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 17,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses U.S. strategies against Castro regime and Cuba",
+        "direct_quote": "Maximizing the political isolation of the Castro regime from other free world states, and especially from states of the OAS.",
+        "significance": "Reveals Cold War era strategic planning against Cuba, providing context for geopolitical tensions during Oswald period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "U.S. government prepared to employ multiple pressure tactics against Cuba",
+        "direct_quote": "Being prepared to meet, with the employment of appropriate U.S. combat elements and/or logistical support, the wide variety of military contingencies that may arise",
+        "significance": "Indicates potential covert operational readiness and interventionist strategies"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32276061",
+    "page_number": 18,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Secret document outlining covert operations against Cuba, including intelligence collection, propaganda, and supporting Cuban exiles",
+        "direct_quote": "In addition to current covert program, such as intelligence collection, recruitment of Cuban officials as agents, radio broadcasts, support of the Cuban Revolutionary Council(CRC) and other exile group activities and infiltration of propaganda materials",
+        "significance": "Reveals extensive CIA covert operations against Castro regime, providing context for potential motivations and operational capabilities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Detailed plan to support Cuban exiles in overthrowing Castro regime",
+        "direct_quote": "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 of July Movement and who believe that the Castro regime can be overthrown from within",
+        "significance": "Demonstrates US government's active efforts to destabilize Cuban government, potentially related to Cold War tensions and assassination investigations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 19,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document outlining potential actions against Cuba, involving negotiations with Fidel Castro",
+        "direct_quote": "With respect to the actions listed below, the results of Mr. Donovan's imminent negotiations with Fidel Castro for freeing the 20-odd American prisoners should first be ascertained.",
+        "significance": "Reveals high-level diplomatic negotiations and potential covert operations during the Cold War period"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Detailed plan for potential maritime actions against Cuba",
+        "direct_quote": "Close United States ports to all vessels of a country whose vessels engage in carrying arms to Cuba",
+        "significance": "Demonstrates US strategic planning to isolate Cuba diplomatically and economically"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 20,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Diplomatic strategy regarding Cuba and Soviet Bloc relations",
+        "direct_quote": "At the termination of the U. S. Chiefs of Mission Conference - January 20-30, or at a later date dependent on the Donovan mission, Assistant Secretary Martin, or another representative of the President will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity",
+        "significance": "Reveals diplomatic efforts to build hemispheric support against Cuba and Soviet influence during Cold War tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Proposed OAS resolutions targeting Cuba",
+        "direct_quote": "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploying refusal to allow inspection, condemning the presence of Soviet troops, recommending continued surveillance and continued vigilance against subversive activities",
+        "significance": "Indicates coordinated diplomatic and intelligence efforts to isolate Cuba and monitor potential communist threats"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32276061",
+    "page_number": 21,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document appears to be a SECRET file discussing OAS (Organization of American States) actions regarding Cuba",
+        "direct_quote": "prohibition of ships of OAS member states from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade",
+        "significance": "Provides context of diplomatic tensions and potential international conspiracy surrounding Cuba during the Cold War era"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed strategic planning for coordinated international action against Cuba",
+        "direct_quote": "We will seek to get agreement from Free World industrial nations to prevent shipping of critical spare parts and equipment to Cuba",
+        "significance": "Demonstrates high-level coordinated efforts to isolate Cuba, potentially related to geopolitical tensions during the JFK era"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 22,
+    "relevant_findings": [
+      {
+        "category": "CONTINGENCY_PLANNING",
+        "confidence": 8,
+        "description": "Secret document outlining US contingency plans against Cuba and Castro regime",
+        "direct_quote": "Our contingency planning, which will be undertaken immediately, should include preparations for increased multilateral and/or bilateral political and economic measures, large scale use of Cubans who are now inside Cuba",
+        "significance": "Reveals US government's strategic planning for potential intervention or destabilization of Cuba, indicating geopolitical tensions during Cold War era"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Potential motivations for action against Castro regime",
+        "direct_quote": "New opportunities for accomplishing our objectives may arise either as a result of Bloc action in other parts of the world; as a result of aggressive moves (or isolated hostile actions) by the Castro-Communist regime itself",
+        "significance": "Suggests US was actively seeking opportunities to undermine Cuban government, potentially creating context for covert operations"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 23,
+    "relevant_findings": [
+      {
+        "category": "BRIGADE_OPERATIONS",
+        "confidence": 6,
+        "description": "Discussion of Brigade members (likely Cuban exile group) and strategy for their integration",
+        "direct_quote": "Our programs should be designed to encourage the Brigade members to melt back into the exile community and engage in constructive pursuits pending the liberation of Cuba.",
+        "significance": "Reveals ongoing US government strategy for managing Cuban exile groups, potentially related to anti-Castro operations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 24,
+    "relevant_findings": [
+      {
+        "category": "U.S_POLICY_OBJECTIVES",
+        "confidence": 9,
+        "description": "Secret document outlining U.S. policy objectives regarding Cuba in 1963",
+        "direct_quote": "U.S. Policy Objectives: The following are the objectives of the U.S. with respect to Cuba:",
+        "significance": "Provides insight into U.S. government's strategic approach to Cuba during Cold War period"
+      },
+      {
+        "category": "CIA_FOREIGN_POLICY",
+        "confidence": 8,
+        "description": "Specific policy goals targeting Castro regime and Soviet influence",
+        "direct_quote": "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states",
+        "significance": "Reveals explicit U.S. intentions to undermine Cuban government and Soviet relationships"
+      },
+      {
+        "category": "COLD_WAR_STRATEGY",
+        "confidence": 7,
+        "description": "Objectives focused on preventing Soviet military presence in Cuba",
+        "direct_quote": "Removal of remaining Soviet forces from Cuba",
+        "significance": "Demonstrates ongoing tensions following Cuban Missile Crisis and continued geopolitical pressure"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 25,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_POLICY",
+        "confidence": 8,
+        "description": "Secret document outlining U.S. policy objectives regarding Cuba and the Castro regime",
+        "direct_quote": "being understood that our ultimate objective is replacement of the regime by one fully compatible with the goals of the United States",
+        "significance": "Reveals official U.S. government stance on regime change in Cuba, providing context for potential covert operations"
+      },
+      {
+        "category": "GEOPOLITICAL_STRATEGY",
+        "confidence": 7,
+        "description": "Detailed objectives for isolating and undermining the Castro regime",
+        "direct_quote": "Maximizing the political isolation of the Castro regime from other Free World states, and especially from states of the OAS",
+        "significance": "Demonstrates comprehensive diplomatic and strategic approach to countering Cuban influence"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 26,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document outlining covert operations against Cuba",
+        "direct_quote": "In addition to current covert programs such as intelligence collection, recruitment of Cuban officials, support of the Cuban Revolutionary Council (CRC) and other exile activities, infiltration of propaganda materials, and radio broadcasts, the following are recommended for approval and immediate initiation:",
+        "significance": "Reveals active CIA covert operations targeting Cuba, which could provide context for Cold War-era intelligence activities potentially related to Oswald"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Potential Soviet involvement consideration",
+        "direct_quote": "Removal of remaining Soviet forces from Cuba because taking these actions could provide the U.S.S.R. with rationale for maintaining its forces in Cuba.",
+        "significance": "Indicates complex geopolitical considerations surrounding Cuban-Soviet relations that could be relevant to assassination context"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 27,
+    "relevant_findings": [
+      {
+        "category": "BRIGADE_OPERATIONS",
+        "confidence": 7,
+        "description": "Recommendation to disband a military brigade and integrate members into existing U.S. military programs",
+        "direct_quote": "The Brigade should be disbanded as a military unit and individual members urged to accept civilian training or to enlist in the existing U.S. military program for Cubans and join a Brigade reserve unit thereafter.",
+        "significance": "Suggests a strategic reorganization of a Cuban military unit, potentially related to exile Cuban forces like Brigade 2506 (Bay of Pigs invasion force)"
+      },
+      {
+        "category": "EXILE_COMMUNITY_DYNAMICS",
+        "confidence": 6,
+        "description": "Concern about creating a privileged class in the exile community",
+        "direct_quote": "Our moral obligation would be discharged to the Brigade members and creation of a privileged class in the exile community would be avoided.",
+        "significance": "Reveals tensions and social considerations within Cuban exile groups, attempting to prevent special status for certain military members"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 28,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Department of Defense Top Secret Memo",
+    "page_number": 29,
+    "relevant_findings": [
+      {
+        "category": "HISTORICAL_CONTEXT",
+        "confidence": 8,
+        "description": "Top Secret memo from Deputy Secretary of Defense regarding US Policy Toward Cuba in January 1963",
+        "direct_quote": "United States Policy Toward Cuba",
+        "significance": "Provides insight into high-level US government strategic planning during Cold War period, just months before JFK's assassination"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955 Docld:32276061",
+    "page_number": 30,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Top secret draft document about United States policy toward Cuba",
+        "direct_quote": "United States Policy Toward Cuba",
+        "significance": "Provides context for US-Cuba relations during the early 1960s, potentially relevant to geopolitical tensions surrounding the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Policy document outlining US objectives regarding Cuba",
+        "direct_quote": "Protecting the security of the United States and the other states of the Organization of American States (OAS) by ensuring that offensive weapons are not reintroduced into Cuba",
+        "significance": "Reveals US government's strategic objectives and potential covert operations related to Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "198-10004-10076",
+    "page_number": 31,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 8,
+        "description": "Document discusses US objectives regarding Cuba and Soviet influence",
+        "direct_quote": "Reducing the capabilities of the Castro regime to dissect and support subversion and insurrections within the other OAS states",
+        "significance": "Reveals US strategic objectives toward Cuba, potentially providing context for geopolitical tensions surrounding Oswald and the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Outlines covert US government strategy against Cuba",
+        "direct_quote": "Maximizing the political isolation of the Castro regime from other free world states, and especially from states of the OAS",
+        "significance": "Indicates high-level strategic planning for undermining Cuban government, suggesting complex geopolitical context"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 32,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_OPERATIONS",
+        "confidence": 9,
+        "description": "Secret document outlining U.S. government plan to overthrow Castro/Communist regime in Cuba",
+        "direct_quote": "Our ultimate objective with respect to Cuba remains the overthrow of the Castro/Communist regime and its replacement by one compatible with the objective of the Free World.",
+        "significance": "Reveals active U.S. government strategy for regime change in Cuba, providing context for Cold War geopolitical tensions"
+      },
+      {
+        "category": "COVERT_ACTIONS",
+        "confidence": 8,
+        "description": "Detailed supporting actions for Cuba destabilization plan",
+        "direct_quote": "The following actions should be initiated in the sequence set forth below:",
+        "significance": "Outlines specific diplomatic and military strategies to undermine the Cuban government"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 33,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of OAS resolutions condemning Cuba and Soviet involvement",
+        "direct_quote": "condemning the presence of Soviet troops, recommending cessation of subversive activities, and terminating the invocation of the Rio Treaty on the missile crisis",
+        "significance": "Provides context of Cold War tensions and international diplomatic responses related to Cuba and Soviet Union"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Diplomatic strategy for addressing Cuba and Soviet bloc trade",
+        "direct_quote": "prohibit any cargo sponsored by any department or agency of the United States from being shipped on vessels owned or controlled by persons who own or control vessels engaged in trade between Cuba and the Soviet bloc",
+        "significance": "Reveals US government's economic and diplomatic strategy to isolate Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 Docld:32276061",
+    "page_number": 34,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Detailed plans for covert actions against Cuba, including intelligence gathering and supporting Cuban exiles",
+        "direct_quote": "In addition to current covert programs such as intelligence collection, radio broadcasts, recruitment of Cuban officials as agents, support of Cuban Revolutionary Council (CRC), activities, and infiltration of propaganda materials are recommended for approval and immediate initiation.",
+        "significance": "Demonstrates extensive US government plans for regime change in Cuba, potentially providing context for geopolitical tensions and covert operations during the Kennedy era"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "Support for Cuban exiles associated with the 26 July Movement",
+        "direct_quote": "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 July Movement and who believe that the Castro regime can be overthrown from within",
+        "significance": "Indicates US government support for opposition groups, potentially revealing complex networks of political actors"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, Doc ID: 32276061",
+    "page_number": 35,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 8,
+        "description": "Covert propaganda operation targeting Cuba using balloon-launched leaflets",
+        "direct_quote": "Assist Cuban exiles in developing a capability to launch balloons carrying leaflets and other propaganda materials from international waters into Cuba. Launch propaganda balloons after an operational capability has been established.",
+        "significance": "Reveals CIA involvement in propaganda efforts against Cuba, indicating sophisticated psychological warfare tactics during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "198-10004-10076",
+    "page_number": 36,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document outlining contingency plans against Castro/Communist regime in Cuba",
+        "direct_quote": "Our contingency planning should include preparations for large-scale use of Cubans inside Cuba; more extensive air activity including both high and low level flights primarily directed toward surveillance",
+        "significance": "Reveals US government's active planning for potential military intervention in Cuba, suggesting complex geopolitical context surrounding Cold War tensions"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document indicates potential scenarios for regime change in Cuba",
+        "direct_quote": "These opportunities may arise either as a result of Bloc action in other parts of the world, as a result of aggressive moves (or isolated hostile acts) by the Castro/Communist regime itself; or as a result of uprisings or internal conflict within Cuba",
+        "significance": "Highlights US strategic thinking about potential destabilization of Cuban government, providing context for Cold War geopolitical maneuvering"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 37,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 38,
+    "relevant_findings": [
+      {
+        "category": "US_FOREIGN_POLICY",
+        "confidence": 9,
+        "description": "Top secret memorandum detailing US policy toward Cuba in 1963",
+        "direct_quote": "Our ultimate objective with respect to Cuba remains the overthrow of the Castro/Communist regime and its replacement by one compatible with the objectives of the U. S.",
+        "significance": "Reveals aggressive US government stance toward Cuba during Cold War period, providing context for geopolitical tensions"
+      },
+      {
+        "category": "GOVT_STRATEGIES",
+        "confidence": 8,
+        "description": "Detailed policy of pressuring Castro regime",
+        "direct_quote": "The U. S. Government will apply increasing degrees of political, economic, psychological and military pressures",
+        "significance": "Outlines multi-pronged approach to destabilizing Cuban government, including potential covert operations"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "NW.50955, Docid:32276061",
+    "page_number": 39,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_POLICY",
+        "confidence": 8,
+        "description": "Top secret document outlining US strategy for undermining Castro's Communist regime in Cuba",
+        "direct_quote": "Isolating, undermining and discrediting the Castro/Communist regime through the exercise of all feasible diplomatic, economic, psychological and covert actions",
+        "significance": "Reveals US government's aggressive policy towards Cuba, providing context for Cold War tensions and potential motivations for covert operations"
+      },
+      {
+        "category": "MILITARY_INTERVENTION",
+        "confidence": 7,
+        "description": "Detailed plans for potential military support to anti-Castro groups",
+        "direct_quote": "We should be in a position to respond with open military support (to include such items as material, advisors, training, and Special Forces support and, if necessary, up to the full range of military forces)",
+        "significance": "Indicates US readiness for potential military intervention in Cuba, highlighting the extreme tensions of the Cold War period"
+      },
+      {
+        "category": "FOREIGN_POLICY_LIMITATIONS",
+        "confidence": 6,
+        "description": "Conditions for potential US invasion of Cuba",
+        "direct_quote": "Invasion of U.S. military forces... should not be undertaken in the absence of aggression or other Castro/Communist and/or Soviet actions that threaten the peace or security of the hemisphere",
+        "significance": "Reveals diplomatic constraints and justification requirements for potential military action"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "NW 50955 DocId:32276061",
+    "page_number": 40,
+    "relevant_findings": [
+      {
+        "category": "U.S. MILITARY_OPERATIONS",
+        "confidence": 7,
+        "description": "Document outlines U.S. military strategy against Cuba",
+        "direct_quote": "U.S. military forces employed against Cuba should be accompanied by U.S. militarily-trained free Cubans and by the armed forces of those Latin American nations desirous of participating in the U.S. effort.",
+        "significance": "Reveals Cold War era strategic planning for potential military intervention in Cuba"
+      },
+      {
+        "category": "INTELLIGENCE_GATHERING",
+        "confidence": 8,
+        "description": "Emphasizes comprehensive intelligence collection on Cuba",
+        "direct_quote": "Intensive, comprehensive and continuing intelligence gathering in depth on Cuba should be identified as a primary objective of the national intelligence effort.",
+        "significance": "Highlights the priority of intelligence operations targeting Cuba during this period"
+      },
+      {
+        "category": "MULTILATERAL_STRATEGY",
+        "confidence": 6,
+        "description": "Preference for multilateral approach in actions against Cuba",
+        "direct_quote": "Whenever possible, U.S. actions against Cuba should be multilateral, preferably based upon the Treaty of Reciprocal Assistance (Rio Pact) or on resolutions adopted by the Organization of American States.",
+        "significance": "Indicates diplomatic strategy to build international consensus against Cuba"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 41,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed covert action plan against Castro/Communist regime in Cuba",
+        "direct_quote": "Such actions might include leaflet dropping; propaganda urging sabotage, strikes, and opposition to the regime; psychological operations urging defections...",
+        "significance": "Reveals extensive CIA plans for destabilizing Cuba, providing context for potential covert operational environments during Oswald period"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Planned actions against Cuban government including intelligence gathering and psychological warfare",
+        "direct_quote": "Large scale training of Cubans in the U.S. and the use of such Cubans inside Cuba",
+        "significance": "Indicates complex geopolitical tensions and potential recruitment/operational networks that could intersect with Oswald's activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 42,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of potential international political reactions, specifically Latin American governments' potential response to U.S. actions",
+        "direct_quote": "They may attack the U.S. for 'intervening' or they may react favorably (as they did during the missile crisis).",
+        "significance": "Reveals strategic considerations about international perception and diplomatic consequences of potential covert actions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Reference to managing international perception of U.S. policy regarding Cuba",
+        "direct_quote": "If properly handled, the overt aspects of this policy may serve not only to mitigate any unfavorable reactions from other countries, but also to gain, particularly in Latin America, increasing appreciation of the threat of Castro/Communist Cuba.",
+        "significance": "Indicates strategic communication and perception management efforts related to Cuba and communist influences"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:322760561",
+    "page_number": 43,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Top Secret document discussing U.S. policy towards Communist Cuba and Castro regime",
+        "direct_quote": "The active pursuit of our objective will make it clear that the U.S. will not permit the maintenance of a communist base in the hemisphere.",
+        "significance": "Reveals high-level U.S. government intent to overthrow Castro's regime, potentially providing context for covert operations during the Kennedy era"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 8,
+        "description": "Strategic document outlining approach to dealing with Communist Cuba",
+        "direct_quote": "The successful execution of this policy will require careful timing and coordination of our actions and the development of detailed plans.",
+        "significance": "Indicates sophisticated planning at highest levels of government for regime change, with acknowledgment of potential international complications"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "HW 50955",
+    "page_number": 44,
+    "relevant_findings": [
+      {
+        "category": "US_CUBA_POLICY",
+        "confidence": 8,
+        "description": "Top Secret document discussing US policy toward Cuba and the Castro regime",
+        "direct_quote": "Commitment to this course of action does not exclude the possibility of actively pursuing the isolation of the Castro regime from the Bloc.",
+        "significance": "Reveals high-level US government strategic thinking about Cuba during Cold War period"
+      },
+      {
+        "category": "REGIME_CHANGE",
+        "confidence": 7,
+        "description": "US government recommending policy to overthrow Castro/Communist regime",
+        "direct_quote": "The objectives stated in the Coordinator's paper do not sufficiently commit the U. S. to the overthrow of the Castro/Communist regime.",
+        "significance": "Indicates active US government planning for potential regime change in Cuba"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "DRAFT/23 Jan 63",
+    "page_number": 45,
+    "relevant_findings": [
+      {
+        "category": "US_CUBA_POLICY",
+        "confidence": 8,
+        "description": "Top secret memorandum outlining US policy toward Cuba in early 1963",
+        "direct_quote": "On November 20, the President set forth the broad guidelines of United States policy with respect to Cuba",
+        "significance": "Provides context for US-Cuba tensions during the period leading up to the Kennedy assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "US policy aims to prevent Cuban aggression and subversion",
+        "direct_quote": "We shall neither initiate nor permit aggression in this hemisphere",
+        "significance": "Reveals US strategic positioning against communist influence in the Caribbean"
+      },
+      {
+        "category": "NATIONAL_SECURITY",
+        "confidence": 7,
+        "description": "Primary objective of protecting US and OAS security",
+        "direct_quote": "Protecting the security of the United States and the other states of the Organization of American States (OAS) by assuring that offensive weapons are not reintroduced into Cuba",
+        "significance": "Highlights US concerns about potential military threats from Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Top Secret document outlining U.S. objectives regarding Cuba and Soviet influence",
+        "direct_quote": "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states",
+        "significance": "Provides context for U.S. government's aggressive stance towards Cuba, potentially relevant to understanding geopolitical tensions during Oswald's time"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban-Sino-Soviet relations",
+        "direct_quote": "Encouraging and supporting any developments within Cuba that offer the possibility of divorcing the Cuban Government from its support of Sino-Soviet Communist purposes",
+        "significance": "Reveals U.S. strategic objectives to undermine Communist alliances in the Caribbean"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not visible on page",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_OPERATIONS",
+        "confidence": 9,
+        "description": "Detailed U.S. government plan to overthrow Castro/Communist regime in Cuba",
+        "direct_quote": "Our ultimate objective with respect to Cuba remains the overthrow of the Castro/Communist regime and its replacement by one compatible with the Free World.",
+        "significance": "Reveals active U.S. government strategy for regime change in Cuba, providing context for potential covert operations"
+      },
+      {
+        "category": "DIPLOMATIC_STRATEGY",
+        "confidence": 8,
+        "description": "Planned diplomatic, economic, and psychological pressure tactics against Cuba",
+        "direct_quote": "The U.S. Government will be prepared to apply increasing degrees of political, economic, psychological and military pressures",
+        "significance": "Outlines multi-faceted approach to destabilizing Cuban government"
+      },
+      {
+        "category": "MARITIME_RESTRICTIONS",
+        "confidence": 9,
+        "description": "Comprehensive maritime blockade plan against Cuba",
+        "direct_quote": "close United States ports to all vessels of a country whose vessels engage in carrying arms to Cuba",
+        "significance": "Detailed naval interdiction strategy to isolate Cuba economically and militarily"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses diplomatic communications and actions related to Cuba and Soviet Union",
+        "direct_quote": "At the continuation of the U. S. Chiefs of Mexico Conference in El Salvador on January 28-30, Assistant Secretary Martin will visit the Presidents of Chile, Mexico and Brazil to convey to them the importance President Kennedy attaches to maintaining hemispheric solidarity by supporting the following resolutions:",
+        "significance": "Indicates high-level diplomatic discussions about Cuba, Soviet involvement, and potential Cold War tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Proposed diplomatic actions against Cuba and Soviet bloc",
+        "direct_quote": "d. prohibit any cargo sponsored by any department or agency of the United States from being shipped on vessels owned or controlled by persons who own or control vessels engaged in the trade between Cuba and the Soviet bloc.",
+        "significance": "Shows coordinated governmental efforts to restrict Cuba-Soviet trade and economic interactions"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 49,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a top-secret CIA/OAS plan for actions against Cuba",
+        "direct_quote": "In addition to current covert programs such as intelligence collection, radio broadcasts, recruitment of Cuban official agencies, support of the Cuban Revolutionary Council (CRC) activities, and infiltration of propaganda materials...",
+        "significance": "Reveals extensive covert operations targeting Cuba, suggesting complex geopolitical context around the time of the JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Detailed plan for coordinating actions with NATO allies against Cuba",
+        "direct_quote": "We will inform our NATO allies of the impending OAS action.",
+        "significance": "Indicates international diplomatic maneuvering and strategic planning against Cuba during Cold War period"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "Support for Cuban exiles with connections to 26 July Movement",
+        "direct_quote": "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 July Movement and believe that the Colon regime can be overthrown",
+        "significance": "Reveals potential connections to anti-Castro exile groups, which had complex relationships with various intelligence and criminal networks"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955 Doc ID: 32276061",
+    "page_number": 50,
+    "relevant_findings": [
+      {
+        "category": "CIA_COVERT_OPERATIONS",
+        "confidence": 8,
+        "description": "Secret document detailing CIA plans for Cuban exiles",
+        "direct_quote": "Assist Cuban exiles in developing a capability to launch balloons carrying leaflets and other propaganda materials from international waters into Cuba.",
+        "significance": "Reveals CIA propaganda and psychological warfare strategies against Cuba, potentially related to Cold War tensions and anti-Castro operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955 Doc ID: 32276061",
+    "page_number": 51,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Top secret document outlining contingency plans for overthrowing the Castro/Communist regime in Cuba",
+        "direct_quote": "In addition to these immediate actions, we should make preparations now so that we are able to seize opportunities for more positive action towards our ultimate objective of the overthrow of the Castro/Communist regime.",
+        "significance": "Reveals high-level US government planning for regime change in Cuba, providing context for potential covert operations that could intersect with assassination theories"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Plans for military intervention with Latin American support",
+        "direct_quote": "U.S. military forces employed against Cuba should be accompanied by U.S. militarily-trained free Cubans and by the armed forces of those Latin American nations desirous of participating in the U.S. effort.",
+        "significance": "Indicates broader geopolitical context of US-Cuba relations and potential international involvement in anti-Castro operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 Doc ID: 32276061",
+    "page_number": 7,
+    "relevant_findings": [
+      {
+        "category": "US_POLICY_CUBA",
+        "confidence": 9,
+        "description": "Detailed US policy document outlining objectives for overthrowing the Castro/Communist regime in Cuba",
+        "direct_quote": "Our ultimate objective with respect to Cuba is the overthrow of the Castro/Communist regime and its replacement with one compatible with the objectives of the U.S.",
+        "significance": "Provides context for US government's hostile stance towards Cuba, which could be relevant to potential conspiracy theories surrounding the JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "US policy document outlines strategies to isolate Cuba from Soviet Bloc and reduce Russian influence",
+        "direct_quote": "Increase the cost to the Bloc of sustaining the regime; and obtain the withdrawal of Russian troops from Cuba.",
+        "significance": "Reveals tensions between US, Cuba, and Soviet Union during Cold War period, potentially providing geopolitical context for assassination theories"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "US government plan for covert actions against Cuban regime",
+        "direct_quote": "The U.S. Government will apply increasing degrees of political, economic, psychological pressures, as appropriate until the Castro/Communist regime is overthrown.",
+        "significance": "Indicates extensive covert operations planning, suggesting complex geopolitical environment that could involve multiple actors"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 8,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a secret policy document about actions against Cuba, suggesting extensive intelligence gathering and covert operations",
+        "direct_quote": "Intensive, comprehensive and continuing intelligence gathering in depth on Cuba should be identified as a primary objective of the national intelligence effort.",
+        "significance": "Reveals US government's comprehensive intelligence strategy targeting Cuba, which could provide context for geopolitical tensions during Oswald's era"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discusses potential Soviet and Castro regime responses to US actions",
+        "direct_quote": "Soviet actions that threaten the peace or security of the hemisphere. This does not not preclude appropriate U.S. retaliation for isolated hostile acts by the Castro/Communist or Soviet forces.",
+        "significance": "Highlights the tense Cold War dynamics that could have influenced assassination-related geopolitical intrigue"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 9,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Detailed covert action plan against Castro government",
+        "direct_quote": "course of action would involve a broad gamut of carefully timed political, economic, psychological and covert actions",
+        "significance": "Demonstrates extensive US government planning for regime change in Cuba, providing context for potential complex geopolitical motivations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Potential international political consequences analysis",
+        "direct_quote": "From the standpoint of international politics, the U.S. will probably be subjected to criticism for aggression from the uncommitted nations",
+        "significance": "Reveals awareness of potential diplomatic backlash from proposed actions against Cuba"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955 Docld:32276061",
+    "page_number": 55,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing U.S. policy toward Castro's Cuba, indicating strategic planning for regime change",
+        "direct_quote": "The active pursuit of our objective will make it clear that the U.S. will not permit the maintenance of a communist base in the hemisphere.",
+        "significance": "Reveals high-level U.S. government strategic thinking about Cuba, suggesting potential motivations for covert operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document references potential reactions from Latin American countries and the Sino-Soviet Bloc",
+        "direct_quote": "to mitigate any unfavorable reactions from other countries, but also to gain, particularly in Latin America, increasing appreciation of the threat of Castro/Communist Cuba",
+        "significance": "Indicates diplomatic considerations and international context of U.S. policy toward Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32276061",
+    "page_number": 11,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Disagreement between Coordinator and DoD Representative on policy towards Castro/Communist regime",
+        "direct_quote": "Alternative I does not make the overthrow of the Castro/Communist regime an objective of the U.S.",
+        "significance": "Reveals internal government debate about approach to Cuba and potential covert operations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of alternative policy approaches to dealing with Communist regime",
+        "direct_quote": "Alternative I does not sufficiently contemplate the creation of opportunities to effect the downfall of that regime.",
+        "significance": "Indicates ongoing strategic discussions about potential interventionist policies"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 (Document ID: 32276061)",
+    "page_number": 57,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "NW 50955, DocId:322760061",
+    "page_number": 58,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Top-secret memorandum discussing United States policy toward Cuba in January 1963",
+        "direct_quote": "As for our part, if all offensive weapons systems are removed from Cuba and kept out of the hemisphere in the future, under adequate verification and safe-guards, and if Cuba is not used for the export of aggressive communist purposes, there will be peace in the Caribbean.",
+        "significance": "Provides context of US-Cuba tensions during the period leading up to the JFK assassination, potentially relevant to geopolitical motivations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Document from National Security Council discussing policy alternatives toward Cuba",
+        "direct_quote": "There are submitted for your consideration two alternative statements of policy and related courses of action with respect to Cuba.",
+        "significance": "Indicates high-level government discussions about Cuban policy during a critical period of Cold War tensions"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 59,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "U.S. policy objectives regarding Cuba and Soviet involvement",
+        "direct_quote": "Removal of remaining Soviet forces from Cuba",
+        "significance": "Provides context for geopolitical tensions and potential motivations surrounding Cold War era covert operations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "U.S. policy aims to reduce Cuban regime's subversive capabilities",
+        "direct_quote": "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states",
+        "significance": "Indicates active U.S. strategic efforts to counter Communist influence in Latin America"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50595, Docld:32276061",
+    "page_number": 60,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses negotiations with Fidel Castro regarding American prisoners",
+        "direct_quote": "Mr. Donovan's imminent negotiation with Fidel Castro for freeing the 20-odd American prisoners",
+        "significance": "Provides context for US-Cuba diplomatic tensions during the Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret document outlining strategic actions related to Cuba",
+        "direct_quote": "Inform NATO and OAS twelve hours in advance of the proclamation of the four point shipping orders",
+        "significance": "Reveals detailed planning for potential military/diplomatic actions against Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32276061",
+    "page_number": 61,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses diplomatic strategy regarding Cuba and Soviet bloc",
+        "direct_quote": "At the termination of the U. S. Chefs of Mission Conference in El Salvador on January 28-30, Assistant Secretary Martin will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity by supporting the following resolutions",
+        "significance": "Reveals US diplomatic efforts to isolate Cuba and counter Soviet influence in Latin America during the Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Proposed OAS resolutions targeting Cuba's activities",
+        "direct_quote": "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploring refusal to allow inspection, condemning the presence of Soviet troops",
+        "significance": "Indicates US government's active diplomatic strategy to marginalize Cuba internationally"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32276061",
+    "page_number": 62,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Secret document outlining covert operations against Cuba",
+        "direct_quote": "In addition to current covert programs such as intelligence collection, radio broadcasts, recruitment of Cuban officials as agents, support of the Cuban Revolutionary Council (CRC) activities, and infiltration of propaganda materials",
+        "significance": "Reveals extensive CIA covert operations targeting Cuba, potentially relevant to understanding geopolitical context around the assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Strategies to isolate Cuba internationally",
+        "direct_quote": "We will request that NATO include Cuba on the list of countries to which shipment of COCOM list (strategic) items is prohibited",
+        "significance": "Demonstrates active diplomatic efforts to economically and strategically marginalize Cuba"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "Support for Cuban exiles opposing Castro regime",
+        "direct_quote": "Support the efforts of certain Cuban exiles, who are associated with the original 26 July Movement and who believe that the Castro regime can be overthrown from within",
+        "significance": "Indicates potential connections between US intelligence and anti-Castro exile groups"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 63,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Document appears to be a secret CIA document discussing covert operations against Cuba",
+        "direct_quote": "Assist Cuban exiles in developing a capability to launch balloons carrying leaflets and other propaganda materials from international waters into Cuba.",
+        "significance": "Reveals CIA plans for propaganda operations against the Cuban regime, indicating active efforts to undermine the government"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 64,
+    "relevant_findings": [
+      {
+        "category": "US_FOREIGN_POLICY",
+        "confidence": 9,
+        "description": "Detailed US policy document about overthrowing the Castro/Communist regime in Cuba",
+        "direct_quote": "The ultimate objective is the overthrow of the Castro/Communist regime is replacement by one more compatible with the objectives of the U.S.",
+        "significance": "Provides context for US government's hostile stance towards Cuba, potentially relevant to understanding geopolitical tensions during Oswald's time"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Outlines covert action strategies against Cuba",
+        "direct_quote": "Isolating, undermining and interacting with Castro/Communist regime through feasible diplomatic, economic, covert actions may achieve the immediate objectives",
+        "significance": "Reveals US government's active plans for destabilizing Cuba, which could be contextually relevant to Oswald's activities"
+      },
+      {
+        "category": "MILITARY_OPERATIONS",
+        "confidence": 7,
+        "description": "Potential military support for anti-Castro groups",
+        "direct_quote": "We should be in a position to respond with open military support (to include such items as material, advisors, training, and special forces support)",
+        "significance": "Indicates US preparedness for potential military intervention or support of opposition groups in Cuba"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 65,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a policy document about actions against Cuba, involving U.S. military and intelligence operations",
+        "direct_quote": "Intensive, comprehensive and continuing intelligence gathering on Cuba should be identified as a primary objective of the national intelligence effort.",
+        "significance": "Reveals strategic U.S. intelligence planning regarding Cuba, potentially contextualizing Cold War era operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "References Soviet concerns about U.S. actions in the hemisphere",
+        "direct_quote": "Soviet actions that threaten the peace or security of the hemisphere. This does not preclude appropriate U.S. retaliation for hostile acts by the Castro Communist or Soviet forces.",
+        "significance": "Indicates tensions between U.S. and Soviet/Cuban relations during the period surrounding the Kennedy assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "22276061",
+    "page_number": 66,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed covert action plan targeting Cuba and Latin American security",
+        "direct_quote": "This course of action would involve a broad gamut of carefully timed political, economic, psychological and covert actions, such as OAS negotiations, Caribbean security arrangements, intensified surveillance and public security concerning Castro/Communist subversive activities in Latin America",
+        "significance": "Reveals broader geopolitical context of CIA operations during Cold War period, suggesting complex strategic planning against communist influence"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Potential international political reactions to U.S. actions",
+        "direct_quote": "It is difficult to predict the reaction of the Latin American governments. They may attack the U.S. for 'intervening' or they may react favorably (as they did during the missile crisis).",
+        "significance": "Highlights diplomatic uncertainty and potential geopolitical tensions surrounding U.S. covert operations in Latin America"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32276061",
+    "page_number": 67,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing US policy towards Castro/Communist Cuba",
+        "direct_quote": "The active pursuit of our objective will make it clear that the U. S. will not permit the maintenance of a communist base in the hemisphere.",
+        "significance": "Reveals US government's strategic approach to Cuba, indicating potential motivation for covert operations against Castro regime"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to Sino-Soviet Bloc and potential international implications",
+        "direct_quote": "From the standpoint of military posture, the more active approach may be subjected to counteractions from the Sino-Soviet Bloc elsewhere.",
+        "significance": "Suggests potential international complications and geopolitical tensions surrounding US actions against Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 Doc:3227g061",
+    "page_number": 68,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Secret document showing internal disagreement about policy recommendations regarding a Castro/Communist regime",
+        "direct_quote": "I do not concur in the policy recommended by the Coordinator. Alternative I does not make the overthrow of the Castro/Communist regime an objective of the U.S.",
+        "significance": "Reveals internal policy debates and potential disagreements about approach to Cuban regime, suggesting complex governmental decision-making around Cold War strategy"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Recommendation document with two alternative policy approaches",
+        "direct_quote": "I recommend approval of Alternative I... I recommend adoption of Alternative II.",
+        "significance": "Indicates multiple strategic options were being considered, potentially related to covert operations or diplomatic approaches"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 69,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 70,
+    "relevant_findings": [
+      {
+        "category": "US_CUBA_POLICY",
+        "confidence": 9,
+        "description": "Secret memorandum detailing US policy towards Cuba in January 1963",
+        "direct_quote": "As for our part, if all offensive weapons systems are removed from Cuba and kept out of the hemisphere in the future, under adequate verification and safeguards, and if Cuba is not used for the export of aggressive communist purposes, there will be peace in the Caribbean.",
+        "significance": "Provides historical context of US-Cuba tensions during the Cold War, potentially relevant to understanding geopolitical motivations surrounding the Kennedy assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "US policy statement indicates ongoing tensions with Communist Cuba",
+        "direct_quote": "We shall neither initiate nor permit aggression in this hemisphere.",
+        "significance": "Highlights the geopolitical climate and potential motivations for covert operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 71,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Detailed US objectives regarding Cuba and Soviet influence",
+        "direct_quote": "Removing remaining Soviet forces from Cuba",
+        "significance": "Provides context for US-Cuba tensions during Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "US strategic objectives to undermine Cuban government",
+        "direct_quote": "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the Hemisphere",
+        "significance": "Reveals active US government plans to destabilize Cuban leadership"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "US goal to break Cuban ties with Communist bloc",
+        "direct_quote": "Encouraging and supporting any developments within Cuba that offer the possibility of replacing the Cuban Government with a regime that would break with the Sino-Soviet Bloc",
+        "significance": "Indicates high-level US strategy to isolate Cuba politically and strategically"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 72,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Top secret document outlining U.S. government objectives regarding Cuba",
+        "direct_quote": "Maximizing the political isolation of the Castro regime from other free world states, and especially from states of the OAS",
+        "significance": "Reveals U.S. strategic planning against Cuba, providing context for geopolitical tensions during the early 1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document suggests multilateral approach to dealing with Cuba",
+        "direct_quote": "U.S. actions against Cuba should be multilateral, preferably based upon the Treaty of Reciprocal Assistance (Rio Pact)",
+        "significance": "Indicates efforts to build international consensus against the Castro regime"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 73,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Detailed covert program targeting Cuba, including intelligence collection, recruitment of Cuban officials, and propaganda infiltration",
+        "direct_quote": "In addition to current covert program, such as intelligence collection, recruitment of Cuban officials as agents, radio broadcasts, support of the Cuban Revolutionary Council (CRC) and other exile group activities and infiltration of propaganda materials",
+        "significance": "Reveals extensive CIA operations aimed at destabilizing the Castro regime, providing context for Cold War-era covert activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Focus on internal Cuban regime destabilization through exile groups",
+        "direct_quote": "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 of July Movement and who believe that the Castro regime can be overthrown from within",
+        "significance": "Demonstrates US government strategy to create internal splits in Castro's leadership"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 74,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document detailing covert operations against Cuba",
+        "direct_quote": "Assist Cuban exiles in developing a capability to launch balloons carrying leaflets and other propaganda materials from international waters into Cuba",
+        "significance": "Reveals CIA plans for propaganda operations against Castro regime, indicating active anti-Communist covert activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Negotiations related to American prisoners",
+        "direct_quote": "Results of Mr. Donovan's imminent negotiations with Fidel Castro for freeing the 20-odd American prisoners",
+        "significance": "Demonstrates diplomatic efforts and tensions between US and Cuba during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "198-10004-10076",
+    "page_number": 75,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 76,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of US diplomatic efforts regarding Cuba and Soviet bloc",
+        "direct_quote": "At the termination of the U. S. Chiefs of Mission Conference... Assistant Secretary Martin, or another representative of the President will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity",
+        "significance": "Reveals diplomatic strategy to counter Cuban and Soviet influence in Latin America during Cold War tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Proposed OAS resolutions against Cuba",
+        "direct_quote": "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploring refusal to allow inspection, condemning the presence of Soviet troops, recommending continued vigilance against subversive activities",
+        "significance": "Shows US government's active efforts to isolate Cuba diplomatically and monitor potential Soviet military presence"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:3227661",
+    "page_number": 77,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses diplomatic actions regarding Cuba through OAS and NATO",
+        "direct_quote": "After obtaining the maximum possible support of the key countries of Mexico, Chile and Brazil, the other OAS members will be approached in Washington and in their respective capitals, simultaneously.",
+        "significance": "Indicates diplomatic maneuvering around Cuba during Cold War period, potentially relevant to geopolitical context of assassination era"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Strategic planning for international isolation of Cuba",
+        "direct_quote": "1) extension of arms embargo to all strategic items; 2) prohibition of ships from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade",
+        "significance": "Shows active diplomatic and strategic efforts to constrain Cuba, which could relate to broader Cold War tensions"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 78,
+    "relevant_findings": [
+      {
+        "category": "CONTINGENCY_PLANNING",
+        "confidence": 8,
+        "description": "Secret document discussing contingency planning for Cuba, including potential actions against Castro regime",
+        "direct_quote": "Contingency Planning: New opportunities for accomplishing our objectives may arise either as a result of Bloc action in other parts of the world; as a result of aggressive moves (or isolated hostile actions) by the Castro-Communist regime itself; or as a result of uprisings or internal conflict within Cuba.",
+        "significance": "Reveals US government's strategic planning for potential interventions or responses to Cuban government actions"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discusses potential multilateral and bilateral political and economic measures against Cuba",
+        "direct_quote": "Our contingency planning... should include preparations for increased multilateral and/or bilateral political and economic measures, large scale use of Cubans who are now inside Cuba",
+        "significance": "Indicates broader geopolitical strategy targeting the Castro regime"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 79,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of potential U.S. military actions against Cuba, including involvement of free Cubans and Latin American nations",
+        "direct_quote": "U.S. military forces employed against Cuba should be accompanied by U.S. militarily-trained free Cubans and by the armed forces of those Latin American nations desirous of participating in the U.S. effort.",
+        "significance": "Reveals potential covert operational plans involving Cuban exiles and other Latin American countries in potential military actions against Cuba"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "Draft 23 Jan 63",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "US_POLICY_CUBA",
+        "confidence": 9,
+        "description": "Secret memorandum outlining US policy towards Cuba in early 1963",
+        "direct_quote": "We will not, of course, abandon the political, economic and other efforts of this hemisphere to halt subversion from Cuba, nor our purpose and hope that the Cuban people shall some day be truly free.",
+        "significance": "Provides insight into US government's strategic approach to Cuba during Cold War tension period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "U.S. strategic objectives regarding Cuba and Soviet influence",
+        "direct_quote": "Removal of remaining Soviet forces from Cuba",
+        "significance": "Reveals Cold War tensions and U.S. strategic goals to minimize Soviet presence in the Western Hemisphere"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Comprehensive U.S. policy objectives for destabilizing Cuban government",
+        "direct_quote": "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states",
+        "significance": "Outlines covert operational goals to undermine Castro's government and Soviet influence"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "CIA_COVERT_OPERATIONS",
+        "confidence": 8,
+        "description": "Detailed plans for covert activities targeting Cuba, including intelligence collection, recruitment, and propaganda infiltration",
+        "direct_quote": "In addition to current covert program, such as intelligence collection, recruitment of Cuban officials as agents, radio broadcasts, support of Cuban Revolutionary Council (CRC) and other exile group activities and infiltration of propaganda materials",
+        "significance": "Reveals extensive CIA covert operations against Cuba, potentially relevant to broader Cold War context and assassination investigations"
+      },
+      {
+        "category": "CUBAN_EXILE_OPERATIONS",
+        "confidence": 7,
+        "description": "Strategic support for Cuban exiles aimed at overthrowing Castro regime",
+        "direct_quote": "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 of July Movement and who believe that the Castro regime can be overthrown from within",
+        "significance": "Demonstrates active CIA efforts to destabilize Cuban government through exile groups, highlighting complex geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Document details covert operations against Cuba, including propaganda balloon launches",
+        "direct_quote": "Assist Cuban exiles in developing a capability to launch balloons carrying leaflets and other propaganda materials from international waters into Cuba.",
+        "significance": "Reveals CIA-backed propaganda efforts against Castro regime, indicating active efforts to undermine Cuban government"
+      },
+      {
+        "category": "DIPLOMATIC_NEGOTIATIONS",
+        "confidence": 6,
+        "description": "Negotiation efforts for releasing American prisoners with Fidel Castro",
+        "direct_quote": "Await results of Mr. Donovan's imminent negotiations with Fidel Castro for freeing the 20-odd American prisoners.",
+        "significance": "Highlights diplomatic tensions and prisoner exchange attempts between US and Cuba during Cold War period"
+      },
+      {
+        "category": "INTERNATIONAL_RELATIONS",
+        "confidence": 8,
+        "description": "Planned shipping blockade and international coordination against Cuba",
+        "direct_quote": "Inform NATO and OAS twelve hours in advance of the proclamation of the four point shipping orders.",
+        "significance": "Demonstrates multilateral strategy to isolate Cuba through maritime restrictions, involving NATO and OAS"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "US_CUBA_RELATIONS",
+        "confidence": 8,
+        "description": "Document outlines trade and shipping restrictions against Cuba",
+        "direct_quote": "close United States ports to any ship which has carried goods in the bloc-Cuba trade within 120 days of the time it seeks to enter a United States port;",
+        "significance": "Reveals harsh economic measures targeting Cuba, potentially providing context for political tensions during the Cold War era"
+      },
+      {
+        "category": "TRADE_RESTRICTIONS",
+        "confidence": 9,
+        "description": "Comprehensive shipping and trade prohibition for US flag ships and ships owned by US nationals",
+        "direct_quote": "prohibit all United States flag ships and all ships owned by United States nationals or residents from entering any ports of Cuba and from carrying any goods bound to or from Cuba; and",
+        "significance": "Demonstrates significant economic sanctions designed to isolate Cuba economically"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "198-10004-10076",
+    "page_number": 86,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "",
+    "page_number": 8,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 9,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_POLICY",
+        "confidence": 7,
+        "description": "Secret document detailing US strategy against Cuba, focusing on economic and shipping restrictions",
+        "direct_quote": "to get agreement from Free World Industrial nations to prevent shipping of critical spare parts and equipment to Cuba, not on the COCOM list.",
+        "significance": "Reveals Cold War era diplomatic and economic pressure tactics against Cuba"
+      },
+      {
+        "category": "CONTINGENCY_PLANNING",
+        "confidence": 8,
+        "description": "Detailed contingency planning for potential scenarios involving Cuba",
+        "direct_quote": "Our contingency planning, which will be undertaken immediately, should include preparations for increased multilateral and/or bilateral political and economic measures, large scale use of Cubans who are not inside Cuba; more extensive air activity",
+        "significance": "Demonstrates US government's comprehensive strategic approach to potential Cuban conflicts, including potential covert operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "SECRET-10",
+    "page_number": 10,
+    "relevant_findings": [
+      {
+        "category": "U.S._MILITARY_OPERATIONS",
+        "confidence": 8,
+        "description": "Detailed plan for potential military intervention in Cuba",
+        "direct_quote": "ultimately, the use of U.S. military force. To the extent feasible, U.S. military forces employed against Cuba should be accompanied by U.S. militarily-trained free Cubans and by the armed forces of those Latin American nations desirous of participating in the U.S. effort.",
+        "significance": "Reveals strategic planning for potential military action against Cuba, indicating high-level contingency preparations during Cold War tensions"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Proposed actions against Cuban officials and infrastructure",
+        "direct_quote": "ment of Cuban officials in other countries; severance of communications to Cuba; major acts of sabotage on shipping destined for Cuba and on key installations in Cuba; intensive naval patrols",
+        "significance": "Outlines comprehensive strategy to isolate and undermine Cuban government, suggesting intense geopolitical conflict"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 90,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 91,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Confidential NSC Executive Committee memo about Cuba policy",
+        "direct_quote": "CUBA - Back-up Papers and a Summary of Recommendations of the Coordinator of Cuban Affairs",
+        "significance": "Reveals high-level internal government discussions about Cuba policy during the critical period around the Kennedy assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Multiple policy documents related to Cuba and Cuban Brigade",
+        "direct_quote": "United States Policy Toward the Cuban Brigade",
+        "significance": "Indicates ongoing US strategic planning regarding Cuba, potentially relevant to understanding geopolitical context of assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 92,
+    "relevant_findings": [
+      {
+        "category": "U.S._POLICY_CUBA",
+        "confidence": 9,
+        "description": "Secret National Security Council memorandum outlining U.S. policy objectives regarding Cuba in January 1963",
+        "direct_quote": "Protecting the security of the United States and the other states of the Organization of American States by assuring that offensive weapons are not reintroduced into Cuba",
+        "significance": "Provides insights into Cold War-era U.S. strategic thinking about Cuba and Soviet influence in the Caribbean"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "U.S. objectives focused on reducing Castro regime's capabilities and supporting potential internal opposition",
+        "direct_quote": "Reducing the capabilities of the Castro regime to direct and support subversion and insurrection within the other OAS states",
+        "significance": "Indicates active U.S. efforts to undermine the Cuban government through political and potentially covert means"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "U.S. policy explicitly seeks regime change in Cuba",
+        "direct_quote": "Encouraging and supporting any developments within Cuba that offer the possibility of replacing the Cuban Government with a regime that would break with the Sino-Soviet Bloc",
+        "significance": "Reveals official U.S. government policy of actively seeking to overthrow the Cuban government"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 93,
+    "relevant_findings": [
+      {
+        "category": "US_POLICY_CUBA",
+        "confidence": 8,
+        "description": "Secret document outlining US objectives regarding Cuba and the Castro regime",
+        "direct_quote": "being understood that our ultimate objective is replacement of the regime by one fully compatible with the goals of the United States",
+        "significance": "Reveals official US government strategic goals for regime change in Cuba"
+      },
+      {
+        "category": "FOREIGN_POLICY",
+        "confidence": 7,
+        "description": "Objectives include politically isolating Cuba and maximizing cost to Soviet Union",
+        "direct_quote": "Maximizing the political isolation of the Castro regime from other Free World states, and especially from states of the OAS",
+        "significance": "Shows Cold War geopolitical strategy targeting Cuba's international relationships"
+      },
+      {
+        "category": "MILITARY_CONTINGENCY",
+        "confidence": 6,
+        "description": "Preparation for potential military contingencies against Cuba",
+        "direct_quote": "Being prepared to meet, with the employment of appropriate U.S. combat elements and/or logistical support, the wide variety of military contingencies that may arise",
+        "significance": "Indicates readiness for potential military intervention or operations"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 94,
+    "relevant_findings": [
+      {
+        "category": "CIA_COVERT_OPERATIONS",
+        "confidence": 8,
+        "description": "Secret document detailing covert intelligence and operational plans against Cuba",
+        "direct_quote": "intensified covert collection of intelligence within Cuba, especially within the regime",
+        "significance": "Reveals US government's active plans for intelligence gathering and potential destabilization of Cuba"
+      },
+      {
+        "category": "CUBAN_EXILE_ACTIVITIES",
+        "confidence": 7,
+        "description": "Support for Cuban exiles seeking to restore the 26 of July Movement's original aims",
+        "direct_quote": "support of Cuban exiles who are seeking to return the 26 of July Movement to its original aims",
+        "significance": "Indicates US involvement in Cuban exile political movements and potential opposition to the Castro regime"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 95,
+    "relevant_findings": [
+      {
+        "category": "BRIGADE_OPERATIONS",
+        "confidence": 7,
+        "description": "Recommendation to disband a Brigade military unit and reintegrate members into civilian or U.S. military programs",
+        "direct_quote": "The Brigade should be disbanded as a military unit and individual members urged to accept civilian training or to enlist in the existing U.S. military program for Cubans and join a Brigade reserve unit thereafter.",
+        "significance": "Suggests a strategic restructuring of a Cuban-related military unit, potentially connected to exile community dynamics after a significant event"
+      },
+      {
+        "category": "EXILE_COMMUNITY_DYNAMICS",
+        "confidence": 6,
+        "description": "Concern about creating a privileged class within the exile community",
+        "direct_quote": "Our moral obligation would be discharged to the Brigade members and creation of a privileged class in the exile community would be avoided.",
+        "significance": "Indicates careful consideration of social stratification and potential tensions within Cuban exile groups"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 96,
+    "relevant_findings": [
+      {
+        "category": "US_CUBA_POLICY",
+        "confidence": 9,
+        "description": "Secret memorandum detailing US policy towards Cuba in January 1963",
+        "direct_quote": "As for our part, if all offensive weapons systems are removed from Cuba and kept out of the hemisphere in the future, under adequate verification and safeguards...",
+        "significance": "Provides context for US-Cuba tensions during the period surrounding Oswald's activities"
+      },
+      {
+        "category": "POLITICAL_CONTEXT",
+        "confidence": 8,
+        "description": "US commitment to halt Cuban subversion while avoiding military invasion",
+        "direct_quote": "We will not... abandon the political, economic and other efforts of this hemisphere to halt subversion from Cuba, nor our purpose and hope that the Cuban people shall some day be truly free.",
+        "significance": "Reveals diplomatic stance that could be relevant to understanding geopolitical motivations surrounding the assassination"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 97,
+    "relevant_findings": [
+      {
+        "category": "US_CUBA_POLICY",
+        "confidence": 9,
+        "description": "Detailed US policy objectives regarding Cuba during Cold War period",
+        "direct_quote": "Objectives of United States policy with respect to Cuba are:",
+        "significance": "Provides official government stance on Cuba, revealing geopolitical tensions and strategic goals during the period relevant to Oswald's activities"
+      },
+      {
+        "category": "REGIME_CHANGE",
+        "confidence": 8,
+        "description": "US explicitly states goal of potentially replacing Cuban government",
+        "direct_quote": "Encouraging and supporting any developments within Cuba that offer the possibility of replacing the Cuban Government with a regime that would break with the Sino-Soviet Bloc",
+        "significance": "Demonstrates US government's active intention to destabilize Cuban leadership, potentially creating context for covert operations"
+      },
+      {
+        "category": "FOREIGN_INTERVENTION",
+        "confidence": 7,
+        "description": "Comprehensive objectives for controlling Cuban military and diplomatic actions",
+        "direct_quote": "Preventing Cuba from taking any aggressive military action against other Caribbean states",
+        "significance": "Reveals broader geopolitical strategy of containment and strategic manipulation of Cuban capabilities"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "50955-32276061",
+    "page_number": 98,
+    "relevant_findings": [
+      {
+        "category": "CIA_COVERT_OPERATIONS",
+        "confidence": 8,
+        "description": "Secret document outlining U.S. government objectives against Castro regime",
+        "direct_quote": "Maximizing the cost to the Soviet Union of supporting the Castro regime",
+        "significance": "Reveals active U.S. plans for political and economic pressure against Cuba, potentially providing context for anti-Castro operations"
+      },
+      {
+        "category": "FOREIGN_POLICY",
+        "confidence": 7,
+        "description": "Strategy to isolate Cuba diplomatically",
+        "direct_quote": "Maximizing the political isolation of the Castro regime from other free world states, and especially from states of the OAS",
+        "significance": "Demonstrates systematic U.S. approach to undermining Cuban international relationships"
+      },
+      {
+        "category": "MILITARY_PLANNING",
+        "confidence": 6,
+        "description": "Preparedness for potential military contingencies",
+        "direct_quote": "Being prepared to meet, with the employment of appropriate U.S. combat elements and/or logistical support, the wide variety of military contingencies that may arise",
+        "significance": "Indicates potential readiness for military intervention or covert operations against Cuba"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "NW 50955, Docld:32276061",
+    "page_number": 99,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Secret document outlining covert operations against Cuba",
+        "direct_quote": "In addition to current covert program, such as intelligence collection, recruitment of Cuban officials as agents, radio broadcasts, support of the Cuban Revolutionary Council(CRC) and other exile group activities and infiltration of propaganda materials",
+        "significance": "Reveals detailed CIA plans for destabilizing Castro's regime, potentially relevant to understanding geopolitical context of Kennedy era"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Strategies for supporting Cuban exiles against Castro regime",
+        "direct_quote": "Support the efforts of certain Cuban exiles, who are associated with the original aims of the 26 of July Movement and who believe that the Castro regime can be overthrown",
+        "significance": "Indicates active US intelligence efforts to undermine Cuban government, potentially revealing complex Cold War political landscape"
+      },
+      {
+        "category": "PROPAGANDA_OPERATIONS",
+        "confidence": 9,
+        "description": "Detailed propaganda distribution plan using balloons",
+        "direct_quote": "Assist Cuban exiles in developing a capability to launch balloons carrying leaflets and other propaganda materials from international waters into Cuba",
+        "significance": "Demonstrates sophisticated psychological warfare techniques used by US intelligence agencies during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 100,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses negotiations with Fidel Castro regarding American prisoners",
+        "direct_quote": "Mr. Donovan's imminent negotiations with Fidel Castro for freeing the 20-odd American prisoners",
+        "significance": "Provides context of US-Cuba diplomatic tensions during the Cold War period surrounding the JFK assassination era"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret document detailing potential actions against Cuba",
+        "direct_quote": "Close United States ports to all vessels of a country whose vessels engage in carrying arms to Cuba",
+        "significance": "Reveals potential covert operational planning against Cuba, indicating complex geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 101,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of diplomatic strategy regarding Cuba and Soviet Bloc",
+        "direct_quote": "At the termination of the U. S. Chiefs of Mission Conference... Assistant Secretary Martin... will visit the Presidents of Chile, Mexico and Brazil to convey the importance President Kennedy attaches to maintaining hemispheric solidarity",
+        "significance": "Reveals diplomatic efforts to build regional consensus against Cuba and Soviet influence during Cold War tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Proposed OAS resolutions targeting Cuba",
+        "direct_quote": "An OAS resolution condemning Cuba for its actions which continue to endanger the peace, deploying refusal to allow inspection, condemning the presence of Soviet troops",
+        "significance": "Demonstrates high-level strategic planning to isolate Cuba diplomatically and militarily"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 102,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses OAS (Organization of American States) actions regarding Cuba",
+        "direct_quote": "prohibition of ships of OAS member states from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade",
+        "significance": "Provides context of international diplomatic tensions and potential Cold War strategies surrounding Cuba during the early 1960s"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Detailed diplomatic strategy for coordinating actions against Cuba",
+        "direct_quote": "After obtaining the maximum possible support of the key countries of Mexico, Chile and Brazil, the other OAS members will be approached in Washington and in their respective capitals",
+        "significance": "Illustrates inter-agency and international coordination of diplomatic efforts"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 103,
+    "relevant_findings": [
+      {
+        "category": "CUBA_OPERATIONS",
+        "confidence": 8,
+        "description": "Detailed contingency planning for operations against Cuba and Castro regime",
+        "direct_quote": "New opportunities for accomplishing our objectives may arise either as a result of Bloc action in other parts of the world; as a result of aggressive moves (or isolated hostile actions) by the Castro-Communist regime itself; or as a result of uprisings or internal conflict within Cuba.",
+        "significance": "Reveals extensive US government planning for potential interventions in Cuba, indicating complex geopolitical tensions during the Cold War era"
+      },
+      {
+        "category": "MILITARY_PREPARATIONS",
+        "confidence": 7,
+        "description": "Proposed military and intelligence actions against Cuba",
+        "direct_quote": "Contingency planning... should include preparations for increased multilateral and/or bilateral political and economic measures, large scale use of Cubans who are now inside Cuba; more extensive air activity including both high and low level flights primarily directed toward surveillance",
+        "significance": "Outlines specific proposed strategies for potential military intervention, including surveillance, intelligence gathering, and potential use of Cuban assets"
+      },
+      {
+        "category": "LATIN_AMERICAN_INVOLVEMENT",
+        "confidence": 6,
+        "description": "Proposal to involve Latin American forces in potential Cuba operations",
+        "direct_quote": "U.S. military forces should be accompanied by U.S. militarily-trained free Cubans and by the armed forces of those Latin American nations desiring of participating in the U.S. effort.",
+        "significance": "Demonstrates plans for multinational military approach to potential Cuban conflict"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 104,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses U.S. policy towards Cuba in the Organization of American States (OAS)",
+        "direct_quote": "With the conclusion of the U.S.-Soviet talks in New York, the Cuban problem reverts to the OAS context.",
+        "significance": "Provides context of Cold War tensions and diplomatic maneuvering around Cuba at the time of the JFK assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed diplomatic efforts to isolate Cuba through OAS resolutions",
+        "direct_quote": "Acting in this capacity, the COAS/OC on October 23 unanimously passed a resolution calling for the withdrawal of all offensive weapons from Cuba",
+        "significance": "Demonstrates active diplomatic and political efforts to contain Cuban influence during the Cold War period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 105,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 106,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955 DocId:32276061",
+    "page_number": 107,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "322796061",
+    "page_number": 108,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 109,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Discussion of Castro and Cuban subversive activities in the hemisphere",
+        "direct_quote": "The primary threat of Castro is his subversive activities in the hemisphere. Should the level of Castro-directed subversive activities in the Hemisphere increase appreciably, this would become a more feasible and desirable course.",
+        "significance": "Provides context for US government's perspective on Cuba and potential motivations for covert actions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Consideration of invoking Rio Treaty against Castro regime",
+        "direct_quote": "If we desire to institute more vigorous collective sanctions vs. the Castro regime for its subversive activities, it would be necessary to invoke the Rio Treaty",
+        "significance": "Indicates US government's strategic discussions about diplomatic actions against Cuba"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 110,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 111,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing potential actions against Cuba and Soviet activities",
+        "direct_quote": "prohibition of AR ships from transporting embargoed items and deny use of ports to ships in Bloc-Cuba trade",
+        "significance": "Provides context of Cold War tensions and potential covert operations during the period surrounding the JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Diplomatic strategy regarding Soviet and Cuban relations",
+        "direct_quote": "denial of overflights and transit rights to Soviet aircraft on Bloc-Cuba runs",
+        "significance": "Illustrates geopolitical tensions that could provide background to potential assassination motivations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 112,
+    "relevant_findings": [
+      {
+        "category": "CUBAN_OPERATIONS",
+        "confidence": 7,
+        "description": "Secret memorandum about Cuban Brigade from Bay of Pigs invasion",
+        "direct_quote": "Approximately 1500 Cubans participated in the Bay of Pigs invasion (known as Brigade 2506), the great majority of whom were captured. In December 1962 over 1100 were released.",
+        "significance": "Provides context for anti-Castro Cuban operations and potential connections to assassination-related networks"
+      },
+      {
+        "category": "US_FOREIGN_POLICY",
+        "confidence": 6,
+        "description": "Discussion of future policy towards Cuban Brigade and trained Cuban militants",
+        "direct_quote": "A decision on the future of the Cuban Brigade and other Cubans trained militarily by the U.S. must logically proceed from whatever over all policy the U.S. adopts toward Cuba.",
+        "significance": "Reveals US strategic thinking about Cuban exile groups and potential covert operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 113,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban resistance and potential refugee impacts",
+        "direct_quote": "politico-psychological value as a symbol of Cuban resistance to Castro/Communism may more than compensate for its limited military utility.",
+        "significance": "Provides context about U.S. perspectives on Cuban refugee groups and potential covert operations during Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Detailed plan for potential disbanding of a Cuban Brigade with comprehensive refugee support",
+        "direct_quote": "Induce the Brigade to disband as a military unit, with no further U.S. special assistance.",
+        "significance": "Reveals complex U.S. government strategic planning for managing Cuban exile groups, including extensive social support mechanisms"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 114,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "DOD program for Cuban military refugees and potential invasion preparation",
+        "direct_quote": "Individual Cubans could continue to be accepted for service in the U. S. Armed Forces and their language, skill and country knowledge could be distributed through various U. S. units which might be used in an invasion.",
+        "significance": "Suggests potential strategic planning involving Cuban refugees for potential military operations, which could relate to background context of Cold War tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "DOD program for integrating Cuban military personnel into US military",
+        "direct_quote": "DOD has a program providing for enlistment in the U. S. Army of those Cuban nationals between the ages of 18 and 30 who pass entrance requirements.",
+        "significance": "Indicates US government's strategic approach to utilizing Cuban military personnel, potentially for intelligence or operational purposes"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 115,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret document discussing potential training of Cuban Brigade as a U.S. military reserve component",
+        "direct_quote": "Train the Brigade and Cubans in training as a unit. Maintain and support them as a military reserve component of the U.S. Armed Forces.",
+        "significance": "Reveals covert planning for Cuban exile military operations against Castro regime, potentially connected to broader CIA anti-Communist strategies"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document outlines U.S. strategic objectives regarding Cuba",
+        "direct_quote": "to unseat the Castro regime, and would lend weight to arguments that the U.S. may be leaning toward coexistence with the Castro regime.",
+        "significance": "Demonstrates complex U.S. political maneuvering regarding Cuba during Cold War era"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 116,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 117,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Oswald on this page",
+        "direct_quote": "",
+        "significance": "Page appears to be about a Cuban Brigade military training program, unrelated to Oswald"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "32276061",
+    "page_number": 118,
+    "relevant_findings": [
+      {
+        "category": "BRIGADE_OPERATIONS",
+        "confidence": 6,
+        "description": "Discussion of Brigade members in exile and potential reintegration strategy",
+        "direct_quote": "Our programs should be designed to encourage the Brigade members to melt back into the exile community and engage in constructive pursuits pending the liberation of Cuba.",
+        "significance": "Reveals strategic thinking about Cuban exile groups, potentially related to anti-Castro operations that could intersect with Oswald's activities"
+      },
+      {
+        "category": "PRESIDENTIAL_INVOLVEMENT",
+        "confidence": 5,
+        "description": "Reference to potential presidential action regarding Brigade members",
+        "direct_quote": "Presidential action on their behalf would single them out unnecessarily.",
+        "significance": "Suggests careful management of exile group communications and potential sensitivity around government involvement"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, DocId:32276061",
+    "page_number": 119,
+    "relevant_findings": [
+      {
+        "category": "CUBA_RELATIONS",
+        "confidence": 8,
+        "description": "Secret National Security Council memorandum on current problems concerning Cuba",
+        "direct_quote": "Current Problems Concerning Cuba",
+        "significance": "Provides insight into US-Cuba tensions and covert operations in early 1963"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Multiple topics related to Cuban missile crisis aftermath and US policy",
+        "direct_quote": "1. Verification of withdrawal of missiles. 2. Removal of Soviet troops from Cuba.",
+        "significance": "Reveals ongoing diplomatic and strategic concerns about Soviet military presence in Cuba"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of intelligence and surveillance activities against Cuba",
+        "direct_quote": "6. Policy on low-level aerial surveillance as a political weapon against the Castro regime.",
+        "significance": "Indicates active US intelligence operations targeting Cuba"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 120,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "CS DB-3/652,924",
+    "page_number": 121,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Analysis of Cuban-Soviet relations from Italian Embassy report",
+        "direct_quote": "The possibility that there will soon be a loosening of the political and economic ties with the USSR appears to me to be nil at this time.",
+        "significance": "Provides context for geopolitical tensions during the time of the JFK assassination, highlighting Cuba's close relationship with Soviet Union"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Insights into Cuba's international diplomatic stance",
+        "direct_quote": "The Chinese Ambassador to Habana will have done everything possible to convince Castro to resist (and in fact the latter held firm on the question of inspection).",
+        "significance": "Demonstrates complex international dynamics involving Cuba, USSR, and China during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "CSDB-3/652,924",
+    "page_number": 122,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of Castro's relations with USSR and potential political changes",
+        "direct_quote": "In substance Castro, even if he cannot exactly be defined as pro-Khrushchev, is tied to the USSR in such a way that he cannot for any reason release himself.",
+        "significance": "Provides context for Cuban-Soviet relations during the time of the JFK assassination, potentially revealing geopolitical tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Diplomatic analysis of Castro's regime and potential political instability",
+        "direct_quote": "It is difficult for Castro to remain calm. Therefore the revolutionary regime will continue with all means at its disposition to disseminate subversive propaganda.",
+        "significance": "Indicates US diplomatic efforts to understand and potentially destabilize Castro's government"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "CSDB-3/652,924",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Analysis of Cuban situation and potential revolutionary dynamics",
+        "direct_quote": "In conclusion, in judging the Cuban situation it is necessary first to keep in mind the personality and temperament of Fidel Castro, the influence which he has on a part of the population, and finally his deep-rooted hate of the United States.",
+        "significance": "Provides insight into geopolitical tensions and potential motivations related to Cuban-US relations during the early 1960s"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of potential strategic approaches to Cuban regime",
+        "direct_quote": "A partial solution would worsen the situation and a definitive solution could be directed only by Washington. I think therefore that only pressure which is accompanied by material strength can obtain results in Cuba.",
+        "significance": "Reveals US government strategic thinking about potential interventions or pressures on Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "CSDB-3/652,924",
+    "page_number": 124,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of Cuban-Soviet relations and potential geopolitical implications",
+        "direct_quote": "...when Castro will tried for the solution of the problem - one can hope for a perhaps not too distant day... the USSR is obliged to feed Castro to permit his survival...",
+        "significance": "Suggests complex diplomatic tensions between Cuba, USSR, and United States in the context of Cold War geopolitics"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

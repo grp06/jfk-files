@@ -1,0 +1,124 @@
+[
+  {
+    "document_id": "104-10234-10102",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret dispatch discussing operational memo about AMTRUNK-9 and AMICE-14 intelligence assets",
+        "direct_quote": "TRANSMITTAL DE COPY OF MEMO REGARDING AMTRUNK-9 INFIL WHICH ACTION RECORD PASSED TO ACS 19 JANUARY 1965",
+        "significance": "Indicates ongoing CIA intelligence operations and tracking of specific assets around the time of the JFK assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but suggests complex intelligence network",
+        "direct_quote": "BOTH THE WIFE OF AMTRUNK-9 AND AMICE-14 HAVE IDENTIFIED 'JORGE' AND 'TORRES'",
+        "significance": "Hints at potential covert operational networks and personnel tracking"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "ATL TO WGCA-19569 PG 1",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct Oswald connection found in this document",
+        "direct_quote": "",
+        "significance": "This document appears to be about a Cuban infiltration operation unrelated to Oswald"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "ATT TO UFGA-19569 PG 2",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Orozco discussing husband's travel plans and financial arrangements",
+        "direct_quote": "CAS SOURCE ASKED MRS. OROZCO INTO WHAT AREA DID HER HUSBAND INTEND TO INFILTRATE CUBA",
+        "significance": "Suggests potential covert travel and financial support for activities in Cuba"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "References to interactions with Cuba and potential infiltration activities",
+        "direct_quote": "PLANNED TO GO INTO NORTHEASTERN MATANZAS PROVINCE TO THE MARTI AREA",
+        "significance": "Indicates potential clandestine operations or connections in Cuba"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Intelligence gathering about individual's planned activities",
+        "direct_quote": "CAS SOURCE ASKED MRS. OROZCO HOW MUCH MONEY OROZCO HAD LEFT BEHIND FOR HER SUPPORT",
+        "significance": "Suggests intelligence agency monitoring of individual's movements and financial situation"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NOFGA-19566",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "ATT TO URGA-19569",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UFGA-19569 ATT",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "References to a person named 'JORGE' who appears to work for or be connected to the Pentagon and intelligence activities",
+        "direct_quote": "SUB-SOURCE THAT BOTH CRIZCNCO AND ''JORGE'' WORK FOR THE PENTAGON AND ALSO MENTION CRIZCNCO'S VISITS ON 8 AND 11 JANUARY",
+        "significance": "Suggests potential intelligence community connections and covert activities involving multiple actors"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discusses activities and interactions involving Cuba and Mexican government connections",
+        "direct_quote": "MRS. OROZCO TOLD THIS SUB-SOURCE THAT SHE WAS GOING TO PUT PRESSURE UPON THEIR RESPECTIVE PENTAGON/GRIZONDO AND ''JORGE''",
+        "significance": "Indicates complex diplomatic and potential intelligence interactions involving Cuba and potentially the United States"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "AIT TO UFGA-15569 PG 6",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mentions of Oswald in this document",
+        "direct_quote": "",
+        "significance": "This page appears to be about a person named Orozco and unrelated boat/financial activities"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "ATT A TO UFGA-19569 PG 6",
+    "page_number": 6,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "ATT B TO UFGA-19569 PG 7",
+    "page_number": 7,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

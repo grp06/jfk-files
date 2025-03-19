@@ -1,0 +1,35 @@
+JFK ANALYSIS SUMMARY: 104-10066-10010
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 2: Relevance 6/10
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+WITNESS TESTIMONIES:
+----------------------------------------
+Page 2 (Confidence: 6/10)
+  Guidance on handling witness and police interviews
+  QUOTE: "BELIEVE COMMITTEE'S EFFORTS TO INTERVIEW POLICE AND WITNESSES... IS LARGELY OVERT FUNCTION WHICH CAN BEST BE HANDLED BY LEGATS OR OTHERS"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  U.S. House Select Committee investigating Kennedy and King assassinations seeking leads in Portugal, UK, and Mexico related to James Earl Ray
+  QUOTE: "INTEND TO PURSUE LEADS IN PORTUGAL, UK AND MEXICO RELATING TO JAMES EARL RAY, CURRENTLY SERVING TIME FOR KING, MURDER."
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Secret-level communication discussing cooperation with Blakey and committee investigation
+  QUOTE: "STATIONS ARE SOLICITED FOR ADVICE OR ASSISTANCE. RTACTION IS COOPERATING FULLY WITH BLAKEY AND COMMITTEE INCLUDING ALLOWING THEM ACCESS TO DIRECTORATE RECORDS"
+
+Page 1 (Confidence: 6/10)
+  Committee seeking to establish diplomatic relationships to aid investigation
+  QUOTE: "MR. G. ROBERT BLAKEY, CHIEF COUNSEL AND STAFF DIRECTOR OF COMMITTEE SAYS SELECT COMMITTEE TOLD STATE THAT HE WANTS TO ESTABLISH 'CORDIAL RELATIONSHIP' WITH APPROPRIATE PORTUGUESE NATIONAL POLICE"
+

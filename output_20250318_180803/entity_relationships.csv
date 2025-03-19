@@ -1,0 +1,5 @@
+Source Entity,Relationship,Target Entity,Document,Page,Category,Confidence,Description
+Lee Harvey Oswald,traveled to,CIA,104-10332-10023,5,OSWALD_ASSOCIATIONS,8,CIA and State Department tracking Oswald since 1959 when he traveled to Russia
+CIA,traveled to,Lee Harvey Oswald,104-10332-10023,5,OSWALD_ASSOCIATIONS,8,CIA and State Department tracking Oswald since 1959 when he traveled to Russia
+CIA,connected to,Cuba,104-10176-10006,2,CIA_FBI_ACTIVITIES,7,"Secret document discussing revolutionary movement strategy, potentially related to Cuban operations"
+Cuba,connected to,CIA,104-10176-10006,2,CIA_FBI_ACTIVITIES,7,"Secret document discussing revolutionary movement strategy, potentially related to Cuban operations"

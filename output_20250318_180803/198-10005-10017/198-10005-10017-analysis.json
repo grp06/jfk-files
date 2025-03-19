@@ -1,0 +1,149 @@
+[
+  {
+    "document_id": "198-10005-10017",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA document related to Cuba Project and anti-Castro Cuban resistance groups",
+        "direct_quote": "CUBA PROJECT PROGRESS REPORT",
+        "significance": "Indicates CIA involvement in covert operations against Castro's regime during the early 1960s, potentially relevant to broader Cold War context of Kennedy assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Mentions anti-Castro Cubans MRR Group",
+        "direct_quote": "SUBJECTS: ANTI-CASTRO CUBANS MRR GROUP",
+        "significance": "Potential connection to exile groups potentially involved in assassination plotting"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OPERATIONAL_INTELLIGENCE",
+        "confidence": 7,
+        "description": "Secret draft report on Cuban resistance movement organizations",
+        "direct_quote": "An internal leader of the Movimiento Recuperacion Revolucionario (MRR) who was infiltrated into Cuba on 29 December 1961, and exfiltrated on 29 March 1962",
+        "significance": "Provides insight into underground resistance groups in Cuba during early 1960s, potentially relevant to understanding geopolitical context of the era"
+      },
+      {
+        "category": "REVOLUTIONARY_GROUPS",
+        "confidence": 8,
+        "description": "Identified five key clandestine resistance organizations in Cuba",
+        "direct_quote": "Considers only five clandestine resistance organizations in Cuba of national importance: The Directorio Revolucionario Estudiantil (DRE), Movimiento Democratico Cristiano (MDC), Movimiento Revolucionario del Pueblo (MRP), Movimiento Recuperacion Revolucionario (MRR), and the 30th of November",
+        "significance": "Detailed mapping of anti-Castro resistance groups, potentially relevant to understanding political opposition networks"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Intelligence cooperation with multiple countries on Cuban operations",
+        "direct_quote": "The Chief of the Danish Intelligence Service has agreed to cooperate with us on Cuban intelligence operations.",
+        "significance": "Demonstrates international intelligence gathering related to Cuba during Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Diplomatic intelligence recruitment and training",
+        "direct_quote": "A unilaterally recruited senior officer of the diplomatic service of a neutralist African country has been briefed and given training in secret writing and communications to assist him in reporting on our objectives in Cuba.",
+        "significance": "Shows covert recruitment and training of international diplomatic sources for intelligence gathering"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "SECRET_CIA_DOCUMENT",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "CIA document about Cuban refugees and intelligence gathering",
+        "direct_quote": "We received valuable data on Cuban trade from the debriefing of a former official of the Ministry of Commerce who defected in Canada",
+        "significance": "Provides insight into CIA intelligence collection methods regarding Cuba during the Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "CIA attempting to recruit defected Cuban official",
+        "direct_quote": "We contacted him and attempted unsuccessfully to induce him to return to Cuba as our agent",
+        "significance": "Demonstrates CIA efforts to place agents or gather intelligence within Cuban government circles"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban refugee intelligence and communist infiltration",
+        "direct_quote": "Cuban refugees through Miami, processed 263 preliminary interrogation",
+        "significance": "Provides context about Cuban intelligence and refugee monitoring during Cold War period"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed intelligence gathering about communist informants in Cuban towns",
+        "direct_quote": "Numerous reports confirm that all towns have been partitioned into 'blocks' infiltrated by communist informants under the direction of block chiefs of the 'Comite de Defensa'",
+        "significance": "Reveals sophisticated surveillance and infiltration strategies by intelligence agencies"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Soviet military equipment in Cuba",
+        "direct_quote": "Soviet military equipment has been reported in increasingly larger quantities and wider disbursement.",
+        "significance": "Provides context of Soviet military presence in Cuba during Cold War period, relevant to geopolitical tensions surrounding JFK assassination"
+      },
+      {
+        "category": "RESISTANCE_GROUPS",
+        "confidence": 6,
+        "description": "Existence of Cuban resistance organizations detailed",
+        "direct_quote": "Refugees described the existence of three resistance organizations, allegedly widespread in membership but limited in action.",
+        "significance": "Indicates active anti-Castro resistance groups operating during this period, potentially relevant to assassination context"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Description of revolutionary organizations in a country, potentially related to Cold War context",
+        "direct_quote": "now be gun to develop a following. The second organization, the Movimiento Democratico Cristiano (MDC), is described as oriented along traditional Christian democratic lines.",
+        "significance": "Provides insight into political movements and potential international context during the era of Cold War political tensions"
+      },
+      {
+        "category": "ORGANIZED_REVOLUTIONARY_GROUPS",
+        "confidence": 6,
+        "description": "Details about three revolutionary/resistance organizations",
+        "direct_quote": "A third organization, the Unidad Revolucionario (UR), is reported to be carrying out the sabotage of sugar fields by burning, using a small incendiary device made of gelatin, match heads, potassium permanganate tablets, and glycerine.",
+        "significance": "Demonstrates underground resistance activities and revolutionary tactics during a period of political upheaval"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

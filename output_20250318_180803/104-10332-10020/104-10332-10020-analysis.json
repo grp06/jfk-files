@@ -1,0 +1,276 @@
+[
+  {
+    "document_id": "104-10332-10020",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Memo discusses release of information about Mexico City Station operations and potential sensitivity around intelligence methods",
+        "direct_quote": "addressing the issue of the Mexico City Station and its operation in light of any deletions made by the Agency to protect sources and methods",
+        "significance": "Indicates ongoing concerns about protecting intelligence operations related to the JFK assassination investigation"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Reference to continuing to protect information identifying coverage of other countries and individuals other than Lee Harvey Oswald",
+        "direct_quote": "We would want to continue protection of the information which identifies coverage of other countries and individuals other than Lee Harvey Oswald",
+        "significance": "Suggests existence of additional intelligence information about Oswald's international connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 8,
+        "description": "Memo mentions operational teltaps against Soviet and Cuban Embassies",
+        "direct_quote": "We are willing to release information which indicates the existence of operational telaps against the Soviet and Cuban Embassies",
+        "significance": "Reveals active intelligence gathering against Soviet and Cuban diplomatic missions during the period of Oswald's activities"
+      }
+    ],
+    "overall_page_relevance": 8
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses protection of cryptonyms related to joint intelligence operations, suggesting sensitivity around operational details",
+        "direct_quote": "We need to continue the protection of the cryptonym LIENVOY.",
+        "significance": "Indicates ongoing operational secrecy around intelligence activities potentially related to the JFK assassination investigation"
+      },
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 6,
+        "description": "Suggests careful approach to revealing names of retired employees involved in specific operations",
+        "direct_quote": "Regarding the revelation of names of employees who retired under cover, we request the Board to table its final determination until the individuals have been contacted and informed that their name is being considered for release.",
+        "significance": "Implies potential sensitivity around identifying personnel who might have relevant information"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Document mentions Oswald in context of 'private line taps'",
+        "direct_quote": "the paragraph deal with Oswald, voted to release. Mary said is was hard to defend the individual released since she did not have any information on the person.",
+        "significance": "Suggests ongoing discussions about Oswald-related documents and potential sensitive information"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussions about document release related to Oswald and other sensitive materials",
+        "direct_quote": "We pointed out that the this release impacted on other documents which dealt with private line taps plus the Board had not limited its release to the paragraph that mentioned Oswald but released the name in other calls which had nothing to do with Oswald.",
+        "significance": "Indicates careful management of document release regarding Oswald-related information"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Discussion of Oswald's presence at stations and potential intelligence connections",
+        "direct_quote": "Ellie said there was the possibility of opening windows of stations when Oswald was present",
+        "significance": "Suggests potential surveillance or operational context involving Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Internal agency discussion about Mexico City window and Oswald",
+        "direct_quote": "She indicated that the DO would oppose expanding the Mexico City window into the 70s",
+        "significance": "Reveals internal agency deliberations about information management related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document mentions Oswald in context of station windows and Agency/Directorate decision-making",
+        "direct_quote": "when Oswald was present, however, this was a key issue for the Agency and a senior Directorate/Agency decision.",
+        "significance": "Suggests Oswald had some connection to intelligence agency operations and discussions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Reference to Mexico City station window and historical documents",
+        "direct_quote": "There are documents from the 50s, references in summaries to the founding of the station and, most important, the visit by the HSCA to Mexico City.",
+        "significance": "Indicates ongoing interest in and documentation of intelligence activities related to Mexico City station"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA document discussing appeal of JFK Assassination Records Review Board's rulings about CIA station locations",
+        "direct_quote": "The JFK Assassination Records Review Board (Board) recently released JFK documents revealing the existence of CIA stations in Helsinki, Bern, Geneva, and The Hague, a joint tel-tap operation with Mexican liaison, and the identity of a unilateral penetration of a liaison service.",
+        "significance": "Indicates CIA's concern about revealing historical intelligence station locations and operational details, suggesting potential sensitivity around Cold War-era intelligence activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "CIA anticipating potential diplomatic complications from document releases",
+        "direct_quote": "It is the CIA's assessment that such releases could seriously damage intelligence operations as well as adversely affect the foreign relations of the United States.",
+        "significance": "Suggests potential international diplomatic tensions from declassifying intelligence information"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "CIA document discussing appeal of unfavorable determination by JFK Assassination Records Review Board",
+        "direct_quote": "We have a critically short deadline in which to address issues concerning the release of (Helsinki, Bern, Geneva, and The Hague) stations",
+        "significance": "Indicates ongoing sensitivity around JFK assassination document releases, suggesting potential withholding of information"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to multiple international station locations potentially involved in information review",
+        "direct_quote": "the identity of the asset, and (Mexican liaison)",
+        "significance": "Suggests potential international dimensions to assassination-related information"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Internal memo discussing CIA's position and negotiations about JFK assassination investigation",
+        "direct_quote": "Bob Caudle and I discussed what happened at the JFK meeting and the following is our impression of what resulted.",
+        "significance": "Reveals internal communication about managing information and narrative around the JFK investigation"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Mention of Oswald file and time periods of interest",
+        "direct_quote": "He had no problem with the Staff's period and opening it up to dates in the Oswald file.",
+        "significance": "Indicates ongoing discussions and potential investigations related to Oswald's timeline"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 8,
+        "description": "Detailed internal memo about sensitive information management",
+        "direct_quote": "CIA wants to present more information. Edge was not under the impression that this station was to be discussed today",
+        "significance": "Shows careful management of information release and strategic communication between agencies"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Secret memo discussing JFK Board of Tokyo Station release and diplomatic coordination",
+        "direct_quote": "I just spoke with EA legal and informed her about the latest release by the JFK Board of Tokyo Station and the fact that we have a letter from the Ambassador objecting to the release.",
+        "significance": "Indicates ongoing discussions and potential sensitivity around JFK assassination document releases"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses sensitive CIA station release considerations for JFK assassination records",
+        "direct_quote": "I am opposed in general to revealing the locations of our stations and would prefer instead to substitute the station name with a regional designation, e.g. European Station vice Brussels.",
+        "significance": "Indicates CIA's sensitivity about exposing specific station locations, suggesting potential operational security concerns related to assassination investigation"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Specific concerns about releasing information related to Congo and Senegal stations",
+        "direct_quote": "The Congo is now Zaire and the station in the 60's would have been in Leopoldville, now Kinshansa where we are currently located. Our current relationship with the Zaireans is not a full-blown liaison type, but more of a limited relationship with certain individuals from the services.",
+        "significance": "Reveals nuanced diplomatic and intelligence relationships in African countries during the 1960s era"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Sensitive document discussing potential risks of releasing JFK documents",
+        "direct_quote": "Our Eastern European stations pose a unique problem when we consider public exposure. Prague Station is recovering from operating for almost fifty years in an undeclared status.",
+        "significance": "Reveals concerns about exposing covert intelligence operations during Cold War era, suggesting potential sensitivity around JFK assassination documents"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Acknowledgment of long-standing covert operations and potential public backlash",
+        "direct_quote": "The Czech contingency was thoroughly ingrained. That distrust lingers in the public's mind even today.",
+        "significance": "Indicates deep-rooted intelligence community concerns about public perception and potential exposure of historical covert activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 5,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

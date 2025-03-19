@@ -1,0 +1,909 @@
+JFK ANALYSIS SUMMARY: 104-10332-10023
+================================================================================
+
+Document contains 123 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 2: Relevance 9/10
+- Page 1: Relevance 9/10
+- Page 1: Relevance 9/10
+- Page 1: Relevance 9/10
+- Page 1: Relevance 9/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 3 (Confidence: 8/10)
+  Specific Oswald-related document collection (201 file) maintained by CIA Directorate of Operations
+  QUOTE: "Directorate of Operations maintained on Lee Harvey Oswald (the 201 file) as well as similar files on additional individuals."
+
+Page 3 (Confidence: 8/10)
+  Multiple investigative contexts related to Oswald's activities and potential connections
+  QUOTE: "Moscow Station, Mexico City Station, and JMWAVE Station, as they related to Oswald's activities or possible conspiracies"
+
+Page 2 (Confidence: 8/10)
+  Specific search directive for Oswald-related files and references
+  QUOTE: "Debriefings of defectors in which ANY reference to Oswald occurs"
+
+Page 3 (Confidence: 8/10)
+  Detailed file on Lee Harvey Oswald established circa 1960, containing press clippings and reports from government agencies about his defection
+  QUOTE: "The subject file pertaining to Lee Harvey Oswald (W035l164) was established circa 1960. It appears this file was created as a separate repository for the numerous press clippings and reports received from other government agencies on the defection of Lee Harvey Oswald to the USSR and his activities following his return to the United States."
+
+Page 5 (Confidence: 8/10)
+  CIA and State Department tracking Oswald since 1959 when he traveled to Russia
+  QUOTE: "OS holdings on Lee Harvey Oswald began in 1959 with his travel to Russia during which he renounced his US citizenship. Oswald was in contact with the American Embassy in Moscow, and the Department of State prepared reports on these contacts."
+
+Page 1 (Confidence: 8/10)
+  Multiple potential Oswald connections listed in 'Key Figures' section
+  QUOTE: "-- David Phillips, CIA employee; -- Michael and Ruth Paine, Dallas; -- friends of Oswalds"
+
+Page 1 (Confidence: 8/10)
+  Memo discusses 'Rumours About Lee Harvey Oswald' and his presumed assassination connections
+  QUOTE: "Memo entitled: 'Rumours About Lee Harvey Oswald, which discusses the rumor-mongering in the world public regarding the presumed assassin'"
+
+Page 5 (Confidence: 8/10)
+  Detailed file tracking Oswald's activities related to his return from USSR to the United States
+  QUOTE: "The subject file pertaining to Lee Harvey Oswald (HQ18L164) was established circa 1960. It appears this file was created as a separate repository for the numerous press clippings and reports received from other government agencies on the defection of Lee Harvey Oswald to the USSR and his activities following his return to the United States."
+
+Page 7 (Confidence: 8/10)
+  Early Oswald travel and potential intelligence connections
+  QUOTE: "OS holdings on Lee Harvey Oswald began in 1959 with his travel to Russia during which he renounced his US citizenship"
+
+Page 5 (Confidence: 8/10)
+  Detailed file tracking Oswald's defection and return to the United States
+  QUOTE: "The subject file pertaining to Lee Harvey Oswald (H0351164) was established circa 1960. It appears this file was created as a separate repository for the numerous press clippings and reports received from other government agencies on the defection of Lee Harvey Oswald to the USSR and his activities following his return to the United States."
+
+Page 7 (Confidence: 8/10)
+  Oswald's interactions with US intelligence agencies before assassination
+  QUOTE: "OS holdings on Lee Harvey Oswald began in 1955 with his travel to Russia during which he renounced his US citizenship. Oswald was in contact with the American Embassy in Moscow, and the Department of State prepared reports on these contacts."
+
+Page 1 (Confidence: 8/10)
+  Oswald identified as having CIA connections and being the subject of a 'burn notice'
+  QUOTE: "Oswald LeWinter is a naturalized US citizen and a man of at least four other names... Lewinter was the subject of an Agency 'burn notice' in 1990; a burn notice alerts the intelligence community."
+
+Page 15 (Confidence: 8/10)
+  CIA confirms existence of Oswald file related to HTLINGUAL operation
+  QUOTE: "Given that Oswald was a subject of the HTLINGUAL operation, it is reasonable to believe that there was a file on him."
+
+Page 2 (Confidence: 7/10)
+  Reference to Oswald's Mexico City visit
+  QUOTE: "materials from CIA's Mexico City Station, which were considered relevant because of a visit to Mexico City by Lee Harvey Oswald shortly before the assassination"
+
+Page 1 (Confidence: 7/10)
+  CIA maintained a pre-assassination subject file on Oswald containing newspaper articles and reports from other government agencies
+  QUOTE: "The Office of Security (OS) maintained a pre-assassination subject file on Oswald."
+
+Page 4 (Confidence: 7/10)
+  Oswald files from Mexico City and potential CIA interest
+  QUOTE: "files from Mexico City Station are listed in the sequestered collection and the Oswald 201 file materials"
+
+Page 5 (Confidence: 7/10)
+  Document was part of the Lee Harvey Oswald file
+  QUOTE: "A search for information on this document revealed that the document had been created in 1977 and was described as 'allegations regarding the Lee Harvey Oswald file.'"
+
+Page 3 (Confidence: 7/10)
+  Multiple CIA informal requests related to Oswald records
+  QUOTE: "CIA-IR-05: Possible foreign source for records on Oswald"
+
+Page 4 (Confidence: 7/10)
+  Multiple references to Oswald-related files
+  QUOTE: "CIA-IR-29: Oswald Le Winter"
+
+Page 5 (Confidence: 7/10)
+  Informal request related to Oswald information from a specific source
+  QUOTE: "Oswald related information provided by Source identified in RIF No 104-10151-10206"
+
+Page 1 (Confidence: 7/10)
+  CIA maintained two files on Lee Harvey Oswald at the time of the Kennedy assassination
+  QUOTE: "At the time of the assassination, the Office of Security (OS) held two files which contained information on Lee Harvey Oswald."
+
+Page 2 (Confidence: 7/10)
+  Detailed information about HTLINGUAL project involving mail surveillance of countries including Soviet Union, China, Pakistan, and South America
+  QUOTE: "HTLINGUAL was a Directorate of Operations project involving the opening incoming and outgoing mail destined to and from the Soviet Union, China, Pakistan, and South America."
+
+Page 6 (Confidence: 7/10)
+  Document discusses Lee Harvey Oswald file and pre-assassination information
+  QUOTE: "Lee Harvey Oswald (#0351614) were handled by Marguerite D. Stevens of the OS/Security Research Staff during the pre-assassination time frame."
+
+Page 1 (Confidence: 7/10)
+  Document relates to researching pre-assassination files on Lee Harvey Oswald
+  QUOTE: "The Office of Personnel Security was tasked on 31 January 1997 by the Historical Review Group/Center for the Study of Intelligence(HRG/CSI), via the Directorate of Administration/Information Review Office, with researching pre-assassination files on Lee Harvey Oswald"
+
+Page 1 (Confidence: 7/10)
+  CIA document references HTLINGUAL operation involving Oswald
+  QUOTE: "Given that Oswald was a subject of the HTLINGUAL operation, it is reasonable to believe that there was a file on him."
+
+Page 1 (Confidence: 7/10)
+  Specific documents related to Oswald's files being processed for transfer
+  QUOTE: "All documents from Lee Harvey Oswald's "A" file and post-1978 201 file, Oswald's 201 file and security file and Marina Oswald's 201 (microfilm version) have already been transferred to NARA"
+
+Page 1 (Confidence: 7/10)
+  Document indicates records specifically related to Oswald and assassination investigation
+  QUOTE: "seventeen (17) are made up the Oswald 201 file"
+
+Page 1 (Confidence: 7/10)
+  Document references Oswald's connections to multiple investigations and intelligence agency files
+  QUOTE: "The Oswald Security File; Agency working files generated by JFK assassination investigations and requests"
+
+Page 1 (Confidence: 7/10)
+  Specific individuals named for file search related to assassination
+  QUOTE: "Lee Harvey Oswald, Jack Ruby, Jury Ivanovich Nosenko, and the Warren Commission"
+
+Page 1 (Confidence: 7/10)
+  No specific report on Oswald handling was ever prepared by the Office of External Affairs (OEXA)
+  QUOTE: "There is no indication that a report on the handling of Oswald was ever prepared."
+
+Page 1 (Confidence: 7/10)
+  Document lists multiple file references for Oswald and several directors
+  QUOTE: "Robert Edward Webster, EE-18854; Lee Harvey Oswald, MS-1115; Libero Ricciardelli, MG-8295; Vladimir Sloboda, MG-10565; Joseph Dutkanicz, MS-10724"
+
+Page None (Confidence: 7/10)
+  Questions about OS (Office of Security) files and components related to Oswald
+  QUOTE: "Question 8 - How many files did OS have on Oswald? Which OS components maintained files on Oswald? Why did OS have any files on Oswald?"
+
+Page 1 (Confidence: 7/10)
+  CIA Office of Security held two files on Lee Harvey Oswald at time of assassination
+  QUOTE: "At the time of the assassination, the Office of Security (OS) held two files which contained information on Lee Harvey Oswald. A file entitled Defectors File (#0341008) contained a reference to Lee Harvey Oswald."
+
+Page 6 (Confidence: 7/10)
+  Multiple documents related to Lee Harvey Oswald's file and background
+  QUOTE: "Undated summary of file information on Lee Harvey Oswald"
+
+Page 1 (Confidence: 7/10)
+  CIA files confirmed holding two files containing information on Lee Harvey Oswald at the time of Kennedy's assassination
+  QUOTE: "At the time of the assassination, the Office of Security (OS) held two files which contained information on Lee Harvey Oswald."
+
+Page 2 (Confidence: 7/10)
+  Document discusses files related to Lee Harvey Oswald maintained by Office of Security
+  QUOTE: "the Office of Security also had a subject file on Lee Harvey Oswald (#0351164)"
+
+Page 6 (Confidence: 7/10)
+  Multiple government agencies tracked Oswald's activities in 1961-1963
+  QUOTE: "Undated summary of file information on Lee Harvey Oswald"
+
+Page 7 (Confidence: 7/10)
+  Intelligence file management for Oswald
+  QUOTE: "Most likely because of counterintelligence concerns, the Central Intelligence Agency was included in the distribution of these reports. In the beginning this material was probably retained in the Defectors File."
+
+Page 1 (Confidence: 7/10)
+  Reference to Marilyn Murret, Lee Harvey Oswald's cousin, potentially involved in espionage
+  QUOTE: "Marilyn Murret is Lee Harvey Oswald's cousin and that evidence indicates she was involved in espionage activities in Russia and Asia."
+
+Page 1 (Confidence: 7/10)
+  Document references Oswald claiming to be a former CIA officer
+  QUOTE: "LeWinter apparently approached the British Broadcasting Corporation (BBC) claiming to be a former CIA officer."
+
+Page 1 (Confidence: 7/10)
+  CIA records mention KGB file on Oswald and searched records related to Oswald
+  QUOTE: "CIA-TR-16 FBIS-USR-92-112. The DS&T provided a translation of articles about a KGB file on Oswald."
+
+Page 25 (Confidence: 7/10)
+  Oswald LeWinter identified as an intelligence swindler with multiple aliases
+  QUOTE: "Oswald LeWinter is a naturalized US citizen and a man of at least four other names -- George Mearah, Oscar LeWinter, Razin LeWinter, and Ibrahim Razin."
+
+Page 28 (Confidence: 7/10)
+  Ongoing review of Oswald's 201 file, with multiple records being examined
+  QUOTE: "The surfacing of a report in the continuing Oswald 201 file attributed to IJDECANTER prompted the ARRB to request a review of that defector's 201 file."
+
+Page 30 (Confidence: 7/10)
+  CIA document references Oswald's 201 file containing a 'book message' about Kennedy assassination
+  QUOTE: "A 'book message,' that is a message to all stations and bases, DIR 84608, dated 22 November 1963... This message advised all stations and bases about the assassination of President John F. Kennedy."
+
+Page 31 (Confidence: 7/10)
+  CIA cable discusses Lee Harvey Oswald's identity in routing communications
+  QUOTE: "This cable advised the identity of the alleged assassin by name of Lee Harvey Oswald."
+
+Page 1 (Confidence: 6/10)
+  Explicit mention of Oswald records search
+  QUOTE: "(2) is aware of no assassination of President Kennedy records in its possession other than those being disclosed"
+
+Page 2 (Confidence: 6/10)
+  CIA states no additional Oswald-related records being withheld
+  QUOTE: "(b) is aware of no other assassination-related records in its possession being withheld from the Board"
+
+Page 3 (Confidence: 6/10)
+  Mexico City Station files related to Oswald
+  QUOTE: "Other major additions to the Oswald 201 file include relevant Mexico City Station files"
+
+Page 4 (Confidence: 6/10)
+  Multiple potentially relevant individuals listed who may have connections to Oswald
+  QUOTE: "Names include: Howard Hunt, Valeriy Kostikov, Mr. & Mrs. George de Mohrenschildt, Yuri Nosenko, Michael & Ruth Paine, David A. Phillips"
+
+Page 1 (Confidence: 6/10)
+  Specific request for name and subject search on Lee Harvey Oswald from 1980-1993
+  QUOTE: "A name search on Lee Harvey Oswald for the period 1980 through 1993; a subject search on JFK assassination (Kennedy assassination, etc.)"
+
+Page 3 (Confidence: 6/10)
+  Reference to documents about Oswald
+  QUOTE: "Participants - DCI, U.J. McCloy; Dinner at Residence - Re: Oswald. [The latter is annotated: 'Destroyed 1-28-72.']"
+
+Page 4 (Confidence: 6/10)
+  Files related to Warren Commission investigation of Oswald
+  QUOTE: "the time of the assassination (as shown by the fact that they are contained in the Warren Commission materials)"
+
+Page 1 (Confidence: 6/10)
+  Reference to CIA-16 request specifically mentioning Oswald Pre-Assassination File
+  QUOTE: "this attachment includes at Tab 2 the specific response to the request numbered CIA-16 (Oswald Pre-Assassination File)"
+
+Page 2 (Confidence: 6/10)
+  Multiple CIA file requests concerning Oswald and related materials
+  QUOTE: "CIA - 11: Sylvia Duran Materials; CIA - 16: Oswald Pre-Assassination Files"
+
+Page 1 (Confidence: 6/10)
+  Reference to Office of Security files containing information about Oswald
+  QUOTE: "These include the Office of Security file on Oswald, a general file on Americans who had defected to another country"
+
+Page 4 (Confidence: 6/10)
+  Multiple documents related to Oswald's activities and communications
+  QUOTE: "Department of State Dispatch from Moscow dated May 1961 with enclosure of Oswald letter"
+
+Page 3 (Confidence: 6/10)
+  Existence of specific CIA files about Oswald (Security File and 'A' File)
+  QUOTE: "Oswald 201 (original and microfilm from the sequestered collection)"
+
+Page 1 (Confidence: 6/10)
+  CIA Office of Security identified a multi-volume file on Oswald pre-assassination
+  QUOTE: "The Office of Security identified a multi-volume file and provided answers to questions posed by the ARRB staff"
+
+Page 1 (Confidence: 6/10)
+  Systematic search of records related to Oswald
+  QUOTE: "The Offices of Security, Human Resource Management, Facilities Security & Services conducted searches for information on Oswald Winter."
+
+Page 2 (Confidence: 6/10)
+  Document references subject file on Lee Harvey Oswald maintained by Office of Security
+  QUOTE: "and the Office of Security also had a subject file on Lee Harvey Oswald (#0351164)"
+
+Page 3 (Confidence: 6/10)
+  Document references a press clipping about Oswald defecting
+  QUOTE: "Washington Star press clipping of 26 November 1959 entitled 'U.S. Defector to Reds Turned to Marx at 15'"
+
+Page 7 (Confidence: 6/10)
+  Oswald's contacts with American Embassy in Moscow
+  QUOTE: "Oswald was in contact with the American Embassy in Moscow, and the Department of State prepared reports on these contacts."
+
+Page 3 (Confidence: 6/10)
+  Document references pre-assassination documents related to Lee Harvey Oswald
+  QUOTE: "pre-assassination documents located in this file relative to Lee Harvey Oswald are:"
+
+Page 12 (Confidence: 6/10)
+  Request for files on five persons allegedly connected to JMWAVE
+  QUOTE: "Files, personnel files, Office of Security files, P-files, or any other files related to ... David Sanchez Morales ... Ted Shackley ... Ron Cross ... Bart Henry and Doug Gupton."
+
+Page 24 (Confidence: 6/10)
+  Reference to Oswald LeWinter, who claimed to be an Agency employee and Acting Assistant Director of Counter Espionage
+  QUOTE: "Apparently he is/was claiming to be an Agency employee and the Acting Assistant Director of Counter Espionage."
+
+Page 2 (Confidence: 5/10)
+  Automated searches using keywords related to Oswald and assassination
+  QUOTE: "Where possible, automated systems were searched using key words such as JFK, Kennedy, assassination, executive action, Oswald, place names, and a large number of names, crypts, or pseudonyms identifying individuals known to have"
+
+Page 2 (Confidence: 5/10)
+  Multiple official files existed about Oswald, but contents largely destroyed
+  QUOTE: "OPS cannot definitively state whether these files contained any information on Lee Harvey Oswald"
+
+Page None (Confidence: 5/10)
+  Silvia Tirado de Duran listed with Oswald File reference
+  QUOTE: "DURAN, Silvia Tirado de AIN 0 351 164 = Oswald File"
+
+Page None (Confidence: 5/10)
+  Sylvia Odio listed with Oswald File references
+  QUOTE: "ODIO, Sylvia AIN 0 351 164 = Oswald File AIN 0 351 164-6 =-Oswald File"
+
+Page 18 (Confidence: 5/10)
+  Document mentions several individuals potentially connected to Oswald investigation
+  QUOTE: "Edward J. Epstein, Josiah Thompson, Mark Lane, Harold Weisberg, Sylvia Meagher"
+
+Page 4 (Confidence: 4/10)
+  References 'Defectors Machine Listing' which might relate to intelligence tracking of defectors
+  QUOTE: "The index reference to the Defectors File identifies a list dated 13 September 1966 which was known as the Defector Machine Listing."
+
+Page 1 (Confidence: 4/10)
+  Search conducted for individuals potentially connected to historical investigation
+  QUOTE: "Andrew 'Andy' Anderson, Howard Guesler, Gordon Duane Novel, Edward Scanned Butler III, Director Information Council of the Americas (INCA)"
+
+Page 1 (Confidence: 4/10)
+  List of individuals being investigated in connection with JFK assassination
+  QUOTE: "Individuals listed below: Leo Cherne, Hunter Leake, Paul Garbler, Byron B. Morton Jr., Marie Cheatham, Verna Deane Brown, John A. McVickar"
+
+Page 1 (Confidence: 3/10)
+  No direct Oswald references, but shows extensive internal personnel file searches
+  QUOTE: "The Offices of Security, Human Resource Management, Medical Services, Training & Education conducted searches on the following individuals with described results"
+
+Page 4 (Confidence: 3/10)
+  No direct mentions of Oswald, but document refers to a 'Defectors Machine Listing'
+  QUOTE: "The index reference to the Defectors File identifies a list dated 13 September 1966 which was known as the Defector Machine Listing."
+
+Page 1 (Confidence: 3/10)
+  No direct mention of Oswald, but document discusses counterintelligence investigations of individuals
+  QUOTE: "SRS maintained records identifying personalities, environments, and personal traits of individuals who had been of counterintelligence interest over the years"
+
+Page 17 (Confidence: 3/10)
+  No direct Oswald references found on this page
+  QUOTE: ""
+
+Page 22 (Confidence: 3/10)
+  Computer search on specific individuals
+  QUOTE: "The DO provided an unclassified response to the ARRB Staffs' request to review Agency files on some 38 names who were the subjects of the HSCA."
+
+Page 23 (Confidence: 3/10)
+  Multiple trace searches on individuals with potential connections
+  QUOTE: "Paul A. Garbler had three pseudos assigned to him. Also, Garbler had four aliases on record."
+
+
+ORGANIZED CRIME CONNECTIONS:
+----------------------------------------
+Page 20 (Confidence: 6/10)
+  Reference to Charles Ford's testimony about Mafia connection to Castro assassination plots
+  QUOTE: "a citation to testimony to Congress by Charles Ford in September of 1975. A copy of testimony to a Senate Committee regarding a Mafia connection to assassination plots against Castro was provided to DA/OIM/JFK in February 1998."
+
+Page 1 (Confidence: 5/10)
+  CIA offices searched records related to potential crime and Cuban connections
+  QUOTE: "CIA-IR-13 - Office/Person Dealing with Organized Crime & Cuba"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 2 (Confidence: 9/10)
+  Comprehensive search protocol for JFK assassination records across multiple databases
+  QUOTE: "Search terms in paragraph 5-on ANY OF FILES which may contain information relating in any way to the JFK assassination"
+
+Page 1 (Confidence: 9/10)
+  CIA document detailing anti-Cuban operations and surveillance of key figures
+  QUOTE: "CIA anti-Cuban operations 1960-64 (Mongoose, etc.) if they involve JFK figures"
+
+Page 2 (Confidence: 8/10)
+  CIA confirms diligent record searches related to JFK Assassination Records Review Board
+  QUOTE: "The Central Intelligence Agency: (a) has made diligent records searches to locate and disclose to the JFK Assassination Records Review Board (the Board) all records in its possession relating to Lee Harvey Oswald and the assassination of President Kennedy"
+
+Page 2 (Confidence: 8/10)
+  Investigations focused on potential assassination capabilities and methods
+  QUOTE: "Notheless, as a part of these investigations they yielded information which, to many, appeared to relate in some way to the assassination, such as an operational capability or willingness to consider assassination as an intelligence method."
+
+Page 4 (Confidence: 8/10)
+  CIA Historical Review Group conducted search on Lee Harvey Oswald records in October 1993
+  QUOTE: "In October 1993, following enactment of the JFK Act but prior to the President's appointment of the Board, CIA's Historical Review Group (HRG) requested the CIA directorates to conduct a name search on Lee Harvey Oswald, JFK assassination, and any related documents"
+
+Page 2 (Confidence: 8/10)
+  Mention of sensitive CIA operations and investigations related to JFK assassination era
+  QUOTE: "Material from the Rockefeller Commission and Church Committee investigations, presidential libraries and PFIAB files which addressed the entire scope of CIA activities raised issues with respect to relevance to the JFK assassination."
+
+Page 4 (Confidence: 8/10)
+  Court-ordered destruction of HTLINGUAL surveillance files
+  QUOTE: "CIA was directed by court order to destroy all HTLINGUAL material"
+
+Page 3 (Confidence: 8/10)
+  Internal CIA investigation of Oswald-related documents and files
+  QUOTE: "CIA-IR-10: Determination if CIA IG maintains an index of reports and determine if one was done on handling of Oswald matters"
+
+Page 4 (Confidence: 8/10)
+  Extensive CIA informal requests tracking surveillance and files
+  QUOTE: "CIA-IR-15: Mexico City Station electronic surveillance and surveillance tapes"
+
+Page 6 (Confidence: 8/10)
+  Security Research Staff (SRS) role in intelligence gathering and counterintelligence
+  QUOTE: "The Security Research Staff (SRS) was the component responsible for collecting, developing, and evaluating information of a counterintelligence nature"
+
+Page 1 (Confidence: 8/10)
+  CIA destroyed all HTLINGUAL files related to Oswald under court order
+  QUOTE: "We did not review all of the DO record system to destroy all copies of material which may have been derived from HTLINGUAL material."
+
+Page 1 (Confidence: 8/10)
+  Detailed breakdown of record collections including CIA staff files
+  QUOTE: "personnel files of CIA staff employees (approximately 5 reels)"
+
+Page 1 (Confidence: 8/10)
+  Multiple document collections related to JFK assassination being reviewed and processed
+  QUOTE: "The OIG located six documents that may be relevant to the JFK assassination."
+
+Page 1 (Confidence: 8/10)
+  Detailed questions about OS/SRS file management and security clearances for Oswald
+  QUOTE: "How are these designations assigned? Does OS process security clearances for non-employees (e.g. sources)"
+
+Page 2 (Confidence: 8/10)
+  Systematic destruction of Oswald-related files
+  QUOTE: "All of the HTLINGUAL files were destroyed on 8 April 1994 along with numerous soft files"
+
+Page 6 (Confidence: 8/10)
+  Extensive documentation tracking Oswald across multiple agencies
+  QUOTE: "Documents were located in a subsequent volume of the Oswald file and also appear to predate the assassination of President Kennedy"
+
+Page 12 (Confidence: 8/10)
+  Document indicates inability to confirm or provide certain files
+  QUOTE: "The DO maintains no files on former employees, such as Morales, Shackley, or Gupton (P)."
+
+Page 25 (Confidence: 8/10)
+  CIA report about LeWinter as an intelligence fabricator and drug dealer
+  QUOTE: "CIA has a report of an episode involving an intelligence fabricator and convicted drug dealer Oswald LeWinter, AKA George Mearah, born 2 April 1931, in Vienna, Austria."
+
+Page 26 (Confidence: 8/10)
+  CIA AMWORLD operation targeting Cuban exile groups for potential overthrow of Fidel Castro
+  QUOTE: "AMWORLD's mission was to cause a popular uprising in Cuba through the use of propaganda and paramilitary forces to ultimately overthrow Fidel Castro."
+
+Page 31 (Confidence: 8/10)
+  Routing of classified communications about Oswald across multiple international stations
+  QUOTE: "Routing with addresses to Paris, Rome, Madrid, Copenhagen, Oslo, Helsinki, Brussels, The Hague, London, and Ottawa"
+
+Page 3 (Confidence: 7/10)
+  Extensive CIA and FBI documentation related to Oswald and assassination investigation
+  QUOTE: "Boxes 35 through 63 consist of reports, memoranda, transcripts, cables, letters, newspaper clippings, photographs, and charts."
+
+Page 2 (Confidence: 7/10)
+  CIA document details search methodologies for JFK assassination-related materials since 1992 JFK Act
+  QUOTE: "Since 1992 and the passage of the JFK Act, CIA has, in responding to the requests of the Board, had to devise search methodologies and techniques to address both the hard copy and electronic versions of our databases."
+
+Page 3 (Confidence: 7/10)
+  CIA anti-Cuban operations during Oswald's timeframe
+  QUOTE: "CIA anti-Cuban operations 1960-64 if they involve JFK figures or subjects; most US anti-Castro activities in 1963 are considered relevant"
+
+Page 4 (Confidence: 7/10)
+  Extensive document collection and transfer of assassination-related records
+  QUOTE: "More than thirty-one additional boxes of materials were sent to HRG for review. Included were nineteen boxes of JFK working files, Russ Holmes' files, CIA employee records, boxes on Nosenko, Latin American division documents"
+
+Page 1 (Confidence: 7/10)
+  New search of JFK assassination counterintelligence files being conducted
+  QUOTE: "New Search of CI Files for JFK Assassination Records"
+
+Page 1 (Confidence: 7/10)
+  CIA engaged in extensive document review and declassification process for JFK assassination records
+  QUOTE: "CIA, during 1992 and 1993, reviewed for declassification material which had been sequestered following the investigation of the House Select Committee on Assassinations (HSCA) in 1978."
+
+Page 2 (Confidence: 7/10)
+  Document describes CIA document review process involving retired officers with extensive Agency experience
+  QUOTE: "Each document in the collection was read by an Historical Reviewer Program (HRP) Reviewer -- in every case a retired officer with at least two decades of Agency experience"
+
+Page 2 (Confidence: 7/10)
+  CIA analysis of audio surveillance tapes from Cuban and Soviet embassies in Mexico City during immediate post-assassination period
+  QUOTE: "In our search efforts we did locate approximately 185 audio surveillance tapes of the Cuban and Soviet embassies in Mexico City that were recorded during the immediate time following the assassination (22 November 1963 to January 1964)."
+
+Page 1 (Confidence: 7/10)
+  CIA worked closely with JFK Assassination Records Review Board, providing documents related to Oswald Pre-Assassination File
+  QUOTE: "On each request, the CIA worked closely with the Board and Board staff to provide the information and/or documents requested and a written response which records such actions."
+
+Page 2 (Confidence: 7/10)
+  Comprehensive CIA records review related to JFK assassination
+  QUOTE: "JFK Assassinations Records Review Board Requests for Additional Information and Records"
+
+Page 1 (Confidence: 7/10)
+  CIA document discussing pre-assassination files on Lee Harvey Oswald
+  QUOTE: "Request for Additional Information and Records No. CIA-16 (Oswald Pre-Assassination Files)"
+
+Page 4 (Confidence: 7/10)
+  Multiple agency documents tracking Oswald
+  QUOTE: "Report Summary prepared by Soviet Russia Division forwarded to Office of Security in March 1960"
+
+Page 5 (Confidence: 7/10)
+  Central Intelligence Agency involved in distributing reports about Oswald
+  QUOTE: "Most likely because of counterintelligence concerns, the Central Intelligence Agency was included in the distribution of these reports."
+
+Page 2 (Confidence: 7/10)
+  CIA preparing to review and return unreviewed third-party referral documents related to JFK assassination
+  QUOTE: "The CIA proposes that it complete its review and return to originating agency by April 1999 all unreviewed third agency referral documents which were received prior to 30 September 1998."
+
+Page 1 (Confidence: 7/10)
+  Confidential memos and reports tracking global reactions and propaganda
+  QUOTE: "FBIS study, never disseminated, entitled: The Past Soviet Propaganda Assessment of President Johnson"
+
+Page 1 (Confidence: 7/10)
+  Multiple CIA file searches conducted on individuals potentially connected to Oswald case
+  QUOTE: "The DA conducted file searches in OS and HRM for records on Theodore Shackley, Ronald Cross, Bart Henry, Doug Gupton, David Morales"
+
+Page 1 (Confidence: 7/10)
+  CIA internal review of Oswald-related files and search procedures
+  QUOTE: "The Nagell, Novel and Ruby files were designated assassination records and copies were provided to HRP."
+
+Page 2 (Confidence: 7/10)
+  Files related to Oswald were part of Management Data Program/Personnel Security system
+  QUOTE: "These files were originally miscellaneous files which were converted to the above numbers circa 1964"
+
+Page 4 (Confidence: 7/10)
+  Document discusses internal reorganization of Security Analysis Group and Counterintelligence Center (CIC) functions
+  QUOTE: "CIC assumed many of the functions previously conducted by the Security Analysis Group."
+
+Page 7 (Confidence: 7/10)
+  Defectors File and document handling related to Oswald
+  QUOTE: "As the number of documents on this person increased, a separate file was created to be the repository of information on the alleged American defector."
+
+Page 8 (Confidence: 7/10)
+  Document describes the Security Research Staff (SRS) as a counterintelligence component that collected and evaluated intelligence
+  QUOTE: "The Security Research Staff (SRS) was the component responsible for collecting, developing, and evaluating information of a counterintelligence nature to detect and/or prevent penetration of the Agency's organization, employees, and activities by foreign or domestic organizations or individuals."
+
+Page 3 (Confidence: 7/10)
+  Detailed tracking of US citizens and foreign nationals defecting
+  QUOTE: "The Defectors File (#0341008) was established circa 1950 for the purpose of recording information on US citizens defecting to other countries and information regarding foreign nationals considering defection to the United States"
+
+Page 4 (Confidence: 7/10)
+  Document details internal reorganization of intelligence groups handling defector files
+  QUOTE: "CIC assumed many of the functions previously conducted by the Security Analysis Group."
+
+Page 1 (Confidence: 7/10)
+  Internal CIA document about search for files related to Warren Commission critics
+  QUOTE: "This is with reference to your 2 February 1993 memorandum (Tab A) and our subsequent telephone conversation on 6 February wherein you requested that the Disclosure Office (DA) search for files on records of Warren Commission critics"
+
+Page 1 (Confidence: 7/10)
+  CIA report documenting intelligence fabricator and drug dealer interactions
+  QUOTE: "CIA has report of an episode involving an intelligence fabricator and convicted drug dealer involving Oswald LeWinter, George Mearak, Oscar LeWinter, Ibrahim Razin"
+
+Page 1 (Confidence: 7/10)
+  CIA Central Intelligence Agency document about records management and information systems
+  QUOTE: "I am the JFK Focal point Officer ('FPO') for the Directorate of Operations ('DO') of the United States Central Intelligence Agency ('CIA')"
+
+Page 2 (Confidence: 7/10)
+  CIA issued agency-wide employee bulletin for new JFK Assassination records search in July 1998
+  QUOTE: "The CIA is issued an Agency-wide employee bulletin for a new search for JFK Assassination records (OIM 98-0081, dated 30 July 1998)."
+
+Page 3 (Confidence: 7/10)
+  Detailed CIA organizational records request covering multiple sensitive areas
+  QUOTE: "CIA-1 - Information on the organization of CIA"
+
+Page 5 (Confidence: 7/10)
+  Cables and dispatches from specific period were not fully preserved
+  QUOTE: "The DO provided a classified response in January 1998. All cable traffic and dispatches for the period... are not available as a chronological collection."
+
+Page 12 (Confidence: 7/10)
+  CIA document discussing search for materials related to Sylvia Duran and JMWAVE-connected individuals
+  QUOTE: "IMS/ESG searched its main index system, its 'names' data base, and hard copy files."
+
+Page 15 (Confidence: 7/10)
+  CIA destroyed Oswald-related files under court order
+  QUOTE: "We destroyed all of the HTLINGUAL files under court order, and no record was made of what files existed."
+
+Page 18 (Confidence: 7/10)
+  CIA referenced a 'Garrison Investigation of Kennedy Assassination' file opened in 1969 and closed in 1996
+  QUOTE: "A file titled 'Garrison Investigation of Kennedy Assassination' was opened in 1969 and closed in 1996"
+
+Page 20 (Confidence: 7/10)
+  CIA research and investigation activities related to Charles Ford and potential organized crime connections
+  QUOTE: "(S) As part of DA/OIM/JFK's research, IMS/ESG/HCS was requested to do a trace on 'Charles Ford.' The trace resulted in no hits."
+
+Page 24 (Confidence: 7/10)
+  Multiple CIA internal research reports about JFK assassination-related individuals
+  QUOTE: "CIA-IR-21 -- DRE Monthly operational reports, CIA-IR-22 -- "A" file on Clay Shaw and Jim Garrison"
+
+Page 1 (Confidence: 6/10)
+  Mentions Board's focus on 'sequestered' CIA records related to Assassination Investigation
+  QUOTE: "Up to now, the Board has focused on the 'sequestered' records CIA had collected for the House Assassination Committee investigation and documents that had been part of the Oswald 201 file."
+
+Page 1 (Confidence: 6/10)
+  Extensive searches conducted for Oswald-related volumes and files, with some inconsistencies in filing and storage
+  QUOTE: "A second thorough search of the OS file system failed to produce any record of Volume V."
+
+Page 5 (Confidence: 6/10)
+  CIA informal requests involving files and investigations
+  QUOTE: "Files of CIA officials/offices"
+
+Page 1 (Confidence: 6/10)
+  Detailed processing plan for CIA assassination records
+  QUOTE: "Per agreement with Review Board, the declassification review of all records, unless specifically designated for post-September 1998 processing by the Review Board"
+
+Page 1 (Confidence: 6/10)
+  Efforts to address and potentially limit conspiracy theories about JFK assassination
+  QUOTE: "The whole six year effort was designed to put rest all of the conspiracy theories and this comment would undercut the effort."
+
+Page 1 (Confidence: 6/10)
+  Ongoing effort to search and review records related to JFK assassination
+  QUOTE: "On 21 August, Mr. Harrelson contacted me for a further search of DI records, specifically that the DI follow up on a previously search by extending the timeframe covered in that original search."
+
+Page 1 (Confidence: 6/10)
+  Computer search on specific individuals, including multiple CIA/intelligence personnel file searches
+  QUOTE: "CIA-IR-19 Computer Search on Specific Individuals and Organizations"
+
+Page None (Confidence: 6/10)
+  Reference to potential records about Oswald in various organizational files
+  QUOTE: "Records on operations and/or projects in which the Office of Security was involved in the past have most likely been destroyed, unless they are maintained because of congressional directives or the records control schedules."
+
+Page 1 (Confidence: 6/10)
+  Document is a request for information about pre-assassination files on Oswald
+  QUOTE: "The Office of Personnel Security has researched this request from the Assassination Records Review Board relating to the existence of pre-assassination files on Lee Harvey Oswald."
+
+Page 1 (Confidence: 6/10)
+  Internal CIA memorandum about search requests for specific individuals related to historical review
+  QUOTE: "This is in response to your 3 August 1998 memorandum [...] wherein you requested that the Directorate of Administration (DA) conduct searches on the following names"
+
+Page 1 (Confidence: 6/10)
+  Communication between CIA/IRO departments about record searches
+  QUOTE: "CCS has no record for the organizations listed below."
+
+Page 1 (Confidence: 6/10)
+  LeWinter volunteered information about Agency operations
+  QUOTE: "LeWinter volunteered to provide information about Agency operations overseas."
+
+Page None (Confidence: 6/10)
+  Multiple individuals with potential intelligence connections
+  QUOTE: "MARTIN, Jack. CCS records reflect three following individuals who may or may not be identifiable with your request."
+
+Page 1 (Confidence: 6/10)
+  Multiple searches conducted for records related to Oswald
+  QUOTE: "CIA-IR-16 U-2 Files. The DS&T provided the Board a copy of the U-2 shelflist. We also searched for records filed under Richard Bissell's name."
+
+Page 3 (Confidence: 6/10)
+  Request for comprehensive CIA organizational charts and related materials
+  QUOTE: "The March 1995 ARRB request called for the availability of 'comprehensive organizational charts (or the best available substitutes)'"
+
+Page 4 (Confidence: 6/10)
+  Document reveals CIA ARRB (Assassination Records Review Board) requests for information about CIA operations in 1961-1963
+  QUOTE: "in April 1998, we agreed to provide structure charts for the DDP in 1961 and 1963, with Division and Staff titles and a JMWAVE Chart."
+
+Page 5 (Confidence: 6/10)
+  CIA request for systematic review of cable traffic between Mexico City and JMWAVE from September-December 1963
+  QUOTE: "This ARRB request was dated September 1995 and was for 'the CIA to assemble all of the cable traffic and dispatches for . . . September 26, 1963 through October 20, 1963 and November 22, 1963 through December 30, 1963 between' . . . Mexico City and Headquarters and Mexico City and JMWAVE."
+
+Page 13 (Confidence: 6/10)
+  CIA Mexico City Station annual reports from 1957-1973 were reviewed, with some documents missing or not located
+  QUOTE: "RMDs for Mexico City Station, for the years 1962, 1963, or 1964 could not be located."
+
+Page 17 (Confidence: 6/10)
+  Multiple CIA internal review requests related to JFK assassination files
+  QUOTE: "The DO provided the following unclassified response about the Angleton Files"
+
+Page 19 (Confidence: 6/10)
+  CIA document discusses contacts with journalists and publishing houses, likely related to propaganda efforts
+  QUOTE: "The DO provided both an unclassified and classified response about contacts with journalists or publishing houses, regarding whether CIA might have attempted to influence any journalists or publishers regarding public discussion of the assassination."
+
+Page 22 (Confidence: 6/10)
+  CIA Defector Staff office handling Soviet bloc defector cases
+  QUOTE: "Only Soviet Bloc (formerly Warsaw Pact countries) defector cases were handled by this branch. Staffs and branches identified, among other duties, were responsible for identifying, debriefing, and resettling foreign defectors of intelligence interest."
+
+Page 23 (Confidence: 6/10)
+  Reference to a microfilm collection of files from Michelle Combs related to a 'SECRET' classified memo about file organization
+  QUOTE: "(U) This is a large number of files from the microfilm part of the collection that Michelle Combs reviewed and then crafted a 'SECRET' classified memo identifying the reels and folders of files that were then declared 'Not Believed Relevant.'"
+
+Page 28 (Confidence: 6/10)
+  Extensive document review process for JFK assassination records
+  QUOTE: "IMS/ESG/HCS ran a computer search for 'OPI 40' files... Her review encompasses some 42 boxes from a variety of retired DDP files."
+
+Page 20 (Confidence: 5/10)
+  Multiple project searches and information gathering
+  QUOTE: "(U) At the request of HRP JFK, several project Crypts were searched and results provided in connection with this request."
+
+
+WITNESS TESTIMONIES:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Post-1978 search terms include key investigation references
+  QUOTE: "Warren Commission, House Select Committee on Assassinations, HSCA, Oswald, Lee Harvey Oswald, Marina Oswaid, Jack Ruby"
+
+Page 1 (Confidence: 5/10)
+  Mentions specific individuals potentially connected to Warren Commission investigation
+  QUOTE: "Search for files on Josiah Thompson, Mark Lane, Harold Weisberg, or Sylvia Meagher"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 9/10)
+  Multiple documents related to international reactions and analysis of Kennedy's assassination
+  QUOTE: "Fidel Castro's Speech, which contained an 'objective analysis' of implications of Kennedy's assassination"
+
+Page 3 (Confidence: 7/10)
+  Early document referencing Oswald's interactions with Soviet authorities
+  QUOTE: "Department of State telegram #1304 from Moscow dated 31 October 1959"
+
+Page 1 (Confidence: 7/10)
+  Document mentions KGB officer in Mexico City and Cuban embassy connections
+  QUOTE: "-- Valeriy Kostikov, KGB Officer in Mexico City; -- Silvia Duran, employee in Cuban Embassy, Mexico City"
+
+Page 5 (Confidence: 7/10)
+  Multiple documents related to Oswald's interactions with Soviet entities
+  QUOTE: "Department of State telegram #1304 from Moscow dated 31 October 1959"
+
+Page 5 (Confidence: 7/10)
+  Multiple Department of State communications about Oswald's status
+  QUOTE: "Documents include Department of State telegrams from Moscow and Tokyo dated November 1959"
+
+Page 27 (Confidence: 7/10)
+  No evidence of Cuban Government in Exile
+  QUOTE: "there was never a Cuban Government in Exile. The invasion site was never secured."
+
+Page 3 (Confidence: 6/10)
+  KGB interest in Oswald documented
+  QUOTE: "KGB interest in Oswald"
+
+Page 1 (Confidence: 6/10)
+  Reference to new documents related to Soviet Union and recent defector reports
+  QUOTE: "including references to a variety of reasons... records made available because of the break up of the Soviet Union"
+
+Page 2 (Confidence: 6/10)
+  Reference to CIA anti-Castro operations
+  QUOTE: "Project MONGOOSE, a clandestine position of the publicly acknowledged U.S. anti-Castro policy, was released."
+
+Page 5 (Confidence: 6/10)
+  Multiple cables from Mexico City related to Oswald time period
+  QUOTE: "Incoming cables from Mexico City dated 20 July 1963, 17 August 1963, 9 October 1963, and 24 October 1963"
+
+Page 1 (Confidence: 6/10)
+  Records include Cuban and Soviet-linked investigative materials
+  QUOTE: "Cubans, Americans, and Soviets linked to Oswald, the JFK assassination or various investigations"
+
+Page 6 (Confidence: 6/10)
+  Incoming cables from Mexico City with potential Oswald-related intelligence
+  QUOTE: "Incoming cable #63S58 from Mexico City dated 20 July 1963 (no mention of Oswald)"
+
+Page 6 (Confidence: 6/10)
+  Multiple communications from Mexico City related to Oswald
+  QUOTE: "Incoming cable #83858 from Mexico City dated 20 July 1963 (no mention of Oswald)"
+
+Page 1 (Confidence: 6/10)
+  Mention of Oswald's connections to foreign documents and research services
+  QUOTE: "Foreign Documents Division/00 requested a clearance on Spas T. Raikin for unclassified contact employment with U.S. Joint Publications Research Service in New York City"
+
+Page 1 (Confidence: 6/10)
+  Mentions overseas interactions and potential defection attempts
+  QUOTE: "US representative overseas reported that LeWinter, using the name of George Mearak, contacted GDR officials wishing to defect"
+
+Page 25 (Confidence: 6/10)
+  Attempted contact with East German officials for potential defection
+  QUOTE: "LeWinter, using the name of George Mearah, contacted him and offered to put high-level GDR officials wishing to defect in touch with our representative and in turn the CIA."
+
+Page 26 (Confidence: 6/10)
+  CIA support for Cuban exile groups with indirect operational involvement
+  QUOTE: "The Agency provided direct and indirect financial aid and technical advisory support to these groups but did not participate directly in the day-to-day operations."
+
+Page 2 (Confidence: 5/10)
+  Intelligence materials related to Cuba and USSR
+  QUOTE: "CIA - 9: Intelligence Community Publications on Cuba or USSR, Nov. 20-30, 1963"
+
+Page 4 (Confidence: 5/10)
+  Department of State communications from Moscow and Tokyo
+  QUOTE: "Department of State telegram #1358 from Moscow dated 9 November 1959"
+
+Page 3 (Confidence: 5/10)
+  Document lists countries of interest for defector tracking
+  QUOTE: "Defector outline prepared in October 1961 listing known defectors to the USSR, Red China, Cuba, and United Arab Republic"
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 1 (Confidence: 8/10)
+  CIA internal memo requesting comprehensive file search on Kennedy assassination
+  QUOTE: "We are requested to search our files for any classifying material relating to the assassination of President Kennedy"
+
+Page 1 (Confidence: 7/10)
+  Official CIA Historical Review Group memorandum requesting comprehensive search for JFK assassination records
+  QUOTE: "Request to Conduct Search for JFK Assassination Records"
+
+Page 1 (Confidence: 7/10)
+  Memo about establishing Directorate Focal Points for JFK Assassination Board Requests
+  QUOTE: "Appointment of Directorate Focal Points for JFK Assassination Board Requests"
+
+Page 1 (Confidence: 7/10)
+  Internal CIA memorandum discussing JFK Board's request for assassination records release
+  QUOTE: "The Board has considered release of all CIA assassination records to be critical to successful implementation of the JFK Act. Accordingly, the Board requested each of CIA's directorates to certify,"
+
+Page 1 (Confidence: 7/10)
+  CIA Directorate of Intelligence document about JFK assassination records review process
+  QUOTE: "I am the Information Review Officer (IRO) for the Directorate of Intelligence (DI) of the Central Intelligence Agency (Agency)."
+
+Page 1 (Confidence: 7/10)
+  Document details internal Security Research Staff (SRS) counterintelligence activities
+  QUOTE: "SRS was the component responsible for collecting, developing, and evaluating information of a counterintelligence nature to detect and/or prevent penetration of the Agency's organization"
+
+Page 1 (Confidence: 7/10)
+  Confidential memo from Associate Information Review Officer requesting comprehensive file search on specific individuals related to JFK assassination
+  QUOTE: "This is in response to your 3 February 1997 memorandum... request is for access to records of possible pertinence to the JFK assassination."
+
+Page 1 (Confidence: 7/10)
+  Interdepartmental memo about CIA records search related to JFK/ARR (Assassination Records Review)
+  QUOTE: "Re: PRIORITY - CIA IR-19 (DA/IRO 32c) JFK/ARRB"
+
+Page 1 (Confidence: 7/10)
+  CIA Security Center internal memorandum about records search for JFK Project
+  QUOTE: "Records Search Request HSCA Names from ARRB"
+
+Page 17 (Confidence: 7/10)
+  Multiple CIA internal review requests documenting file collection and disposition
+  QUOTE: "Items that were duplicates or not worthy of retention were destroyed"
+
+Page 2 (Confidence: 6/10)
+  Memo discussing disposal and potential recycling of intelligence tapes
+  QUOTE: "CIA has concluded that tapes in question do not exist and were almost certainly recycled in the normal course of business before their potential value was identified."
+
+Page 1 (Confidence: 6/10)
+  Document reveals internal review of Oswald-related files and their destruction
+  QUOTE: "Since this material has been destroyed, OPS cannot definitively state whether these files contained any information on Lee Harvey Oswald."
+
+Page 1 (Confidence: 6/10)
+  Document details CIA file management procedures for Oswald records
+  QUOTE: "Prior to establishing a 201, any documents received would have been placed in an operational interest file."
+
+Page 8 (Confidence: 6/10)
+  SRS reported directly to the Office of the Director of Security
+  QUOTE: "SRS reported directly to the Office of the Director of Security."
+
+Page 1 (Confidence: 6/10)
+  Interdepartmental communication about reviewing Oswald files from Assassination Records Review Board
+  QUOTE: "The Office of Personnel Security has researched this request from the Assassination Records Review Board relating to the existence of pre-assassination files on Lee Harvey Oswald."
+
+Page 1 (Confidence: 6/10)
+  CIA Security internal memorandum about records search request
+  QUOTE: "Records Search Request HSCA Names from ARRB"
+
+Page 2 (Confidence: 6/10)
+  Detailed briefings to Assassination Records Review Board about records management
+  QUOTE: "The DO provided several briefings to the Assassination Records Review Board and their staff, starting in 1995, to describe the records created by the DO and the record system"
+
+Page 30 (Confidence: 6/10)
+  Worldwide query sent out day after assassination to gather information
+  QUOTE: "In March 1998 the ARRB asked 'whether a worldwide query was sent out the day after the assassination for all case officers to query their sources for any information on the assassination and Oswald'"
+
+Page 1 (Confidence: 5/10)
+  Document details Office of Security record-keeping practices from 1955-1965
+  QUOTE: "Prior to 1964 all index records were maintained on 3x5 inch index cards."
+
+Page 4 (Confidence: 5/10)
+  Multiple ARRB requests for detailed CIA records from 1995
+  QUOTE: "The ARRB request was dated May 1995 and was six pages of file code numbers, crypts, names, dispatch designators, and cable location designators"
+
+Page 13 (Confidence: 5/10)
+  Annual reports were used as evaluative tools for CIA station operations
+  QUOTE: "The RMDs, themselves are a summary of station activities reported to Headquarters in other correspondence during the courses of the year"
+
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 4 (Confidence: 9/10)
+  Specific mention of surveillance tapes from Mexico City
+  QUOTE: "Tapes from 22-23 Nov. '63 have been processed and are available to NARA"
+
+Page 1 (Confidence: 8/10)
+  Significant interest in locating electronic surveillance tapes of Oswald's Mexico City visit
+  QUOTE: "There has been considerable interest over the years in locating any electronic surveillance tapes that would have been made during the period that Oswald visited Mexico City (26 September - 2 October 1963)."
+
+Page 21 (Confidence: 8/10)
+  Detailed account of audio surveillance tapes related to Oswald's Mexico City visit
+  QUOTE: "There has been considerable interest over the years in locating any electronic surveillance tapes that would have been made during the period that Oswald visited Mexico (26 September - 2 October 1963)"
+
+Page 3 (Confidence: 7/10)
+  Establishes a systematic tracking file on US citizens defecting
+  QUOTE: "The Defectors File (#0341008) was established circa 1950 for the purpose of recording information on US citizens defecting to other countries"
+
+Page 21 (Confidence: 7/10)
+  Specific details about surveillance tape collection and destruction
+  QUOTE: "Approximately 185 audio surveillance tapes of the Cuban and Soviet embassies in Mexico City were recorded during the immediate time following the assassination (22 November 1963 to January 1964)"
+
+Page 2 (Confidence: 6/10)
+  Electronic database search techniques used for comprehensive records review
+  QUOTE: "Electronic files searches can actually be more complex than manual searches, in major part because of the number of different electronic systems in use."
+
+Page 3 (Confidence: 6/10)
+  Searches and inquiries about Oswald-related computer files
+  QUOTE: "CIA-IR-09: George Bush computer search"
+
+Page 6 (Confidence: 6/10)
+  SRS maintained detailed records on individuals of counterintelligence interest
+  QUOTE: "SRS maintained records identifying personalities, environments, and personal traits of individuals who had been of counterintelligence interest over the years"
+
+Page 1 (Confidence: 6/10)
+  Inquiry about records of OS operations and liaison cooperation
+  QUOTE: "Where are records that would describe liaison (etc.) cooperation or operations between OS and CI located?"
+
+Page 1 (Confidence: 6/10)
+  Index cards tracked detailed personal information on individuals
+  QUOTE: "Cards included names (primary, alias, telecodes), file numbers, kinzlatives, location/residence, DPOB, citizenship, occupation, polygraph number, reference source data, information codes, remarks, SSN, sex, employer, and file retirement data."
+
+Page 7 (Confidence: 6/10)
+  Specific file creation and management for Oswald
+  QUOTE: "As the number of documents on this person increased, a separate file was created to be the repository of information on the alleged American defector."
+
+Page 1 (Confidence: 5/10)
+  Searches for various records and items potentially associated with Oswald
+  QUOTE: "CIA-TR-17 DS&T Records on Castro Assassination Plots. Records searched for the following keywords: Castro, Oswald, Oswalt, assassin, and KDBADGER."
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 8/10)
+  Tracked international movements including Japan, USSR, Europe, and multiple US locations
+  QUOTE: "Arrives Atsugi (U2 Base) Japan 09/12/57, Departs New Orleans for Moscow via LeMavre, London, Helsinki 09/20/59"
+
+Page 5 (Confidence: 6/10)
+  Multiple government dispatches tracking Oswald's movements
+  QUOTE: "Department of State telegram #1358 from Moscow dated 9 November 1959"
+
+Page 5 (Confidence: 6/10)
+  Press clippings discussing Oswald's defection and citizenship
+  QUOTE: "The Washington Post press clipping dated 1 November 1959 entitled 'Ex-Marine Asks Soviet Citizenship'"
+
+Page 3 (Confidence: 5/10)
+  Documentation of defectors from May 1959 to October 1960
+  QUOTE: "Department of State memorandum dated 25 October 1960 with attached list of American 'defectors' from May 1959 to October 1960"
+

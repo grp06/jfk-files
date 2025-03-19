@@ -1,0 +1,32 @@
+JFK ANALYSIS SUMMARY: 104-10228-10045
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 4/10
+- Page 2: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Indicates covert monitoring and diplomatic maneuvering
+  QUOTE: "HOWEVER THEY WILL HELP COVERTLY WHEREVER POSSIBLE. ANY ATTEMPT TO INVOLVE JAMAICAN GOVT AGAINST ITS WILL AT THIS TIME WOULD RESULT IN NETLOSS OF COOPERATION NOW AND IN FUTURE."
+
+Page 2 (Confidence: 6/10)
+  Suggestion to send representative to assess local political climate
+  QUOTE: "SUBJ KNGS CONCURRENCE, SUGGESTED MAY SEND AMBUD REP TO TEST LOCAL GOVT CLIMATE FOR PROPOSED DELEG AND REPORT RESPONSE AMBUD/1"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Document discusses Jamaican government's stance on Cuba and Cold War involvement
+  QUOTE: "JAMAICAN GOVT WANTS NOT BE OVERLY INVOLVED IN COLD WAR AND OUT OF CONCERN FOR SAFETY LARGE JAMAICAN COMMUNITY CUBA WILL MAKE STRENUOUS EFFORT TO STAY OUT."
+
+Page 2 (Confidence: 7/10)
+  Discussion of communist groups in Jamaica and potential revolutionary activities
+  QUOTE: "COMPRISING LOCAL COMMUNISTS AND RAS TAFARIS), AND GIFT TO BUDDING NEW COMMUNIST FRONT 'SOCIALIST PARTY OF JAMAICA'"
+

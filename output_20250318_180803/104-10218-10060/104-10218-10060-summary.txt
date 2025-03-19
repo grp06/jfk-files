@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10218-10060
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Soviet KGB officer Nikolay Stepanovych Leonov traveling from Mexico City to Brussels
+  QUOTE: "NIKOLAY STEPANOVYCH LEONOV, SECOND SECY KK (PRESS ATTACHE), SOVEMB MEXICO CITY ACCOMPANIED BY DAUGHTER IRINA WAS SCHEDULED DEPART MEXICO CITY 29 JUNE SABENA FLT 556 FOR BRUSSELS"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Detailed travel itinerary of Soviet KGB officer
+  QUOTE: "LEONOV KGB OFFICER REPORTEDLY ON WAY MOSCOW FOR 20-DAY TDY. PLS CONFIRM ARRIVAL BRUSSELS AND DEPARTURE, PRESUMABLY NEXT AEROFLOT FLIGHT TO MOSCOW"
+

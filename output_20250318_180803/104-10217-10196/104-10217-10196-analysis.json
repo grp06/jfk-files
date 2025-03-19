@@ -1,0 +1,37 @@
+[
+  {
+    "document_id": "104-10217-10196",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "No direct evidence of organized crime connections on this page",
+        "direct_quote": "",
+        "significance": "This document does not provide information about mob links"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Internal communication about potential infiltration and accusations within revolutionary movement",
+        "direct_quote": "REVOLUTION INFORMS ITS READERS THAT RICHARD GIBSON WHO MISUSED HIS OFFICE AS FORMER SECRETARY OF 'FAIR PLAY FOR CUBA COMMITTEE' IN ORDER PENETRATE RANKS OF INTERNATIONAL REVOLUTIONARY MOVEMENT MUST NO LONGER BE CONSIDERED COLLABORATOR OF THIS REVIEW",
+        "significance": "Suggests internal political surveillance and organizational dynamics related to Cuba-focused political groups"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "040-006-138/93",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document relates to Richard Gibson, listed as OCC Editor with connection to France",
+        "direct_quote": "GIBSON, RICHARD\nOCC EDITOR\n\u0394 FRANCE",
+        "significance": "Minimal direct connection to Oswald, appears to be a document transfer form"
+      }
+    ],
+    "overall_page_relevance": 2
+  }
+]

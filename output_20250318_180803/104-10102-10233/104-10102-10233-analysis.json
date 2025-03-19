@@ -1,0 +1,42 @@
+[
+  {
+    "document_id": "104-10102-10233",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Polish diplomatic personnel Ignacy SACHS and his recent activities",
+        "direct_quote": "Ignacy SACHS, upon his return from India, will not work in the Polish Ministry of Foreign Affairs, but will be reassigned to the Latin American section of the Polish Ministry of Foreign Trade.",
+        "significance": "Provides context about international diplomatic movements around 1962, though not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Does not appear on this document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document about a Polish emigre and Polish Embassy connections",
+        "direct_quote": "All the information is from the same source, a Polish emigre who knew SZULO personally and also had informants in the Polish Embassy.",
+        "significance": "While not directly related to JFK assassination, suggests intelligence network monitoring"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

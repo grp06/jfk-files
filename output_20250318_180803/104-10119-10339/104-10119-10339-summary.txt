@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10119-10339
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 6/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Secret memo about converting a CIA staff employee's status for assignment to Mexico City under deep cover
+  QUOTE: "Concurrence is requested in the conversion of the subject's status from that of OFC Staff Employee to that of OFC Staff Agent. The subject is to be assigned to Mexico City as a GS-13, Intelligence Officer under Department of State Deep Cover."
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 5/10)
+  Memo references personnel assignment to Mexico City
+  QUOTE: "to be assigned to Mexico City"
+

@@ -1,0 +1,40 @@
+JFK ANALYSIS SUMMARY: 104-10074-10413
+================================================================================
+
+Document contains 3 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 4/10
+- Page 1: Relevance 4/10
+- Page 1: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 3/10)
+  No direct mention of Oswald, but discusses Cuban diplomatic context
+  QUOTE: ""
+
+
+ORGANIZED CRIME CONNECTIONS:
+----------------------------------------
+Page 1 (Confidence: 3/10)
+  Mentions Carlos OLIVARES, potential government/church official
+  QUOTE: "Carlos OLIVARES, Under-secretary of Foreign Affairs"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Document discusses Cuban-Mexican diplomatic interactions related to political tensions
+  QUOTE: "Jose Xavier CORTES Hernandez... represents himself as a 'priest' told Jose Antonio PORTUGOIDO VALLOY, Cuban Ambassador to Mexico"
+
+Page 1 (Confidence: 6/10)
+  Document discusses Cuban diplomatic connections and activities
+  QUOTE: "Jose Xavier CORTES Hernandez who represents himself as a priest told Juan Antonio PORTUONDO Valdes, Cuban Ambassador to Mexico"
+
+Page 1 (Confidence: 5/10)
+  Mentions communication between religious figures about actions in Mexico
+  QUOTE: "PEREZ Alonso has been conferring with Archbishop Miguel Dario Miranda, Primate of Mexico, regarding CORTES Hernandez and possible actions against him."
+

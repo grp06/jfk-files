@@ -1,0 +1,30 @@
+[
+  {
+    "document_id": "104-10163-10065",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document discusses Cuban-American intelligence networks and potential recruitment",
+        "direct_quote": "Ex-Captain in the U.S.A.F. See Pgs 201 for full details",
+        "significance": "Suggests potential intelligence community connections that could relate to Oswald's background"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Detailed notes about Cuban intelligence and anti-Castro activities",
+        "direct_quote": "Planning to send him to Nicaragua, and I have recommended his to the Nicaragua desk",
+        "significance": "Indicates complex intelligence operations involving Cuba during the period of Oswald's activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Secret CIA document discussing recruitment and operational details",
+        "direct_quote": "In my mind he is the ideal type of Latin American agent. It will be a real loss to more dedicated and more loyal",
+        "significance": "Reveals internal CIA assessment of recruitment and operational strategies"
+      }
+    ],
+    "overall_page_relevance": 7
+  }
+]

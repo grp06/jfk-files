@@ -1,0 +1,1114 @@
+INTERESTING JFK DOCUMENT FINDINGS
+==================================================
+
+DOCUMENTS RANKED BY INTEREST LEVEL:
+1. 104-10165-10077 (Score: 125)
+   Categories: DOCUMENT_METADATA, CIA_FBI_ACTIVITIES, RESEARCH_REQUEST, FOREIGN_GOVERNMENT_REACTIONS, DOCUMENT_TYPE, CIA_COVER_OPERATIONS, ORGANIZATIONAL_STRUCTURE, OSWALD_ASSOCIATIONS, DOCUMENT_REFERENCES, DISTRIBUTION_RECORDS, CONTACT_INFORMATION, ADMINISTRATIVE_DOCUMENT, SUBJECT_AREA
+   High confidence findings: 12
+   Top pages: Page 1 (Relevance: 6), Page 1 (Relevance: 5), Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+2. 198-10005-10017 (Score: 103)
+   Categories: CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS, REVOLUTIONARY_GROUPS, OPERATIONAL_INTELLIGENCE, OSWALD_ASSOCIATIONS, RESISTANCE_GROUPS, ORGANIZED_REVOLUTIONARY_GROUPS
+   High confidence findings: 11
+   Top pages: Page 1 (Relevance: 6), Page 1 (Relevance: 6), Page 4 (Relevance: 5), Page 5 (Relevance: 5)
+   Contains direct quotes: Yes
+
+3. 104-10186-10099 (Score: 87)
+   Categories: POLITICAL_INTELLIGENCE, CIA_FBI_ACTIVITIES, REPRESSIVE_BODIES, INTELLIGENCE_OPERATIONS, FOREIGN_GOVERNMENT_REACTIONS, CIA_ACTIVITIES, COUNTERREVOLUTIONARY_ORGANIZATIONS
+   High confidence findings: 9
+   Top pages: Page 1 (Relevance: 5), Page 2 (Relevance: 5), Page 6 (Relevance: 7)
+   Contains direct quotes: Yes
+
+4. 104-10048-10124 (Score: 79)
+   Categories: CIA_FBI_ACTIVITIES, CUBA_OPERATIONS, FOREIGN_GOVERNMENT_REACTIONS, PROPAGANDA_OPERATIONS, OPERATIONAL_INTELLIGENCE, OSWALD_ASSOCIATIONS
+   High confidence findings: 7
+   Top pages: Page 1 (Relevance: 5), Page 4 (Relevance: 5), Page 5 (Relevance: 5), Page 6 (Relevance: 5)
+   Contains direct quotes: Yes
+
+5. 104-10185-10244 (Score: 78)
+   Categories: LOCATION_DETAILS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS, DOCUMENT_TYPE, INTERNAL_GOVT_COMMUNICATIONS, SUBJECT_SITE_DETAILS, SECURITY_CONSIDERATIONS, COMMUNICATION_SYSTEMS, SITE_DESCRIPTION
+   High confidence findings: 7
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+6. 124-10300-10012 (Score: 66)
+   Categories: DOCUMENT_CLASSIFICATION, DOCUMENT_METADATA, CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS, OSWALD_ASSOCIATIONS, SUBJECT_INFORMATION
+   High confidence findings: 6
+   Top pages: Page 1 (Relevance: 6), Page 2 (Relevance: 6), Page 2 (Relevance: 6)
+   Contains direct quotes: Yes
+
+7. 104-10291-10009 (Score: 59)
+   Categories: TRAVEL_FINANCIAL_RECORDS, ADMINISTRATIVE_RECORDS, INTERNAL_GOVT_COMMUNICATIONS, ORGANIZATIONAL_LEADERSHIP, OSWALD_ASSOCIATIONS
+   High confidence findings: 6
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+8. 104-10234-10102 (Score: 57)
+   Categories: OSWALD_ASSOCIATIONS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 5
+   Top pages: Page 1 (Relevance: 5), Page 2 (Relevance: 5), Page 5 (Relevance: 5)
+   Contains direct quotes: Yes
+
+9. 104-10170-10015 (Score: 51)
+   Categories: INTELLIGENCE_COORDINATION, FOREIGN_GOVERNMENT_REACTIONS, ANSPELL_UNDERGROUND_ACTIVITIES, CUBAN_RESISTANCE_FINANCING, OSWALD_ASSOCIATIONS, FINANCIAL_RECORDS
+   High confidence findings: 4
+   Top pages: Page 1 (Relevance: 7)
+   Contains direct quotes: Yes
+
+10. 124-10326-10103 (Score: 49)
+   Categories: DOCUMENT_METADATA, CIA_FBI_ACTIVITIES, COMMUNICATION_CHAIN, AGENCY_INFORMATION, SURVEILLANCE_RECORDS
+   High confidence findings: 4
+   Top pages: Page 1 (Relevance: 6), Page 2 (Relevance: 6)
+   Contains direct quotes: Yes
+
+11. 104-10186-10264 (Score: 49)
+   Categories: OSWALD_ASSOCIATIONS, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 5
+   Top pages: Page 1 (Relevance: 5), Page 2 (Relevance: 6)
+   Contains direct quotes: Yes
+
+12. 104-10290-10309 (Score: 47)
+   Categories: OSWALD_ASSOCIATIONS, ORGANIZED_CRIME_CONNECTIONS, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 4
+   Top pages: Page 1 (Relevance: 5), Page 2 (Relevance: 6)
+   Contains direct quotes: Yes
+
+13. 104-10308-10062 (Score: 46)
+   Categories: OSWALD_ASSOCIATIONS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 4
+   Contains direct quotes: Yes
+
+14. 124-90124-10092 (Score: 46)
+   Categories: DOCUMENT_METADATA, DOCUMENT_TIMELINE, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS, OSWALD_ASSOCIATIONS, CLASSIFICATION_DETAILS
+   High confidence findings: 3
+   Top pages: Page 1 (Relevance: 7)
+   Contains direct quotes: Yes
+
+15. 104-10406-10139 (Score: 43)
+   Categories: DOCUMENT_CONTEXT, DOCUMENT_TYPE, INTELLIGENCE_METHODOLOGY, FILING_PROCEDURES
+   High confidence findings: 4
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+16. 104-10048-10252 (Score: 43)
+   Categories: GEOGRAPHICAL_DISTRIBUTION, SECURITY_CLASSIFICATION, SOURCE_INFORMATION, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 4
+   Top pages: Page 1 (Relevance: 6)
+   Contains direct quotes: Yes
+
+17. 124-90139-10002 (Score: 42)
+   Categories: DOCUMENT_CLASSIFICATION, CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 4
+   Top pages: Page 1 (Relevance: 6), Page 2 (Relevance: 5)
+   Contains direct quotes: Yes
+
+18. 104-10074-10413 (Score: 38)
+   Categories: OSWALD_ASSOCIATIONS, ORGANIZED_CRIME_CONNECTIONS, SOURCE_INFORMATION, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 3
+   Contains direct quotes: Yes
+
+19. 104-10120-10373 (Score: 38)
+   Categories: CIA_FBI_ACTIVITIES, TRAINING_OPERATIONS, INTERNAL_GOVT_COMMUNICATIONS, GEOGRAPHICAL_CONTEXT
+   High confidence findings: 3
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+20. 124-90137-10357 (Score: 35)
+   Categories: DOCUMENT_CLASSIFICATION, CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 3
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+21. 104-10121-10304 (Score: 34)
+   Categories: SURVEILLANCE_RECORDS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS
+   High confidence findings: 3
+   Top pages: Page 1 (Relevance: 7)
+   Contains direct quotes: Yes
+
+22. 104-10169-10017 (Score: 32)
+   Categories: CIA_FBI_ACTIVITIES, ORGANIZED_CRIME_CONNECTIONS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5), Page 2 (Relevance: 5)
+   Contains direct quotes: Yes
+
+23. 104-10077-10369 (Score: 25)
+   Categories: DOCUMENT_TYPE, IDENTITIES
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+24. 104-10172-10255 (Score: 25)
+   Categories: INTERNAL_GOVT_COMMUNICATIONS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+25. 104-10234-10088 (Score: 25)
+   Categories: CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+26. 104-10077-10382 (Score: 25)
+   Categories: TRAVEL_RECORDS, INTERNAL_GOVT_COMMUNICATIONS
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+27. 104-10188-10454 (Score: 25)
+   Categories: CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+28. 176-10037-10460 (Score: 25)
+   Categories: DOCUMENT_CLASSIFICATION, CIA_FBI_ACTIVITIES
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+29. 104-10218-10060 (Score: 25)
+   Categories: TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+30. 104-10123-10421 (Score: 25)
+   Categories: CIA_FBI_ACTIVITIES, INTERNAL_GOVT_COMMUNICATIONS
+   High confidence findings: 2
+   Top pages: Page 1 (Relevance: 6)
+   Contains direct quotes: Yes
+
+31. 104-10217-10196 (Score: 24)
+   Categories: OSWALD_ASSOCIATIONS, CIA_FBI_ACTIVITIES, ORGANIZED_CRIME_CONNECTIONS
+   High confidence findings: 1
+   Top pages: Page 1 (Relevance: 5)
+   Contains direct quotes: Yes
+
+32. 104-10110-10340 (Score: 23)
+   Categories: ADMINISTRATIVE_PROCESS, DOCUMENT_TYPE
+   High confidence findings: 2
+   Contains direct quotes: Yes
+
+33. 104-10175-10152 (Score: 20)
+   Categories: CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 1
+   Top pages: Page 1 (Relevance: 6)
+   Contains direct quotes: Yes
+
+34. 104-10519-10184 (Score: 18)
+   Categories: OSWALD_ASSOCIATIONS, TRAVEL_FINANCIAL_RECORDS
+   High confidence findings: 1
+   Contains direct quotes: Yes
+
+35. 104-10073-10113 (Score: 18)
+   Categories: OSWALD_ASSOCIATIONS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 1
+   Contains direct quotes: Yes
+
+36. 104-10172-10137 (Score: 14)
+   Categories: FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 1
+   Contains direct quotes: Yes
+
+37. 104-10110-10433 (Score: 13)
+   Categories: OSWALD_ASSOCIATIONS, FOREIGN_GOVERNMENT_REACTIONS
+   High confidence findings: 0
+   Contains direct quotes: Yes
+
+38. 104-10072-10212 (Score: 0)
+   Categories: 
+   High confidence findings: 0
+   Contains direct quotes: No
+
+
+CATEGORY DISTRIBUTION:
+FOREIGN_GOVERNMENT_REACTIONS: 23 documents
+   Found in: 104-10165-10077, 198-10005-10017, 104-10186-10099, 104-10048-10124, 124-10300-10012, 104-10234-10102, 104-10170-10015, 104-10186-10264, 104-10290-10309, 104-10308-10062, 124-90124-10092, 104-10048-10252, 124-90139-10002, 104-10074-10413, 124-90137-10357, 104-10169-10017, 104-10172-10255, 104-10188-10454, 104-10218-10060, 104-10175-10152, 104-10073-10113, 104-10172-10137, 104-10110-10433
+
+CIA_FBI_ACTIVITIES: 20 documents
+   Found in: 104-10165-10077, 198-10005-10017, 104-10186-10099, 104-10048-10124, 104-10185-10244, 124-10300-10012, 104-10234-10102, 124-10326-10103, 104-10308-10062, 124-90139-10002, 104-10120-10373, 124-90137-10357, 104-10121-10304, 104-10169-10017, 104-10234-10088, 104-10188-10454, 176-10037-10460, 104-10123-10421, 104-10217-10196, 104-10175-10152
+
+OSWALD_ASSOCIATIONS: 16 documents
+   Found in: 104-10165-10077, 198-10005-10017, 104-10048-10124, 124-10300-10012, 104-10291-10009, 104-10234-10102, 104-10170-10015, 104-10186-10264, 104-10290-10309, 104-10308-10062, 124-90124-10092, 104-10074-10413, 104-10217-10196, 104-10519-10184, 104-10073-10113, 104-10110-10433
+
+TRAVEL_FINANCIAL_RECORDS: 11 documents
+   Found in: 104-10185-10244, 104-10291-10009, 104-10234-10102, 104-10186-10264, 104-10290-10309, 104-10308-10062, 124-90124-10092, 104-10121-10304, 104-10234-10088, 104-10218-10060, 104-10519-10184
+
+INTERNAL_GOVT_COMMUNICATIONS: 6 documents
+   Found in: 104-10185-10244, 104-10291-10009, 104-10120-10373, 104-10172-10255, 104-10077-10382, 104-10123-10421
+
+DOCUMENT_TYPE: 5 documents
+   Found in: 104-10165-10077, 104-10185-10244, 104-10406-10139, 104-10077-10369, 104-10110-10340
+
+DOCUMENT_METADATA: 4 documents
+   Found in: 104-10165-10077, 124-10300-10012, 124-10326-10103, 124-90124-10092
+
+DOCUMENT_CLASSIFICATION: 4 documents
+   Found in: 124-10300-10012, 124-90139-10002, 124-90137-10357, 176-10037-10460
+
+ORGANIZED_CRIME_CONNECTIONS: 4 documents
+   Found in: 104-10290-10309, 104-10074-10413, 104-10169-10017, 104-10217-10196
+
+OPERATIONAL_INTELLIGENCE: 2 documents
+   Found in: 198-10005-10017, 104-10048-10124
+
+SURVEILLANCE_RECORDS: 2 documents
+   Found in: 124-10326-10103, 104-10121-10304
+
+SOURCE_INFORMATION: 2 documents
+   Found in: 104-10048-10252, 104-10074-10413
+
+RESEARCH_REQUEST: 1 documents
+   Found in: 104-10165-10077
+
+CIA_COVER_OPERATIONS: 1 documents
+   Found in: 104-10165-10077
+
+ORGANIZATIONAL_STRUCTURE: 1 documents
+   Found in: 104-10165-10077
+
+DOCUMENT_REFERENCES: 1 documents
+   Found in: 104-10165-10077
+
+DISTRIBUTION_RECORDS: 1 documents
+   Found in: 104-10165-10077
+
+CONTACT_INFORMATION: 1 documents
+   Found in: 104-10165-10077
+
+ADMINISTRATIVE_DOCUMENT: 1 documents
+   Found in: 104-10165-10077
+
+SUBJECT_AREA: 1 documents
+   Found in: 104-10165-10077
+
+REVOLUTIONARY_GROUPS: 1 documents
+   Found in: 198-10005-10017
+
+RESISTANCE_GROUPS: 1 documents
+   Found in: 198-10005-10017
+
+ORGANIZED_REVOLUTIONARY_GROUPS: 1 documents
+   Found in: 198-10005-10017
+
+POLITICAL_INTELLIGENCE: 1 documents
+   Found in: 104-10186-10099
+
+REPRESSIVE_BODIES: 1 documents
+   Found in: 104-10186-10099
+
+INTELLIGENCE_OPERATIONS: 1 documents
+   Found in: 104-10186-10099
+
+CIA_ACTIVITIES: 1 documents
+   Found in: 104-10186-10099
+
+COUNTERREVOLUTIONARY_ORGANIZATIONS: 1 documents
+   Found in: 104-10186-10099
+
+CUBA_OPERATIONS: 1 documents
+   Found in: 104-10048-10124
+
+PROPAGANDA_OPERATIONS: 1 documents
+   Found in: 104-10048-10124
+
+LOCATION_DETAILS: 1 documents
+   Found in: 104-10185-10244
+
+SUBJECT_SITE_DETAILS: 1 documents
+   Found in: 104-10185-10244
+
+SECURITY_CONSIDERATIONS: 1 documents
+   Found in: 104-10185-10244
+
+COMMUNICATION_SYSTEMS: 1 documents
+   Found in: 104-10185-10244
+
+SITE_DESCRIPTION: 1 documents
+   Found in: 104-10185-10244
+
+SUBJECT_INFORMATION: 1 documents
+   Found in: 124-10300-10012
+
+ADMINISTRATIVE_RECORDS: 1 documents
+   Found in: 104-10291-10009
+
+ORGANIZATIONAL_LEADERSHIP: 1 documents
+   Found in: 104-10291-10009
+
+INTELLIGENCE_COORDINATION: 1 documents
+   Found in: 104-10170-10015
+
+ANSPELL_UNDERGROUND_ACTIVITIES: 1 documents
+   Found in: 104-10170-10015
+
+CUBAN_RESISTANCE_FINANCING: 1 documents
+   Found in: 104-10170-10015
+
+FINANCIAL_RECORDS: 1 documents
+   Found in: 104-10170-10015
+
+COMMUNICATION_CHAIN: 1 documents
+   Found in: 124-10326-10103
+
+AGENCY_INFORMATION: 1 documents
+   Found in: 124-10326-10103
+
+DOCUMENT_TIMELINE: 1 documents
+   Found in: 124-90124-10092
+
+CLASSIFICATION_DETAILS: 1 documents
+   Found in: 124-90124-10092
+
+DOCUMENT_CONTEXT: 1 documents
+   Found in: 104-10406-10139
+
+INTELLIGENCE_METHODOLOGY: 1 documents
+   Found in: 104-10406-10139
+
+FILING_PROCEDURES: 1 documents
+   Found in: 104-10406-10139
+
+GEOGRAPHICAL_DISTRIBUTION: 1 documents
+   Found in: 104-10048-10252
+
+SECURITY_CLASSIFICATION: 1 documents
+   Found in: 104-10048-10252
+
+TRAINING_OPERATIONS: 1 documents
+   Found in: 104-10120-10373
+
+GEOGRAPHICAL_CONTEXT: 1 documents
+   Found in: 104-10120-10373
+
+IDENTITIES: 1 documents
+   Found in: 104-10077-10369
+
+TRAVEL_RECORDS: 1 documents
+   Found in: 104-10077-10382
+
+ADMINISTRATIVE_PROCESS: 1 documents
+   Found in: 104-10110-10340
+
+
+HIGHLY INTERESTING DOCUMENTS:
+104-10165-10077 (Score: 125)
+   File path: output_20250318_180803/104-10165-10077/104-10165-10077-analysis.json
+   Categories: DOCUMENT_METADATA, CIA_FBI_ACTIVITIES, RESEARCH_REQUEST, FOREIGN_GOVERNMENT_REACTIONS, DOCUMENT_TYPE, CIA_COVER_OPERATIONS, ORGANIZATIONAL_STRUCTURE, OSWALD_ASSOCIATIONS, DOCUMENT_REFERENCES, DISTRIBUTION_RECORDS, CONTACT_INFORMATION, ADMINISTRATIVE_DOCUMENT, SUBJECT_AREA
+   Significant findings:
+     - DOCUMENT_METADATA (Page 1, Confidence: 9/10)
+       Confidential memorandum from Ruth Elliff to DDO/ISS/IP/E1S dated 19 April 1978
+       QUOTE: "CONFIDENTIAL"
+
+     - RESEARCH_REQUEST (Page 1, Confidence: 8/10)
+       Request from House Select Committee on Assassinations for specific files
+       QUOTE: "House Select Committee on Assassinations Request (OLC 73-0986/1)"
+
+     - DOCUMENT_REFERENCES (Page 1, Confidence: 7/10)
+       Mentions files on Abram Chayes and documents about Monica Kramer and Rita Naasan
+       QUOTE: "a. DCD file A-19-91-59 on Abram Chayes (on loan). b. Documents concerning Monica Kramer and Rita Naasan."
+
+     - DOCUMENT_TYPE (Page 1, Confidence: 10/10)
+       Confidential process sheet for DCD collections about Soviet scientific papers
+       QUOTE: "PROCESS SHEET FOR DCD COLLECTIONS"
+
+     - SUBJECT_AREA (Page 1, Confidence: 8/10)
+       Papers by Soviet Scientists on Nuclear Weapons, Disarmament, and European Security
+       QUOTE: "Four Papers by Soviet Scientists on Proliferation of Nuclear Weapons, Disarmament, the Complete General Ban of Nuclear Tests, and European Security (USSR)"
+
+     - CONTACT_INFORMATION (Page 1, Confidence: 7/10)
+       Document addressed to Prof. Abram Chayes at Harvard Law School
+       QUOTE: "Prof. Abram Chayes, Harvard Law School, Cambridge, MA"
+
+     - ADMINISTRATIVE_DOCUMENT (Page 1, Confidence: 8/10)
+       Confidential process sheet for DCD Collections related to Pugwash Conference reports
+       QUOTE: "Reports of the Four Working Groups at the 26th Pugwash Conference (USSR/INTERNATIONAL)"
+
+     - CONTACT_INFORMATION (Page 1, Confidence: 7/10)
+       Contact for Prof. Abram Chayel from Harvard Law School in Cambridge, MA
+       QUOTE: "Prof. Abram Chayel, Harvard Law School, Cambridge, MA"
+
+     - DISTRIBUTION_RECORDS (Page 1, Confidence: 6/10)
+       Extra copies of document distributed to multiple recipients
+       QUOTE: "Extra copies of document to: John Sanders, Martha Mautner, Glenn Buchan, William Capron"
+
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       Document discusses alleged CIA involvement with Josran Foundation and possible covert operations
+       QUOTE: "alleged CIA use of the Josran Foundation and the J. N. Miller Fund, Inc. to fund Organizational Involvement"
+
+     - CIA_COVER_OPERATIONS (Page 1, Confidence: 7/10)
+       Document describes CIA cover activities for an individual named Shalloway in Paris
+       QUOTE: "SHALLOWAY (P) currently in Paris was provided cover in Paris, France from 1954-1955 by the Research Institute of America, Inc. During operations aside Cuba in 1959-60 Ms. Cherne was active in both CA and MI and capable."
+
+     - ORGANIZATIONAL_STRUCTURE (Page 1, Confidence: 6/10)
+       Document shows internal CIA distribution and record-keeping process
+       QUOTE: "Distribution: Orig & 1 - Aiss (handcarried), 1 - 18382 (Shalloway)'s file, 1 - C/CCS, 1 - 140CSET/46 - FS-1121 (Aaron E. Norsan Fund)"
+
+
+198-10005-10017 (Score: 103)
+   File path: output_20250318_180803/198-10005-10017/198-10005-10017-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS, REVOLUTIONARY_GROUPS, OPERATIONAL_INTELLIGENCE, OSWALD_ASSOCIATIONS, RESISTANCE_GROUPS, ORGANIZED_REVOLUTIONARY_GROUPS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       CIA document related to Cuba Project and anti-Castro Cuban resistance groups
+       QUOTE: "CUBA PROJECT PROGRESS REPORT"
+
+     - OPERATIONAL_INTELLIGENCE (Page 1, Confidence: 7/10)
+       Secret draft report on Cuban resistance movement organizations
+       QUOTE: "An internal leader of the Movimiento Recuperacion Revolucionario (MRR) who was infiltrated into Cuba on 29 December 1961, and exfiltrated on 29 March 1962"
+
+     - REVOLUTIONARY_GROUPS (Page 1, Confidence: 8/10)
+       Identified five key clandestine resistance organizations in Cuba
+       QUOTE: "Considers only five clandestine resistance organizations in Cuba of national importance: The Directorio Revolucionario Estudiantil (DRE), Movimiento Democratico Cristiano (MDC), Movimiento Revolucionario del Pueblo (MRP), Movimiento Recuperacion Revolucionario (MRR), and the 30th of November"
+
+     - CIA_FBI_ACTIVITIES (Page 2, Confidence: 6/10)
+       Diplomatic intelligence recruitment and training
+       QUOTE: "A unilaterally recruited senior officer of the diplomatic service of a neutralist African country has been briefed and given training in secret writing and communications to assist him in reporting on our objectives in Cuba."
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 7/10)
+       CIA document about Cuban refugees and intelligence gathering
+       QUOTE: "We received valuable data on Cuban trade from the debriefing of a former official of the Ministry of Commerce who defected in Canada"
+
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 6/10)
+       CIA attempting to recruit defected Cuban official
+       QUOTE: "We contacted him and attempted unsuccessfully to induce him to return to Cuba as our agent"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 4, Confidence: 6/10)
+       Document discusses Cuban refugee intelligence and communist infiltration
+       QUOTE: "Cuban refugees through Miami, processed 263 preliminary interrogation"
+
+     - CIA_FBI_ACTIVITIES (Page 4, Confidence: 7/10)
+       Detailed intelligence gathering about communist informants in Cuban towns
+       QUOTE: "Numerous reports confirm that all towns have been partitioned into 'blocks' infiltrated by communist informants under the direction of block chiefs of the 'Comite de Defensa'"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 5, Confidence: 7/10)
+       Document discusses Soviet military equipment in Cuba
+       QUOTE: "Soviet military equipment has been reported in increasingly larger quantities and wider disbursement."
+
+     - RESISTANCE_GROUPS (Page 5, Confidence: 6/10)
+       Existence of Cuban resistance organizations detailed
+       QUOTE: "Refugees described the existence of three resistance organizations, allegedly widespread in membership but limited in action."
+
+     - ORGANIZED_REVOLUTIONARY_GROUPS (Page 6, Confidence: 6/10)
+       Details about three revolutionary/resistance organizations
+       QUOTE: "A third organization, the Unidad Revolucionario (UR), is reported to be carrying out the sabotage of sugar fields by burning, using a small incendiary device made of gelatin, match heads, potassium permanganate tablets, and glycerine."
+
+
+104-10186-10099 (Score: 87)
+   File path: output_20250318_180803/104-10186-10099/104-10186-10099-analysis.json
+   Categories: POLITICAL_INTELLIGENCE, CIA_FBI_ACTIVITIES, REPRESSIVE_BODIES, INTELLIGENCE_OPERATIONS, FOREIGN_GOVERNMENT_REACTIONS, CIA_ACTIVITIES, COUNTERREVOLUTIONARY_ORGANIZATIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       CIA document detailing policy guidance directives for Cuban Intelligence Representatives in the Dominican Republic
+       QUOTE: "Policy Guidance Directives for Cuban Intelligence Representatives in the Dominican Republic"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 6/10)
+       Document prepared during the regime of Juan Bosch Gavino, indicating complex political landscape
+       QUOTE: "It may be noted that this directive was prepared during the régime of Juan Bosch Gavino"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 2, Confidence: 7/10)
+       Detailed intelligence guidelines focused on Cuba and Dominican Republic
+       QUOTE: "Political and military agreements adopted by regional organs against Cuba in which the Bosch government participates"
+
+     - CIA_FBI_ACTIVITIES (Page 2, Confidence: 6/10)
+       Intelligence gathering priorities on leftist forces and potential interventions
+       QUOTE: "Status of Leftist Forces: organization, leaders, strength, position, and argumentation in the revolutionary struggle"
+
+     - COUNTERREVOLUTIONARY_ORGANIZATIONS (Page 5, Confidence: 7/10)
+       Document details counterrevolutionary organizations in Dominican Republic and their connections
+       QUOTE: "Cuban counterrevolutionary organizations which are functioning in Santo Domingo: their leaders, government personnel, especially with people in the new regime who are responsible for establishing such contact."
+
+     - INTELLIGENCE_OPERATIONS (Page 5, Confidence: 6/10)
+       Intelligence organizations and their activities in Santo Domingo
+       QUOTE: "Intelligence organizations functioning in Santo Domingo. Leaders, Elements abroad. Their duties and functions. Activities carried on. Plans and objectives of Dominican Intelligence, principally against Cuba, Trujillista elements still functioning inside this body; duties and functions."
+
+     - CIA_ACTIVITIES (Page 6, Confidence: 7/10)
+       Detailed section on CIA operations and personnel in foreign countries
+       QUOTE: "Leading functionalities of the CIA in the country: its office. Plans and objectives, it pursues in Santo Domingo."
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 6, Confidence: 6/10)
+       Sections on Cuban-Soviet relations and political movements
+       QUOTE: "In regard to Cuban-Soviet relations, in questions which affect Cuba and world peace."
+
+     - POLITICAL_INTELLIGENCE (Page 6, Confidence: 8/10)
+       Comprehensive intelligence gathering on political parties and groups
+       QUOTE: "Status of the Parties or Political Groups: composition, strength, penetration, factions, leaders, programs, etc."
+
+
+104-10048-10124 (Score: 79)
+   File path: output_20250318_180803/104-10048-10124/104-10048-10124-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, CUBA_OPERATIONS, FOREIGN_GOVERNMENT_REACTIONS, PROPAGANDA_OPERATIONS, OPERATIONAL_INTELLIGENCE, OSWALD_ASSOCIATIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       CIA internal dispatch discussing special activities and relationship with an asset (AMCARBON-2)
+       QUOTE: "This review indicates that the relationship with AMCARBON-2 evolved from that action which was taken in September 1962 to insure that a security breach would not occur"
+
+     - OPERATIONAL_INTELLIGENCE (Page 4, Confidence: 6/10)
+       Document discusses AMCARBON-1's operational intelligence activities from February 1963 to February 1964
+       QUOTE: "In the period February 1963 to February 1964, AMCARBON-1 has furnished JMWAVE with operational intelligence as outlined below:"
+
+     - CUBA_OPERATIONS (Page 4, Confidence: 7/10)
+       Detailed information about intelligence activities related to Cuba
+       QUOTE: "This operational intelligence was most helpful in terms of keeping JMWAVE informed on AMEND-1's movements. Subsequent developments revealed that AMCARBON-1 could not contact AMEND-1"
+
+     - CIA_FBI_ACTIVITIES (Page 5, Confidence: 7/10)
+       Document appears to be a CIA operational intelligence report about various communications and intelligence gathering activities
+       QUOTE: "AMCARBON-1 advised JMWAVE about various operational intelligence matters in 1963"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 5, Confidence: 6/10)
+       Multiple references to Cuban operations and intelligence gathering
+       QUOTE: "information about KUBANK vessels located in South Florida waters, strategic missiles hidden in Cuban caves"
+
+     - PROPAGANDA_OPERATIONS (Page 6, Confidence: 7/10)
+       Document discusses propaganda efforts through AMCARBON-1 defection story
+       QUOTE: "AMCARBON-1 has been used successfully, during the period covered by this report, as a propaganda outlet through which items of interest to KUBARK could be surfaced in the free world press."
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 6, Confidence: 6/10)
+       Mentions Cuban and Latin American information operations
+       QUOTE: "The details of this particular story were played up by UPI, API and others, and it was played throughout Latin America."
+
+
+104-10185-10244 (Score: 78)
+   File path: output_20250318_180803/104-10185-10244/104-10185-10244-analysis.json
+   Categories: LOCATION_DETAILS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS, DOCUMENT_TYPE, INTERNAL_GOVT_COMMUNICATIONS, SUBJECT_SITE_DETAILS, SECURITY_CONSIDERATIONS, COMMUNICATION_SYSTEMS, SITE_DESCRIPTION
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       Secret memorandum about establishing a covert site in Silver Spring, Maryland
+       QUOTE: "COVERT SITE G 32 24, Semi-Hills Apartments, 8500 16th Street, Silver Spring, Maryland"
+
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 1, Confidence: 6/10)
+       Classified inter-agency communication about procurement of safehouse
+       QUOTE: "Reference is made to your memorandum dated 19 May 1964 to the Chief, Safehouse Procurement Branch, Office of Logistics"
+
+     - DOCUMENT_TYPE (Page 1, Confidence: 10/10)
+       Secret classified document with synopsis from June 1964
+       QUOTE: "SECRET"
+
+     - SITE_DESCRIPTION (Page 1, Confidence: 8/10)
+       Detailed location description of a building, appears to be an administrative or government site
+       QUOTE: "The SUBJECT SITE building is located on a modern middle-class apartment development in east Washington, D.C."
+
+     - LOCATION_DETAILS (Page 1, Confidence: 7/10)
+       Precise geographical and infrastructural details about the site
+       QUOTE: "Located along a main thoroughfare, near Montgomery County, with transit bus service available"
+
+     - SUBJECT_SITE_DETAILS (Page 1, Confidence: 7/10)
+       Secret document describing a subject site building location details
+       QUOTE: "SUBJECT SITE is located on the ground level of the SUBJECT SITE building. Two elevators are located at the rear, or 'lobby' and a stairway to all floors of SUBJECT SITE building is located at the extreme east end of the east wing."
+
+     - SECURITY_CONSIDERATIONS (Page 1, Confidence: 6/10)
+       Potential security hazards identified
+       QUOTE: "SUBJECT SITE building is located on the ground floor... SUBJECT SITE: warns are ground level. Visual and technical penetration may be possible from the land area surrounding SUBJECT SITE building and parking lot"
+
+
+124-10300-10012 (Score: 66)
+   File path: output_20250318_180803/124-10300-10012/124-10300-10012-analysis.json
+   Categories: DOCUMENT_CLASSIFICATION, DOCUMENT_METADATA, CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS, OSWALD_ASSOCIATIONS, SUBJECT_INFORMATION
+   Significant findings:
+     - DOCUMENT_METADATA (Page 1, Confidence: 9/10)
+       FBI document related to JFK Assassination Records Act release
+       QUOTE: "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992"
+
+     - SUBJECT_INFORMATION (Page 1, Confidence: 7/10)
+       Document involves Jorge Raul Roblejo, associated with political prisoners
+       QUOTE: "SUBJECTS: MR. LORIE, JORGE RAUL ROBLEJO, RES, POLIT ACT, TRA, ASSOC, POLIT PRISONERS"
+
+     - DOCUMENT_CLASSIFICATION (Page 1, Confidence: 8/10)
+       Highly restricted document with multiple classification levels
+       QUOTE: "CLASSIFICATION: Secret, 1B; IC4, CURRENT STATUS: Redact"
+
+     - OSWALD_ASSOCIATIONS (Page 2, Confidence: 7/10)
+       Document references 'JORGE SERGIO OSWALDO' in connection with Cuban liberation committee
+       QUOTE: "RAUL ROBLEJO LORIE, IS - CUBA and SERGIO OSWALDO BETANCOURT COLLAZO, aka - PSI, IS - CUBA"
+
+     - CIA_FBI_ACTIVITIES (Page 2, Confidence: 8/10)
+       CIA and FBI inter-agency communication about Cuban liberation group
+       QUOTE: "COMITE PRO-LIBERACION DE LOS CIEN (CIPLIC - COMMITTEE FOR THE LIBERATION OF THE ONE HUNDRED) IS - CUBA"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 2, Confidence: 7/10)
+       Cuban intelligence and diplomatic connections involving potential informants
+       QUOTE: "ROBLEJO has been in contact with REINALDO ABREU, Attache at the Cuban Embassy in Mexico City and connected with Cuban Intelligence"
+
+
+104-10291-10009 (Score: 59)
+   File path: output_20250318_180803/104-10291-10009/104-10291-10009-analysis.json
+   Categories: TRAVEL_FINANCIAL_RECORDS, ADMINISTRATIVE_RECORDS, INTERNAL_GOVT_COMMUNICATIONS, ORGANIZATIONAL_LEADERSHIP, OSWALD_ASSOCIATIONS
+   Significant findings:
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 1, Confidence: 7/10)
+       CIA New York Office memo dated 30 November 1959 requesting information on a commercial staff matter
+       QUOTE: "Commercial Staff has requested a Lge & Prodrtrict report on Maritime Unit, a New Commercial Section Member in Den, Jan 1956"
+
+     - ADMINISTRATIVE_RECORDS (Page 1, Confidence: 7/10)
+       Document appears to be an administrative record for an organization, possibly related to international operations
+       QUOTE: "ONE OF DIRECTOR ENRICO MANDEL-MANTELLO & ENRICO MANDEL-MANTELLO"
+
+     - TRAVEL_FINANCIAL_RECORDS (Page 1, Confidence: 6/10)
+       Document shows address and capital information for an organization
+       QUOTE: "CAPITAL - 1 RPT 1 MILLION FRENCH FRANCS"
+
+     - ORGANIZATIONAL_LEADERSHIP (Page 1, Confidence: 8/10)
+       Lists organizational officers and leadership
+       QUOTE: "OFFICER - DR. FERENS NAGY, DR. FERENS NAGY, PRESIDENT"
+
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 1, Confidence: 7/10)
+       Routine interdepartmental communication about international trade
+       QUOTE: "Pertaining to International Trade Center"
+
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 7, Confidence: 7/10)
+       Interdepartmental memo from Chief, DCS-CI to Chief, Contact Division, dated 22 January 1960
+       QUOTE: "Your memorandum dated 23 November 1959, DO/OO Case 31785"
+
+
+104-10234-10102 (Score: 57)
+   File path: output_20250318_180803/104-10234-10102/104-10234-10102-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       Secret dispatch discussing operational memo about AMTRUNK-9 and AMICE-14 intelligence assets
+       QUOTE: "TRANSMITTAL DE COPY OF MEMO REGARDING AMTRUNK-9 INFIL WHICH ACTION RECORD PASSED TO ACS 19 JANUARY 1965"
+
+     - TRAVEL_FINANCIAL_RECORDS (Page 2, Confidence: 7/10)
+       Orozco discussing husband's travel plans and financial arrangements
+       QUOTE: "CAS SOURCE ASKED MRS. OROZCO INTO WHAT AREA DID HER HUSBAND INTEND TO INFILTRATE CUBA"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 2, Confidence: 6/10)
+       References to interactions with Cuba and potential infiltration activities
+       QUOTE: "PLANNED TO GO INTO NORTHEASTERN MATANZAS PROVINCE TO THE MARTI AREA"
+
+     - OSWALD_ASSOCIATIONS (Page 5, Confidence: 7/10)
+       References to a person named 'JORGE' who appears to work for or be connected to the Pentagon and intelligence activities
+       QUOTE: "SUB-SOURCE THAT BOTH CRIZCNCO AND ''JORGE'' WORK FOR THE PENTAGON AND ALSO MENTION CRIZCNCO'S VISITS ON 8 AND 11 JANUARY"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 5, Confidence: 6/10)
+       Discusses activities and interactions involving Cuba and Mexican government connections
+       QUOTE: "MRS. OROZCO TOLD THIS SUB-SOURCE THAT SHE WAS GOING TO PUT PRESSURE UPON THEIR RESPECTIVE PENTAGON/GRIZONDO AND ''JORGE''"
+
+
+104-10170-10015 (Score: 51)
+   File path: output_20250318_180803/104-10170-10015/104-10170-10015-analysis.json
+   Categories: INTELLIGENCE_COORDINATION, FOREIGN_GOVERNMENT_REACTIONS, ANSPELL_UNDERGROUND_ACTIVITIES, CUBAN_RESISTANCE_FINANCING, OSWALD_ASSOCIATIONS, FINANCIAL_RECORDS
+   Significant findings:
+     - ANSPELL_UNDERGROUND_ACTIVITIES (Page 1, Confidence: 7/10)
+       Document discusses underground activities and guerrilla warfare efforts in Cuba in November 1962
+       QUOTE: "ANSPELL Underground Activities - November 1962"
+
+     - CUBAN_RESISTANCE_FINANCING (Page 1, Confidence: 8/10)
+       Attachment B contains a detailed analysis of Cuban underground financing for October 1962
+       QUOTE: "Attachment B is a report of underground financing for October 1962 and is the first detailed analysis of Cuban finances ever received by JMWAVE"
+
+     - INTELLIGENCE_COORDINATION (Page 1, Confidence: 6/10)
+       Document shows inter-agency communication about covert activities
+       QUOTE: "Forwarded under separate cover as Attachment A is a copy of the original, and translation of a letter from the National Coordination Committee of ANSPELL in Cuba dated 28 November 1962"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 6/10)
+       Document discusses Cuban guerrilla activities in Las Villas, Cuba
+       QUOTE: "The DRE flag has now been raised in the Free Territory in Cuba. A small guerrilla (group) well supplied, is now representing us in the North Zone of Las Villas."
+
+
+124-10326-10103 (Score: 49)
+   File path: output_20250318_180803/124-10326-10103/124-10326-10103-analysis.json
+   Categories: DOCUMENT_METADATA, CIA_FBI_ACTIVITIES, COMMUNICATION_CHAIN, AGENCY_INFORMATION, SURVEILLANCE_RECORDS
+   Significant findings:
+     - DOCUMENT_METADATA (Page 1, Confidence: 10/10)
+       FBI document from 1965 related to JFK Assassination Records
+       QUOTE: "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992"
+
+     - AGENCY_INFORMATION (Page 1, Confidence: 8/10)
+       FBI Headquarters document with secret classification
+       QUOTE: "AGENCY: FBI, RECORD SERIES: HQ, Classification: Secret"
+
+     - COMMUNICATION_CHAIN (Page 1, Confidence: 7/10)
+       Communication from Brennan to Sullivan
+       QUOTE: "FROM: BRENNAN, TO: SULLIVAN"
+
+     - CIA_FBI_ACTIVITIES (Page 2, Confidence: 7/10)
+       Document discusses Bureau Informant 100 and CIA liaison arrangements with Israeli Intelligence Service
+       QUOTE: "In 1954, a procedure was approved whereby we could attribute certain information received from James Angleton, CIA, under the symbol 'Bureau Informant 100.'"
+
+
+104-10186-10264 (Score: 49)
+   File path: output_20250318_180803/104-10186-10264/104-10186-10264-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - OSWALD_ASSOCIATIONS (Page 1, Confidence: 7/10)
+       Document about Osvaldo Relova, a Cuban Intelligence officer with potential indirect connection to Oswald
+       QUOTE: "A former Cuban IS officer who served with the Cuban Intelligence Service until April 1964"
+
+     - TRAVEL_FINANCIAL_RECORDS (Page 1, Confidence: 8/10)
+       Detailed travel records for Osvaldo Relova
+       QUOTE: "An airline passenger manifest revealed that one Osvaldo RELOVA Pelicent, probably identical with the above Subject, left Mexico for Habana on 8 July 1963 and was the holder of Cuban passport number D/63/415"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 6/10)
+       Cuban intelligence officer background information
+       QUOTE: "RELOVA, pseudonym 'Wilberto', is an officer of the Direccion General de Inteligencia (General Directorate of Intelligence - DGI) in Cuba"
+
+     - OSWALD_ASSOCIATIONS (Page 2, Confidence: 7/10)
+       Detailed information about Osvaldo RELOVA, a Cuban Embassy official connected to Oswald's activities
+       QUOTE: "Osvaldo RELOVA, First Secretary of the Cuban Embassy in Canada, left Kingston for Toronto on 21 October 1963, on TCA flight number 885."
+
+     - TRAVEL_FINANCIAL_RECORDS (Page 2, Confidence: 6/10)
+       Details of Osvaldo RELOVA's travel and diplomatic movements
+       QUOTE: "RELOVA was an administrator of a section of the Consolidated Hardware Stores and annexes. In late 1961 he went to see source to get help with an investigation on a Mr. BARRAL."
+
+
+104-10290-10309 (Score: 47)
+   File path: output_20250318_180803/104-10290-10309/104-10290-10309-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, ORGANIZED_CRIME_CONNECTIONS, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 7/10)
+       Cuban individual with connections to Soviet submarine base construction and Che Guevara
+       QUOTE: "RECENTLY REPORTED BELIEF SOV CONSTRUCTING SUBMAR[INE] BASE IN CUBA, CAME TO MEXICO"
+
+     - TRAVEL_FINANCIAL_RECORDS (Page 1, Confidence: 6/10)
+       Subject traveled from Cuba to Mexico with interesting movement patterns
+       QUOTE: "CUBA ABOUT 1959 OR 1960 GOING FIRST TO BERMUDA, LATER TO MEXICO"
+
+     - TRAVEL_FINANCIAL_RECORDS (Page 2, Confidence: 7/10)
+       Subject planning to leave Cuba at end of year, appears dissatisfied
+       QUOTE: "SUBJ. PLANNING TO LEAVE CUBA AT END OF YEAR, DISILLUSIONED"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 2, Confidence: 6/10)
+       Subject connected to Cuban Communist leadership
+       QUOTE: "DIVORCED HMO HER OF EX-WIFE HAS RE-MARRIED TO JOAQUIN MIRABAL, COMMUNIST, FORMER 'CHIEF OF SECURITY SERVICE' HAVANA"
+
+
+104-10308-10062 (Score: 46)
+   File path: output_20250318_180803/104-10308-10062/104-10308-10062-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 3, Confidence: 6/10)
+       Document relates to CIA operation involving infiltration into Cuba
+       QUOTE: "The M/V ADA was enroute to Cuba during the remainder of 9 May 1964"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 4, Confidence: 6/10)
+       Document discusses Cuban military and GOC (Cuban Government) officials' potential cooperation with Rebel Army exiles
+       QUOTE: "A-3 claims that these officials are willing to listen to the Rebel Army exiles, but do not intend to do anything positive with them unless they demonstrate their power by eliminating AMTHUG-1"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 6, Confidence: 6/10)
+       Document discusses Cuban authorities' actions regarding individuals
+       QUOTE: "Cuban authorities have picked up Armando BLANCO"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 7, Confidence: 6/10)
+       Reference to KUBARK (CIA cryptonym) and potential Cuban-related activities
+       QUOTE: "definately acting out of desperation, and although he does not desire to burn all his KUBARK bridges behind him, he feels that he must since KUBARK will not permit him to undertake such activities while under our control"
+
+
+124-90124-10092 (Score: 46)
+   File path: output_20250318_180803/124-90124-10092/124-90124-10092-analysis.json
+   Categories: DOCUMENT_METADATA, DOCUMENT_TIMELINE, TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS, OSWALD_ASSOCIATIONS, CLASSIFICATION_DETAILS
+   Significant findings:
+     - DOCUMENT_METADATA (Page 1, Confidence: 10/10)
+       FBI document related to Mitchell Livingston Werbell
+       QUOTE: "SUBJECTS: MITCHELL LIVINGSTON WERBELL"
+
+     - CLASSIFICATION_DETAILS (Page 1, Confidence: 8/10)
+       Classified as Secret document with restricted access
+       QUOTE: "CLASSIFICATION: Secret, RESTRICTIONS: 1B; 4"
+
+     - DOCUMENT_TIMELINE (Page 1, Confidence: 9/10)
+       Document dated July 16, 1965, with last review on September 12, 1998
+       QUOTE: "DATE: 07/16/1965, DATE OF LAST REVIEW: 09/12/1998"
+
+
+104-10406-10139 (Score: 43)
+   File path: output_20250318_180803/104-10406-10139/104-10406-10139-analysis.json
+   Categories: DOCUMENT_CONTEXT, DOCUMENT_TYPE, INTELLIGENCE_METHODOLOGY, FILING_PROCEDURES
+   Significant findings:
+     - DOCUMENT_CONTEXT (Page 1, Confidence: 9/10)
+       Secret classified document describing the 201 System for intelligence file management
+       QUOTE: "The 201 system provides a method for identifying a person of specific interest to the Operations Directorate and for controlling and filing all pertinent information about that person."
+
+     - INTELLIGENCE_METHODOLOGY (Page 1, Confidence: 8/10)
+       Detailed explanation of how intelligence files are indexed and maintained
+       QUOTE: "These are normally subjects of extensive reporting and CI investigation, prospective agents and sources, members of groups and organizations of continuing target interest"
+
+     - DOCUMENT_TYPE (Page 45, Confidence: 10/10)
+       Secret Clandestine Services Handbook page
+       QUOTE: "CLANDESTINE SERVICES HANDBOOK NO. 43-1-1"
+
+     - FILING_PROCEDURES (Page 45, Confidence: 8/10)
+       Guidance on maintaining personnel files
+       QUOTE: "Files on these may be kept in any desired order. Should such personalities become of general CS interest, they must be brought into the 201 system."
+
+
+104-10048-10252 (Score: 43)
+   File path: output_20250318_180803/104-10048-10252/104-10048-10252-analysis.json
+   Categories: GEOGRAPHICAL_DISTRIBUTION, SECURITY_CLASSIFICATION, SOURCE_INFORMATION, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - SECURITY_CLASSIFICATION (Page 1, Confidence: 10/10)
+       Confidential security information document related to intelligence gathering
+       QUOTE: "SECURITY INFORMATION - CONFIDENTIAL"
+
+     - SOURCE_INFORMATION (Page 1, Confidence: 8/10)
+       Intelligence report from local detective working with National Police
+       QUOTE: "The information in this report was obtained from a local detective who works for the National Police."
+
+     - GEOGRAPHICAL_DISTRIBUTION (Page 1, Confidence: 7/10)
+       Distribution list includes multiple locations
+       QUOTE: "Distribution: Washington - 4, Havana - 1, Guatemala (City) - 1, Caracas - 1, Quito - 1, Maracaibo - 1, Guayaquil - 1, Piura - 2"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 7/10)
+       Confidential report about delegations from Latin American countries (Venezuela, Guatemala, Cuba) at an international event in Berlin
+       QUOTE: "Source reports that an informant in Paris has submitted information on the Local Police concerning delegates at the World Festival Mundial de la Juventud held in Berlin in August and September 1952"
+
+
+124-90139-10002 (Score: 42)
+   File path: output_20250318_180803/124-90139-10002/124-90139-10002-analysis.json
+   Categories: DOCUMENT_CLASSIFICATION, CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       FBI document related to CIA Liaison Material
+       QUOTE: "SUBJECTS: CIA LIAISON MATERIAL"
+
+     - DOCUMENT_CLASSIFICATION (Page 1, Confidence: 9/10)
+       Highly classified document with restricted access
+       QUOTE: "CLASSIFICATION: Secret, RESTRICTIONS: 1B, CURRENT STATUS: Redat"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 2, Confidence: 7/10)
+       Document discusses Cuban intelligence communications and a Cuban agent in Panama/Havana
+       QUOTE: "subject is a high-ranking official in the [Cuban G-2 organization] in Havana"
+
+     - CIA_FBI_ACTIVITIES (Page 2, Confidence: 6/10)
+       CIA developing surveillance and coverage of a suspect near Venezuelan-Colombian border
+       QUOTE: "CIA developed a suspect and instituted coverage. Recently, this individual transmitted a letter to Havana which communication was intercepted by CIA"
+
+
+104-10074-10413 (Score: 38)
+   File path: output_20250318_180803/104-10074-10413/104-10074-10413-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, ORGANIZED_CRIME_CONNECTIONS, SOURCE_INFORMATION, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - SOURCE_INFORMATION (Page 1, Confidence: 7/10)
+       Document about Jose Xavier Cortes Hernandez, involving a Jesuit priest named Father Manuel Perez Alonso
+       QUOTE: "Father Manuel PEREZ Alonso, Jesuit and contact of CAS, was the source of Field comment not 2."
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 6/10)
+       Document discusses Cuban diplomatic connections and activities
+       QUOTE: "Jose Xavier CORTES Hernandez who represents himself as a priest told Juan Antonio PORTUONDO Valdes, Cuban Ambassador to Mexico"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 7/10)
+       Document discusses Cuban-Mexican diplomatic interactions related to political tensions
+       QUOTE: "Jose Xavier CORTES Hernandez... represents himself as a 'priest' told Jose Antonio PORTUGOIDO VALLOY, Cuban Ambassador to Mexico"
+
+
+104-10120-10373 (Score: 38)
+   File path: output_20250318_180803/104-10120-10373/104-10120-10373-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, TRAINING_OPERATIONS, INTERNAL_GOVT_COMMUNICATIONS, GEOGRAPHICAL_CONTEXT
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 6/10)
+       Internal memorandum discussing potential REDSKIN Agent Candidates and psychological assessment process
+       QUOTE: "Proposal for A&E Assessment of Potential REDSKIN Agent Candidates"
+
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 1, Confidence: 7/10)
+       Detailed interdepartmental communication about personnel screening and documentation
+       QUOTE: "It was further ascertained at this time that Mr. Howard OSBORNE desired that all training and assessment of REDSKIN Agents who pass the initial screening be conducted"
+
+     - TRAINING_OPERATIONS (Page 2, Confidence: 6/10)
+       Document discusses plans for REESKIN Agents processing and training
+       QUOTE: "SR Division plans to process thirty or thirty-five REESKIN Agents this year. Time is, of course, of the essence, in view of the fact that these people will have to be assessed, security-cleared, briefed, and trained, and arrangements for grants made before the summer season."
+
+
+124-90137-10357 (Score: 35)
+   File path: output_20250318_180803/124-90137-10357/124-90137-10357-analysis.json
+   Categories: DOCUMENT_CLASSIFICATION, CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       CIA liaison document related to Henryk Ignacy Janikowski
+       QUOTE: "ORIGINATOR: CENTRAL INTELLIGENCE AGENCY"
+
+     - DOCUMENT_CLASSIFICATION (Page 1, Confidence: 9/10)
+       Highly classified document with restricted access
+       QUOTE: "CLASSIFICATION: Secret, IB: 1C, CURRENT STATUS: Redact"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 2, Confidence: 6/10)
+       Document relates to a Polish individual named Henryk Ignacy Janikowski with potential international connections
+       QUOTE: "POB: Wiele, Bydgoszcz, Poland"
+
+
+104-10121-10304 (Score: 34)
+   File path: output_20250318_180803/104-10121-10304/104-10121-10304-analysis.json
+   Categories: SURVEILLANCE_RECORDS, CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS
+   Significant findings:
+     - TRAVEL_FINANCIAL_RECORDS (Page 1, Confidence: 7/10)
+       CIA travel processing document for an individual, suggesting official or covert travel arrangements
+       QUOTE: "Destination: Moscow Hungary, Passport Type & No.: State Outgoing"
+
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 8/10)
+       Detailed interview processing sheet with security and travel precautions
+       QUOTE: "Travel Precautions (to carry nothing identifying him with CIA)"
+
+     - SURVEILLANCE_RECORDS (Page 1, Confidence: 6/10)
+       Interview checklist with multiple security-related points
+       QUOTE: "Personal Conduct (a. general good behavior, b. no black market or currency transactions, c. no undue curiosity in natives)"
+
+
+104-10169-10017 (Score: 32)
+   File path: output_20250318_180803/104-10169-10017/104-10169-10017-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, ORGANIZED_CRIME_CONNECTIONS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 2, Confidence: 7/10)
+       Document discusses Arturo Godoy, a bank employee with potential intelligence connections
+       QUOTE: "Agenoia Ndo-Jodo Arturo Godoy, en ccclcgpo do the National Bank, G-2, Arturo is about 32 years old, white, stocky (about 190 pounds), 5'10""
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 2, Confidence: 6/10)
+       Reference to communications involving Cerronio and discussions about potential information sharing
+       QUOTE: "he was not going to try and locate him. he was careful to remain detached of the 'amigos' who would call on him for this information."
+
+
+104-10077-10369 (Score: 25)
+   File path: output_20250318_180803/104-10077-10369/104-10077-10369-analysis.json
+   Categories: DOCUMENT_TYPE, IDENTITIES
+   Significant findings:
+     - IDENTITIES (Page 1, Confidence: 7/10)
+       List of four named individuals, potentially related to intelligence or operational activities
+       QUOTE: "A. ODON ALVAREZ DELALA CAMPA
+B. JOSE LUIS GONZALEZ GALLARETTA
+C. GILBERTO LIWAY RODRIGUES (201-328941)
+D. ROGELIO IGLESIAS PATINO"
+
+     - DOCUMENT_TYPE (Page 1, Confidence: 8/10)
+       Classified secret message released under JFK Assassination Records Act
+       QUOTE: "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992"
+
+
+104-10172-10255 (Score: 25)
+   File path: output_20250318_180803/104-10172-10255/104-10172-10255-analysis.json
+   Categories: INTERNAL_GOVT_COMMUNICATIONS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 1, Confidence: 7/10)
+       Secret outgoing message from CIA to Stockholm station
+       QUOTE: "WE HAVE BEGUN CHECKING WITH NOSENKO (PD)IPPERS 19 AND 20, AND (PD)ABLE RE WALLENBERG AND WILL CABLE OR TELEPOUCH RESULTS AS RECEIVED. WE EXPECT TO BE FINISHED BY MID-NOVEMBER-V"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 6/10)
+       Reference to communication with Stockholm station suggests international intelligence coordination
+       QUOTE: "UNITEL, SEKTOR TSBLOCK V, REF: [STOCKHOLM] 3957b [IN 062621]"
+
+
+104-10234-10088 (Score: 25)
+   File path: output_20250318_180803/104-10234-10088/104-10234-10088-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, TRAVEL_FINANCIAL_RECORDS
+   Significant findings:
+     - TRAVEL_FINANCIAL_RECORDS (Page 1, Confidence: 6/10)
+       Document references a jeweler who contracted at Miami Hotel in early fall of 1964
+       QUOTE: "Portela states Jeweler who Contracted am Miami Hotel Early Fall 64 Behalf AMLASH-1 and AMCHIN-1"
+
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       Secret/classified communication between intelligence units
+       QUOTE: "MESSAGE FORM - SECRET"
+
+
+104-10077-10382 (Score: 25)
+   File path: output_20250318_180803/104-10077-10382/104-10077-10382-analysis.json
+   Categories: TRAVEL_RECORDS, INTERNAL_GOVT_COMMUNICATIONS
+   Significant findings:
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 1, Confidence: 7/10)
+       CIA internal communication marked 'SECRET' dated 10 Dec 1963, shortly after JFK assassination
+       QUOTE: "RETURN TO CIA, Background Use Only, Do Not Reproduce"
+
+     - TRAVEL_RECORDS (Page 1, Confidence: 6/10)
+       Reference to planned visit by an individual (name redacted) from 16 to 19 Feb 1964
+       QUOTE: "PER YOUR DECISION HQS, PLANNED HAVE (REDACTED) VISIT YOU 16 TO 19 FEB 1964 PRIOR HIS RETURN BROS. HQS OFFICER WILL ESCORT."
+
+
+104-10188-10454 (Score: 25)
+   File path: output_20250318_180803/104-10188-10454/104-10188-10454-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       Secret classified document discussing potential informant issues at a university
+       QUOTE: "HAD REFUSED TO SERVE AS INFORMANT FOR GOES ON SECURITY GROUNDS; CITED CASE OF STUDENT WHOSE REPUTATION RUINED IN UNIV"
+
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 6/10)
+       Reference to Russian professors and a decision to 'let the dust settle'
+       QUOTE: "HAVE DECIDED TO LET THE DUST SETTLE ON THE RUSSIAN PROFESSORS FLAP BEFORE FOLLOWING UP PITCH"
+
+
+176-10037-10460 (Score: 25)
+   File path: output_20250318_180803/176-10037-10460/176-10037-10460-analysis.json
+   Categories: DOCUMENT_CLASSIFICATION, CIA_FBI_ACTIVITIES
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       CIA-originated document related to Southeast Asia Task Force, indicating potential intelligence context
+       QUOTE: "ORIGINATOR: CIA, TITLE: Task Force Status Report"
+
+     - DOCUMENT_CLASSIFICATION (Page 1, Confidence: 8/10)
+       Part of JFK Assassination Records Release under 1992 Act
+       QUOTE: "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992"
+
+
+104-10218-10060 (Score: 25)
+   File path: output_20250318_180803/104-10218-10060/104-10218-10060-analysis.json
+   Categories: TRAVEL_FINANCIAL_RECORDS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 7/10)
+       Soviet KGB officer Nikolay Stepanovych Leonov traveling from Mexico City to Brussels
+       QUOTE: "NIKOLAY STEPANOVYCH LEONOV, SECOND SECY KK (PRESS ATTACHE), SOVEMB MEXICO CITY ACCOMPANIED BY DAUGHTER IRINA WAS SCHEDULED DEPART MEXICO CITY 29 JUNE SABENA FLT 556 FOR BRUSSELS"
+
+     - TRAVEL_FINANCIAL_RECORDS (Page 1, Confidence: 6/10)
+       Detailed travel itinerary of Soviet KGB officer
+       QUOTE: "LEONOV KGB OFFICER REPORTEDLY ON WAY MOSCOW FOR 20-DAY TDY. PLS CONFIRM ARRIVAL BRUSSELS AND DEPARTURE, PRESUMABLY NEXT AEROFLOT FLIGHT TO MOSCOW"
+
+
+104-10123-10421 (Score: 25)
+   File path: output_20250318_180803/104-10123-10421/104-10123-10421-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, INTERNAL_GOVT_COMMUNICATIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 8/10)
+       CIA personnel file for James W. McCord, Jr., with multiple CIA and security-related assignments
+       QUOTE: "ASSIGNMENTS: 64: CIA, Security Off, Washington; 62-63: Dept of Army; Civilian,Germany; 53-62: CIA, Security Off, Washington"
+
+     - INTERNAL_GOVT_COMMUNICATIONS (Page 1, Confidence: 7/10)
+       Detailed personnel record suggesting extensive government and intelligence community involvement
+       QUOTE: "Dept of Def, Security Off, San Francisco; 48-51: FBI Agent, California"
+
+
+104-10217-10196 (Score: 24)
+   File path: output_20250318_180803/104-10217-10196/104-10217-10196-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, CIA_FBI_ACTIVITIES, ORGANIZED_CRIME_CONNECTIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       Internal communication about potential infiltration and accusations within revolutionary movement
+       QUOTE: "REVOLUTION INFORMS ITS READERS THAT RICHARD GIBSON WHO MISUSED HIS OFFICE AS FORMER SECRETARY OF 'FAIR PLAY FOR CUBA COMMITTEE' IN ORDER PENETRATE RANKS OF INTERNATIONAL REVOLUTIONARY MOVEMENT MUST NO LONGER BE CONSIDERED COLLABORATOR OF THIS REVIEW"
+
+
+104-10110-10340 (Score: 23)
+   File path: output_20250318_180803/104-10110-10340/104-10110-10340-analysis.json
+   Categories: ADMINISTRATIVE_PROCESS, DOCUMENT_TYPE
+   Significant findings:
+     - ADMINISTRATIVE_PROCESS (Page 1, Confidence: 7/10)
+       Military cover backstop establishment document from August 1962
+       QUOTE: "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP"
+
+     - DOCUMENT_TYPE (Page 1, Confidence: 8/10)
+       Secret classified document related to military records and services
+       QUOTE: "SECRET - RECORDS AND SERVICES DIVISION"
+
+
+104-10175-10152 (Score: 20)
+   File path: output_20250318_180803/104-10175-10152/104-10175-10152-analysis.json
+   Categories: CIA_FBI_ACTIVITIES, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - CIA_FBI_ACTIVITIES (Page 1, Confidence: 7/10)
+       Secret memorandum discussing CIA/intelligence activities related to Latin American organizations
+       QUOTE: "The activities of WG/1 touch upon four organizations listed below."
+
+
+104-10519-10184 (Score: 18)
+   File path: output_20250318_180803/104-10519-10184/104-10519-10184-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, TRAVEL_FINANCIAL_RECORDS
+   Significant findings:
+     - TRAVEL_FINANCIAL_RECORDS (Page 1, Confidence: 6/10)
+       Document tracks travel details of Jack Rubenstein (Jack Ruby)
+       QUOTE: "He arrived on May 17 and departed on June 7, accompanied by his wife Mimi"
+
+
+104-10073-10113 (Score: 18)
+   File path: output_20250318_180803/104-10073-10113/104-10073-10113-analysis.json
+   Categories: OSWALD_ASSOCIATIONS, FOREIGN_GOVERNMENT_REACTIONS
+   Significant findings:
+     - FOREIGN_GOVERNMENT_REACTIONS (Page 1, Confidence: 7/10)
+       Document discusses Ling Lindsay's connections to Cuban and Portuguese networks
+       QUOTE: "LING was contacted in late August 1960 in Santa Maria, and Ploy (probably Cuban National), and Rafal (probably RAFAEL HERNANDEZ), a Cuban diplomat"
+
+

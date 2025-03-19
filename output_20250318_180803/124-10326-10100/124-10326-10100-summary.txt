@@ -1,0 +1,24 @@
+JFK ANALYSIS SUMMARY: 124-10326-10100
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 4/10
+- Page 2: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  CIA memo about James Angleton's handling of confidential information and potential agency jurisdictional issues
+  QUOTE: "James Angleton of CIA frequently turns over to the Bureau on a highly confidential basis information which has been developed through operations headed by Angleton."
+
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 2 (Confidence: 5/10)
+  Reference to confidential informant and intelligence investigations
+  QUOTE: "Confidential Informant T-2, an Agency of the Government which conducts personnel and intelligence investigations"
+

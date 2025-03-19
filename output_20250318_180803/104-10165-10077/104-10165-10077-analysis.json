@@ -1,0 +1,191 @@
+[
+  {
+    "document_id": "104-10165-10077",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "A-19-21-59",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "DCD-458/78",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "Confidential memorandum from Ruth Elliff to DDO/ISS/IP/E1S dated 19 April 1978",
+        "direct_quote": "CONFIDENTIAL",
+        "significance": "Indicates ongoing documentation and review of assassination-related materials years after the event"
+      },
+      {
+        "category": "RESEARCH_REQUEST",
+        "confidence": 8,
+        "description": "Request from House Select Committee on Assassinations for specific files",
+        "direct_quote": "House Select Committee on Assassinations Request (OLC 73-0986/1)",
+        "significance": "Shows official investigation continued into the late 1970s, suggesting ongoing uncertainties about the original findings"
+      },
+      {
+        "category": "DOCUMENT_REFERENCES",
+        "confidence": 7,
+        "description": "Mentions files on Abram Chayes and documents about Monica Kramer and Rita Naasan",
+        "direct_quote": "a. DCD file A-19-91-59 on Abram Chayes (on loan). b. Documents concerning Monica Kramer and Rita Naasan.",
+        "significance": "Indicates multiple related document collections being examined, potentially revealing broader context"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "19-91-59",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "ENCLOSURE A",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "19-91-59",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Confidential process sheet for DCD collections about Soviet scientific papers",
+        "direct_quote": "PROCESS SHEET FOR DCD COLLECTIONS",
+        "significance": "Administrative document related to intelligence collection on Soviet scientific materials"
+      },
+      {
+        "category": "SUBJECT_AREA",
+        "confidence": 8,
+        "description": "Papers by Soviet Scientists on Nuclear Weapons, Disarmament, and European Security",
+        "direct_quote": "Four Papers by Soviet Scientists on Proliferation of Nuclear Weapons, Disarmament, the Complete General Ban of Nuclear Tests, and European Security (USSR)",
+        "significance": "Indicates intelligence interest in Soviet nuclear policy and scientific research"
+      },
+      {
+        "category": "CONTACT_INFORMATION",
+        "confidence": 7,
+        "description": "Document addressed to Prof. Abram Chayes at Harvard Law School",
+        "direct_quote": "Prof. Abram Chayes, Harvard Law School, Cambridge, MA",
+        "significance": "Shows academic involvement in intelligence document collection and analysis"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "00-B-321/26669-76",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "19-91-59",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Confidential process sheet for DCD Collections related to Pugwash Conference reports",
+        "direct_quote": "Reports of the Four Working Groups at the 26th Pugwash Conference (USSR/INTERNATIONAL)",
+        "significance": "Demonstrates Cold War-era documentation and international scientific/diplomatic communication processes"
+      },
+      {
+        "category": "CONTACT_INFORMATION",
+        "confidence": 7,
+        "description": "Contact for Prof. Abram Chayel from Harvard Law School in Cambridge, MA",
+        "direct_quote": "Prof. Abram Chayel, Harvard Law School, Cambridge, MA",
+        "significance": "Provides insight into academic/research networks during Cold War period"
+      },
+      {
+        "category": "DISTRIBUTION_RECORDS",
+        "confidence": 6,
+        "description": "Extra copies of document distributed to multiple recipients",
+        "direct_quote": "Extra copies of document to: John Sanders, Martha Mautner, Glenn Buchan, William Capron",
+        "significance": "Shows inter-agency or inter-organizational document sharing"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "DO-321/2651A-76",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (Secret Document about Norman Fund)",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "20 FEB 1970",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses alleged CIA involvement with Josran Foundation and possible covert operations",
+        "direct_quote": "alleged CIA use of the Josran Foundation and the J. N. Miller Fund, Inc. to fund Organizational Involvement",
+        "significance": "Suggests potential CIA involvement in covert funding mechanisms and organizational manipulation"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Indirect reference to international research committee activities",
+        "direct_quote": "Altho there is no evidence that CIA were directly or indirectly involved the International Reserve Committee or Freedom House, Inc.",
+        "significance": "Implies potential intelligence community connections and networks being examined"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_COVER_OPERATIONS",
+        "confidence": 7,
+        "description": "Document describes CIA cover activities for an individual named Shalloway in Paris",
+        "direct_quote": "SHALLOWAY (P) currently in Paris was provided cover in Paris, France from 1954-1955 by the Research Institute of America, Inc. During operations aside Cuba in 1959-60 Ms. Cherne was active in both CA and MI and capable.",
+        "significance": "Reveals CIA's use of cover identities and institutional affiliations for operatives in the mid-1950s"
+      },
+      {
+        "category": "ORGANIZATIONAL_STRUCTURE",
+        "confidence": 6,
+        "description": "Document shows internal CIA distribution and record-keeping process",
+        "direct_quote": "Distribution: Orig & 1 - Aiss (handcarried), 1 - 18382 (Shalloway)'s file, 1 - C/CCS, 1 - 140CSET/46 - FS-1121 (Aaron E. Norsan Fund)",
+        "significance": "Provides insight into CIA document management and file tracking procedures"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "JFK Microfilm File Summary",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Reference to Oswald's visa to enter Russia from Soviet Embassy in Helsinki",
+        "direct_quote": "at time Oswald received his visa to enter Russia from the Soviet Embassy in Helsinki",
+        "significance": "Provides minor context about Oswald's travel to Soviet Union, but no significant new information"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 2,
+        "description": "Mention of possible confusion between two individuals named Abram/Abraham Chayes",
+        "direct_quote": "It would appear that Abram and Abraham are not identical to each other.",
+        "significance": "Minimal relevance, appears to be an administrative note about name confusion"
+      }
+    ],
+    "overall_page_relevance": 2
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Cuba",
+      "group": 1
+    },
+    {
+      "id": "Lee Harvey Oswald",
+      "group": 1
+    },
+    {
+      "id": "CIA",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Lee Harvey Oswald",
+      "target": "CIA",
+      "type": "traveled to",
+      "confidence": 8,
+      "document": "104-10332-10023",
+      "category": "OSWALD_ASSOCIATIONS",
+      "description": "CIA and State Department tracking Oswald since 1959 when he traveled to Russia"
+    },
+    {
+      "source": "CIA",
+      "target": "Lee Harvey Oswald",
+      "type": "traveled to",
+      "confidence": 8,
+      "document": "104-10332-10023",
+      "category": "OSWALD_ASSOCIATIONS",
+      "description": "CIA and State Department tracking Oswald since 1959 when he traveled to Russia"
+    },
+    {
+      "source": "CIA",
+      "target": "Cuba",
+      "type": "connected to",
+      "confidence": 7,
+      "document": "104-10176-10006",
+      "category": "CIA_FBI_ACTIVITIES",
+      "description": "Secret document discussing revolutionary movement strategy, potentially related to Cuban operations"
+    },
+    {
+      "source": "Cuba",
+      "target": "CIA",
+      "type": "connected to",
+      "confidence": 7,
+      "document": "104-10176-10006",
+      "category": "CIA_FBI_ACTIVITIES",
+      "description": "Secret document discussing revolutionary movement strategy, potentially related to Cuban operations"
+    }
+  ]
+}

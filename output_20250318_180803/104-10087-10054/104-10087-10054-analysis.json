@@ -1,0 +1,153 @@
+[
+  {
+    "document_id": "104-10087-10054",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_PROCESS",
+        "confidence": 7,
+        "description": "Document details the CIA's 201 filing system for tracking individuals of interest",
+        "direct_quote": "The 201 system provides a means for identifying subjects of 201 files from various categories of information about them and for producing lists of 201 personalities according to those categories.",
+        "significance": "Reveals internal CIA documentation and tracking methodology for persons of interest, potentially relevant to understanding how Oswald might have been monitored"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "System for maintaining detailed personal dossiers on individuals",
+        "direct_quote": "The 201 Dossier: the official file containing the 201 opening form and all biographical reporting on and references to the individual",
+        "significance": "Indicates systematic approach to collecting and maintaining comprehensive files on subjects, suggesting potential extensive background tracking"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 24,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 25,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 26,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-000000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 10,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 26,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 26,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 26,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "14-000000",
+    "page_number": 43,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret CIA Clandestine Services Handbook on Personality Indexing",
+        "direct_quote": "CLANDESTINE SERVICES HANDBOOK NO. 43-1-1",
+        "significance": "Reveals internal CIA documentation practices for tracking personnel and operations"
+      },
+      {
+        "category": "INTELLIGENCE_METHODOLOGY",
+        "confidence": 8,
+        "description": "Systematic approach to tracking personalities and assigning identification numbers",
+        "direct_quote": "A relatively small proportion of the total number of personalities indexed by the CS are of active operational interest at any given point in time.",
+        "significance": "Demonstrates CIA's systematic method for tracking and categorizing individuals of interest"
+      },
+      {
+        "category": "OPERATIONAL_SECRECY",
+        "confidence": 9,
+        "description": "Strict protocols for concealing identities in intelligence files",
+        "direct_quote": "The 201 machine listings should include the identities of persons of operational interest because of their connection with a target group or organization",
+        "significance": "Reveals internal guidelines for maintaining operational secrecy while tracking individuals"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 44,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 45,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "104-10066-10010",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "U.S. House Select Committee investigating Kennedy and King assassinations seeking leads in Portugal, UK, and Mexico related to James Earl Ray",
+        "direct_quote": "INTEND TO PURSUE LEADS IN PORTUGAL, UK AND MEXICO RELATING TO JAMES EARL RAY, CURRENTLY SERVING TIME FOR KING, MURDER.",
+        "significance": "Indicates international investigation into assassination connections, showing potential cross-border intelligence gathering"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Committee seeking to establish diplomatic relationships to aid investigation",
+        "direct_quote": "MR. G. ROBERT BLAKEY, CHIEF COUNSEL AND STAFF DIRECTOR OF COMMITTEE SAYS SELECT COMMITTEE TOLD STATE THAT HE WANTS TO ESTABLISH 'CORDIAL RELATIONSHIP' WITH APPROPRIATE PORTUGUESE NATIONAL POLICE",
+        "significance": "Reveals active diplomatic efforts to gather information about potential assassination leads"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Secret-level communication discussing cooperation with Blakey and committee investigation",
+        "direct_quote": "STATIONS ARE SOLICITED FOR ADVICE OR ASSISTANCE. RTACTION IS COOPERATING FULLY WITH BLAKEY AND COMMITTEE INCLUDING ALLOWING THEM ACCESS TO DIRECTORATE RECORDS",
+        "significance": "Indicates potential CIA involvement and cooperation with the House Select Committee on Assassinations (Blakey's committee) investigating the JFK assassination"
+      },
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 6,
+        "description": "Guidance on handling witness and police interviews",
+        "direct_quote": "BELIEVE COMMITTEE'S EFFORTS TO INTERVIEW POLICE AND WITNESSES... IS LARGELY OVERT FUNCTION WHICH CAN BEST BE HANDLED BY LEGATS OR OTHERS",
+        "significance": "Suggests strategic approach to managing witness testimonies and potential information control"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10188-10454
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Secret classified document discussing potential informant issues at a university
+  QUOTE: "HAD REFUSED TO SERVE AS INFORMANT FOR GOES ON SECURITY GROUNDS; CITED CASE OF STUDENT WHOSE REPUTATION RUINED IN UNIV"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Reference to Russian professors and a decision to 'let the dust settle'
+  QUOTE: "HAVE DECIDED TO LET THE DUST SETTLE ON THE RUSSIAN PROFESSORS FLAP BEFORE FOLLOWING UP PITCH"
+

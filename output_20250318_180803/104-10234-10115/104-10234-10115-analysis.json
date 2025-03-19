@@ -1,0 +1,42 @@
+[
+  {
+    "document_id": "104-10234-10115",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to discuss intelligence network interactions, but does not directly mention Oswald",
+        "direct_quote": "",
+        "significance": "Appears to be an intelligence communication about potential recruitment and cooperation, but lacks clear Oswald connection"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown (no clear document ID visible)",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "29 MARCH 1966",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Reference to Juan Ventura Valner, a Cuban exile in Geneva",
+        "direct_quote": "JUAN VENTURA VALNER, CUBAN EXILE WHO OWNS JEWELRY SHOP AND RESIDES GENEVA, MAKES INFREQUENT BUSINESS TRIPS TO ROME",
+        "significance": "Provides insight into Cuban exile networks and potential intelligence connections in Europe during the mid-1960s"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

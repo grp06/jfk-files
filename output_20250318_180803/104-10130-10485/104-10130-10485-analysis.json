@@ -1,0 +1,16 @@
+[
+  {
+    "document_id": "104-10130-10485",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_COMMUNICATION",
+        "confidence": 5,
+        "description": "Internal CIA memo requesting check on retirement medallion release for Guy Vitale",
+        "direct_quote": "Please check your records for any cover considerations in connection with the release of a retirement medallion to VITALE, Guy, DDF/WH.",
+        "significance": "Suggests potential administrative process for handling personnel matters, possibly related to Western Hemisphere operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

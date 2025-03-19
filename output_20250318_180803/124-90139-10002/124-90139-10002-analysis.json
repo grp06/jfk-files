@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "124-90139-10002",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "FBI document related to CIA Liaison Material",
+        "direct_quote": "SUBJECTS: CIA LIAISON MATERIAL",
+        "significance": "Indicates potential inter-agency communication about sensitive information related to the JFK assassination"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 9,
+        "description": "Highly classified document with restricted access",
+        "direct_quote": "CLASSIFICATION: Secret, RESTRICTIONS: 1B, CURRENT STATUS: Redat",
+        "significance": "Suggests sensitive information that was carefully controlled and redacted"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "105-78656-10",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Cuban intelligence communications and a Cuban agent in Panama/Havana",
+        "direct_quote": "subject is a high-ranking official in the [Cuban G-2 organization] in Havana",
+        "significance": "Provides insight into Cuban intelligence activities and potential connections to assassination-related intelligence networks"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "CIA developing surveillance and coverage of a suspect near Venezuelan-Colombian border",
+        "direct_quote": "CIA developed a suspect and instituted coverage. Recently, this individual transmitted a letter to Havana which communication was intercepted by CIA",
+        "significance": "Demonstrates CIA's active intelligence gathering and interception operations during this period"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

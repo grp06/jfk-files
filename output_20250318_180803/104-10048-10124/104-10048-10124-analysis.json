@@ -1,0 +1,148 @@
+[
+  {
+    "document_id": "104-10048-10124",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA internal dispatch discussing special activities and relationship with an asset (AMCARBON-2)",
+        "direct_quote": "This review indicates that the relationship with AMCARBON-2 evolved from that action which was taken in September 1962 to insure that a security breach would not occur",
+        "significance": "Suggests ongoing CIA operational activities and asset management around the time of the Kennedy assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but indicates CIA operational activities",
+        "direct_quote": "",
+        "significance": "Document is a CIA operational report, but does not provide clear links to Oswald"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "UGCA-1478",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be about CIA/Intelligence relationships, but does not directly mention Oswald",
+        "direct_quote": "",
+        "significance": "Does not provide substantive information about Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "JFGA-14781",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "No direct mentions of Lee Harvey Oswald on this page",
+        "direct_quote": "",
+        "significance": "This page appears to be about a CIA asset named AMCARBON-1 and their contacts in Latin America"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "OPERATIONAL_INTELLIGENCE",
+        "confidence": 6,
+        "description": "Document discusses AMCARBON-1's operational intelligence activities from February 1963 to February 1964",
+        "direct_quote": "In the period February 1963 to February 1964, AMCARBON-1 has furnished JMWAVE with operational intelligence as outlined below:",
+        "significance": "Provides insight into CIA operational intelligence gathering during a critical period leading up to the JFK assassination"
+      },
+      {
+        "category": "CUBA_OPERATIONS",
+        "confidence": 7,
+        "description": "Detailed information about intelligence activities related to Cuba",
+        "direct_quote": "This operational intelligence was most helpful in terms of keeping JMWAVE informed on AMEND-1's movements. Subsequent developments revealed that AMCARBON-1 could not contact AMEND-1",
+        "significance": "Suggests ongoing covert intelligence operations in Cuba during the period of interest"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document appears to be a CIA operational intelligence report about various communications and intelligence gathering activities",
+        "direct_quote": "AMCARBON-1 advised JMWAVE about various operational intelligence matters in 1963",
+        "significance": "Provides insight into CIA intelligence operations and communication networks during the time period around the JFK assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Lee Harvey Oswald in this document",
+        "direct_quote": null,
+        "significance": "No clear connection to Oswald found on this page"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Multiple references to Cuban operations and intelligence gathering",
+        "direct_quote": "information about KUBANK vessels located in South Florida waters, strategic missiles hidden in Cuban caves",
+        "significance": "Indicates active US intelligence monitoring of Cuban activities during 1963"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "PROPAGANDA_OPERATIONS",
+        "confidence": 7,
+        "description": "Document discusses propaganda efforts through AMCARBON-1 defection story",
+        "direct_quote": "AMCARBON-1 has been used successfully, during the period covered by this report, as a propaganda outlet through which items of interest to KUBARK could be surfaced in the free world press.",
+        "significance": "Reveals CIA propaganda techniques using defector narratives to influence international media"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mentions Cuban and Latin American information operations",
+        "direct_quote": "The details of this particular story were played up by UPI, API and others, and it was played throughout Latin America.",
+        "significance": "Indicates coordinated media strategy to spread specific narratives in international press"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 7,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Vague reference to intelligence gathering about AMCARDON-1 (possibly related to Oswald)",
+        "direct_quote": "attempts have been made to obtain disseminating positive intelligence from AMCARDON-1",
+        "significance": "Suggests potential intelligence asset or surveillance target, but context is unclear"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Intelligence gathering efforts in Latin American context",
+        "direct_quote": "AMCARDON-1 does not have a great number of contacts in Latin America would give him access to worthwhile intelligence",
+        "significance": "Indicates ongoing intelligence monitoring of an individual with limited regional connections"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

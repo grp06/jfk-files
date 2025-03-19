@@ -1,0 +1,35 @@
+JFK ANALYSIS SUMMARY: 104-10169-10017
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+- Page 2: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+ORGANIZED CRIME CONNECTIONS:
+----------------------------------------
+Page 1 (Confidence: 3/10)
+  Vague reference to anti-Communist organization FAL (Fuerza Anti-Comunista de Liberacion)
+  QUOTE: "FAL (Fuerza Anti-Comunista de Liberacion) is well organized, the best organized being the forces in Nitar del Rio Provinces"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Document discusses Arturo Godoy, a bank employee with potential intelligence connections
+  QUOTE: "Agenoia Ndo-Jodo Arturo Godoy, en ccclcgpo do the National Bank, G-2, Arturo is about 32 years old, white, stocky (about 190 pounds), 5'10""
+
+Page 1 (Confidence: 4/10)
+  Document appears to be an intelligence briefing about a Cuban source
+  QUOTE: "Source said that EAC (Salvur a Cuba) was destroyed by Cuban security forces"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 2 (Confidence: 6/10)
+  Reference to communications involving Cerronio and discussions about potential information sharing
+  QUOTE: "he was not going to try and locate him. he was careful to remain detached of the 'amigos' who would call on him for this information."
+

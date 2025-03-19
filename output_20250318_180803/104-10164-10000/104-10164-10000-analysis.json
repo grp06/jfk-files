@@ -1,0 +1,1151 @@
+[
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "19 April 1974 Memorandum",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 7,
+        "description": "Secret memorandum about limited release of secrecy agreement",
+        "direct_quote": "Limited Release from Secrecy Agreement--Bernard L. Barker and Eugenio R. Martinez",
+        "significance": "Indicates ongoing classified documents related to sensitive governmental operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Secret Document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Internal legal counsel discussion about sensitive Agency operations and potential compromises",
+        "direct_quote": "the Agency is currently not in a position to give Messrs. Barker and Martinez blanket authorization to identify individuals with whom they had contact during their Agency association",
+        "significance": "Suggests ongoing concerns about operational security and potential exposure of sensitive CIA relationships"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "N/A",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "11 March 1974 Document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_RECORD",
+        "confidence": 3,
+        "description": "Internal memo about Bernard Barker, a person potentially associated with intelligence activities",
+        "direct_quote": "Review of Barker's file does not reveal that he had any association with gambling interests.",
+        "significance": "Suggests potential background investigation of intelligence or quasi-intelligence personnel"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "1407",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Secret memorandum discussing personal/family matters of an employee",
+        "direct_quote": "Reference is made to our discussions regarding the letter written to the Agency by Mrs. Edwin T. Moffett in regard to her son's marriage to Subject's daughter.",
+        "significance": "While not directly related to JFK assassination, demonstrates internal agency communication and personal surveillance/concerns about employee relationships"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Secret document from Steven L. Kuhn, Assistant Deputy Director of Security for Personnel Security",
+        "direct_quote": "Mrs. Moffett was satisfied with our call and there was no indication that she would pursue this further with any government agency or Congressman.",
+        "significance": "Suggests internal communication about a potentially sensitive matter, with an attempt to manage potential external inquiries"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct information about Oswald found",
+        "direct_quote": "",
+        "significance": "Document appears to be about Mrs. Moffett and Bernard L. Barker, with no mention of Oswald"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Potential reference to Cuba-related activities",
+        "direct_quote": "kidnapped and returned to Cuba",
+        "significance": "Suggests potential covert operations or intelligence activity related to Cuba"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "March 10, 1970",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Document relates to Cuban connections and potential family risks",
+        "direct_quote": "HAS BERNARD L. BARKER OF HAVANA, CUBA, CHICAGO AND MIAMI... WAS THE FATHER WAS WITH THE C.I.A.",
+        "significance": "Suggests CIA involvement with Cuban-connected individuals"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "References to CIA connections and potential family concerns",
+        "direct_quote": "I CONTACTED THE FBI AND THEY SAID I SHOULD WRITE YOU FOR THIS INFORMATION",
+        "significance": "Indicates inter-agency communication about a sensitive matter"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_STRUCTURE",
+        "confidence": 8,
+        "description": "Hand-drawn diagram/note page labeled 'NO I'",
+        "direct_quote": "",
+        "significance": "Appears to be an internal note or organizational chart with names/connections"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "482-P",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "201-251899",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "DISPATCH_SECRET_FEB_1965",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears to be an intelligence dispatch about an operative transfer, but does not directly mention Oswald",
+        "direct_quote": "",
+        "significance": "Not directly related to JFK assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UFG-20209",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mentions of Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "This document appears to be about a different intelligence subject, not related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "IFCA-20209",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Mentions Cuban ex-policemen and bolita runners, potential peripheral connection to Oswald's networks",
+        "direct_quote": "Subject said that he is well aware of the possibility and is making very discreet inquiries with the assistance of certain friends (Cuban ex-policemen) who are bolita runners",
+        "significance": "Suggests potential underground connections that might relate to Oswald's broader network, though connection is tenuous"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Indirect reference to Cuban connections and investigation of local underworld elements",
+        "direct_quote": "has been cautioned not to delve too deeply in this matter however since he may become involved with local underworld elements who may take drastic action against him",
+        "significance": "Indicates complex interactions between intelligence gathering and potential local criminal networks in Cuba"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "TRAV/2158",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unclear from image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses CIA and White House connections, mentioning a White House assistant for Spanish-speaking affairs",
+        "direct_quote": "A White House assistant for Spanish-speaking affairs-- and Manuel BARBA, the NYT man (a CIA agent recruiter)",
+        "significance": "Suggests potential CIA involvement and intelligence network connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mentions Cuban economic and diplomatic figures",
+        "direct_quote": "BARBER visited Felipe PAZON, a well-known Cuban economist at present, is with the Inter-American Development Bank",
+        "significance": "Indicates diplomatic and economic connections involving Cuban figures"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "Vague references to Congressional committee interactions",
+        "direct_quote": "The Cubans were unable to get so him, but did fight with some of his supporters, who were arrested",
+        "significance": "Suggests potential political maneuvering and legal complications"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "19May66 206844",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No specific information about Oswald found in this document",
+        "direct_quote": "NO TRACES JMWAVE NOR LOCAL ODENNY NAMES GIVEN REF.",
+        "significance": "Minimal relevance to Oswald investigation"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Secret communication from Mexico City Info Director",
+        "direct_quote": "SECRET 191802Z CITE JMWAVE 9947 MEXICO CITY INFO DIRECTOR",
+        "significance": "Suggests potential intelligence communication related to Mexico City"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UTC-8016",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document about Cuban refugee and grain silos in Cuba",
+        "direct_quote": "Angel M. Maceda Sanchez (A 14 088 180) a Cuba refugee who was a welder and mechanic employed by the Cuban Ministry of Construction and participated in the construction of silos at Ranenda de Guanabacoa, Regle, Havana",
+        "significance": "Provides background context on Cuban infrastructure and refugee movements during early 1960s"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UGC-213L",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document appears to be related to intelligence communications involving multiple locations (Paris, Mexico City, Madrid)",
+        "direct_quote": "Pars. 1 to 7: USAREUR-3, 16 December 1965 and 7 January 1966",
+        "significance": "Suggests potential international intelligence coordination, though not directly related to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UWC-7951",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to Cuban individuals in Miami",
+        "direct_quote": "Cit: Cuban",
+        "significance": "Provides context of Cuban exile activities in Miami during the period of interest"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "UWO-7851",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UDC-7981",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UDC-7851",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Multiple Cuban-associated individuals tracked with connections to Fulgenicio Batista's network",
+        "direct_quote": "Emigre status:Milagro in Miami, Plaza publish newspaper",
+        "significance": "Suggests tracking of Cuban exile networks with potential intelligence connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Multiple individuals with Cuban connections being monitored",
+        "direct_quote": "Geo or Status: Milagro in Miami, With 'Patria', Fulgenicio BATISTA's newspaper",
+        "significance": "Indicates ongoing surveillance of Cuban exile communications and media networks"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "WFG-7951",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses activities of Fulgencio Batista's supporters in Miami related to Cuba",
+        "direct_quote": "Fulgencio Batista Zaldivar has an organization in Miami which is composed of a small group of his trusted followers.",
+        "significance": "Provides context for Cuban political exiles and potential Cold War era intelligence operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "UFG-7951",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document details Cuban political figures and their connections to Batista's regime",
+        "direct_quote": "Mario Cobas Reyes, former Cuban Minister of Transportation",
+        "significance": "Provides context about Cuban political landscape and potential Cold War tensions relevant to assassination background"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Confidential controlled document tracking Cuban political figures",
+        "direct_quote": "CONFIDENTIAL CONTROLLED DISSEM",
+        "significance": "Indicates ongoing US intelligence monitoring of Cuban political networks"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "UFG-7951",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban political movements and US-Cuba relations",
+        "direct_quote": "for the Liberty of Cuba) which is headed by Generoso Campos Marqueta. The majority of the members of the ALC are Batista adherents.",
+        "significance": "Provides context about Cuban political factions and potential geopolitical tensions relevant to assassination background"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Internal communication about media control and political messaging",
+        "direct_quote": "The newspaper Patria must take a more moderate line. Attacks on agencies of the United States Government and on exiles who were formerly followers of Fidel Castro must no longer be published.",
+        "significance": "Suggests active CIA involvement in media manipulation and narrative control"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "UFO-7051",
+    "page_number": 4,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban emigres and information collection activities",
+        "direct_quote": "A member of a group of Cuban emigres trained in the techniques of information collection. The group has provided useful reports since 1961.",
+        "significance": "Provides context about Cuban exile intelligence gathering activities during the early 1960s"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "References to journalists and media contacts",
+        "direct_quote": "Cobas, Gonzales, Guss and Sirgo are also journalists and radio commentators.",
+        "significance": "Suggests potential media connections that could be relevant to broader intelligence networks"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "UPC-7851",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discussion of Nuevo Mundo Americano newspaper in New York, potentially related to Cuban or Latin American intelligence activities",
+        "direct_quote": "The last issue of Mundo Americano was published in New York on 29 November 1965. An independent source reported that a new weekly newspaper called Nuevo Mundo Americano will be published in New York by Rolando Masferrer Rojas",
+        "significance": "Suggests potential media connections to Cuban exile networks and intelligence operations"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Vague reference to attempts to gain control of RBCE (possibly an organization or region)",
+        "direct_quote": "Idcspb-315/03784-65 from an independent source, reported that Batista and his representatives in the United States to attempt to gain control of RBCE.",
+        "significance": "Minimal connection to potential political intrigues, but lacks clear link to Oswald"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Lee Harvey Oswald",
+        "direct_quote": "",
+        "significance": "This document appears to be a CIA progress report about Cuban exile activities, unrelated to Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UFGA-24268",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 6,
+        "description": "Document appears to be a secret CIA continuation dispatch about an operational unit (AMCLATTER/1)",
+        "direct_quote": "During the reporting period October-December, AMCLATTER/1 conducted a total of 16 refugee debriefings and prepared reports on these.",
+        "significance": "Suggests ongoing CIA refugee intelligence gathering operations, potentially related to Cuban exile community activities"
+      },
+      {
+        "category": "FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "Detailed financial breakdown of operational expenses",
+        "direct_quote": "During the period October-December 1965 the following funds were expended for AMCLATTER/1: Salary - $1,344.87; reimbursement for POV mileage and operational expenses - $209.44; total - $1,654.31",
+        "significance": "Provides insight into CIA operational funding and scale of specific intelligence unit"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "UFGA-24268",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document relates to Cuban government leadership",
+        "direct_quote": "Dr. Julio GARCERAN Del Vall Souza, Leader of the PGCC (Pro-Constitutional Government of Cuba)",
+        "significance": "Provides insight into Cuban political leadership during the Cold War era, potentially relevant to understanding geopolitical context around the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "UFGA-24306",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not a JFK assassination document",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "UFGA-2430f",
+    "page_number": 9,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "UTGA-24306",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document appears unrelated to Oswald, focuses on different individuals",
+        "direct_quote": "",
+        "significance": "No direct connection to Lee Harvey Oswald found on this page"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "Unknown from image",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 8,
+        "description": "Appears to be a wave check and consolidation request form for an individual named Lamar Airey Margareta",
+        "direct_quote": "",
+        "significance": "Administrative document, not directly related to JFK assassination evidence"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "201-157175",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Document references Ho Tung Robert, potential connection to Oswald",
+        "direct_quote": "HO TUNG ROBERT 019",
+        "significance": "Weak potential lead, requires further investigation to establish any meaningful connection"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Name check and consolidation request form for Maria Luis A.",
+        "direct_quote": "",
+        "significance": "Appears to be a standard administrative document with minimal direct connection to Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Not Clearly Visible",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Partial document appears to be from Rio de Janeiro CIA Intelligence folder",
+        "direct_quote": "Rio de Janeiro-CIA-Ins-2",
+        "significance": "Suggests potential CIA intelligence documentation related to region, but insufficient context to link directly to Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "WH/C 66-499",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_DOCUMENT",
+        "confidence": 7,
+        "description": "Memorandum about admission of two aunts of Bernard L. Barker to the U.S.",
+        "direct_quote": "Admission to the U.S. for Two Aunts of Bernard L. Barker's Wife",
+        "significance": "Document relates to Bernard L. Barker, a Cuban-American refugee and former USAF captain, but does not directly connect to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "UPGH-5852",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_RECORDS",
+        "confidence": 6,
+        "description": "Document discusses foreign nationals (in-laws) seeking to enter PBPrime from Mexico",
+        "direct_quote": "MCLATTERS-114'S IN-LAWS DESIRE TO ENTER PBPRIME FROM MEXICO",
+        "significance": "Suggests potential immigration/travel activities related to foreign nationals"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "SECRET 200153Z",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document relates to individuals from Cuba, specifically Margarita and Maria Luisa Laine",
+        "direct_quote": "ARRIVED NEXT FROM CUBA 22 SEPT 65 ACCOMPANIED BY SISTER, MARIA LUIS A (LAMAR) LAINE",
+        "significance": "Provides insight into Cuban migration and potential intelligence connections during Cold War period"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Tracking of individuals' movement and visa clearance",
+        "direct_quote": "AMCLATTER 1 HAS ASKED FOR KUBARK AID IN EXPEDITING ADMITTANCE",
+        "significance": "Suggests potential intelligence agency involvement in travel arrangements"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document relates to Cuban and Nicaraguan emigres being trained for potential overthrow attempt",
+        "direct_quote": "INTEREST OF ROBERTO ALEJOS ARZU IN RECRUITING CUBAN EMIGRES THROUGH JULIO GACERAN DEL VALL SOUZA FOR TRAINING IN NICARAGUA IN PREPARATION FOR AN ATTEMPT TO OVERTHROW THE",
+        "significance": "Suggests covert training of Cuban exiles for potential political intervention, potentially connected to Cold War era anti-Communist operations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret classified message involving multiple Central American countries",
+        "direct_quote": "GUATEMALA/CUBA/NICARAGUA/COSTA RICA",
+        "significance": "Indicates complex inter-agency communications about regional political activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "SOURCE_INFORMATION",
+        "confidence": 7,
+        "description": "Intelligence source is a Miami businessman with contacts in Habana who has connections to U.S. Intelligence",
+        "direct_quote": "A MIAMI BUSINESSMAN WHO WAS A RESIDENT OF HABANA FOR SEVERAL YEARS. THE SOURCE HAS CONTACTS WHO RECOGNIZE HIM AS A CHANNEL TO U.S. INTELLIGENCE.",
+        "significance": "Provides insight into intelligence gathering networks and potential information channels between Cuba and US"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document involves communication between Guatemalan and US governments",
+        "direct_quote": "GUATEMALAN GOVERNMENT, PADA: UNITED STATES, MIAMI (11 OCTOBER 1965)",
+        "significance": "Demonstrates diplomatic communications around the time period of interest"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "TDS08-315/0317-65",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "TN71154",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban emigres planning a coup against the Guatemalan government",
+        "direct_quote": "RECEIVING AID FROM GARECERAN IN THE FORM OF ABOUT 40 CUBAN EMIGRES WHO WOULD BE WILLING TO GO TO NICARAGUA FOR TRAINING IN PREPARATION FOR AN EVENTUAL COUP AGAINST THE GUATEMALAN GOVERNMENT",
+        "significance": "Provides insight into CIA-supported anti-communist operations in Central America involving Cuban exiles"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "71454",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Details about Cuban and Guatemalan exile operations",
+        "direct_quote": "Alejos told Garceran that, in order for his coup to have any chance for success, it is imperative that he have the full support of the Guatemalan Air Force.",
+        "significance": "Reveals ongoing covert operations and political destabilization efforts in Central America"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Covert plans for coup against Costa Rican government",
+        "direct_quote": "Southern Nicaragua is to be used by the Somoza/Scheck forces as a launching site for a coup against the government of Costa Rica.",
+        "significance": "Indicates CIA involvement in regional political manipulation and regime change strategies"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "TDCS00-315/0933-65",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "201-25767",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NG2395",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Reference to Italian and Nicaraguan diplomatic staff in Havana",
+        "direct_quote": "ITALIAN IN HAVANA... MEMBER OF ITALIAN EMBASSY HAVA. LIVED AT PASEO AND 17 STREET, VEDADO. MAYORGAS ALSO SAID SHE 'AT ONE TIME' WAS MEMBER NICARAGUAN CONSULAR STAFF IN SAN FRANCISCO.",
+        "significance": "Suggests potential international diplomatic connections and network of contacts in Cuba"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct Oswald connections found",
+        "direct_quote": "WAVE FILES REFLECT NO TRACES DEBARGAS OR VARIANTS.",
+        "significance": "Lack of clear information about potential Oswald-related individuals"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "DECLASSIFIED-1",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "File: AMCLATTER-1",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "CIA communication involving Cuban exile group contact",
+        "direct_quote": "STATION ASSET AMCLATTER/1, USING APPROPRIATE COVER LOCAL CUBAN EXILE GROUP, CONTACTED HECTOR CLETO Grizondo-CORES 29 OCT 65",
+        "significance": "Indicates CIA operational contact with Cuban exile networks in mid-1960s, potentially relevant to assassination background"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Vague reference to potential intelligence contact",
+        "direct_quote": "GRIZONDO CLAIMS NEVER HEARD OF JULIO TOMAS CRUZ, A/I BELIEVES HE TELLING TRUTH",
+        "significance": "Suggests intelligence network communications and potential information filtering"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret classified message discussing military contacts and potential investigation",
+        "direct_quote": "PROTECT WAVE SOURCE: THIS MATTER AND ATTRIBUTE INFO TO OTHER THAN WAVE SOURCE, E.G. ONE OR SEVERAL KELLY'S 'WIDE MILITARY CONTACTS WASHINGTON'",
+        "significance": "Suggests intelligence agency communication about potential connections or investigation related to unnamed individuals"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Potential reference to questioning and contacts",
+        "direct_quote": "MILD IMPLICATION OF BEING QUESTIONED RE HIS OWN POSSIBLE INVOLVEMENT",
+        "significance": "Vague reference to questioning about involvement, potentially related to intelligence activities"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Detailed travel log for a Cuban national named Clara Elena Perez",
+        "direct_quote": "Residences past 16 years include locations in Cuba, New York, and Miami",
+        "significance": "Shows detailed tracking of individual movements, potentially relevant to understanding travel patterns and connections"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Cuban nationality noted for document subject",
+        "direct_quote": "Nationality: Cuban",
+        "significance": "Indicates potential Cuban connections during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "UFGA 20475",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "201-251689",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "201-251689",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 67,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "SECRET NO FOREIGN DISSEM",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document relates to U.S. involvement in Nicaragua, mentioning U.S. Army Colonel John M. Kelly and interactions with local officials",
+        "direct_quote": "Involvement of Blanca Rosa HAYNEGOS, wife U.S. Army Colonel John M. Kelly, 16 Plaza to Coroibre, the Government of Nicaragua",
+        "significance": "Suggests U.S. military/intelligence activities in Nicaragua during mid-1960s, indicating broader geopolitical context"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 6,
+        "description": "Document references Gerardo Rosa, a lawyer associated with CIA",
+        "direct_quote": "Gerardo ROSA, &: the h-ead of C.I. KELLY, *RG, describing how ROSA was a lawyer",
+        "significance": "Potential network or context of intelligence connections"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Appears to be a Secret internal communication about personnel",
+        "direct_quote": "SECRET [REDACTED] DECL",
+        "significance": "Suggests ongoing intelligence monitoring and documentation"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "31dec64-43038",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Cuban political exile discussing plot to overthrow Schick government",
+        "direct_quote": "FORMER CUBAN SUPREME COURT MAGISTRATE, SAID THERE PLOT AFOOT TO OVERTHROW SCHICK GOVERNMENT",
+        "significance": "Provides context of Cuban political exile activities and potential anti-government plotting"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Detailed meeting and communication record involving Cuban exile and military/political contacts",
+        "direct_quote": "ON 4 AUG HE HAD ACCOMPANIED 'HIS WASHINGTON DELEGATE' GENARDO MORA TO HOME OF COL. KELLY WHO... HAS WIDE MILITARY CONTACT WASHINGTON BY VIRTUE MOB POSITION",
+        "significance": "Suggests complex network of communications between Cuban exiles, military personnel, and potentially intelligence operatives"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Secret document in Pentagon",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mentions meeting about Nicaragua invasion plans involving Castro brothers",
+        "direct_quote": "FRANCISCO HORACIO AGUIRRE REPORTEDLY MET WITH CASTRO BROTHERS OCT 59 TO DISCUSS PLANS FOR INVASION NICARAGUA. FRANCISCO DENIED THIS",
+        "significance": "Suggests potential Cuban/anti-Castro intelligence connections and covert operation planning"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Indicates surveillance and tracking of individuals with potential international connections",
+        "direct_quote": "WAVE FILES REFLECT NO TRACES ROSA MAYORGAS, KELLY OR TACHITO SOMOZA",
+        "significance": "Suggests intelligence agency monitoring of individuals with potential political significance"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "12190iz",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to Guatemala and Cuban exile activities",
+        "direct_quote": "CUBA/GUATEMALA",
+        "significance": "Provides context for political tensions and exile movements during the early 1960s"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Roberto Alejos Arz\u00fa cancelling European vacation, potentially due to political activities",
+        "direct_quote": "CANCELLATION OF EUROPEAN VACATION BY ROBERTO ALEJOS ARZU, GUATEMALAN EXILE REPORTED TO BE RESUMING EFFORTS TO OVERTHROW",
+        "significance": "Suggests ongoing political activities and potential connections to anti-government movements"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "IN 89148",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "SOURCE_DESCRIPTION",
+        "confidence": 7,
+        "description": "Intelligence source from Miami businessman with Havana connections",
+        "direct_quote": "A MIAMI BUSINESSMAN WHO WAS A RESIDENT OF HABANA FOR SEVERAL YEARS. THE SOURCE HAS CONTACTS WHO RECOGNIZE HIM AS A CHANNEL TO UNITED STATES INTELLIGENCE.",
+        "significance": "Suggests potential intelligence network with connections to Cuba"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Indirect reference to Cuban connections",
+        "direct_quote": "INFORMATION WAS OBTAINED FROM A PERSON WHO SPOKE WITH THE DAUGHTER OF ROBERTO ALEJOS ARZU",
+        "significance": "Indicates potential indirect communication channels related to intelligence gathering"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "CIA Intelligence Information Cable",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Details about a wealthy Guatemalan exile's travel plans and financial restrictions",
+        "direct_quote": "ROBERTO ALEJOS ARZU, A GUATEMALAN MILLIONAIRE LIVING IN EXILE IN MIAMI BEACH, FLORIDA, SAID THAT HER FATHER HAD CANCELLED HIS PLANS TO VACATION IN EUROPE THIS SUMMER. SHE SAID THAT HE CANNOT OBTAIN THE FUNDS THAT HE HAS IN GUATEMALA AND THAT HE DOES NOT WANT TO USE THE MONEY HE HAS IN THE UNITED STATES FOR THE TRIP.",
+        "significance": "While not directly related to the JFK assassination, this document shows CIA interest in tracking financial movements of wealthy exiles, which could be relevant to broader intelligence gathering"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10164-10000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to Cuban exiles and recruitment for loyalist forces in Dominican Republic",
+        "direct_quote": "RECRUITMENT OF CUBAN EXILES BY ATON CONSTANZO PALAU TO JOIN THE RANKS OF THE LOYALIST FORCES IN THE DOMINICAN REPUBLIC IN THEIR FIGHT AGAINST FRANCISCO CAAMANO DENO",
+        "significance": "Demonstrates CIA-linked operations involving Cuban exiles during mid-1960s, potentially relevant to broader geopolitical context of JFK era"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Classified message with intelligence gathering about Cuban political activities",
+        "direct_quote": "REPORT CLASS CONFIDENTIAL CONTROLLED DISSEM CUBA/DOMINICAN REPUBLIC",
+        "significance": "Shows active intelligence monitoring of Cuban exile movements and international political operations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "87815",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "SOURCE_BACKGROUND",
+        "confidence": 7,
+        "description": "Source is a Miami businessman with previous Habana residency and connections to U.S. intelligence channels",
+        "direct_quote": "A MIAMI BUSINESSMAN WHO WAS A RESIDENT OF HABANA FOR SEVERAL YEARS. THE SOURCE HAS CONTACTS WHO RECOGNIZE HIM AS A CHANNEL TO U.S. INTELLIGENCE.",
+        "significance": "Suggests potential intelligence network connections with Cuban exile community"
+      },
+      {
+        "category": "CUBAN_EXILE_NETWORK",
+        "confidence": 6,
+        "description": "Information obtained through Cuban exile intermediary",
+        "direct_quote": "THIS INFORMATION WAS OBTAINED FROM A CUBAN EXILE WHO SPOKE WITH ATON CONSTANZO PALAU",
+        "significance": "Indicates potential intelligence gathering through Cuban exile channels"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "TDCS-DB-315/02005-65",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "TDS 08-315/02005",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document discusses Cuban exiles and recruitment for operations against different Cuban and Dominican political factions",
+        "direct_quote": "ATON CONSTANZO PALAU, A FORMER CUBAN REBEL ARMY CAPTAIN... HAS BEEN ENGAGED IN THE RECRUITMENT OF 69 CUBAN EXILES WHO ARE TO FIGHT IN THE DOMINICAN REPUBLIC",
+        "significance": "Provides context about anti-Castro exile networks and covert recruitment operations during the mid-1960s"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Covert recruitment of Cuban exiles for political overthrow operations",
+        "direct_quote": "CONSTANZO STRESSED THAT THERE WERE POLITICAL COMMITMENTS IN ALEJOUS' RECRUITMENT OPERATION, IN THAT THE CUBAN EXILES WERE TO BE PERMITTED TO ESTABLISH AN ANTI-CASTRO BASE OF OPERATIONS IN GUATEMALA",
+        "significance": "Reveals ongoing covert operations targeting Cuban and Central American political movements"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "TDCS-08-315/020057",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document relates to operation involving exiles departing for Dominican Republic",
+        "direct_quote": "AS OF 9 JUNE, A GROUP OF THE EXILES WAS SCHEDULED TO DEPART FROM THE UNITED STATES ON 12 JUNE, PRESUMABLY FOR THE DOMINICAN REPUBLIC",
+        "significance": "While not directly related to JFK assassination, suggests covert exile operations being monitored"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Multiple government agencies involved in field dissemination",
+        "direct_quote": "FIELD DISSEM: CINCSO, CINCLANT, COMKWESTFOR, MIAMI REPS OF STATE, FBI, CUSTOMS, I&NS, BORDER PATROL, FAA AND USCG",
+        "significance": "Indicates inter-agency coordination on operational intelligence"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Secret Dispatch Document",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DISPATCH_DETAILS",
+        "confidence": 9,
+        "description": "Secret classified dispatch from Chief of Station JMWAVE dated 19 April 1965",
+        "direct_quote": "DISPATCH - CLASS: TOP SECRET",
+        "significance": "Official CIA communication documenting a telephonic incident"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "UFGA-21355",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "IDENTIFICATION",
+        "confidence": 8,
+        "description": "Document identifies Reynaldo PICO Ramon with a specific identification number",
+        "direct_quote": "IDEN- Reynaldo PICO Ramon (201-284665)",
+        "significance": "Appears to be a personnel or surveillance record related to an individual"
+      },
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 7,
+        "description": "Document was microfilmed on May 10, 1965",
+        "direct_quote": "MICROFILMED MAY 10 1965",
+        "significance": "Indicates archival preservation and potential historical context"
+      },
+      {
+        "category": "DISTRIBUTION",
+        "confidence": 6,
+        "description": "Distribution list includes WH/Cuba (likely Western Hemisphere/Cuba division)",
+        "direct_quote": "Distribution: 3 - WH/Cuba",
+        "significance": "Suggests document relates to Cuban operations or intelligence"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

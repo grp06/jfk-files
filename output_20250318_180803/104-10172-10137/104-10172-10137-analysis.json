@@ -1,0 +1,16 @@
+[
+  {
+    "document_id": "104-10172-10137",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document appears to be about Cuban-born individuals, potentially related to intelligence activities",
+        "direct_quote": "EDDA (HERNANDEZ) GONZALEZ CUBAN BORN 31 AUGUST 32 LA VILLAS, CUBA",
+        "significance": "Provides context of Cuban connections and potential intelligence network tracking"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

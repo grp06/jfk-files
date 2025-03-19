@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10110-10340",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_PROCESS",
+        "confidence": 7,
+        "description": "Military cover backstop establishment document from August 1962",
+        "direct_quote": "NOTIFICATION OF ESTABLISHMENT OF MILITARY COVER BACKSTOP",
+        "significance": "Indicates administrative preparation of covert military administrative infrastructure prior to assassination"
+      },
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 8,
+        "description": "Secret classified document related to military records and services",
+        "direct_quote": "SECRET - RECORDS AND SERVICES DIVISION",
+        "significance": "Demonstrates high-level classification of internal military administrative documentation"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

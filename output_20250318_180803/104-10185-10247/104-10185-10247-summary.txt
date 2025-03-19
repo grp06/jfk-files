@@ -1,0 +1,24 @@
+JFK ANALYSIS SUMMARY: 104-10185-10247
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 5/10)
+  Document relates to authentication of identity documents for Jaime Sanchez Papo (Alias)
+  QUOTE: "Jaime Sanchez Papo (Alias)"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Authentication of Mexican identification documents
+  QUOTE: "1 - Mexican Drivers License No. 436747
+1 - 1961 Mexican Voters Cert. No. 6215"
+

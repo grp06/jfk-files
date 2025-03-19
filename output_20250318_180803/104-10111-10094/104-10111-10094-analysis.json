@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10111-10094",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document details CIA employee's activities in Cuba and Guatemala",
+        "direct_quote": "In May 1960 Subject was certified to the State Department in connection with ninety day proposed TDY in Havana, Cuba with JMARC; and in October 1960 she was transferred from Havana to Guatemala.",
+        "significance": "Reveals CIA operational movements in Cuba during critical Cold War period"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Potential reference to Cuban intelligence interactions",
+        "direct_quote": "In November 1960 Security was advised that according to information from 'the Project' (presumably JMARC) Subject had, while in Cuba, allegedly been having affair with 'three people'",
+        "significance": "Suggests complex interpersonal dynamics within CIA operations in Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

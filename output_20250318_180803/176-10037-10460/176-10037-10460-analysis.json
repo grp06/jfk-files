@@ -1,0 +1,29 @@
+[
+  {
+    "document_id": "176-10037-10460",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA-originated document related to Southeast Asia Task Force, indicating potential intelligence context",
+        "direct_quote": "ORIGINATOR: CIA, TITLE: Task Force Status Report",
+        "significance": "Suggests potential CIA operational involvement and intelligence gathering during the period surrounding the JFK assassination"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 8,
+        "description": "Part of JFK Assassination Records Release under 1992 Act",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Indicates ongoing declassification efforts and government transparency regarding assassination documents"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 16,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  }
+]

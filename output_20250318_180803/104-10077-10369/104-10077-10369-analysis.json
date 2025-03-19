@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10077-10369",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "IDENTITIES",
+        "confidence": 7,
+        "description": "List of four named individuals, potentially related to intelligence or operational activities",
+        "direct_quote": "A. ODON ALVAREZ DELALA CAMPA\nB. JOSE LUIS GONZALEZ GALLARETTA\nC. GILBERTO LIWAY RODRIGUES (201-328941)\nD. ROGELIO IGLESIAS PATINO",
+        "significance": "Unidentified individuals listed on a classified secret cable, possibly related to covert operations or intelligence activities"
+      },
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 8,
+        "description": "Classified secret message released under JFK Assassination Records Act",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Official government document with potential historical significance to assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

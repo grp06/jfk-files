@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10123-10421
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 6/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 8/10)
+  CIA personnel file for James W. McCord, Jr., with multiple CIA and security-related assignments
+  QUOTE: "ASSIGNMENTS: 64: CIA, Security Off, Washington; 62-63: Dept of Army; Civilian,Germany; 53-62: CIA, Security Off, Washington"
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Detailed personnel record suggesting extensive government and intelligence community involvement
+  QUOTE: "Dept of Def, Security Off, San Francisco; 48-51: FBI Agent, California"
+

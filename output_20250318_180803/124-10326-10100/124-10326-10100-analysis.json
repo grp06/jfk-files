@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "124-10326-10100",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 10,
+        "description": "FBI document related to JFK assassination records, dated 04/30/1954",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Shows ongoing document declassification process for JFK assassination records"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 8,
+        "description": "Secret classification with redaction status",
+        "direct_quote": "CLASSIFICATION: Secret, RESTRICTIONS: 1B, CURRENT STATUS: Redact",
+        "significance": "Indicates sensitive information still being withheld from full public disclosure"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50953",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA memo about James Angleton's handling of confidential information and potential agency jurisdictional issues",
+        "direct_quote": "James Angleton of CIA frequently turns over to the Bureau on a highly confidential basis information which has been developed through operations headed by Angleton.",
+        "significance": "Reveals internal CIA communication practices and potential information control mechanisms by a key CIA official"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Reference to confidential informant and intelligence investigations",
+        "direct_quote": "Confidential Informant T-2, an Agency of the Government which conducts personnel and intelligence investigations",
+        "significance": "Suggests systematic surveillance and informant networks within government agencies"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

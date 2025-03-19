@@ -1,0 +1,30 @@
+[
+  {
+    "document_id": "104-10121-10304",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 7,
+        "description": "CIA travel processing document for an individual, suggesting official or covert travel arrangements",
+        "direct_quote": "Destination: Moscow Hungary, Passport Type & No.: State Outgoing",
+        "significance": "Indicates potential intelligence-related international travel with specific routing through Soviet-bloc countries"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Detailed interview processing sheet with security and travel precautions",
+        "direct_quote": "Travel Precautions (to carry nothing identifying him with CIA)",
+        "significance": "Suggests careful management of an individual's travel to maintain operational security"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Interview checklist with multiple security-related points",
+        "direct_quote": "Personal Conduct (a. general good behavior, b. no black market or currency transactions, c. no undue curiosity in natives)",
+        "significance": "Indicates close monitoring and specific behavioral guidelines for the subject"
+      }
+    ],
+    "overall_page_relevance": 7
+  }
+]

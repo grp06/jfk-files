@@ -1,0 +1,72 @@
+[
+  {
+    "document_id": "104-10101-10239",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 9,
+        "description": "2025 Release under JFK Assassination Records Act of 1992",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Indicates ongoing declassification process for assassination documents"
+      },
+      {
+        "category": "COMMUNICATION_DETAILS",
+        "confidence": 7,
+        "description": "Classified message with routing information",
+        "direct_quote": "CLASSIFIED MESSAGE",
+        "significance": "Suggests sensitive inter-agency communication from December 1963"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "90168",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Soviet-related context involving African students in Moscow",
+        "direct_quote": "STUDENTS CARRIED PLACARDS 'STOP KILLING AFRICANS', SKULL AND CROSSBONES LABELED 'RUSSIAN FRIENDSHIP'",
+        "significance": "Indicates tensions between Soviet students and potential international political dynamics"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10101-10239",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Document discusses Soviet diplomatic activities and long-range plans related to African states",
+        "direct_quote": "RECENT CONGO EXPULSION OF SOVIET DIPLOMATS AS ANOTHER FACET SOVIET LONG RANGE PLAN TO DUPE, EVER TAKEOVER, NAIVE AFRICAN STATES BY MEANS OF SUBVERSION, STUDENT INDOCTRINATION AND CONTROL, ECONOMIC AID WITH POLITICAL STRINGS",
+        "significance": "Provides context of Cold War geopolitical maneuvering, potentially relevant to understanding international tensions during the assassination period"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 6,
+        "description": "Guidance to monitor student groups and activities",
+        "direct_quote": "WATCH STUDENT GROUPS FOR DEMONSTRATIONS, ARTICLES AND PUBLIC STATEMENTS... INTERVIEW TRAINED STUDENTS, GOVERNMENT OFFICIALS, EDUCATORS FOR REACTION",
+        "significance": "Indicates systematic surveillance of student populations and intellectual circles"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "COORDINATION_DOCUMENT",
+        "confidence": 7,
+        "description": "Appears to be an internal routing/coordination document listing multiple individuals",
+        "direct_quote": "Coordinating",
+        "significance": "Shows administrative tracking of personnel related to an investigation or operation"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10185-10247",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 5,
+        "description": "Document relates to authentication of identity documents for Jaime Sanchez Papo (Alias)",
+        "direct_quote": "Jaime Sanchez Papo (Alias)",
+        "significance": "Potential alias or false identity document, which could be related to intelligence operations or cover identities"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Authentication of Mexican identification documents",
+        "direct_quote": "1 - Mexican Drivers License No. 436747\n1 - 1961 Mexican Voters Cert. No. 6215",
+        "significance": "Indicates possession of Mexican identification documents from 1961, suggesting potential travel or operational activities in Mexico"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

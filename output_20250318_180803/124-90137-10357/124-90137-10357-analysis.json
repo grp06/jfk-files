@@ -1,0 +1,51 @@
+[
+  {
+    "document_id": "124-90137-10357",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA liaison document related to Henryk Ignacy Janikowski",
+        "direct_quote": "ORIGINATOR: CENTRAL INTELLIGENCE AGENCY",
+        "significance": "Indicates CIA involvement in intelligence communication, potentially related to broader assassination context"
+      },
+      {
+        "category": "DOCUMENT_CLASSIFICATION",
+        "confidence": 9,
+        "description": "Highly classified document with restricted access",
+        "direct_quote": "CLASSIFICATION: Secret, IB: 1C, CURRENT STATUS: Redact",
+        "significance": "Suggests sensitive information that was initially withheld from public view"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "KP 5-18-98",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document relates to a Polish individual named Henryk Ignacy Janikowski with potential international connections",
+        "direct_quote": "POB: Wiele, Bydgoszcz, Poland",
+        "significance": "Provides context of international intelligence activities, though not directly related to JFK assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "CIA internal communication about an individual's background and interactions",
+        "direct_quote": "According to a report dated 23 March 1961 from an official West German service, the Bremer Bank in Bremen (Germany) reported a check transaction",
+        "significance": "Demonstrates CIA's tracking of international financial and personal movements"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "124-90137-10357",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  }
+]

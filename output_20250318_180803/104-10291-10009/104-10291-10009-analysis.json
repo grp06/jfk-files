@@ -1,0 +1,97 @@
+[
+  {
+    "document_id": "104-10291-10009",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "776.9",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown - No specific document ID visible",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "CIA New York Office memo dated 30 November 1959 requesting information on a commercial staff matter",
+        "direct_quote": "Commercial Staff has requested a Lge & Prodrtrict report on Maritime Unit, a New Commercial Section Member in Den, Jan 1956",
+        "significance": "While not directly related to JFK assassination, demonstrates internal CIA communication practices and documentation methods"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "104-10291-10009",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ADMINISTRATIVE_RECORDS",
+        "confidence": 7,
+        "description": "Document appears to be an administrative record for an organization, possibly related to international operations",
+        "direct_quote": "ONE OF DIRECTOR ENRICO MANDEL-MANTELLO & ENRICO MANDEL-MANTELLO",
+        "significance": "Provides insight into organizational structure and personnel"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document shows address and capital information for an organization",
+        "direct_quote": "CAPITAL - 1 RPT 1 MILLION FRENCH FRANCS",
+        "significance": "Indicates financial details and potential international operations"
+      },
+      {
+        "category": "ORGANIZATIONAL_LEADERSHIP",
+        "confidence": 8,
+        "description": "Lists organizational officers and leadership",
+        "direct_quote": "OFFICER - DR. FERENS NAGY, DR. FERENS NAGY, PRESIDENT",
+        "significance": "Provides details about key personnel in the organization"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "104-10291-10009",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "S-796977",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Routine interdepartmental communication about international trade",
+        "direct_quote": "Pertaining to International Trade Center",
+        "significance": "This document appears to be a standard administrative communication and does not contain direct JFK assassination-related information"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "104-10291-10009",
+    "page_number": 7,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Interdepartmental memo from Chief, DCS-CI to Chief, Contact Division, dated 22 January 1960",
+        "direct_quote": "Your memorandum dated 23 November 1959, DO/OO Case 31785",
+        "significance": "Demonstrates internal communication protocols and tracking of intelligence case files"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Lee Harvey Oswald in this document",
+        "direct_quote": "",
+        "significance": "Limited relevance to Oswald investigation"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

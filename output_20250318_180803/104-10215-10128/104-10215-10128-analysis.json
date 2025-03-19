@@ -1,0 +1,150 @@
+[
+  {
+    "document_id": "104-10215-10128",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CF-89774",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "BARNES_Winfred_Clark",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "#96 289",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Travel record for Cuba and Guatemala",
+        "direct_quote": "REUBEN: A Havana, Cuba on 2 separate occasions; 13 February 1959 and 5 June 1959, for a period of approximately two on both formal, countries to visit and purpose of visit not given.",
+        "significance": "Provides context of travel movements during a period of political transition in Cuba, potentially relevant to understanding broader geopolitical connections"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "A 89744",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 4,
+        "description": "Miami Field Office security clearance document for Wilfred Clark Davies",
+        "direct_quote": "Security check will be completed.",
+        "significance": "Routine administrative document related to security clearance, minimal direct connection to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "A-89758",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "A08971W",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unspecified",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "00-B-3.168.138",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-B-3,168,139",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "CIA confidential report on anti-Castro attitudes in Cuba",
+        "direct_quote": "Anti-Castro Attitude of ICP Personnel",
+        "significance": "Provides context of CIA intelligence gathering in Cuba around the time of the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "00-B-3,168,139",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-A-3,168,137",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 4,
+        "description": "Detailed profiles of four Cuban flight mechanics/engineers",
+        "direct_quote": "Another outstanding young man is Esqulo's assistant, Jose Ramon Alvarez, about 31. He is a graduate of Auburn University and is a top flight engineer.",
+        "significance": "Provides background on Cuban technical personnel, potentially relevant to understanding regional dynamics"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "00-B-3,16b,609",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-B-3,164,652",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-B-3,164,653",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "00-A-3164559",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "CIA document about Cuban regime activities in 1960",
+        "direct_quote": "In Aug 60 the Castro regime sent two representatives to the US to attempt to obtain replacement parts and machinery for the oil industry.",
+        "significance": "Provides context about US-Cuba relations during the period leading up to the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  }
+]

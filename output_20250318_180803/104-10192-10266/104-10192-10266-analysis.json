@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "104-10192-10266",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA classified document discussing Cuban exile leadership changes",
+        "direct_quote": "VIRO HAS BEEN NOTIFIED OF CHANGE ONLY THIS WEEK AND THAT VIRO'S DISAPPOINTMENT AS 'CHIEF IN EXILE' CAME FROM 'UNDER-GROUND'",
+        "significance": "Reveals internal CIA communications about Cuban exile political movements, potentially related to broader Cold War and assassination context"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Latin American political changes and US-sponsored activities",
+        "direct_quote": "RESLE IS RUNNING NEW UNITED STATES SPONSORED CUBAN ESCORT",
+        "significance": "Indicates ongoing US covert operations and political manipulation in Latin America during this period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Secret classified message discussing media narrative around a potential incident",
+        "direct_quote": "BUCHANAN JOURNALISTIC REPUTATION INDICATES HE INACCURATE AND SENSATIONALIST",
+        "significance": "Suggests an internal government effort to manage media perception and control narrative around a sensitive event"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Potential reference to Cuba-related diplomatic tensions",
+        "direct_quote": "ATTEMPTS FORCE CHANGES IN UNITES STATES POSTURE RE CUBA",
+        "significance": "Indicates potential geopolitical context and diplomatic maneuvering related to Cuba"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

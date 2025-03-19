@@ -1,0 +1,39 @@
+JFK ANALYSIS SUMMARY: 104-10250-10199
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 2: Relevance 7/10
+- Page 3: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Ongoing surveillance and investigation of subject's potential communist activities
+  QUOTE: "The people on this list are being contacted for use on a continuing basis in their specific cases rising in their particular area of knowledge."
+
+Page 3 (Confidence: 4/10)
+  Reference to an agency and subject's father providing location information
+  QUOTE: "the agency in (Gaboa, Panama, Canal Zone) which appears in the subject's father's information"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 2 (Confidence: 8/10)
+  Interagency communication about subject's potential future assignment
+  QUOTE: "The subject's use in the proposed Staff C project is still in the planning stage, but the assignment that the Subject is being considered for is a highly sensitive one"
+
+Page 3 (Confidence: 7/10)
+  Document discusses coordination between agencies regarding a subject's location and security status
+  QUOTE: "Commissioner of Immigration and Naturalization has indicated in a conversation that INS had been able to locate the Subject's location"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 2 (Confidence: 6/10)
+  Immigration and naturalization inquiries about subject
+  QUOTE: "Memorandum of 9 June 1951 requesting further information regarding their memorandum of 16 June 1951 on the Subject"
+

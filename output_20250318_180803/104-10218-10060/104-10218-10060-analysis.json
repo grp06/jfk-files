@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10218-10060",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Soviet KGB officer Nikolay Stepanovych Leonov traveling from Mexico City to Brussels",
+        "direct_quote": "NIKOLAY STEPANOVYCH LEONOV, SECOND SECY KK (PRESS ATTACHE), SOVEMB MEXICO CITY ACCOMPANIED BY DAUGHTER IRINA WAS SCHEDULED DEPART MEXICO CITY 29 JUNE SABENA FLT 556 FOR BRUSSELS",
+        "significance": "Provides insight into Soviet diplomatic movements during the post-assassination period, potentially revealing intelligence community activities"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Detailed travel itinerary of Soviet KGB officer",
+        "direct_quote": "LEONOV KGB OFFICER REPORTEDLY ON WAY MOSCOW FOR 20-DAY TDY. PLS CONFIRM ARRIVAL BRUSSELS AND DEPARTURE, PRESUMABLY NEXT AEROFLOT FLIGHT TO MOSCOW",
+        "significance": "Tracks Soviet intelligence officer's movements, suggests ongoing diplomatic/intelligence activities in the mid-1960s"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

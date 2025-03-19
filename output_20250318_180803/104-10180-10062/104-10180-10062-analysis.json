@@ -1,0 +1,22 @@
+[
+  {
+    "document_id": "104-10180-10062",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document relates to Cuban revolutionary activities, mentioning Ernesto Guevara's military movements",
+        "direct_quote": "ERNESTO GUEVARA HAS MOVED WESTWARD. HIS EXACT LOCATION NOT KNOWN BUT 165 MEN THOUGHT TO BE UNDER HIS COMMAND ARE CAMPED NEAR MANACAS IN WEST LAS VILLAS",
+        "significance": "Provides context of Cuban revolutionary activities around 1958, but no direct connection to JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "16 DECEMBER 1958",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  }
+]

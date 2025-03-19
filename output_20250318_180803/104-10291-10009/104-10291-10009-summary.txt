@@ -1,0 +1,31 @@
+JFK ANALYSIS SUMMARY: 104-10291-10009
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+- Page 7: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 7 (Confidence: 3/10)
+  No direct mention of Lee Harvey Oswald in this document
+  QUOTE: ""
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 7 (Confidence: 7/10)
+  Interdepartmental memo from Chief, DCS-CI to Chief, Contact Division, dated 22 January 1960
+  QUOTE: "Your memorandum dated 23 November 1959, DO/OO Case 31785"
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Document shows address and capital information for an organization
+  QUOTE: "CAPITAL - 1 RPT 1 MILLION FRENCH FRANCS"
+

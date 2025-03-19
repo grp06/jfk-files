@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "104-10120-10373",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Internal memorandum discussing potential REDSKIN Agent Candidates and psychological assessment process",
+        "direct_quote": "Proposal for A&E Assessment of Potential REDSKIN Agent Candidates",
+        "significance": "Reveals internal CIA recruitment and screening procedures for covert operatives during early 1960s"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 7,
+        "description": "Detailed interdepartmental communication about personnel screening and documentation",
+        "direct_quote": "It was further ascertained at this time that Mr. Howard OSBORNE desired that all training and assessment of REDSKIN Agents who pass the initial screening be conducted",
+        "significance": "Shows high-level oversight of sensitive personnel selection process by senior CIA officials"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "TRAINING_OPERATIONS",
+        "confidence": 6,
+        "description": "Document discusses plans for REESKIN Agents processing and training",
+        "direct_quote": "SR Division plans to process thirty or thirty-five REESKIN Agents this year. Time is, of course, of the essence, in view of the fact that these people will have to be assessed, security-cleared, briefed, and trained, and arrangements for grants made before the summer season.",
+        "significance": "Suggests covert agent training program active during period of interest, potential connection to intelligence operations"
+      },
+      {
+        "category": "GEOGRAPHICAL_CONTEXT",
+        "confidence": 5,
+        "description": "Training and processing locations mentioned",
+        "direct_quote": "outside the Washington, D.C. area. Most of the training will be conducted in an SR safe house in New York. The representative will probably request a safe house in Baltimore for the final assessment and processing of REESKIN agents",
+        "significance": "Indicates multiple secure locations used for agent preparation, potential operational infrastructure"
+      }
+    ],
+    "overall_page_relevance": 4
+  }
+]

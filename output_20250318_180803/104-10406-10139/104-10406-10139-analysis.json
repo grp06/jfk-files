@@ -1,0 +1,146 @@
+[
+  {
+    "document_id": "104-10406-10139",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_CONTEXT",
+        "confidence": 9,
+        "description": "Secret classified document describing the 201 System for intelligence file management",
+        "direct_quote": "The 201 system provides a method for identifying a person of specific interest to the Operations Directorate and for controlling and filing all pertinent information about that person.",
+        "significance": "Reveals internal CIA filing and tracking methodology for personnel of interest"
+      },
+      {
+        "category": "INTELLIGENCE_METHODOLOGY",
+        "confidence": 8,
+        "description": "Detailed explanation of how intelligence files are indexed and maintained",
+        "direct_quote": "These are normally subjects of extensive reporting and CI investigation, prospective agents and sources, members of groups and organizations of continuing target interest",
+        "significance": "Provides insight into how intelligence agencies track and categorize individuals"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 24,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-000000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "13-000000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "13-000000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-000000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-000000",
+    "page_number": 16,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 44,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "13-00000",
+    "page_number": 45,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret Clandestine Services Handbook page",
+        "direct_quote": "CLANDESTINE SERVICES HANDBOOK NO. 43-1-1",
+        "significance": "Provides insight into CIA operational documentation and filing procedures"
+      },
+      {
+        "category": "FILING_PROCEDURES",
+        "confidence": 8,
+        "description": "Guidance on maintaining personnel files",
+        "direct_quote": "Files on these may be kept in any desired order. Should such personalities become of general CS interest, they must be brought into the 201 system.",
+        "significance": "Reveals internal CIA documentation protocols for tracking individuals of interest"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

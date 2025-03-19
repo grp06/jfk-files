@@ -1,0 +1,350 @@
+JFK ANALYSIS SUMMARY: 104-10332-10022
+================================================================================
+
+Document contains 50 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 9/10
+- Page 1: Relevance 9/10
+- Page 1: Relevance 9/10
+- Page 7: Relevance 8/10
+- Page 9: Relevance 8/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 8/10)
+  Records include files related to Oswald and assassination investigation
+  QUOTE: "Some records within the Agency's JFK collection are assassination specific, others are ancillary. They deal with individual and events not directly linked with Oswald or the assassination; but are thought to have had a relationship to the assassination or investigation into the assassination."
+
+Page 1 (Confidence: 8/10)
+  Detailed chronology of Oswald's movements from 1956-1963
+  QUOTE: "Joins Marines, Arrives Atsugi (U2 Base) Japan, Returns to US, Hardship discharge, Departs New Orleans for Moscow"
+
+Page 2 (Confidence: 8/10)
+  Multiple references to Lee Harvey Oswald's files being processed and placed in the JFK Collection
+  QUOTE: "Lee Harvey Oswold's 201 File. CIA has placed this file into the JFK Collection."
+
+Page 9 (Confidence: 8/10)
+  Document references Oswald's telephone conversations with Cuban Consulate and Soviet Embassy in Mexico City
+  QUOTE: "Oswald telephone conversations with the Cuban Consulate and Soviet Embassy in Mexico City"
+
+Page 6 (Confidence: 7/10)
+  Reference to Oswald Pre-Assassination Files being reviewed by CIA Office of Security
+  QUOTE: "CIA-16 Oswald Pre-Assassination Files. The HRG reportedly received a lengthy answer from the Office of Security on the LIHO files and a formal response to the Review Board's request is in process."
+
+Page 7 (Confidence: 7/10)
+  Reference to files related to James Angleton and potential Oswald connections
+  QUOTE: "The Review Board seeks to ensure that it has taken all reasonable steps to account for any files that James Angleton possessed or controlled that related to the assassination and to Lee Harvey Oswald."
+
+Page 8 (Confidence: 7/10)
+  CIA seeking records related to Oswald
+  QUOTE: "CIA was informally requested, more than two years ago, to use its contacts to pursue certain records related to Oswald that were orally described to CIA."
+
+Page 9 (Confidence: 7/10)
+  CIA examining its records on Oswald's handling and documentation
+  QUOTE: "CIA will determine whether the IG's office maintains an index or inventory of its reports and determine whether the IG's office prepared a report on the handling of Oswald"
+
+Page 1 (Confidence: 7/10)
+  Document references JFK assassination investigations involving Oswald
+  QUOTE: "We continue to identify other collections of documents that properly belong within the JFK collection. These include: The Oswald Security File"
+
+Page 1 (Confidence: 7/10)
+  Document lists key figures potentially connected to Oswald
+  QUOTE: "Cuban exile anti-Castro activities, 1960-64, if they involve JFK figures"
+
+Page 1 (Confidence: 7/10)
+  Explicit mention of collecting Oswald-related documents
+  QUOTE: "sixty-four record center-size boxes... sixteen boxes of Lee Oswald's 201 file"
+
+Page 3 (Confidence: 7/10)
+  Oswald-related documents from CIA defector file
+  QUOTE: "Oswald-related documents from the a general defector file maintained by the CIA's Office of Security [CIA-IR-24]"
+
+Page 6 (Confidence: 7/10)
+  Multiple CIA responses related to Oswald records pending
+  QUOTE: "Accounting of Pre-Assassination Files on Oswald (partial response received) [CIA-16]"
+
+Page 7 (Confidence: 7/10)
+  CIA preparing final declaration about Oswald-related records
+  QUOTE: "CIA's Final Declaration of Compliance will constitute its public statement... that (1) CIA has located and disclosed all records relating to Lee Harvey Oswald and the assassination of President Kennedy that it could identify"
+
+Page 1 (Confidence: 7/10)
+  Investigating CIA's knowledge of Oswald-related records
+  QUOTE: "Identify any other records relating to Oswald/assassination that CIA knows to have been destroyed or removed from CIA holdings"
+
+Page 2 (Confidence: 7/10)
+  Reference to records related to Lee Harvey Oswald discovered in CIA Directorate of Operations files
+  QUOTE: "In fact, the Directorate of Operations only recently uncovered additional records relating to Lee and Marina Oswald."
+
+Page 3 (Confidence: 7/10)
+  Multiple references to Oswald's files and records being processed
+  QUOTE: "all postponed records from Lee Harvey Oswald's 201 file, Office of Security file, and 'A' file"
+
+Page 2 (Confidence: 6/10)
+  Mention of Oswald-related files among six high-priority issues
+  QUOTE: "Six issues are: CIA-7 (Histories); CIA-16 (Oswald Pre-assassination files); personnel assigned to a designated post"
+
+Page 3 (Confidence: 6/10)
+  Reference to searching files related to Oswald security file
+  QUOTE: "Included in this category was the Oswald security file, which was found and has been examined by the ARRB staff."
+
+Page 1 (Confidence: 6/10)
+  CIA components required to inventory holdings related to Oswald
+  QUOTE: "Confirmation that relevant components inventoried their holdings for the relevant time periods for records on Oswald or the assassination"
+
+Page 5 (Confidence: 5/10)
+  Reference to JMWAVE and David Sanchez Morales files
+  QUOTE: "On May 22, 1996, the Review Board requested access to 'all 201 files, personnel files, Office of Security files, P-files, or any other files' relating to five persons allegedly connected to JMWAVE."
+
+Page 10 (Confidence: 5/10)
+  Investigating Oswald's activities in Mexico City
+  QUOTE: "On March 18, 1997, the Review Board provided additional leads to CIA to assist in answering these questions."
+
+Page 8 (Confidence: 5/10)
+  Note that some Oswald-related files were not initially identified in early CIA searches
+  QUOTE: "For example, Oswald's Office of Security file was not identified through CIA's early searches."
+
+Page 1 (Confidence: 5/10)
+  Potential for documents related to Oswald in various record collections
+  QUOTE: "Relevant documents can include documents 'related to the assassination,' such as later investigations, key topics/events within the Oswald/JFK Story"
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 9 (Confidence: 9/10)
+  CIA reported original surveillance tapes of Oswald's phone calls were destroyed
+  QUOTE: "CIA has reported that the original surveillance tapes that recorded the Oswald telephone conversations were destroyed, and that CIA has no copies of these audio recordings."
+
+Page 1 (Confidence: 8/10)
+  Multiple official investigations of assassination documented
+  QUOTE: "Agency working files generated by JFK assassination investigation and requests and CIA documents found by other agencies and Presidential Libraries"
+
+Page 1 (Confidence: 8/10)
+  Document is a CIA internal memo about anti-Cuban operations
+  QUOTE: "CIA anti-Cuban operations 1960-64 (Mongoose, etc.)"
+
+Page 1 (Confidence: 8/10)
+  CIA conducting initial searches of records related to Oswald and JFK assassination before official ARRB process
+  QUOTE: "In early 1992, even before the Act was passed, the Chief of the CIA History Staff reported to the Director that the staff had located all of the so-called 'sequestered collection'"
+
+Page 4 (Confidence: 8/10)
+  Detailed record of CIA files related to assassination records, including files on key figures like Jack Ruby, Walter Sheridan, and others
+  QUOTE: "Designated records from security files of Jack Ruby, Walter Sheridan, Harold Weisberg, Richard Case Nagel, and Gordon Novel [CIA-IR-27]"
+
+Page 6 (Confidence: 8/10)
+  Comprehensive list of CIA response requests about Oswald and assassination-related files
+  QUOTE: "We have identified certain Review Board requests for additional information (both formal and informal) for which responses are still due from CIA."
+
+Page 10 (Confidence: 8/10)
+  Request for accounting of CIA files related to James Angleton and Win Scott, specifically assassination-related materials
+  QUOTE: "We previously requested an accounting for the files of former Counter-Intelligence Chief James Angleton [CIA-IR-04] in view of the fact that no discrete files of Mr. Angleton had been identified under the JFK Act."
+
+Page 1 (Confidence: 8/10)
+  CIA's uncooperative response to JFK Assassination Records Collection Act of 1992
+  QUOTE: "The CIA refused to submit separate certifications, insisting it was their practice for one official to speak on behalf of the entire agency."
+
+Page 2 (Confidence: 8/10)
+  Review Board requesting extensive documentation and certification from CIA about Oswald assassination records
+  QUOTE: "the Review Board specifically requests that CIA submit certifications by the individual directorates, as well as the office of the DCI"
+
+Page 3 (Confidence: 7/10)
+  Document describes CIA's compliance efforts for locating JFK assassination records
+  QUOTE: "The Review Board recognizes that many of the relevant federal agencies, including the Central Intelligence Agency, have previously written letters to the Review Board apprising of their progress at various stages of Identifying and Processing assassination records"
+
+Page 2 (Confidence: 7/10)
+  Document refers to CIA collecting information for Review Board, with focus on specific high-priority issues related to Oswald and CIA files
+  QUOTE: "CIA has collected information responsive to this request for Review Board action. The ARRB staff has identified records that it believes will enhance the"
+
+Page 5 (Confidence: 7/10)
+  CIA requesting and reviewing materials related to JFK collection
+  QUOTE: "CIA has been tasked to locate the additional publications that have been requested."
+
+Page 10 (Confidence: 7/10)
+  CIA Review Board investigating surveillance of Oswald in Mexico City
+  QUOTE: "The Review Board has for some time been attempting to determine whether it has had access to all of CIA's surveillance 'take' from the Cuban and Soviet facilities in Mexico City at the time of Oswals visit"
+
+Page 1 (Confidence: 7/10)
+  Document is a draft communication from Assassination Records Review Board to CIA, discussing review and release of assassination records
+  QUOTE: "The Assassination Records Review Board ('Review Board') has less than one year to complete its statutory responsibility of ensuring that all Federal records related to the assassination of President Kennedy are made publicly available"
+
+Page 2 (Confidence: 7/10)
+  Document discusses JFK Act requirements for CIA to review and transfer assassination records to NARA by September 1998
+  QUOTE: "The JFK Act in many ways imposed difficult obligations. For example, it required the CIA (and other agencies) to complete its review and transfer of records to NARA within 300 days of the time the statute was enacted in 1993."
+
+Page 1 (Confidence: 7/10)
+  CIA compliance document for JFK Assassination Records Collection Act
+  QUOTE: "Submission of CIA's Initial Statement of Compliance Under the JFK Assassination Records Collection Act"
+
+Page 3 (Confidence: 7/10)
+  Document discusses Agency (CIA) searches and reviews of materials related to the Oswald assassination file
+  QUOTE: "ARRB staff has asked various elements of the Agency to conduct special searches for other materials thought to be relevant to the assassination story."
+
+Page 1 (Confidence: 7/10)
+  Document reveals ongoing CIA search for assassination-related records not found in previous 1993 search
+  QUOTE: "Since that date, however, we have identified at least three examples of records clearly relevant to the assassination that have been identified through the efforts of the Review Board staff and that were subsequently located by CIA."
+
+Page 2 (Confidence: 7/10)
+  CIA Director George Tenet directive to search and notify about assassination-related records
+  QUOTE: "CIA Director George Tenet send a directive to all CIA personnel that explicitly requires all offices to search their files and notify the Historical Review Program immediately if they have any records that might possibly be considered relevant to the assassination—including any records created after 1992."
+
+Page 1 (Confidence: 7/10)
+  CIA compliance document for JFK Assassination Records Collection Act of 1992
+  QUOTE: "CIA Compliance With the JFK Assassination Records Collection Act of 1992"
+
+Page 2 (Confidence: 7/10)
+  CIA-HSCA Sequestered Collection involves multiple document sets being processed and reviewed
+  QUOTE: "Non-duplicate documents within the hardcopy set of the CIA-House Select Committee on Assassinations ('HSCA') Sequestered Collection"
+
+Page 4 (Confidence: 7/10)
+  Specific reference to Mexico City surveillance tapes covering period around JFK assassination
+  QUOTE: "Mexico City Tapes [CIA-IR-15] - audio surveillance of 'Soviet bloc' and Cuban facilities from November 22, 1963 through early January 1964"
+
+Page 8 (Confidence: 7/10)
+  Document discusses CIA's ongoing searches for assassination records related to Lee Harvey Oswald
+  QUOTE: "We consider it essential that CIA describe with more specificity the searches that it conducted for records relating to Lee Harvey Oswald and to the JFK assassination, including searches done by CIA in the early 1990's."
+
+Page 11 (Confidence: 7/10)
+  CIA acknowledging ongoing document processing related to Lee Harvey Oswald assassination files
+  QUOTE: "As part of its overall representation, we request that CIA attach to the Final Declaration its complete formal response to the Review Board's request for an accounting of all pre-assassination files that CIA had on Lee Harvey Oswald [CIA-16]."
+
+Page 1 (Confidence: 7/10)
+  CIA internal directive for final document search related to JFK assassination records
+  QUOTE: "Final Document Search to Assure Compliance with 'President John F. Kennedy Assassination Records Collection Act of 1992' (JFK Act)"
+
+Page 1 (Confidence: 7/10)
+  CIA document discussing records review of JFK assassination
+  QUOTE: "as the Review Board enters its final stages of the review and release of records pertaining to President Kennedy's assassination, you will continue to have CIA's full cooperation."
+
+Page 1 (Confidence: 7/10)
+  CIA's official compliance document for JFK Assassination Records Collection Act
+  QUOTE: "CIA has conducted a thorough search for records relating to President Kennedy's assassination"
+
+Page 1 (Confidence: 7/10)
+  Document relates to CIA compliance with JFK Assassination Records Collection Act of 1992
+  QUOTE: "CIA Compliance With the JFK Assassination Records Collection Act of 1992"
+
+Page 2 (Confidence: 7/10)
+  CIA surveillance of Soviet and Cuban diplomatic facilities in Mexico City from Nov 22, 1963 to Jan 1964
+  QUOTE: "audio tapes, and any transcriptions or summaries made by the CIA, from surveillance of certain Soviet and Cuban diplomatic facilities in Mexico City for the period November 22, 1963 to January 1964"
+
+Page 2 (Confidence: 6/10)
+  CIA document discussing review of assassination records related to President Kennedy
+  QUOTE: "The Director of Central Intelligence has forwarded to me your 27 November 1996 letter for response. I commend the efforts of the Review Board and its staff in reviewing and releasing hundreds of thousands of United States Government documents for greater public understanding about the assassination of President Kennedy."
+
+Page 6 (Confidence: 6/10)
+  Multiple CIA document requests related to Mexico City communications and station reports
+  QUOTE: "CIA-13 Mexico City Backchannel Communications. CIA-14 Mexico City Station Annual Reports."
+
+Page 8 (Confidence: 6/10)
+  Review Board investigating CIA's handling of Oswald-related information
+  QUOTE: "The Review Board believed that, for reasons of security classification of information, it would be appropriate for CIA to make the initial inquiries rather than the Review Board."
+
+Page 1 (Confidence: 6/10)
+  CIA acknowledging ongoing process of searching and documenting JFK assassination records
+  QUOTE: "extremely helpful in articulating what the CIA has done to-search for records on the JFK assassination"
+
+Page 1 (Confidence: 5/10)
+  Request for documentation and certification regarding JFK assassination records
+  QUOTE: "Absent the requested certifications, the Board considers depositions of senior Agency officials necessary and requests the DDO be made available ASAP, but no later than 21 September, for examination"
+
+
+WITNESS TESTIMONIES:
+----------------------------------------
+Page 2 (Confidence: 5/10)
+  Marina Oswald's file being processed for JFK Collection
+  QUOTE: "Marina Oswold's 201 File. While Marina Oswold's 201 file has been processed for the JFK Collection, we request that the original file be transferred to the protected portion of the JFK Collection."
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Chronology of Oswald's time in Soviet Union and subsequent locations
+  QUOTE: "Arrives Moscow 10/16/59, Resides in Minsk 01/07/60 - 06/62"
+
+Page 1 (Confidence: 6/10)
+  CIA stations in multiple cities related to Oswald's potential international connections
+  QUOTE: "Moscow Station, Mexico City Station, JMWAVE Station, and CIA stations in those cities through which Oswald passed on his way to and from the Soviet Union"
+
+Page 8 (Confidence: 5/10)
+  Possible foreign source for Oswald records
+  QUOTE: "CIA-IR-05 Possible foreign source for records on Oswald."
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Communication between CIA General Counsel and Assassination Records Review Board Executive Director
+  QUOTE: "Mr. Pereira will continue to act as the CIA official responsible for ensuring full compliance with the JFK Act and will remain the Agency's focal point with the Review Board."
+
+Page 1 (Confidence: 7/10)
+  CIA Assassination Records Review Board document discussing initial compliance statement about JFK assassination records
+  QUOTE: "CIA Initial Compliance Statement To Be Submitted Under the JFK Assassination Records Collection Act, 44 U.S.C. § 2107"
+
+Page 1 (Confidence: 7/10)
+  Formal communication from Assassination Records Review Board to CIA Director
+  QUOTE: "We are disappointed that CIA has been unwilling to have the most senior officials of your agency attest to CIA's compliance with the JFK Act."
+
+Page 3 (Confidence: 6/10)
+  Specific documentation requests from Review Board to CIA
+  QUOTE: "we ask that the CIA describe what specific steps it has taken to address the following requests: CIA-9, Publications and Analytical Materials"
+
+Page 1 (Confidence: 6/10)
+  Communication indicates potential sensitivity around CIA record processing
+  QUOTE: "Unfortunately, it is clear at this point that the pace of review of CIA records will need to increase significantly during this final year"
+
+Page 2 (Confidence: 6/10)
+  Review Board tracking CIA's progress on record review, requiring monthly updates to Congress
+  QUOTE: "The Review Board also is obligated to keep Congress informed, on a monthly basis, of the steps it has taken to ensure completion of this goal."
+
+Page 1 (Confidence: 6/10)
+  Assassination Records Review Board requesting comprehensive search of CIA records
+  QUOTE: "In order to comply with the strictures of the JFK Act and to ensure that all original CIA records relevant to the assassination are identified, the Review Board requests the following:"
+
+Page 2 (Confidence: 6/10)
+  Communication from Assassination Records Review Board to CIA requesting comprehensive record search
+  QUOTE: "We are particularly interested in any records that CIA acquired on these subjects since the original files were sequestered in 1978."
+
+Page 1 (Confidence: 6/10)
+  Communication between CIA General Counsel and Assassination Records Review Board
+  QUOTE: "I am in receipt of the 15 July 1998 letter from former General Counsel Jeremy Gunn"
+
+Page 1 (Confidence: 6/10)
+  Formal communication between Assassination Records Review Board and CIA General Counsel
+  QUOTE: "The Review Board specifically considered your proposal that the certifying official be a records validation officer appointed by the CIA's Executive Director"
+
+Page 1 (Confidence: 6/10)
+  CIA Executive Secretariat routing slip related to JFK Assassination Records Review Board
+  QUOTE: "The JFK Assassination Records Review Board has received the Agency's Final Declaration of Compliance. The Board is requesting certifications by the individual directorates, as well as the office of the DCI, or alternatively that the EXDIR and the General Counsel certify that CIA has met its obligations under the JFK Act"
+
+Page 2 (Confidence: 6/10)
+  Formal request for CIA to provide comprehensive documentation about assassination records
+  QUOTE: "The Board considers depositions of senior Agency officials to be absolutely necessary."
+
+Page 1 (Confidence: 6/10)
+  Official communication between Assassination Records Review Board, CIA General Counsel, and National Archives
+  QUOTE: "The Review Board considers it essential that certain remaining obligations of the CIA under the President John F. Kennedy Assassination Records Collection Act of 1992 be identified and memorialized before the Board ceases operations on September 30, 1998"
+
+Page 2 (Confidence: 6/10)
+  CIA working files compiled in anticipation of JFK Act passage
+  QUOTE: "Working files from the DCI area, mostly from DCI's Executive Registry, that had been compiled in anticipation of passage of the JFK Act"
+
+
+SURVEILLANCE RECORDS:
+----------------------------------------
+Page 9 (Confidence: 7/10)
+  Mexico City CIA files potentially containing surveillance information
+  QUOTE: "CIA apparently has preserved certain recordings from Mexico City that post-date the assassination"
+
+Page 10 (Confidence: 6/10)
+  Searching for additional surveillance records of Oswald
+  QUOTE: "On numerous occasions, the Review Board has asked whether there was any surveillance take in addition to what is currently in the collection."
+
+
+TRAVEL FINANCIAL RECORDS:
+----------------------------------------
+Page 1 (Confidence: 9/10)
+  Extensive travel log including international movements
+  QUOTE: "Departs New Orleans for Moscow via LeHavre, London, Helsinki, Arrives Moscow, Resides in Minsk, Departs Moscow via train"
+

@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10097-10170
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+OSWALD ASSOCIATIONS:
+----------------------------------------
+Page 1 (Confidence: 3/10)
+  No direct mention of Oswald, but indicates complex intelligence communication networks
+  QUOTE: ""
+
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Secret communication from Mexico City CIA station, requesting a letter drop for a cryptonym 'CRYSTAL-1'
+  QUOTE: "C/S COMMENT: REQUESTED MEXI PROVIDE LETTER DROP FOR T)CRYSTAL-1."
+

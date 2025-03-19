@@ -1,0 +1,58 @@
+[
+  {
+    "document_id": "104-10186-10264",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Document about Osvaldo Relova, a Cuban Intelligence officer with potential indirect connection to Oswald",
+        "direct_quote": "A former Cuban IS officer who served with the Cuban Intelligence Service until April 1964",
+        "significance": "Provides context about Cuban intelligence personnel active around the time of the assassination"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 8,
+        "description": "Detailed travel records for Osvaldo Relova",
+        "direct_quote": "An airline passenger manifest revealed that one Osvaldo RELOVA Pelicent, probably identical with the above Subject, left Mexico for Habana on 8 July 1963 and was the holder of Cuban passport number D/63/415",
+        "significance": "Demonstrates detailed tracking of intelligence-related personnel's movements"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Cuban intelligence officer background information",
+        "direct_quote": "RELOVA, pseudonym 'Wilberto', is an officer of the Direccion General de Inteligencia (General Directorate of Intelligence - DGI) in Cuba",
+        "significance": "Provides insight into Cuban intelligence structure during the early 1960s"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 7,
+        "description": "Detailed information about Osvaldo RELOVA, a Cuban Embassy official connected to Oswald's activities",
+        "direct_quote": "Osvaldo RELOVA, First Secretary of the Cuban Embassy in Canada, left Kingston for Toronto on 21 October 1963, on TCA flight number 885.",
+        "significance": "Provides context about Cuban diplomatic personnel active around the time of the assassination"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Details of Osvaldo RELOVA's travel and diplomatic movements",
+        "direct_quote": "RELOVA was an administrator of a section of the Consolidated Hardware Stores and annexes. In late 1961 he went to see source to get help with an investigation on a Mr. BARRAL.",
+        "significance": "Reveals Relova's professional background and potential intelligence-related activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Information about Cuban diplomatic personnel in Canada",
+        "direct_quote": "An official Canadian source reported that Osvaldo RELOVA, born on 13 August 1930, was not the First Secretary of the Cuban Embassy in Canada as previously reports stated.",
+        "significance": "Suggests potential discrepancies in diplomatic personnel information"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

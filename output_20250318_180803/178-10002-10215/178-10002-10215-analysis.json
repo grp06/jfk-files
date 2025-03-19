@@ -1,0 +1,2158 @@
+[
+  {
+    "document_id": "178-10002-10215",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Deposition of a CIA employee related to anti-Castro activities and clandestine operations",
+        "direct_quote": "DOCUMENT TYPE: DEPOSITION\nSUBJECTS: ANTI-CASTRO ACTIVITIES, CIA, CLANDESTINE OPERATIONS",
+        "significance": "Suggests potential CIA involvement in Cuban exile and anti-Castro operations during the period around the JFK assassination"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 7,
+        "description": "Multiple organized crime figures mentioned in document subjects",
+        "direct_quote": "SUBJECTS: KENNEDY, ROBERT F., ORGANIZED CRIME, ROSELLI, JOHNNY, GIANCANA, SAM",
+        "significance": "Indicates potential links between CIA operations, organized crime figures, and Kennedy-related investigations"
+      },
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 6,
+        "description": "Deposition from Rockefeller Commission investigating CIA activities",
+        "direct_quote": "ORIGINATOR: ROCKEFELLER COMMISSION",
+        "significance": "Suggests official investigation into CIA activities during the relevant time period"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "178-10002-10215",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "32277518",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_PERSONNEL",
+        "confidence": 8,
+        "description": "Witness William C. Sturbitts is a CIA employee, currently a Special Assistant for Latin America in Economic Intelligence Collection and Operations",
+        "direct_quote": "I am a Special Assistant, Latin America, for Economic Intelligence Collection and Operations.",
+        "significance": "Provides insight into CIA personnel and organizational structure during the relevant time period"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 3,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 7,
+        "description": "Interview transcript of CIA officer discussing Cuban operations",
+        "direct_quote": "Cuban operations, economic warfare",
+        "significance": "Reveals CIA involvement in specialized operations targeting Cuba during 1960s"
+      },
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Officer mentions working in Washington and commuting to Miami",
+        "direct_quote": "I was stationed in Washington... I took temporary duty predominantly in Europe, and then Miami",
+        "significance": "Indicates potential connection between CIA operations in multiple locations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of CIA Miami Station leadership and Cuban operations",
+        "direct_quote": "Most of my operations were run out of Europe. Some were run out of Miami but the big ones were run out of Europe.",
+        "significance": "Provides insight into CIA operational structure and geographical focus of Cuban-related activities"
+      },
+      {
+        "category": "CIA_PERSONNEL",
+        "confidence": 8,
+        "description": "Detailed list of Miami Station Chiefs during the 1960s",
+        "direct_quote": "In 1963 Ted Shackley was the Chief... Paul Henze was there from 1966 to 1968. Jake Esterline was Chief of Station from 1968 to 1973.",
+        "significance": "Provides a chronological record of key CIA personnel involved in Cuban operations during critical period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "HW 50955 DocId:32275518",
+    "page_number": 7,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of CIA Special Activities Staff and Cuban Operations Group organizational structure",
+        "direct_quote": "Following the Bay of Pigs, they created a thing called Task Force W which was headed by Bill Harvey.",
+        "significance": "Provides insight into CIA covert operations structure around the time of the Kennedy assassination, showing complex reorganization of special operations groups"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Leadership details of special CIA operations units",
+        "direct_quote": "It was headed by Desmond Fitzgerald. When Harvey left, he went to Chief of Station, Rome, and Fitzgerald took over",
+        "significance": "Reveals key personnel movements in CIA special operations, potentially relevant to understanding agency dynamics during critical period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 8,
+    "relevant_findings": [
+      {
+        "category": "TASK_FORCE_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of CIA Task Force W focusing on Cuban operations",
+        "direct_quote": "It was the overall Cuban operations.",
+        "significance": "Reveals CIA's covert operational focus on Cuba around the time of the JFK assassination"
+      },
+      {
+        "category": "CIA_STATION_LOCATIONS",
+        "confidence": 6,
+        "description": "Miami Station established in Coral Gables around 1960, prior to Bay of Pigs",
+        "direct_quote": "Well, I think they had a forward operations base down there about 1960 which was small, in Coral Gables.",
+        "significance": "Provides insight into CIA's operational infrastructure in Florida during a critical period"
+      },
+      {
+        "category": "PERSONNEL_MOVEMENTS",
+        "confidence": 5,
+        "description": "CIA officer Mr. Harvey moved from Task Force W to become Chief of Station in Rome, then later retired",
+        "direct_quote": "He was Chief of Station, Rome... Oh, no. He retired a long time ago.",
+        "significance": "Tracks career progression of a key CIA operative involved in Cuban operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955 DocId:3227518",
+    "page_number": 9,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HW 50955, Doc ID: 3227518",
+    "page_number": 10,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of Cuban operations and potential assassination attempts against Fidel Castro",
+        "direct_quote": "In the course of your activities with respect to Cuba, did you ever learn of any such attempts?",
+        "significance": "Reveals CIA involvement in discussions about potential assassination operations against Cuban leadership"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mention of discussions with a member of Castro's military about acquiring weapons",
+        "direct_quote": "I had overheard that discussions were going on with a member of Castro's military but that he wanted, as I recall, he wanted some British -- I mean Belgian rifles and",
+        "significance": "Provides insight into potential military communications and arms negotiations involving Cuban military personnel"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 11,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Indirect reference to Fidel Castro and a military figure, potentially related to Oswald's background",
+        "direct_quote": "This military guy that was in Fidel's -- I think at one time he was a commandante.",
+        "significance": "Suggests potential connections to Cuban revolutionary circles, but context is unclear"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Reference to Bobby Kennedy as Attorney General and document collection",
+        "direct_quote": "as the personal representative of the Attorney General, Bobby Kennedy. I provided all those files. There are 19 volumes that we gave to your people.",
+        "significance": "Indicates high-level government involvement in document collection about assassination-related materials"
+      },
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 5,
+        "description": "Transcript appears to be an investigative interview about assassination-related documents",
+        "direct_quote": "All having to do with possible assassination?",
+        "significance": "Suggests ongoing investigation into assassination conspiracy or background"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955 Docid:3227558",
+    "page_number": 12,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of Special Activities Staff and potential covert operations involving Cuban military-type contacts",
+        "direct_quote": "Mr. Sanchez was in the Special Activities Staff. He was stationed in Washington. And he was in contact with Cuban military-type.",
+        "significance": "Suggests potential CIA involvement in Cuban-related covert operations during the early 1960s"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 8,
+        "description": "Reference to Bobby Kennedy overseeing a sensitive government operation",
+        "direct_quote": "Bobby Kennedy was overseeing this deal, presumably for his brother, and he was",
+        "significance": "Indicates high-level executive involvement in sensitive government activities, potentially related to Cuban operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mention of activities in Paris, potentially involving intelligence gathering",
+        "direct_quote": "We had just moved the Station at that time, in Paris, out of the Embassy into the old Rothschild Palace, and we felt that it was probably bugged, so all conversations took place -- we walked around the garden and that type of thing",
+        "significance": "Suggests covert intelligence activities and concerns about surveillance in Paris"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "322752518",
+    "page_number": 13,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 14,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct connection to Oswald found on this page",
+        "direct_quote": "",
+        "significance": "Page appears to be discussing Frank Sturgis and his lack of CIA employment, not related to Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 15,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of Frank Sturgis and his relationship with intelligence agencies",
+        "direct_quote": "He has constantly tried to associate himself with the Agency. When I went through his file they wanted me to classify the file and the way I classified it was 'don't destroy it, he is an intelligence nuisance.'",
+        "significance": "Suggests Sturgis had a complicated relationship with intelligence agencies, potentially relevant to broader assassination investigations"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "Sturgis described as a 'soldier of fortune'",
+        "direct_quote": "Frank Sturgis is a soldier of fortune; has been.",
+        "significance": "Indicates potential mercenary connections and broader operational involvement"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 16,
+    "relevant_findings": [
+      {
+        "category": "DCD_OFFICE_INTERACTIONS",
+        "confidence": 6,
+        "description": "Discussion of communication between an individual (Mr. Sturgis) and the DCD office in Miami regarding information sharing",
+        "direct_quote": "Mr. Sturgis has been told by the DCD office in Miami to take his information to the Drug Enforcement Agency or the FBI.",
+        "significance": "Indicates potential informant relationship and intelligence sharing between law enforcement agencies"
+      },
+      {
+        "category": "INTELLIGENCE_GATHERING",
+        "confidence": 5,
+        "description": "Reference to information sharing about narcotics",
+        "direct_quote": "Recently it has been. [Information] limited to narcotics, alleged narcotics traffic?",
+        "significance": "Suggests ongoing intelligence collection focused on drug-related activities"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955",
+    "page_number": 17,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Lee Harvey Oswald on this page",
+        "direct_quote": "",
+        "significance": "This page appears to discuss Eugenio Martinez and Mr. Sturgis, with no clear connection to Oswald"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Reference to Cuba and individuals with Cuban connections",
+        "direct_quote": "They have to know each other from their days in Cuba.",
+        "significance": "Suggests background of individuals with Cuban involvement, potentially relevant to Cold War era intelligence"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 18,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of maritime operations involving boat captains and covert activities against Cuba",
+        "direct_quote": "He was a boat captain eventually. And he did participate in infiltrations and exfiltrations and perhaps one or two raids, hit and run, sabotage-type actions against Cuba.",
+        "significance": "Reveals details of CIA maritime operations and covert actions during Cold War period"
+      },
+      {
+        "category": "AGENCY_STRUCTURE",
+        "confidence": 6,
+        "description": "Describes operational structure of CIA maritime missions",
+        "direct_quote": "He had an assigned crew and every boat had a Case Officer operating either out of the -- probably out of the Miami Station.",
+        "significance": "Provides insight into CIA operational methods and base locations during Cold War"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:3227518",
+    "page_number": 19,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of CIA Special Activities Staff operations in southern Florida",
+        "direct_quote": "intelligence operation consisting of collection of foreign positive intelligence, counterintelligence, paramilitary activities, covert action, economic activities",
+        "significance": "Reveals broad scope of CIA covert operations in Miami and Key West areas during the relevant time period"
+      },
+      {
+        "category": "CIA_FACILITIES",
+        "confidence": 7,
+        "description": "Confirmation of CIA Miami Station and Key West base",
+        "direct_quote": "We had activities down in the Keys also. I said, we did have a Key West base.",
+        "significance": "Provides insight into CIA operational infrastructure in southern Florida during the early 1960s"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 Docid:3227518",
+    "page_number": 20,
+    "relevant_findings": [
+      {
+        "category": "CIA_PERSONNEL_OPERATIONS",
+        "confidence": 6,
+        "description": "Discussion of CIA involvement with paramilitary training of Cuban operatives",
+        "direct_quote": "We trained them at these places we had in the Keys. Now, there also -- some of them were brought up here and trained at the Domestic Training Station.",
+        "significance": "Reveals CIA's involvement in training Cuban operatives at multiple locations, including facilities in the Florida Keys and a Domestic Training Station in Virginia"
+      },
+      {
+        "category": "PARAMILITARY_TRAINING",
+        "confidence": 7,
+        "description": "UDT (Underwater Demolition Team) training facilities mentioned",
+        "direct_quote": "We did have training facilities for the UDT teams.",
+        "significance": "Indicates specialized military/paramilitary training infrastructure existed for covert operations"
+      },
+      {
+        "category": "CONTRACTOR_INVOLVEMENT",
+        "confidence": 5,
+        "description": "Acknowledgment of extensive use of contract employees",
+        "direct_quote": "We had a great many contract employees, independent contractors and this type of thing.",
+        "significance": "Suggests complex operational structure with significant reliance on non-official personnel"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, DocId:3227518",
+    "page_number": 21,
+    "relevant_findings": [
+      {
+        "category": "PARAMILITARY_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of Special Operations Group (SOG) conducting paramilitary training with Cuban refugees",
+        "direct_quote": "Most of the paramilitary operations and the training was conducted by the Special Operations Group",
+        "significance": "Reveals covert training operations involving Cuban refugees, potentially related to anti-Castro activities"
+      },
+      {
+        "category": "CUBAN_REFUGEE_OPERATIONS",
+        "confidence": 8,
+        "description": "Confirmation that Cuban refugees were being trained at special facilities",
+        "direct_quote": "Now, were the people that were being trained at these facilities basically Cuban refugees? Yes.",
+        "significance": "Provides evidence of US-sponsored training of Cuban exiles, likely for potential operations against Castro's regime"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "N/A (photocopy from Gerald Ford Library)",
+    "page_number": 22,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 2,
+        "description": "No direct connections to organized crime found on this page",
+        "direct_quote": "",
+        "significance": "Page discusses Cuban operations and art treasures, but does not relate to organized crime"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Discussion of covert and paramilitary operations related to Cuba",
+        "direct_quote": "Well, actually one can fall into the other. The paramilitary could fall into covert action but in those days we did distinguish somewhat. A lot of the covert action was media placement. We had a number of operations -- legal-type operations, harassment operations.",
+        "significance": "Provides insight into CIA operational tactics involving Cuba, suggesting complex covert activities"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 23,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of covert operations and special committee involved in anti-Castro activities",
+        "direct_quote": "It was now called the Forty Committee... it was called the Special Group, CI, Counterinsurgency.",
+        "significance": "Reveals internal government mechanisms for covert operations against Cuba, potentially relevant to background of Cold War-era intelligence activities"
+      },
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "Indirect reference to harassment activities against Castro",
+        "direct_quote": "You used legal process to harass Castro.",
+        "significance": "Suggests coordinated efforts to undermine Castro's regime, which may have involved multiple government agencies and potentially intersected with organized crime interests"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "32275518",
+    "page_number": 24,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of covert actions against Cuba, involving multiple government departments",
+        "direct_quote": "We used suasion, moral suasion, otherwise. We did some extra-legal things. We tried to get to his sources of supply, particularly when they were countries that we had treaties with, NATO countries, Canada",
+        "significance": "Reveals broader context of US intelligence operations against Cuba, suggesting sophisticated multi-agency approach to undermining Castro's regime"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Detailed description of US efforts to disrupt Cuban industry and trade",
+        "direct_quote": "Cuban industry was totally U.S.-oriented. As parts began wearing out and this type of thing, Castro had his little people there running around trying to place orders with subsidiaries of U.S. companies.",
+        "significance": "Provides insight into economic pressures and intelligence gathering against Cuba during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "50955 (Photocopy from Gerald Ford Library)",
+    "page_number": 25,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Discussion of U.S. efforts to prevent Cuba from obtaining spare parts",
+        "direct_quote": "We had the Department of Commerce -- we identified 600 of the major U.S. companies that could provide spare parts for Cuban industry.",
+        "significance": "Provides context for U.S. economic pressure on Cuba during Cold War period, potentially relevant to geopolitical tensions surrounding the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Government strategy to isolate Cuba economically",
+        "direct_quote": "This was a fairly concentrated effort to really isolate them.",
+        "significance": "Demonstrates active U.S. government efforts to undermine Cuban capabilities through economic means"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 24,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discussion of Cuban oil economy and Bright Stock oil purchase",
+        "direct_quote": "85 percent of her energy comes from oil, this was considered a critical commodity. Bright Stock can be -- oh, it is almost like tar, melted tar, and it can be cut into additives, lubricants",
+        "significance": "Provides context about Cuba's economic dependencies and oil trading practices during the Cold War era"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 27,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "178-10002-10215",
+    "page_number": 28,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 29,
+    "relevant_findings": [
+      {
+        "category": "CIA_PROPAGANDA_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of media placement activities targeting Castro",
+        "direct_quote": "We had them placed in newspapers and magazines throughout the world.",
+        "significance": "Reveals CIA involvement in propaganda operations, suggesting sophisticated media manipulation strategies during Cold War period"
+      },
+      {
+        "category": "EXTRA_LEGAL_ACTIVITIES",
+        "confidence": 6,
+        "description": "Acknowledgment of covert operations against Castro",
+        "direct_quote": "Well, the people that would be knowledgeable are probably retired and I was running the program.",
+        "significance": "Indicates existence of unauthorized or covert operations targeting Cuban government, potentially related to broader assassination investigations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 30,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discussion of radio broadcasts targeting Cuba and Havana",
+        "direct_quote": "The intent was to get world opinion against Castro. You don't do that by publishing in the United States.",
+        "significance": "Suggests active information warfare against Castro's regime, potentially related to Cold War tensions and JFK's Cuba policy"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Media strategy for anti-Castro propaganda",
+        "direct_quote": "We only had the one radio station but we did contract time with Florida stations, a station in New York.",
+        "significance": "Indicates coordinated media efforts to broadcast messages to Cuba, potentially involving intelligence agency operations"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 31,
+    "relevant_findings": [
+      {
+        "category": "CIA_PROPAGANDA_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of Radio Swan, a CIA propaganda station located near Honduras used for broadcasting to Cuba",
+        "direct_quote": "Radio Swan is a little glob around Honduras.",
+        "significance": "Reveals CIA's propaganda infrastructure for anti-Castro operations in the Caribbean region"
+      },
+      {
+        "category": "CIA_FUNDING_METHODS",
+        "confidence": 6,
+        "description": "Indicates Radio Swan was fully funded by the CIA without public fundraising",
+        "direct_quote": "Radio Swan and this type of thing was fully subsidized by the Agency.",
+        "significance": "Demonstrates CIA's covert funding mechanisms for propaganda operations"
+      },
+      {
+        "category": "PROPAGANDA_INFRASTRUCTURE",
+        "confidence": 5,
+        "description": "Multiple radio stations in different US locations used for propaganda broadcasts",
+        "direct_quote": "There were a couple in Miami that I recall. Not in Miami. I think there was one -- yes, there was one in Miami, I think, and one down in Key West that they used.",
+        "significance": "Reveals extent of CIA's radio propaganda network targeting Cuba"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955 DocId:3227518",
+    "page_number": 32,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Discussion of economic warfare against Castro's Cuba",
+        "direct_quote": "We wanted to denigrate the regime, his credit worthiness, and this type of thing. We worked very closely with the Coordinator of Cuban Affairs in the State Department",
+        "significance": "Provides insight into US government strategies to undermine Castro's regime through economic manipulation"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Covert economic operations targeting Cuban sugar industry",
+        "direct_quote": "So in cooperation with a couple of sugar brokers in New York, we surfaced this fact and the price of sugar took a [cut off]",
+        "significance": "Demonstrates active economic destabilization efforts against Cuba, potentially revealing broader covert operations"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "HW 50955, DocId:3227518",
+    "page_number": 33,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Discussion of Cuba's economic activities and sugar industry",
+        "direct_quote": "Cuba started exporting... Sugar is the lifeline of Cuba as far as any exchange, foreign exchange",
+        "significance": "Provides context about Cuba's economic situation during the Cold War period, potentially relevant to broader geopolitical tensions"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 3,
+        "description": "Mention of American business involvement in Cuban affairs",
+        "direct_quote": "The sugar industry in Cuba was controlled by the American community, by American bankers",
+        "significance": "Suggests extensive American economic influence in Cuba prior to the Cuban Revolution"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 32,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 8,
+        "description": "Discussion of Mafia's extensive involvement in Cuban casinos",
+        "direct_quote": "Well, everybody knew that the Mafia was in Cuba. I mean, all the casinos and this type of thing.",
+        "significance": "Confirms extensive organized crime presence in Cuba prior to the revolution, suggesting potential complex relationships between criminal networks, business interests, and geopolitical operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Indication of American military personnel's familiarity with Cuba before Castro",
+        "direct_quote": "When I was in the Air Force during the war, I used to fly into Havana on weekends",
+        "significance": "Provides context about pre-revolutionary Cuba and American military/intelligence presence"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 33,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 4,
+        "description": "Brief mention of Sam Giancana, but no substantive connection established",
+        "direct_quote": "Q: Is that also true of Sam Giancana? A: No. I have heard that name but I don't know where.",
+        "significance": "Minimal information, no direct links to assassination revealed"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 5,
+        "description": "Denial of Agency involvement with organized crime figures",
+        "direct_quote": "Q: You know of no instance in which organized crime figures were used as consultants by the Agency? A: Only what I read in the paper. I had no knowledge of that whatsoever.",
+        "significance": "Suggests potential efforts to distance CIA from organized crime connections"
+      },
+      {
+        "category": "CUBA_OPERATIONS",
+        "confidence": 6,
+        "description": "Discussion of economic warfare and efforts against Castro's Cuba",
+        "direct_quote": "We were talking about economic warfare. We have talked about attempts to keep the price of sugar low. What other types of economic activities were conducted against Castro's Cuba?",
+        "significance": "Indicates ongoing economic pressure strategies against Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 36,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Discussion of Nicaro Nickel Mine ownership and exports during Castro's regime",
+        "direct_quote": "The U.S. Government owned it when Castro took it over.",
+        "significance": "Provides context about U.S. property in Cuba during Cold War period, potentially relevant to geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 37,
+    "relevant_findings": [
+      {
+        "category": "ECONOMIC_WARFARE",
+        "confidence": 7,
+        "description": "Discussion of economic warfare tactics against Cuba involving American business firms",
+        "direct_quote": "We enlisted everybody's support that we could.",
+        "significance": "Reveals CIA involvement in economic pressure campaigns against Cuba, potentially related to broader Cold War strategies"
+      },
+      {
+        "category": "CUBA_OPERATIONS",
+        "confidence": 6,
+        "description": "Specific operation targeting Cuban Maritime fleet using Nordberg engines",
+        "direct_quote": "The Cubans were having an awful time with their Maritime fleet, such as it was. These boats were powered with Nordberg engines. We simply went to the Nordberg people and told them -- asked them to cooperate with us.",
+        "significance": "Demonstrates CIA's method of disrupting Cuban infrastructure by influencing equipment suppliers"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 38,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Discussion of American companies' interactions with Cuba",
+        "direct_quote": "They notified their manufacturer's representatives around the world if they got any orders from the Cubans they were to be refused.",
+        "significance": "Provides context of US economic pressure and sanctions against Cuba during the Cold War period"
+      },
+      {
+        "category": "GOVT_SANCTIONS",
+        "confidence": 7,
+        "description": "Explanation of trade restrictions with Cuba",
+        "direct_quote": "Well, in the first place, they couldn't trade with Cuba. They couldn't get export licenses from this country anyway. Then, under the Foreign Assets Control Act...",
+        "significance": "Details legal mechanisms preventing US companies from doing business with Cuba, showing systematic economic isolation"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 39,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Discussion of U.S. government restrictions on trade with Cuba",
+        "direct_quote": "Treasury Department you have the extra-territoriality clause in there where a subsidiary of an American company cannot -- foreign subsidiary of an American company cannot trade with the country that is designated and Cuba was a designated country.",
+        "significance": "Provides context about U.S. economic policies toward Cuba during the Cold War period, potentially relevant to geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 40,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of CIA paramilitary operations against Cuba",
+        "direct_quote": "Maritime operations",
+        "significance": "Reveals CIA's covert activities targeting Cuba, providing context for agency's operational capabilities during the early 1960s"
+      },
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 6,
+        "description": "Voluntary cooperation between CIA and top-level company executives",
+        "direct_quote": "I do and we went to the top level, even the Board Chairman or the president. No problem at all.",
+        "significance": "Demonstrates CIA's extensive institutional connections and ability to engage with corporate leadership"
+      },
+      {
+        "category": "AERIAL_SURVEILLANCE",
+        "confidence": 5,
+        "description": "Limited acknowledgment of aerial activities",
+        "direct_quote": "As far as I am concerned that is the only aerial activity. Over-flights.",
+        "significance": "Suggests restricted knowledge of full aerial reconnaissance capabilities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified in image",
+    "page_number": 39,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of CIA maritime operations involving contract employees and Cuban refugees",
+        "direct_quote": "Those operations were manned by CIA contract employees... which would include Cuban refugees",
+        "significance": "Reveals CIA involvement in covert maritime operations using non-standard personnel"
+      },
+      {
+        "category": "BAY_OF_PIGS",
+        "confidence": 8,
+        "description": "Direct reference to Bay of Pigs operation and associated personnel",
+        "direct_quote": "This, of course, is posted Bay of Pigs",
+        "significance": "Provides insider perspective on personnel and organizational structure of the Bay of Pigs invasion"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "HW 50955",
+    "page_number": 42,
+    "relevant_findings": [
+      {
+        "category": "MARITIME_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of covert maritime operations against Cuba",
+        "direct_quote": "Well, the infiltration operations, infiltrating agents into Cuba, exfiltrating agents, hit and run sabotage raids.",
+        "significance": "Reveals detailed CIA maritime operations targeting Cuba during the early-mid 1960s"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Timeline of covert Cuban operations",
+        "direct_quote": "I think these operations were probably at their height during the period about 1963 through, say, 1967. The program was terminated in 1968, I think in December 1968",
+        "significance": "Provides specific timeframe for CIA maritime and infiltration operations against Cuba"
+      },
+      {
+        "category": "PROGRAM_TERMINATION",
+        "confidence": 6,
+        "description": "Reasons for ending covert operations",
+        "direct_quote": "First of all, it was too expensive. It wasn't providing enough intelligence and it simply wasn't -- economically",
+        "significance": "Insights into internal decision-making for terminating covert operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 43,
+    "relevant_findings": [
+      {
+        "category": "CIA_PARAMILITARY_OPERATIONS",
+        "confidence": 8,
+        "description": "Discussion of covert paramilitary operations requiring advance approval from the Forty Committee",
+        "direct_quote": "Every operation received a specific approval from the Forty Committee.",
+        "significance": "Reveals high-level oversight of sensitive CIA covert operations, suggesting structured approval process for clandestine activities"
+      },
+      {
+        "category": "COVERT_OPERATIONAL_PROCEDURES",
+        "confidence": 7,
+        "description": "Detailed description of operational procedures including agent infiltration and cache placement",
+        "direct_quote": "When we infiltrated an agent, Cubans would identify him and capture him.",
+        "significance": "Provides insight into CIA paramilitary operational risks and methods, particularly related to Cuban operations"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 44,
+    "relevant_findings": [
+      {
+        "category": "PARAMILITARY_OPERATIONS",
+        "confidence": 7,
+        "description": "Detailed coordination of complex paramilitary operations involving multiple government agencies",
+        "direct_quote": "These operations had to be planned well in advance because the tides had to be right, the moon had to be in the proper phase for communications and this type of thing. And these things, all these were coordinated with the Joint Chiefs of Staff, the Navy, the Coast Guard, the FBI.",
+        "significance": "Reveals sophisticated inter-agency coordination for covert operations, suggesting advanced operational planning capabilities"
+      },
+      {
+        "category": "OPERATIONAL_VOLUME",
+        "confidence": 6,
+        "description": "Low volume of sensitive paramilitary operations",
+        "direct_quote": "I would say that probably at the height of the thing they may be running three or four a month. No more than that.",
+        "significance": "Indicates limited but regular covert operational tempo across multiple government agencies"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Unknown (Page 43 of a SECRET document)",
+    "page_number": 43,
+    "relevant_findings": [
+      {
+        "category": "TRAINING_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of training exercises and potential sabotage operations",
+        "direct_quote": "Obviously, these guys trained. In order to run one of these operations, you would have to have a mother ship in place and rubber boats and the UDT people to go in to see if there were mines and this type of thing on the shore",
+        "significance": "Suggests organized paramilitary training for covert operations, potentially related to Cuba"
+      },
+      {
+        "category": "CUBA_OPERATIONS",
+        "confidence": 8,
+        "description": "Specific mention of operations related to Cuba",
+        "direct_quote": "...no way did he ever participate in any three or 400 active operations into Cuba.",
+        "significance": "Indicates extensive planned operations against Cuba, though the specific individual did not participate"
+      },
+      {
+        "category": "SABOTAGE_OPERATIONS",
+        "confidence": 9,
+        "description": "Detailed discussion of a specific sabotage mission",
+        "direct_quote": "Well, we conducted one hit and run sabotage against the Texaco refinery.",
+        "significance": "Provides concrete evidence of planned sabotage operations, potentially related to anti-Castro activities"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 46,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of CIA covert operations in Cuba, including infiltrations, exfiltrations, and sabotage",
+        "direct_quote": "the classical operations that we did in the maritime activities were the infiltrations and exfiltrations.",
+        "significance": "Provides insight into CIA clandestine operational methods in Cuba during the early 1960s"
+      },
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed description of sabotage operations against Cuba",
+        "direct_quote": "We did lay down a cache, if you will, sabotage kits to be used by our own island agents. They contained sugar to dump into gas tanks and metal fragments to put down crank cases.",
+        "significance": "Reveals specific tactics of CIA sabotage operations, including methods to damage equipment and disrupt infrastructure"
+      },
+      {
+        "category": "GUANTANAMO_OPERATIONS",
+        "confidence": 5,
+        "description": "Discussion of Guantanamo Bay military base security",
+        "direct_quote": "the base is so surrounded and has been that I think if a guy went through that fence you would carry him back. He wouldn't walk.",
+        "significance": "Indicates extremely tight security at the Guantanamo base during this period"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 47,
+    "relevant_findings": [
+      {
+        "category": "CIA_PARAMILITARY_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of CIA paramilitary operations targeting Cuban infrastructure",
+        "direct_quote": "The thing we wanted to get at was the oil and the automotive machinery on the island. We knew it was breaking down and if we could get a complete breakdown we would have everything at a standstill",
+        "significance": "Reveals CIA strategic targeting of Cuban economic systems, specifically focusing on disrupting transportation and industrial capabilities"
+      },
+      {
+        "category": "CUBA_SOVIET_RELATIONS",
+        "confidence": 6,
+        "description": "Tensions between Cubans and Soviet equipment/support",
+        "direct_quote": "Cubans didn't like the Soviet equipment because they were used to good American equipment",
+        "significance": "Highlights potential vulnerabilities in the Cuba-Soviet alliance and technological dependency"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 46,
+    "relevant_findings": [
+      {
+        "category": "PARAMILITARY_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of a paramilitary naval operation based in Miami with extensive equipment",
+        "direct_quote": "We had -- honestly, everything from a canoe up to three to 500 foot mother ship. We had Boston whalers, rubber boats.",
+        "significance": "Reveals details of a covert naval operation with sophisticated equipment, suggesting complex clandestine activities"
+      },
+      {
+        "category": "COVERT_OPERATIONS",
+        "confidence": 8,
+        "description": "Non-official cover operations in Miami area",
+        "direct_quote": "Did these craft operate under non-official cover in the Miami area? Yes.",
+        "significance": "Confirms use of disguised operational vessels with ability to operate secretly"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "HW 50955, DocId:3227518",
+    "page_number": 47,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONAL_COVER",
+        "confidence": 7,
+        "description": "Discussion of using commercial companies as cover for covert operations",
+        "direct_quote": "I think we had 100 so cover companies. [...] These are probably what we would call devised facilities. They were probably registered with the State of Florida and they paid taxes and this type of thing, but if one was blown or became known, we just crossed that out of existence and started up a new one.",
+        "significance": "Reveals CIA strategy of creating fake commercial entities to provide operational cover, with ability to quickly dissolve and recreate companies if compromised"
+      },
+      {
+        "category": "OPERATIONAL_PERSONNEL",
+        "confidence": 6,
+        "description": "Reference to Eugenio Martinez and operational discipline",
+        "direct_quote": "We brought him back and put him under that contract, that retainer, because of the years that he spent under such strict operational discipline down in the Keys.",
+        "significance": "Suggests Martinez was a long-term covert operative with extensive experience in sensitive operations, likely connected to Cuban-related CIA activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 50,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 49,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Discussion of Cuban agricultural conditions and experimental cattle ranches",
+        "direct_quote": "Cuba really -- in those days the only thing, Cuba was exporting sugar and nickel. The agriculture sector of the economy was in absolutely total chaos.",
+        "significance": "Provides context about Cuba's economic situation during the early Castro era, potentially relevant to understanding geopolitical tensions"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 52,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of CIA Miami Station establishment in September 1961, predating the speaker's involvement in Cuban matters",
+        "direct_quote": "I think in September 1961. And that was several years before you became involved in Cuban matters?",
+        "significance": "Provides context for CIA operations related to Cuba during the early 1960s, a critical period before the Kennedy assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Hints at CIA communication and propaganda facilities targeting opposition",
+        "direct_quote": "No. You have some communications facilities that you really call stations because here again, they are not",
+        "significance": "Suggests existence of covert CIA communication networks and potential operational bases"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 53,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of a secret intelligence station focused specifically on Cuban activities in the Western Hemisphere",
+        "direct_quote": "This is the only such station in the United States as far as you know, is that correct?",
+        "significance": "Reveals existence of a dedicated CIA station monitoring Cuban operations, which could be relevant to understanding intelligence context around Oswald and Cuba"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Indication of intelligence focus on Cuban activities and Western Hemisphere operations",
+        "direct_quote": "Yes, and in support of Cuban activity and other countries in the Hemisphere.",
+        "significance": "Suggests broader intelligence monitoring of Cuban-related activities beyond just Cuba itself"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 54,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Detailed discussion of a CIA/intelligence agency facility in Miami",
+        "direct_quote": "They were located on the south campus of the University of Miami, I mean, the University of Miami, at the old Richmond Naval Air Station. It was a self-contained unit. It was pretty well off the beaten path, in fact, damn well off the beaten path. It was about four miles from the Dixie Highway inland. We had our own guard force.",
+        "significance": "Reveals a secretive CIA installation with non-official cover, suggesting covert operations capabilities"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Discussion of staffing at the facility",
+        "direct_quote": "Obviously the largest installation we had. I think at its height it had over 500 people in it.",
+        "significance": "Indicates a large-scale intelligence operation with significant personnel resources"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "HW 50955",
+    "page_number": 55,
+    "relevant_findings": [
+      {
+        "category": "NON_OFFICIAL_COVER",
+        "confidence": 7,
+        "description": "Discussion of a commercial cover operation using Zenith Corporation as a front",
+        "direct_quote": "It was a commercial cover. It was called -- the first one was called Zenith Corporation and it was set up with a President and Vice President, normal corporate setup.",
+        "significance": "Reveals intelligence agency practice of creating elaborate commercial front companies for covert operations"
+      },
+      {
+        "category": "COVERT_OPERATIONS",
+        "confidence": 6,
+        "description": "Cover maintained through research activities and government contract claims",
+        "direct_quote": "It was research activities. Funded -- it is a giant mechanism when you put one of these things in for the funding and this type of thing, for your ostensible customers, establishing bank accounts.",
+        "significance": "Demonstrates sophisticated methods of maintaining plausible deniability for covert operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Gerald Ford Library Page 54",
+    "page_number": 54,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of CIA Miami Station operations, specifically Cuban Operations division",
+        "direct_quote": "When Des. Fitzgerald left as Chief of the Special Activities Staff and became Chief of the Western Hemisphere Division, he brought it back into the Division.",
+        "significance": "Reveals internal CIA organizational changes and management of Miami Station during early 1960s"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but discusses intelligence operations",
+        "direct_quote": "Well, all the classical intelligence functions... collection of positive intelligence, counterintelligence, paramilitary, this type of thing. Covert action.",
+        "significance": "Provides context of CIA intelligence operations during period relevant to Oswald investigation"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 57,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed description of CIA counterintelligence operations in Miami Cuban community",
+        "direct_quote": "Well, we had a number of joint operations, as I recall, with the Bureau. We had identified a Castro agent that came in by small boat",
+        "significance": "Reveals active CIA counterintelligence operations targeting Cuban agents in Miami, suggesting complex intelligence landscape during Cold War era"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mention of Castro agent infiltration and intelligence gathering",
+        "direct_quote": "We had identified a Castro agent that came in by small boat and when she hit the -- they had a reception center up in Opa Loca that was really a HEW operation",
+        "significance": "Indicates ongoing intelligence activities related to Cuban government agents and potential surveillance networks"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 56,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of FBI Cuban surveillance squad and investigative activities",
+        "direct_quote": "The Bureau's Cuban squad was fairly small. I mean, it was a large squad in terms of FBI squads. It had 36 people on it, some-thing like that, but 36 people trying to follow a couple of hundred thousand Cubans around, you know, it is pretty negative.",
+        "significance": "Reveals the limited resources and challenges of FBI surveillance of Cuban exile communities during the early 1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Mention of revolutionary fronts run by Cuban exiles reporting suspicious activities",
+        "direct_quote": "in those days when we had formed these revolutionary fronts, they were reporting to Case Officers and they would report on things in the community, of people they thought were suspect",
+        "significance": "Indicates active intelligence gathering and informant networks among Cuban exile groups"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 59,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Reference to FBI overseas operations (Legal Attaches) in Havana Embassy",
+        "direct_quote": "the FBI overseas is known as Legal Attach\u00e9s, obviously working out of the Embassy",
+        "significance": "Provides context about FBI international operational structure, though not directly related to JFK assassination"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Mention of Cuban squad and relationships between Agency and Bureau",
+        "direct_quote": "a lot of the people on that Cuban squad were in the legal section of the Embassy in Havana",
+        "significance": "Suggests complex inter-agency dynamics regarding Cuba, but limited direct assassination relevance"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "3227551",
+    "page_number": 60,
+    "relevant_findings": [
+      {
+        "category": "CIA_FOREIGN_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of CIA's contingency plans for Cuban intelligence organization in exile",
+        "direct_quote": "We full intended -- this was part of the overall contingency plan that US Government had. Should Castro ever be overthrown, these people would be the nucleus to go into Cuba and form a new Ministry of the Interior.",
+        "significance": "Reveals CIA's strategic planning for potential regime change in Cuba, highlighting covert operational preparations"
+      },
+      {
+        "category": "INTELLIGENCE_INFRASTRUCTURE",
+        "confidence": 6,
+        "description": "Explanation of Ministry of Interior's role in foreign intelligence contexts",
+        "direct_quote": "Well, in most countries of the world, the Ministry of Interior, unlike ours, is the security force, internal and external",
+        "significance": "Provides insight into international intelligence organizational structures and how they differ from US models"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 61,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 8,
+        "description": "Document reveals details about CIA-subsidized Cuban exiles working through cover companies",
+        "direct_quote": "These people really were -- they were being subsidized by the Agency. They were employed by two-cover companies, the largest of which was called Latin American Social and Economic Research.",
+        "significance": "Demonstrates CIA's extensive use of proprietary companies to employ operatives, suggesting sophisticated covert operational infrastructure"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Lee Harvey Oswald in this document",
+        "direct_quote": null,
+        "significance": "While the document discusses CIA operations, it does not specifically link to Oswald"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 62,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 3,
+        "description": "Transcript appears to be an interview about Cuban refugee debriefings",
+        "direct_quote": "I am referring to debriefings of newly arrived exiles or perhaps exiles that had been in the country whom during their time here had acquired new information.",
+        "significance": "Discusses intelligence gathering methods for Cuban refugees, potentially related to CIA operations during Cold War era"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Mention of Agency-provided training and debriefing operations",
+        "direct_quote": "Sometimes if there was going to be a lengthy debriefing, we had a residence which we rented and the interior was changed into small rooms like this where you could bring people in, sit them down, under controlled conditions, and debrief them without any interference",
+        "significance": "Reveals covert CIA operational methods for conducting intelligence interviews"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:3227518",
+    "page_number": 63,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 5,
+        "description": "Discussion of Cuban refugee debriefing operations from 1962-1971",
+        "direct_quote": "we relied principally on the airlift for the people coming out and when the airlift was cut off, which Castro did -- cut off about, I guess about 1970 or '71, in that timeframe",
+        "significance": "Provides context for CIA intelligence gathering methods regarding Cuban refugees during Cold War period"
+      },
+      {
+        "category": "INTELLIGENCE_GATHERING",
+        "confidence": 6,
+        "description": "Organization staffed primarily by Cubans with minimal external oversight",
+        "direct_quote": "all these people were Cuban with the exception of we had what we call an On-Site Case Officer, who was a fulltime staff employee and he had a couple of assistants, including a secretary",
+        "significance": "Reveals internal structure of refugee processing and potential intelligence collection unit"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 64,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 65,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Discussion of CIA's role in resettling Cuban emigrants",
+        "direct_quote": "CIA doesn't resettle Cuban emigres. Health, Education and Welfare [does]. We may assist if we are asked but the idea of the whole airlift was having relatives here for somebody to claim you when you came in so you wouldn't become a ward of the State of the Government",
+        "significance": "Provides insight into CIA's limited involvement in Cuban refugee operations, suggesting potential context for understanding intelligence community activities during the Cold War era"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 66,
+    "relevant_findings": [
+      {
+        "category": "INTELLIGENCE_GATHERING",
+        "confidence": 7,
+        "description": "Discussion of intelligence collection activities by LASER (Latin American Social and Economic Research) group",
+        "direct_quote": "They compiled dossiers on the principals inside Cuba. They carded -- they kept card files on every refugee that came through the reception center.",
+        "significance": "Indicates systematic intelligence gathering on Cuban refugees, potentially related to Cold War era operations"
+      },
+      {
+        "category": "REFUGEE_OPERATIONS",
+        "confidence": 6,
+        "description": "Separated refugee groups for security reasons",
+        "direct_quote": "the only reason we separated the two groups was for security because we had one group housed over here and the smaller group was over here",
+        "significance": "Suggests careful management of refugee populations, potentially related to intelligence screening"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 67,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 4,
+        "description": "Discussion of Cuban refugee files and intelligence gathering",
+        "direct_quote": "We went down there several years ago just looking through the files to see what kind of shape they were in and they had such great information for intelligence value",
+        "significance": "Suggests systematic intelligence collection and management of Cuban refugee information"
+      },
+      {
+        "category": "HUMAN_RESOURCES_INTELLIGENCE",
+        "confidence": 5,
+        "description": "Reference to 'penetrations of the Cuban community'",
+        "direct_quote": "Well, yes, there were penetrations of the Cuban community, yes.",
+        "significance": "Indicates covert intelligence operations within Cuban refugee networks"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 68,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955 DocId:3227518",
+    "page_number": 69,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTELLIGENCE_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of intelligence recruitment targeting Cuban maritime personnel",
+        "direct_quote": "we had targets for recruitment. It could range from anything from a first mate, a captain or chief engineer of a Cuban maritime vessel to Fidel.",
+        "significance": "Reveals CIA's broad recruitment strategies targeting various levels of Cuban maritime personnel, potentially including intelligence gathering methods"
+      },
+      {
+        "category": "INTELLIGENCE_METHODOLOGY",
+        "confidence": 8,
+        "description": "Detailed approach to target intelligence gathering and psychological profiling",
+        "direct_quote": "we would ask that all the information on that individual be assembled so that we could do a complete target study -- habits, you know, everything right down the line. In case of some of the more important ones, of course, we had psychological studies prepared",
+        "significance": "Demonstrates sophisticated intelligence collection techniques involving comprehensive personal background investigations and psychological assessments"
+      },
+      {
+        "category": "CUBAN_INTELLIGENCE_SERVICE",
+        "confidence": 6,
+        "description": "Reference to Cuban intelligence service (AMOTS)",
+        "direct_quote": "Well, the AMOTS were going to be the intelligence service of Cuba?",
+        "significance": "Indicates discussion of Cuban intelligence capabilities and potential recruitment targets"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "Gerald Ford Library - NW 50955 DocId:32275518",
+    "page_number": 70,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Discusses handling of files on Cubans, suggesting surveillance and information gathering practices",
+        "direct_quote": "We would simply task them with through your sources what do you have on so and so. They would not be told the reason why we wanted the information on anybody.",
+        "significance": "Reveals covert intelligence gathering methods, potential monitoring of individuals without their knowledge"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Indicates existence of extensive file system with millions of cards and files",
+        "direct_quote": "Well, I guess with several million files or several million cards and tens of thousands of files it is difficult to make generalizations about the kind of information that is in those files.",
+        "significance": "Suggests large-scale surveillance infrastructure with potential for broad information collection"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, DocId:3227518",
+    "page_number": 71,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 4,
+        "description": "Discussion of Cuban traveler tracking system in Miami",
+        "direct_quote": "You know, we have a traveler program where when Cubans travel, whether they are on an island or perhaps other places, their names turn up on manifests and this type of thing.",
+        "significance": "Reveals internal government tracking mechanisms for Cuban travelers, potentially relevant to understanding surveillance capabilities"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:3227518",
+    "page_number": 72,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZATIONAL_STRUCTURE",
+        "confidence": 5,
+        "description": "Discussion of AMOTS (likely a specialized organizational unit) being phased out",
+        "direct_quote": "They were all given six months termination bonuses and told to go find a job.",
+        "significance": "Indicates potential restructuring of an intelligence or operational unit"
+      },
+      {
+        "category": "GEOGRAPHIC_OPERATIONS",
+        "confidence": 6,
+        "description": "Confirms records from Latin American Division were centralized, not kept in Miami",
+        "direct_quote": "This is a complete -- only the Latin American Division uses this particular system.",
+        "significance": "Highlights centralized record-keeping practices for sensitive operations"
+      },
+      {
+        "category": "LAW_ENFORCEMENT_CONNECTIONS",
+        "confidence": 7,
+        "description": "Explicitly states no law enforcement responsibilities for this unit",
+        "direct_quote": "Did the AMOTS have law enforcement responsibilities in the Miami community? A: No. No.",
+        "significance": "Clarifies the organizational scope and limitations of this particular group"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 73,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Discussion of Cuban community intelligence activities in Miami",
+        "direct_quote": "One of the big problems we had was within that Cuban community, as I said earlier, were some of the militant anti-Castro groups and this just drove the FBI and the Coast Guard and Customs and in general the law enforcement US. Government",
+        "significance": "Reveals tensions between anti-Castro Cuban groups and US law enforcement, potentially related to intelligence gathering and covert operations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "AMOTS (likely intelligence operatives) sent to foreign countries",
+        "direct_quote": "When they were trained in trade craft we would send them to other countries, in Europe and within the Hemisphere to train some of the local services in those countries. They served as safe housekeepers in other countries. They served in listening posts where we had audio",
+        "significance": "Indicates CIA training and deployment of intelligence operatives to foreign listening posts and for training local services"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HW 50955",
+    "page_number": 74,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "Discussion of Cuban exile groups and militant activities in Miami",
+        "direct_quote": "A number of times raids were aborted, picked up by the Coast Guard or Florida Coastal Patrol or the Bureau",
+        "significance": "Suggests connections between exile groups, potential criminal networks, and law enforcement in Miami during mid-1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Reference to Cuban exile figures and anti-Castro activities",
+        "direct_quote": "they were still after this Masferrer and this guy Donestevez... he was a Cuban exile that made it big here",
+        "significance": "Indicates ongoing tensions and potential covert activities related to Cuban exiles"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:3227518",
+    "page_number": 75,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of counterintelligence operations targeting Cuban infiltration",
+        "direct_quote": "Well, of course, there was a counterintelligence -- I wouldn't call it a project but a counterintelligence interest at that time because we knew that they were infiltrating agents.",
+        "significance": "Reveals intelligence agency efforts to monitor Cuban government infiltration attempts, potentially related to broader Cold War context of Oswald's activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Details of Cuban government infiltration methods",
+        "direct_quote": "The Cuban Government. They couldn't do it very well on the airlift because, as I said before, the aged, infirm, and young, but they did infiltrate them by small boat.",
+        "significance": "Provides insight into Cuban intelligence tactics during the period surrounding the Kennedy assassination"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HW 50955 DocId:3227518",
+    "page_number": 76,
+    "relevant_findings": [
+      {
+        "category": "ELECTRONIC_SURVEILLANCE",
+        "confidence": 7,
+        "description": "Electronic intercept operations in Florida, specifically Homestead, focused on Cuban communications",
+        "direct_quote": "Well, originally they were set up to assist with the commo. for the infiltration. As we phased down the maritime activities, they were made available to intercept Cuban communications.",
+        "significance": "Indicates sophisticated signals intelligence operations targeting Cuban communications networks, including border guards, sugar network, transportation, and maritime channels"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Detailed electronic surveillance of Cuban communication networks",
+        "direct_quote": "NSA tasks them with the frequencies they wanted covered and the Cuban Communications nets they wanted covered, such as the border guards.",
+        "significance": "Reveals extensive NSA monitoring of Cuban government communications across multiple sectors"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 77,
+    "relevant_findings": [],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "178-10002-10215",
+    "page_number": 78,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 79,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 80,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of allegations about CIA involvement of prominent newsmen in Miami",
+        "direct_quote": "There have been some allegations in the press that prominent newsmen in the Miami area have in the past been agents of the CIA.",
+        "significance": "Suggests potential CIA media infiltration in Miami, which could relate to information control around the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Reference to Cuban activities and Agency investigations",
+        "direct_quote": "some of your involvement in Cuban activities in the Agency in the Miami area touch peripherally on some of the things had been charged with investigating",
+        "significance": "Indicates complex CIA operations in Miami related to Cuban activities, potentially relevant to broader assassination context"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 81,
+    "relevant_findings": [
+      {
+        "category": "CIA_INTERNAL_OPERATIONS",
+        "confidence": 7,
+        "description": "Discusses CIA Special Activities Staff operations related to Cuban intelligence collection from 1963-1965",
+        "direct_quote": "I was a member of the Special Activities Staff which was in effect the Cuban task force at Headquarters and the Miami Station functioned under the Special Activities Staff in a variety of intelligence collection and operations.",
+        "significance": "Provides insight into CIA's internal organizational structure and operational focus on Cuban activities during a critical period"
+      },
+      {
+        "category": "CIA_LEADERSHIP",
+        "confidence": 8,
+        "description": "Details leadership of Special Activities Staff during 1963-1965",
+        "direct_quote": "Desmond Fitzgerald [was head of Special Activities Staff]. Dick Helms was the DEP [Deputy Director for Plans]",
+        "significance": "Identifies key CIA leadership during a period of significant covert operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HW 50955",
+    "page_number": 82,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of Howard Hunt's involvement in Cuban operations from 1959-1961",
+        "direct_quote": "Howard Hunt was on the Covert Action Staff dealing in propaganda",
+        "significance": "Reveals CIA involvement in propaganda operations targeting Cuban exiles during pre-Bay of Pigs period"
+      },
+      {
+        "category": "CUBA_OPERATIONS",
+        "confidence": 6,
+        "description": "Hunt's propaganda work focused on Cubans abroad, not within Cuba",
+        "direct_quote": "No. Cuban people abroad.",
+        "significance": "Indicates targeted propaganda efforts among Cuban exile communities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 83,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mentions of Oswald on this page",
+        "direct_quote": "",
+        "significance": "Page appears to be about Cuban operations and Agency contacts, not specifically about Oswald"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 84,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 85,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 8,
+        "description": "Discussion of CIA sponsorship of Cuban revolutionary fronts in southern United States in 1963",
+        "direct_quote": "The Agency subsidized these fronts in an effort to have unity rather than these split factions, split anti-Castro factions.",
+        "significance": "Reveals CIA's active involvement in organizing Cuban exile groups, suggesting complex covert operations during the Cold War period"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "Indirect context of Cuban exile groups in 1963",
+        "direct_quote": "were there a great many Cubans in the southern United States who were active in revolutionary fronts that were being sponsored by the Agency?",
+        "significance": "Provides background on CIA-sponsored Cuban groups active during the same period Oswald was known to be involved with Cuban-related activities"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:3227518",
+    "page_number": 86,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of CIA funding and sponsoring Cuban organizations in Miami and potentially New Orleans",
+        "direct_quote": "But the same is -- it is possible that some of the same Cuban organizations which were being sponsored or funded by the Agency also had activities or operations in New Orleans?",
+        "significance": "Suggests CIA involvement in covert Cuban organizational funding across multiple cities, potentially related to intelligence operations"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Confirmation of Cuban presence in different US cities",
+        "direct_quote": "There was some Cuban presence in New Orleans. I am really not familiar with what happened in New Orleans that was sort of a sideshow to Miami.",
+        "significance": "Indicates organized Cuban activities in multiple US locations during this period"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "HW 50955 Docld:3227518",
+    "page_number": 87,
+    "relevant_findings": [
+      {
+        "category": "ORGANIZED_CRIME_CONNECTIONS",
+        "confidence": 3,
+        "description": "Discussion of funding mechanisms involving prominent people and potential intermediaries",
+        "direct_quote": "These well-to-do people ostensbily would call a friend of theirs that had been made trustee of another type of activity and say, you know, we are trying to assist these Cubans in this type of thing.",
+        "significance": "Suggests potential informal funding networks involving prominent individuals and Cuban-related activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Reference to potential Agency (likely CIA) funding of Cuban-related operations",
+        "direct_quote": "And did they get funded by the Agency, then, through the medium of prominent and well-to-do people?",
+        "significance": "Indicates potential covert funding mechanisms through social networks"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "Mentions Jim Garrison's investigations and potential connections",
+        "direct_quote": "Were any of the people in New Orleans through whom that funding operation was effected people who turned out to be involved in the investigations conducted by Jim Garrison?",
+        "significance": "Suggests potential investigative interest in New Orleans connections"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 Docld:3227518",
+    "page_number": 88,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 4,
+        "description": "Transcript of internal discussion about a person named Bill Kent working in the DDO (Directorate of Operations)",
+        "direct_quote": "He is still with the DDO. He is on one of the staffs. He is on the -- I think Career Management Group Staff.",
+        "significance": "Provides insight into CIA personnel and organizational structure during the relevant time period"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 89,
+    "relevant_findings": [
+      {
+        "category": "CUBAN_EXILE_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of Cuban exiles' perceptions of CIA involvement in anti-Castro activities",
+        "direct_quote": "large numbers of Cuban exiles, Cuban people in the southern United States, talked about and believed that they were involved in the CIA sponsored activities",
+        "significance": "Reveals sentiment among Cuban exile community about CIA operations against Castro regime"
+      },
+      {
+        "category": "CUBAN_MOVEMENTS",
+        "confidence": 6,
+        "description": "Interviewee unfamiliar with specific Cuban movement activities in New Orleans",
+        "direct_quote": "No. No. Totally unfamiliar with anything that took place in New Orleans.",
+        "significance": "Suggests potential gaps in knowledge about Cuban exile networks in specific locations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 90,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Discussion of Cuban exiles' sentiments towards Fidel Castro",
+        "direct_quote": "What were they going to do with Fidel? How are they going to get rid of him and this type of thing.",
+        "significance": "Indicates strong anti-Castro sentiment among Cuban exile community, potentially relevant to assassination motivations"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Mention of CIA headquarters and organizational structure",
+        "direct_quote": "I think he was assigned to the European Division of the DDP.",
+        "significance": "References internal CIA organizational details, potentially related to Howard Hunt's role in 1963"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, Docld:3227518",
+    "page_number": 91,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 4,
+        "description": "Transcript of an interview discussing Howard Hunt's association with Domestic Operations Division",
+        "direct_quote": "I met him. That is all. I can't say I know him.",
+        "significance": "Vague testimony about an individual's connection to intelligence operations, but lacks specific details about the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 92,
+    "relevant_findings": [
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 3,
+        "description": "Appears to be an internal inquiry about an individual named Howard Hunt's leave status",
+        "direct_quote": "Howard Hunt was on sick leave on that day.",
+        "significance": "Minor administrative document with limited apparent relevance to JFK assassination investigation"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 93,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 4,
+        "description": "Transcript of testimony appears to be from an investigation in 1963",
+        "direct_quote": "That was 22 November, right? 1963.",
+        "significance": "Confirms date of investigation related to the assassination"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 3,
+        "description": "Witness seems uncertain about details of the investigation",
+        "direct_quote": "I don't recall exactly who asked for it. I don't know whether -- I will just have to check that. I don't know who it was.",
+        "significance": "Suggests potential lack of clarity or transparency in the investigation process"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Gerald Ford Library Photocopy",
+    "page_number": 94,
+    "relevant_findings": [
+      {
+        "category": "WITNESS_TESTIMONIES",
+        "confidence": 3,
+        "description": "Transcript appears to be an interview discussing a previous inquiry about photographs related to 'bums in Dallas'",
+        "direct_quote": "About the bums in Dallas?",
+        "significance": "Vague reference might relate to potential witnesses or individuals of interest in Dallas around the time of the assassination"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Mention of Archie Roosevelt, former Chief of European Division, making an inquiry",
+        "direct_quote": "The previous inquiry came from Archie Roosevelt who is now retired and was at that particular time the Chief of European Division.",
+        "significance": "Suggests potential intelligence community involvement or interest in investigating background details"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 95,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 96,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Discussion of Agency relationships with newspaper officials in Miami",
+        "direct_quote": "Traditionally the Chief of Station maintained the relationship with officials of the Miami Herald, particularly the Latin American editor, as well as relationships with staff members of the Miami News and stringers",
+        "significance": "Reveals potential media manipulation and intelligence agency interactions with local press, suggesting possible information control mechanisms"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 95,
+    "relevant_findings": [
+      {
+        "category": "MEDIA_RELATIONS",
+        "confidence": 7,
+        "description": "Discussion of media interactions with intelligence services, focused on Latin American press connections",
+        "direct_quote": "we would put him in contact with the Chiefs of Stations of areas he periodically visited and the Chiefs of Stations would give him background briefings and this type of thing on the developments within a given country.",
+        "significance": "Reveals informal intelligence briefing process for journalists, particularly those covering Latin America"
+      },
+      {
+        "category": "MEDIA_INTELLIGENCE_COOPERATION",
+        "confidence": 6,
+        "description": "Preferential treatment for Miami Herald in intelligence briefings",
+        "direct_quote": "probably the Miami Herald received probably a little more attention than the other papers, principally because it was a large paper and their Latin American editor traveled a great deal throughout the Hemisphere.",
+        "significance": "Suggests selective intelligence sharing with specific media outlets based on their regional coverage"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 98,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "Discussion of Cuban exile political organizations and fronts",
+        "direct_quote": "Well, it was to bring some unity out of this chaotic thing of the splinter groups and get -- as I said, it was a political organization in exile.",
+        "significance": "Provides background context on Cuban exile political groups, but no direct Oswald connection on this page"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 99,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 6,
+        "description": "Discussion of CIA station in Puerto Rico and Miami",
+        "direct_quote": "No. There was but there isn't any more. There hasn't been one there for years.",
+        "significance": "Provides insight into CIA's operational presence in Caribbean region during late 1950s"
+      },
+      {
+        "category": "CIA_PERSONNEL",
+        "confidence": 7,
+        "description": "Reference to contract employee Bernard Barker working with CIA fronts",
+        "direct_quote": "He worked with these fronts, too. Intelligence functions. Well -- Sure. If he got information that he thought was worthwhile he would pass it on.",
+        "significance": "Suggests involvement of contract employees in intelligence gathering for CIA, potentially in Cuban community"
+      },
+      {
+        "category": "INTELLIGENCE_OPERATIONS",
+        "confidence": 5,
+        "description": "Discussion of intelligence information collection methods",
+        "direct_quote": "Was he collecting information? Sure. If he got information that he thought was worthwhile he would pass it on.",
+        "significance": "Reveals informal intelligence gathering approach by contract employees"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 100,
+    "relevant_findings": [
+      {
+        "category": "CIA_OPERATIONS",
+        "confidence": 7,
+        "description": "Discussion of CIA intelligence gathering in Cuban community in Miami",
+        "direct_quote": "Some of these contract employees were, then, in the business of collecting intelligence information in the Cuban communities in Miami.",
+        "significance": "Reveals CIA covert operations targeting Cuban communities, potentially related to anti-Castro activities"
+      },
+      {
+        "category": "INTELLIGENCE_INFRASTRUCTURE",
+        "confidence": 8,
+        "description": "CIA maintained a physical headquarters facility in Miami",
+        "direct_quote": "And they actually had a physical facility in Miami which was their headquarters, did they not?",
+        "significance": "Confirms CIA's established operational base for monitoring Cuban communities"
+      },
+      {
+        "category": "INTELLIGENCE_PERSONNEL",
+        "confidence": 6,
+        "description": "CIA Case Officer managing intelligence facility",
+        "direct_quote": "And there was a CIA Case Officer who managed to supervise that facility.",
+        "significance": "Indicates direct CIA management of intelligence gathering operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified in document",
+    "page_number": 99,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of NSA/intelligence project with codenames AMDUKE and AMOT",
+        "direct_quote": "The AMDUKES are AMOTS but they are radio people. [...] The only reason we use two different names is that in each of these things in those days we had to have a project which had to be renewed every year to get the funding.",
+        "significance": "Reveals intelligence agency practice of using cryptonyms for projects to secure annual funding, suggesting complex bureaucratic processes in intelligence operations"
+      },
+      {
+        "category": "SECRET_SERVICE_OPERATIONS",
+        "confidence": 6,
+        "description": "Agency assistance to Secret Service for name tracing during political conventions",
+        "direct_quote": "At the request of the Secret Service we conducted name traces on individuals whom the Secret Service wanted traced. These included the employees of all hotels in Miami",
+        "significance": "Demonstrates extensive surveillance and tracking capabilities of intelligence agencies during political events in 1968 and 1972"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified in image",
+    "page_number": 100,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Discussion of foreign nationals and name tracing at convention activities",
+        "direct_quote": "Foreign news people and media, television, radio people.",
+        "significance": "Indicates heightened surveillance of foreign nationals at event"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Secret Service name tracing and nationality verification process",
+        "direct_quote": "We levied on the Secret Service as a requirement that they have identified these people by nationality before we would run a name trace.",
+        "significance": "Reveals inter-agency coordination and screening procedures for foreign individuals"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 101,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of Secret Service and FBI cooperation on security threat checks",
+        "direct_quote": "Was Secret Service receiving cooperation from FBI on this as well?",
+        "significance": "Indicates inter-agency collaboration on security screening, potentially relevant to pre-assassination intelligence gathering"
+      },
+      {
+        "category": "GOVT_INTERNAL_COMMUNICATIONS",
+        "confidence": 5,
+        "description": "Agencies conducting all-agency name checks on potential security threats",
+        "direct_quote": "And in effect, they were getting an all-Agency name check -- on people who might pose a security threat",
+        "significance": "Suggests systematic screening of individuals for potential security risks"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 104,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mentions of Oswald on this page",
+        "direct_quote": "",
+        "significance": "Page appears to be from a different investigation, possibly related to Cuban activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 4,
+        "description": "Mentions Watergate and record-keeping instructions",
+        "direct_quote": "Well, because we were told to maintain them when the Watergate thing broke.",
+        "significance": "Suggests institutional practices of record preservation during sensitive periods"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Discussion of Cuban picketing activities",
+        "direct_quote": "Are you aware of any picketing at various places in the country that has been conducted by Cuban groups?",
+        "significance": "Indicates ongoing monitoring of Cuban activities in the United States during this period"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 105,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct mention of Oswald in this document",
+        "direct_quote": "",
+        "significance": "Page appears to be part of an unrelated interview about AMOT (possibly AMOT intelligence organization) activities"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "178-10002-10215",
+    "page_number": 106,
+    "relevant_findings": [],
+    "overall_page_relevance": 1,
+    "error": "Failed to parse JSON response"
+  },
+  {
+    "document_id": "HW 50955, DocId:32275518",
+    "page_number": 107,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "Unknown",
+    "page_number": 106,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 6,
+        "description": "Discussion of CIA involvement with Cuban exiles",
+        "direct_quote": "There have been some allegations in the press and elsewhere about possible misuse of Cuban exiles, members of that community, by the CIA.",
+        "significance": "Suggests potential CIA manipulation of Cuban exile groups, which could be relevant to broader assassination investigations"
+      },
+      {
+        "category": "MIAMI_STATION",
+        "confidence": 7,
+        "description": "Reference to a CIA station in Miami",
+        "direct_quote": "Legality of maintaining stations like the Miami Station within this country?",
+        "significance": "Indicates existence of a CIA station in Miami, potentially involved in operations related to Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "50955",
+    "page_number": 107,
+    "relevant_findings": [
+      {
+        "category": "CIA_CUBAN_OPERATIONS",
+        "confidence": 6,
+        "description": "Discussion of CIA's use of Cuban community as a resource for operations",
+        "direct_quote": "the Cuban community is sort of a resource that is occasionally tapped by the CIA for various operations in this country",
+        "significance": "Reveals potential CIA strategic relationships with Cuban exiles, suggesting complex intelligence networks"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Mention of Cuban-related activities and groups",
+        "direct_quote": "In the course of our discussions today we discussed the AMIOTS, the ANDUKES, various political front groups, revolutionary front groups.",
+        "significance": "Indicates ongoing intelligence discussions about Cuban exile and revolutionary groups"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "Not specified on page",
+    "page_number": 108,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 4,
+        "description": "Discussion of Cuban-related organizations and activities",
+        "direct_quote": "There are references to indigenous organizations, emigre organizations.",
+        "significance": "Suggests potential involvement of Cuban exile groups in intelligence activities"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Reference to subsidizing propaganda activities",
+        "direct_quote": "we did, you know, subsidize the hell-out of Juanita Castro",
+        "significance": "Indicates CIA involvement in propaganda operations related to Cuba"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 109,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document reveals CIA Miami Station's intelligence focus on Cuban operations",
+        "direct_quote": "The Miami Station now is completely and solely involved in the intelligence in the Caribbean.",
+        "significance": "Demonstrates CIA's active intelligence operations targeting Cuba during the Cold War period"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "CIA uses Cuban-American agents to contact relatives of Cubans for intelligence recruitment",
+        "direct_quote": "We do have a career agent who has been with us for a good many years in Miami and we do use him to contact relatives of Cubans who are still in Cuba.",
+        "significance": "Reveals intelligence gathering strategies targeting Cuban-American communities as potential recruitment sources"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955 DocId:32275518",
+    "page_number": 112,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Discussion of dismantling CIA operations in Miami-Cuban community",
+        "direct_quote": "That entire apparatus has been -- dismantled.",
+        "significance": "Indicates a significant restructuring of CIA operations related to Cuban activities"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Oswald, but references Cuban operations",
+        "direct_quote": "Are there any more people like Bernard Barker who are contract employees of the Agency who still work in the Miami-Cuban community?",
+        "significance": "Suggests ongoing investigation into CIA contractors with Cuban connections"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "NW 50955, Docld:32275518",
+    "page_number": 111,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 5,
+        "description": "Discussion of CIA station in Miami with reduced personnel",
+        "direct_quote": "The Miami Station is under official cover. [...] Between 11 and 14. [...] And it has absolutely no responsibilities with respect to Cuba. Absolutely none.",
+        "significance": "Indicates a potential CIA presence in Miami with specific operational constraints, though no direct link to JFK assassination is evident"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Reference to Caribbean and Latin American operations",
+        "direct_quote": "Responsibilities are entirely directed to Caribbean countries",
+        "significance": "Suggests CIA focus on regional operations, potentially related to Cold War intelligence gathering"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "NW 50955, DocId:32275518",
+    "page_number": 114,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

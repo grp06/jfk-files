@@ -1,0 +1,49 @@
+[
+  {
+    "document_id": "104-10069-10132",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ROUTING_DOCUMENT",
+        "confidence": 7,
+        "description": "Secret-level routing and record sheet related to CIA/intelligence communications",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Indicates ongoing document classification and potential sensitive information related to JFK assassination"
+      },
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 6,
+        "description": "Document dated October 27, 1969, suggesting post-assassination investigation or record-keeping",
+        "direct_quote": "OCT 27 1969",
+        "significance": "Shows continued administrative processing of assassination-related documents years after the event"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mention of Lee Harvey Oswald in this document",
+        "direct_quote": "",
+        "significance": "This appears to be an unrelated military/intelligence document from Vietnam era"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "14-00000",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

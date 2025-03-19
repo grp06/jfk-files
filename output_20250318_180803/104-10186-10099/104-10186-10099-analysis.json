@@ -1,0 +1,130 @@
+[
+  {
+    "document_id": "104-10186-10099",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "CIA document detailing policy guidance directives for Cuban Intelligence Representatives in the Dominican Republic",
+        "direct_quote": "Policy Guidance Directives for Cuban Intelligence Representatives in the Dominican Republic",
+        "significance": "Reveals CIA intelligence operations targeting Cuban agents in the Dominican Republic during 1963, providing context for covert Cold War activities"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document prepared during the regime of Juan Bosch Gavino, indicating complex political landscape",
+        "direct_quote": "It may be noted that this directive was prepared during the r\u00e9gime of Juan Bosch Gavino",
+        "significance": "Highlights political tensions and intelligence monitoring in the Caribbean region during the early 1960s"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "CS-311 '00466-65",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CS-311/00466-65",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 7,
+        "description": "Detailed intelligence guidelines focused on Cuba and Dominican Republic",
+        "direct_quote": "Political and military agreements adopted by regional organs against Cuba in which the Bosch government participates",
+        "significance": "Provides context for geopolitical tensions and potential covert operations during the early 1960s"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 6,
+        "description": "Intelligence gathering priorities on leftist forces and potential interventions",
+        "direct_quote": "Status of Leftist Forces: organization, leaders, strength, position, and argumentation in the revolutionary struggle",
+        "significance": "Reveals intelligence community's focus on monitoring and potentially disrupting left-wing movements"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "CS-311/00466-65",
+    "page_number": 3,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CS-311/00466-65",
+    "page_number": 4,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CS-311/00466-63",
+    "page_number": 5,
+    "relevant_findings": [
+      {
+        "category": "COUNTERREVOLUTIONARY_ORGANIZATIONS",
+        "confidence": 7,
+        "description": "Document details counterrevolutionary organizations in Dominican Republic and their connections",
+        "direct_quote": "Cuban counterrevolutionary organizations which are functioning in Santo Domingo: their leaders, government personnel, especially with people in the new regime who are responsible for establishing such contact.",
+        "significance": "Provides insights into CIA-backed anti-Communist operations in the Caribbean during the 1960s"
+      },
+      {
+        "category": "INTELLIGENCE_OPERATIONS",
+        "confidence": 6,
+        "description": "Intelligence organizations and their activities in Santo Domingo",
+        "direct_quote": "Intelligence organizations functioning in Santo Domingo. Leaders, Elements abroad. Their duties and functions. Activities carried on. Plans and objectives of Dominican Intelligence, principally against Cuba, Trujillista elements still functioning inside this body; duties and functions.",
+        "significance": "Reveals complex intelligence network and operations targeting Communist and left-wing groups"
+      },
+      {
+        "category": "REPRESSIVE_BODIES",
+        "confidence": 5,
+        "description": "Details of repressive government bodies in Santo Domingo",
+        "direct_quote": "Repressive bodies which function in Santo Domingo. Their functions. Activities carried on by them. Their leaders and principal offices. Working methods. Plans and objectives.",
+        "significance": "Highlights systematic suppression of opposition groups by Dominican government"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "CS-311/00466-65",
+    "page_number": 6,
+    "relevant_findings": [
+      {
+        "category": "CIA_ACTIVITIES",
+        "confidence": 7,
+        "description": "Detailed section on CIA operations and personnel in foreign countries",
+        "direct_quote": "Leading functionalities of the CIA in the country: its office. Plans and objectives, it pursues in Santo Domingo.",
+        "significance": "Reveals CIA operational planning and presence in Latin American countries"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Sections on Cuban-Soviet relations and political movements",
+        "direct_quote": "In regard to Cuban-Soviet relations, in questions which affect Cuba and world peace.",
+        "significance": "Indicates detailed monitoring of geopolitical tensions during Cold War era"
+      },
+      {
+        "category": "POLITICAL_INTELLIGENCE",
+        "confidence": 8,
+        "description": "Comprehensive intelligence gathering on political parties and groups",
+        "direct_quote": "Status of the Parties or Political Groups: composition, strength, penetration, factions, leaders, programs, etc.",
+        "significance": "Demonstrates extensive CIA intelligence collection on political landscapes"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "CS-311/00466-65",
+    "page_number": 7,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "CS-311/00466-65",
+    "page_number": 8,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "document_id": "104-10185-10244",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret memorandum about establishing a covert site in Silver Spring, Maryland",
+        "direct_quote": "COVERT SITE G 32 24, Semi-Hills Apartments, 8500 16th Street, Silver Spring, Maryland",
+        "significance": "Indicates potential surveillance or operational location, suggesting ongoing intelligence activities"
+      },
+      {
+        "category": "INTERNAL_GOVT_COMMUNICATIONS",
+        "confidence": 6,
+        "description": "Classified inter-agency communication about procurement of safehouse",
+        "direct_quote": "Reference is made to your memorandum dated 19 May 1964 to the Chief, Safehouse Procurement Branch, Office of Logistics",
+        "significance": "Reveals bureaucratic processes for establishing covert locations, typical of intelligence agency operations"
+      }
+    ],
+    "overall_page_relevance": 5
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "NS 353",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_TYPE",
+        "confidence": 10,
+        "description": "Secret classified document with synopsis from June 1964",
+        "direct_quote": "SECRET",
+        "significance": "Indicates an official classified government document from shortly after the JFK assassination"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "NSC 598",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "SITE_DESCRIPTION",
+        "confidence": 8,
+        "description": "Detailed location description of a building, appears to be an administrative or government site",
+        "direct_quote": "The SUBJECT SITE building is located on a modern middle-class apartment development in east Washington, D.C.",
+        "significance": "Provides context for a specific site location, potentially related to government facilities"
+      },
+      {
+        "category": "LOCATION_DETAILS",
+        "confidence": 7,
+        "description": "Precise geographical and infrastructural details about the site",
+        "direct_quote": "Located along a main thoroughfare, near Montgomery County, with transit bus service available",
+        "significance": "Offers insights into site accessibility and urban context"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "JFK-104-10185-10244",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "SUBJECT_SITE_DETAILS",
+        "confidence": 7,
+        "description": "Secret document describing a subject site building location details",
+        "direct_quote": "SUBJECT SITE is located on the ground level of the SUBJECT SITE building. Two elevators are located at the rear, or 'lobby' and a stairway to all floors of SUBJECT SITE building is located at the extreme east end of the east wing.",
+        "significance": "Appears to be a detailed site description, potentially related to surveillance or intelligence gathering location"
+      },
+      {
+        "category": "COMMUNICATION_SYSTEMS",
+        "confidence": 5,
+        "description": "Telephone communication details",
+        "direct_quote": "Telephone service is provided by Chesapeake and Potomac Telephone Company in an individual subscriber carrier basis.",
+        "significance": "Provides context about communication infrastructure at the site"
+      },
+      {
+        "category": "SECURITY_CONSIDERATIONS",
+        "confidence": 6,
+        "description": "Potential security hazards identified",
+        "direct_quote": "SUBJECT SITE building is located on the ground floor... SUBJECT SITE: warns are ground level. Visual and technical penetration may be possible from the land area surrounding SUBJECT SITE building and parking lot",
+        "significance": "Highlights potential vulnerabilities of the site location"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "383-598",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Document appears to be biographical information about a person named Esther Jolles, including immigration and naturalization details",
+        "direct_quote": "Immigration and Naturalization records reflected that Esther Jolles received a certificate of citizenship through derivative means on 8 March 1919",
+        "significance": "While not directly related to JFK assassination, provides insight into immigration documentation and tracking in mid-20th century"
+      }
+    ],
+    "overall_page_relevance": 2
+  }
+]

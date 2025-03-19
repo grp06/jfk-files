@@ -1,0 +1,23 @@
+JFK ANALYSIS SUMMARY: 104-10172-10255
+================================================================================
+
+Document contains 1 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+
+FINDINGS BY CATEGORY:
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Reference to communication with Stockholm station suggests international intelligence coordination
+  QUOTE: "UNITEL, SEKTOR TSBLOCK V, REF: [STOCKHOLM] 3957b [IN 062621]"
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  Secret outgoing message from CIA to Stockholm station
+  QUOTE: "WE HAVE BEGUN CHECKING WITH NOSENKO (PD)IPPERS 19 AND 20, AND (PD)ABLE RE WALLENBERG AND WILL CABLE OR TELEPOUCH RESULTS AS RECEIVED. WE EXPECT TO BE FINISHED BY MID-NOVEMBER-V"
+

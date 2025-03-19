@@ -1,0 +1,35 @@
+JFK ANALYSIS SUMMARY: 104-10192-10266
+================================================================================
+
+Document contains 2 pages with relevant information.
+
+TOP RELEVANT PAGES:
+- Page 1: Relevance 5/10
+- Page 2: Relevance 4/10
+
+FINDINGS BY CATEGORY:
+
+CIA FBI ACTIVITIES:
+----------------------------------------
+Page 1 (Confidence: 7/10)
+  CIA classified document discussing Cuban exile leadership changes
+  QUOTE: "VIRO HAS BEEN NOTIFIED OF CHANGE ONLY THIS WEEK AND THAT VIRO'S DISAPPOINTMENT AS 'CHIEF IN EXILE' CAME FROM 'UNDER-GROUND'"
+
+
+FOREIGN GOVERNMENT REACTIONS:
+----------------------------------------
+Page 1 (Confidence: 6/10)
+  Document discusses Latin American political changes and US-sponsored activities
+  QUOTE: "RESLE IS RUNNING NEW UNITED STATES SPONSORED CUBAN ESCORT"
+
+Page 2 (Confidence: 5/10)
+  Potential reference to Cuba-related diplomatic tensions
+  QUOTE: "ATTEMPTS FORCE CHANGES IN UNITES STATES POSTURE RE CUBA"
+
+
+INTERNAL GOVT COMMUNICATIONS:
+----------------------------------------
+Page 2 (Confidence: 7/10)
+  Secret classified message discussing media narrative around a potential incident
+  QUOTE: "BUCHANAN JOURNALISTIC REPUTATION INDICATES HE INACCURATE AND SENSATIONALIST"
+

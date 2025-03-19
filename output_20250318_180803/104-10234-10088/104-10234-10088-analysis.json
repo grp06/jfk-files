@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10234-10088",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document references a jeweler who contracted at Miami Hotel in early fall of 1964",
+        "direct_quote": "Portela states Jeweler who Contracted am Miami Hotel Early Fall 64 Behalf AMLASH-1 and AMCHIN-1",
+        "significance": "Suggests potential covert travel or meeting related to intelligence operations, with coded references to possible operatives"
+      },
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret/classified communication between intelligence units",
+        "direct_quote": "MESSAGE FORM - SECRET",
+        "significance": "Indicates high-level classified communication about sensitive operational details"
+      }
+    ],
+    "overall_page_relevance": 5
+  }
+]

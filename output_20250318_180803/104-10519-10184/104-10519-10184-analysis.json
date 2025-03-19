@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "104-10519-10184",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "TRAVEL_FINANCIAL_RECORDS",
+        "confidence": 6,
+        "description": "Document tracks travel details of Jack Rubenstein (Jack Ruby)",
+        "direct_quote": "He arrived on May 17 and departed on June 7, accompanied by his wife Mimi",
+        "significance": "Provides documented movement of Jack Ruby, potentially useful for establishing his whereabouts and activities"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 4,
+        "description": "Brief biographical information about Jack Rubenstein",
+        "direct_quote": "The only Jack RUBENSTEIN known to have arrived in ISRAEL during 1962 and stated that he is a native of POLAND, born 1905, and a resident of NEW YORK",
+        "significance": "Provides background context on Jack Ruby, though limited direct connection to Oswald is shown in this document"
+      }
+    ],
+    "overall_page_relevance": 3
+  }
+]

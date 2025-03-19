@@ -1,0 +1,51 @@
+[
+  {
+    "document_id": "124-10326-10103",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "DOCUMENT_METADATA",
+        "confidence": 10,
+        "description": "FBI document from 1965 related to JFK Assassination Records",
+        "direct_quote": "2025 RELEASE UNDER THE PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS ACT OF 1992",
+        "significance": "Indicates ongoing classification and controlled release of assassination-related documents"
+      },
+      {
+        "category": "AGENCY_INFORMATION",
+        "confidence": 8,
+        "description": "FBI Headquarters document with secret classification",
+        "direct_quote": "AGENCY: FBI, RECORD SERIES: HQ, Classification: Secret",
+        "significance": "Shows high-level internal FBI documentation about the assassination"
+      },
+      {
+        "category": "COMMUNICATION_CHAIN",
+        "confidence": 7,
+        "description": "Communication from Brennan to Sullivan",
+        "direct_quote": "FROM: BRENNAN, TO: SULLIVAN",
+        "significance": "Indicates internal FBI communication about potentially sensitive information"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "NW 50953",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses Bureau Informant 100 and CIA liaison arrangements with Israeli Intelligence Service",
+        "direct_quote": "In 1954, a procedure was approved whereby we could attribute certain information received from James Angleton, CIA, under the symbol 'Bureau Informant 100.'",
+        "significance": "Reveals CIA intelligence sharing mechanisms and involvement of James Angleton, a key figure in JFK-era intelligence operations"
+      },
+      {
+        "category": "SURVEILLANCE_RECORDS",
+        "confidence": 5,
+        "description": "Memo notes information about travelers, including U.S. citizens' travel to Israel",
+        "direct_quote": "In recent months regarding the travel of U.S. citizens to Russia, via Israel",
+        "significance": "Indicates ongoing surveillance and tracking of citizen movements during Cold War period"
+      }
+    ],
+    "overall_page_relevance": 6
+  }
+]

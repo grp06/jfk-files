@@ -1,0 +1,101 @@
+[
+  {
+    "document_id": "104-10170-10015",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "ANSPELL_UNDERGROUND_ACTIVITIES",
+        "confidence": 7,
+        "description": "Document discusses underground activities and guerrilla warfare efforts in Cuba in November 1962",
+        "direct_quote": "ANSPELL Underground Activities - November 1962",
+        "significance": "Provides context for CIA operations and underground resistance in Cuba during the time period surrounding the Kennedy assassination"
+      },
+      {
+        "category": "CUBAN_RESISTANCE_FINANCING",
+        "confidence": 8,
+        "description": "Attachment B contains a detailed analysis of Cuban underground financing for October 1962",
+        "direct_quote": "Attachment B is a report of underground financing for October 1962 and is the first detailed analysis of Cuban finances ever received by JMWAVE",
+        "significance": "Reveals CIA tracking of financial operations related to Cuban resistance movements, potentially relevant to broader geopolitical tensions"
+      },
+      {
+        "category": "INTELLIGENCE_COORDINATION",
+        "confidence": 6,
+        "description": "Document shows inter-agency communication about covert activities",
+        "direct_quote": "Forwarded under separate cover as Attachment A is a copy of the original, and translation of a letter from the National Coordination Committee of ANSPELL in Cuba dated 28 November 1962",
+        "significance": "Demonstrates complex communication networks between intelligence groups during a sensitive period of Cold War tensions"
+      }
+    ],
+    "overall_page_relevance": 7
+  },
+  {
+    "document_id": "UFGA-6857",
+    "page_number": 2,
+    "relevant_findings": [
+      {
+        "category": "FINANCIAL_RECORDS",
+        "confidence": 5,
+        "description": "Reference to money exchange involving $5,000 and $40,000 in Cuban pesos",
+        "direct_quote": "it should also be pointed out that the dire need for money expressed in a letter by AMSPELL with $5,000 for exchange of $40,000 Cuban pesos and this was transmitted via local deposit and credit in Cuba",
+        "significance": "Suggests financial transactions or potential covert funding activity"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 6,
+        "description": "Document discusses Cuban guerrilla activities in Las Villas, Cuba",
+        "direct_quote": "The DRE flag has now been raised in the Free Territory in Cuba. A small guerrilla (group) well supplied, is now representing us in the North Zone of Las Villas.",
+        "significance": "Provides context about anti-Castro resistance movements active in Cuba around the time of the JFK assassination"
+      },
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 3,
+        "description": "No direct mentions of Oswald, but indicates ongoing covert organizational activities",
+        "direct_quote": "We have been working on the total reorganization and if we cannot claim complete success it is because of our limited resources",
+        "significance": "Suggests ongoing clandestine operations that might be related to anti-Castro efforts"
+      }
+    ],
+    "overall_page_relevance": 4
+  },
+  {
+    "document_id": "",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 1
+  },
+  {
+    "document_id": "104-10170-10015",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": null,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "",
+    "page_number": 1,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

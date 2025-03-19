@@ -1,0 +1,36 @@
+[
+  {
+    "document_id": "104-10110-10433",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "OSWALD_ASSOCIATIONS",
+        "confidence": 2,
+        "description": "No direct evidence of Oswald associations on this page",
+        "direct_quote": "",
+        "significance": "Routine administrative document about address establishment"
+      }
+    ],
+    "overall_page_relevance": 3
+  },
+  {
+    "document_id": "fa 067",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 3,
+        "description": "Document relates to communication attempts with a person named Danerkurt, potentially foreign-connected",
+        "direct_quote": "Mrs. DANERKURT, who was being held a prisoner by a foreign government",
+        "significance": "Suggests potential international involvement or surveillance, though context is unclear"
+      }
+    ],
+    "overall_page_relevance": 2
+  },
+  {
+    "document_id": "062-067",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]

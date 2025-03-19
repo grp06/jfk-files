@@ -1,0 +1,29 @@
+[
+  {
+    "document_id": "104-10175-10152",
+    "page_number": 1,
+    "relevant_findings": [
+      {
+        "category": "CIA_FBI_ACTIVITIES",
+        "confidence": 7,
+        "description": "Secret memorandum discussing CIA/intelligence activities related to Latin American organizations",
+        "direct_quote": "The activities of WG/1 touch upon four organizations listed below.",
+        "significance": "Demonstrates CIA covert operations and monitoring of political organizations in Latin America during the 1960s"
+      },
+      {
+        "category": "FOREIGN_GOVERNMENT_REACTIONS",
+        "confidence": 5,
+        "description": "Document references intelligence gathering and project activities",
+        "direct_quote": "Currently budgeted at $50,000 annually, supports in part this organization, which also receives funds (circa 1950,000 yearly)",
+        "significance": "Indicates ongoing US intelligence funding and operational activities in the region"
+      }
+    ],
+    "overall_page_relevance": 6
+  },
+  {
+    "document_id": "104-10175-10152",
+    "page_number": 2,
+    "relevant_findings": [],
+    "overall_page_relevance": 2
+  }
+]
